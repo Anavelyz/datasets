@@ -1,0 +1,551 @@
+﻿ID_Estudiante,Carrera,Sexo,Edad,Tipo_Actividad,Motivacion,Peso (kg),Altura (m),Frecuencia_Semanal,Horario_Preferido,Lesion_Frecuente,IMC
+8001,Contaduría,Femenino,24,Ninguna,Otro,45.1,1.68,1-2 días,Mañana,Ninguna,16.0
+8002,Administración,Masculino,17,Gimnasio,Salud,87.0,1.65,0 días,Tarde,Ninguna,32.0
+8003,Contaduría,Femenino,25,Gimnasio,Competencia,58.8,1.73,1-2 días,Mañana,Tendinitis,19.6
+8004,Administración,Femenino,20,Running,Salud,53.8,1.82,3+ días,Tarde,Fascitis plantar,16.2
+8005,Contaduría,Femenino,27,Deporte en equipo,Social,57.1,1.76,1-2 días,Mañana,Ninguna,18.4
+8006,Contaduría,Femenino,25,Deporte en equipo,Social,59.9,1.86,1-2 días,Mañana,Ninguna,17.3
+8007,Economía,Femenino,24,Ninguna,Competencia,66.4,1.78,0 días,Mañana,Ninguna,21.0
+8008,Contaduría,Masculino,19,Yoga,Social,48.1,1.85,1-2 días,Tarde,Sobrecarga muscular,14.1
+8009,Contaduría,Masculino,19,Yoga,Salud,47.4,1.81,0 días,Mañana,Sobrecarga muscular,14.5
+8010,Administración,Femenino,25,Running,Salud,58.2,1.59,1-2 días,Mañana,Fascitis plantar,23.0
+8011,Estadística,Femenino,19,Gym,Competencia,58.3,1.52,1-2 días,Mañana,Fascitis plantar,25.2
+8012,Economía,Masculino,20,Gym,Salud,50.3,1.91,3+ días,Mañana,Ninguna,13.8
+8013,Contaduría,Femenino,25,Gym,Social,63.2,1.93,0 días,Tarde,Ninguna,17.0
+8014,Administración,Masculino,28,Gym,Salud,57.8,1.83,1-2 días,Tarde,Ninguna,17.3
+8015,Contaduría,Femenino,20,Gym,Salud,46.2,1.83,0 días,Noche,Ninguna,13.8
+8016,Administración,Femenino,27,Gym,Salud,84.9,1.62,1-2 días,Mañana,Ninguna,32.4
+8017,Contaduría,Femenino,19,Deporte en equipo,Social,84.9,1.74,1-2 días,Mañana,Ninguna,28.0
+8018,Administración,Masculino,23,Deporte en equipo,Social,54.4,1.95,3+ días,Tarde,Ninguna,14.3
+8019,Contaduría,Femenino,22,Gimnasio,Salud,52.3,1.89,1-2 días,Tarde,Ninguna,14.6
+8020,Contaduría,Femenino,17,Deporte en equipo,Salud,69.6,1.64,1-2 días,Mañana,Ninguna,25.9
+8021,Administración,Femenino,26,Gimnasio,Competencia,73.4,1.64,1-2 días,Tarde,Dolor de cabeza,27.3
+8022,Contaduría,Masculino,24,Deporte en equipo,Competencia,88.1,1.72,0 días,Tarde,Dolor de cabeza,29.8
+8023,Economía,Masculino,17,Running,Salud,62.0,1.68,1-2 días,Mañana,Dolor de cabeza,22.0
+8024,Administración,Masculino,20,Yoga,Competencia,72.8,1.67,3+ días,Tarde,Dolor de cabeza,26.1
+8025,Contaduría,Masculino,22,Deporte en equipo,Salud,84.5,1.78,1-2 días,Mañana,Dolor de cabeza,26.7
+8026,Administración,Femenino,22,Deporte en equipo,Salud,65.2,1.51,3+ días,Noche,Dolor de cabeza,28.6
+8027,Administración,Femenino,23,Deporte en equipo,Salud,50.5,1.84,1-2 días,Tarde,Ninguna,14.9
+8028,Administración,Femenino,27,Deporte en equipo,Competencia,62.0,1.83,1-2 días,Mañana,Ninguna,18.5
+8029,Contaduría,Femenino,28,Gimnasio,Social,51.1,1.87,1-2 días,Tarde,Ninguna,14.6
+8030,Administración,Masculino,21,Deporte en equipo,Competencia,45.7,1.88,0 días,Noche,Ninguna,12.9
+8031,Economía,Masculino,21,Running,Competencia,78.8,1.75,1-2 días,Madrugada,Ninguna,25.7
+8032,Contaduría,Femenino,20,Running,Salud,55.7,1.85,3+ días,Madrugada,Ninguna,16.3
+8033,Administración,Masculino,22,Running,Competencia,45.1,1.72,1-2 días,Madrugada,Fascitis plantar,15.2
+8034,Contaduría,Masculino,23,Ninguna,Salud,84.3,1.93,1-2 días,Madrugada,Ninguna,22.6
+8035,Administración,Femenino,26,Gimnasio,Competencia,65.0,1.59,3+ días,Madrugada,Tendinitis,25.7
+8036,Contaduría,Femenino,26,Running,Salud,55.7,1.91,1-2 días,Madrugada,Esguince,15.3
+8037,Administración,Femenino,17,Ninguna,Competencia,56.8,1.62,3+ días,Tarde,Ninguna,21.6
+8038,Administración,Femenino,25,Yoga,Competencia,55.8,1.55,1-2 días,Tarde,Ninguna,23.2
+8039,Contaduría,Masculino,24,Gimnasio,Competencia,53.8,1.7,1-2 días,Mañana,Ninguna,18.6
+8040,Estadística,Femenino,23,Ninguna,Competencia,82.9,1.78,1-2 días,Tarde,Ninguna,26.2
+8041,Administración,Femenino,25,Gimnasio,Salud,52.7,1.6,0 días,Tarde,Lumbalgia,20.6
+8042,Economía,Masculino,19,Deporte en equipo,Social,70.3,1.75,3+ días,Mañana,Esguince,23.0
+8043,Administración,Femenino,26,Deporte en equipo,Salud,48.5,1.86,3+ días,Mañana,Esguince,14.0
+8044,Economía,Femenino,20,Running,Otro,87.7,1.62,1-2 días,Tarde,Fascitis plantar,33.4
+8045,Contaduría,Masculino,23,Deporte en equipo,Competencia,72.1,1.76,0 días,Tarde,Ninguna,23.3
+8046,Administración,Femenino,22,Gimnasio,Salud,85.6,1.65,1-2 días,Tarde,Ninguna,31.4
+8047,Administración,Femenino,29,Gimnasio,Social,62.9,1.74,1-2 días,Mañana,Ninguna,20.8
+8048,Administración,Masculino,18,Deporte en equipo,Salud,81.5,1.8,1-2 días,Tarde,Fractura,25.2
+8049,Administración,Femenino,18,Gimnasio,Otro,83.4,1.66,1-2 días,Noche,Tendinitis,30.3
+8050,Administración,Masculino,26,Ninguna,Competencia,76.6,1.95,3+ días,Mañana,Ninguna,20.1
+8051,Contaduría,Femenino,23,Running,Salud,49.2,1.75,1-2 días,Mañana,Ninguna,16.1
+8052,Estadística,Femenino,25,Gimnasio,Salud,45.7,1.87,3+ días,Tarde,Ninguna,13.1
+8053,Administración,Femenino,27,Deporte en equipo,Salud,52.6,1.83,1-2 días,Mañana,Ninguna,15.7
+8054,Contaduría,Femenino,28,Running,Social,50.3,1.88,3+ días,Mañana,Fascitis plantar,14.2
+8055,Contaduría,Masculino,25,Gimnasio,Competencia,77.6,1.58,1-2 días,Mañana,Ninguna,31.1
+8056,Economía,Masculino,23,Running,Salud,70.1,1.6,0 días,Mañana,Ninguna,27.4
+8057,Contaduría,Masculino,27,Ninguna,Competencia,68.7,1.72,3+ días,Tarde,Ninguna,23.2
+8058,Contaduría,Masculino,24,Running,Salud,56.4,1.88,3+ días,Mañana,Esguince,16.0
+8059,Contaduría,Femenino,26,Running,Salud,52.0,1.59,3+ días,Noche,Ninguna,20.6
+8060,Administración,Masculino,19,Running,Salud,54.3,1.94,1-2 días,Tarde,Ninguna,14.4
+8061,Administración,Masculino,17,Gimnasio,Salud,63.0,1.56,3+ días,Tarde,Ninguna,25.9
+8062,Administración,Masculino,23,Gimnasio,Salud,78.3,1.58,0 días,Mañana,Ninguna,31.4
+8063,Administración,Masculino,24,Yoga,Salud,56.5,1.58,0 días,Tarde,Ninguna,22.6
+8064,Contaduría,Masculino,18,Ninguna,Salud,76.4,1.76,1-2 días,Tarde,Ninguna,24.7
+8065,Administración,Femenino,25,Gimnasio,Social,67.1,1.91,3+ días,Tarde,Lumbalgia,18.4
+8066,Contaduría,Masculino,20,Running,Salud,84.8,1.61,1-2 días,Noche,Ninguna,32.7
+8067,Administración,Femenino,26,Ninguna,Salud,55.5,1.75,1-2 días,Tarde,Ninguna,18.1
+8068,Economía,Femenino,27,Gimnasio,Salud,65.3,1.58,1-2 días,Tarde,Lumbalgia,26.2
+8069,Economía,Masculino,25,Gimnasio,Salud,49.3,1.78,0 días,Tarde,Ninguna,15.6
+8070,Administración,Femenino,29,Ninguna,Salud,60.1,1.56,1-2 días,Tarde,Ninguna,24.7
+8071,Administración,Femenino,19,Deporte en equipo,Salud,67.8,1.72,1-2 días,Mañana,Ninguna,22.9
+8072,Contaduría,Femenino,24,Gimnasio,Competencia,78.0,1.79,1-2 días,Mañana,Ninguna,24.3
+8073,Administración,Masculino,27,Running,Competencia,53.9,1.76,1-2 días,Noche,Ninguna,17.4
+8074,Administración,Femenino,18,Gimnasio,Salud,54.8,1.56,3+ días,Mañana,Tendinitis,22.5
+8075,Administración,Masculino,19,Running,Salud,73.4,1.57,0 días,Noche,Fascitis plantar,29.8
+8076,Economía,Femenino,17,Deporte en equipo,Salud,62.2,1.8,1-2 días,Mañana,Ninguna,19.2
+8077,Economía,Femenino,21,Deporte en equipo,Salud,66.7,1.86,1-2 días,Tarde,Esguince,19.3
+8078,Contaduría,Femenino,20,Deporte en equipo,Competencia,82.6,1.91,1-2 días,Tarde,Ninguna,22.6
+8079,Contaduría,Masculino,29,Running,Social,67.5,1.87,1-2 días,Mañana,Ninguna,19.3
+8080,Economía,Femenino,17,Gimnasio,Competencia,74.4,1.94,3+ días,Tarde,Ninguna,19.8
+8081,Economía,Masculino,26,Gimnasio,Salud,74.6,1.68,1-2 días,Tarde,Ninguna,26.4
+8082,Estadística,Masculino,25,Yoga,Social,81.2,1.65,0 días,Tarde,Sobrecarga muscular,29.8
+8083,Administración,Masculino,22,Deporte en equipo,Salud,73.7,1.51,0 días,Tarde,Esguince,32.3
+8084,Administración,Masculino,22,Gimnasio,Salud,47.9,1.7,3+ días,Mañana,Lumbalgia,16.6
+8085,Contaduría,Femenino,27,Running,Salud,60.4,1.79,3+ días,Tarde,Ninguna,18.9
+8086,Contaduría,Femenino,18,Yoga,Competencia,89.5,1.87,0 días,Mañana,Ninguna,25.6
+8087,Administración,Masculino,23,Running,Social,53.8,1.62,0 días,Mañana,Ninguna,20.5
+8088,Administración,Masculino,28,Running,Salud,71.4,1.73,1-2 días,Noche,Esguince,23.9
+8089,Economía,Masculino,28,Gimnasio,Salud,82.9,1.8,1-2 días,Tarde,Ninguna,25.6
+8090,Economía,Masculino,25,Gimnasio,Competencia,71.4,1.75,0 días,Tarde,Ninguna,23.3
+8091,Administración,Masculino,22,Yoga,Social,61.8,1.62,1-2 días,Tarde,Ninguna,23.5
+8092,Economía,Femenino,27,Deporte en equipo,Salud,48.6,1.86,1-2 días,Mañana,Ninguna,14.0
+8093,Contaduría,Masculino,24,Deporte en equipo,Social,61.3,1.58,3+ días,Tarde,Esguince,24.6
+8094,Economía,Masculino,28,Yoga,Salud,53.2,1.91,1-2 días,Tarde,Ninguna,14.6
+8095,Administración,Masculino,21,Ninguna,Competencia,88.2,1.93,3+ días,Mañana,Ninguna,23.7
+8096,Administración,Femenino,18,Gimnasio,Salud,77.2,1.66,1-2 días,Noche,Lumbalgia,28.0
+8097,Administración,Masculino,29,Gimnasio,Salud,78.7,1.67,0 días,Tarde,Ninguna,28.2
+8098,Contaduría,Masculino,20,Running,Competencia,64.6,1.83,1-2 días,Mañana,Ninguna,19.3
+8099,Contaduría,Femenino,28,Gimnasio,Social,49.9,1.71,0 días,Tarde,Ninguna,17.1
+8100,Administración,Masculino,17,Deporte en equipo,Salud,57.0,1.51,1-2 días,Mañana,Fractura,25.0
+8101,Estadística,Femenino,17,Yoga,Salud,56.7,1.91,1-2 días,Mañana,Ninguna,15.5
+8102,Administración,Masculino,22,Deporte en equipo,Salud,66.9,1.69,0 días,Tarde,Ninguna,23.4
+8103,Administración,Femenino,18,Gimnasio,Salud,65.7,1.59,1-2 días,Noche,Ninguna,26.0
+8104,Contaduría,Femenino,22,Gimnasio,Competencia,64.5,1.75,3+ días,Tarde,Ninguna,21.1
+8105,Contaduría,Femenino,17,Running,Salud,67.3,1.6,1-2 días,Noche,Ninguna,26.3
+8106,Administración,Masculino,27,Yoga,Competencia,89.4,1.59,1-2 días,Noche,Ninguna,35.4
+8107,Contaduría,Femenino,26,Running,Salud,58.4,1.75,1-2 días,Noche,Fascitis plantar,19.1
+8108,Contaduría,Masculino,19,Gimnasio,Otro,72.7,1.68,3+ días,Mañana,Ninguna,25.8
+8109,Contaduría,Masculino,25,Gimnasio,Salud,55.8,1.76,1-2 días,Tarde,Ninguna,18.0
+8110,Contaduría,Masculino,18,Ninguna,Salud,66.0,1.95,1-2 días,Mañana,Ninguna,17.4
+8111,Administración,Femenino,24,Deporte en equipo,Salud,54.0,1.89,0 días,Tarde,Ninguna,15.1
+8112,Contaduría,Masculino,22,Ninguna,Social,70.1,1.5,0 días,Noche,Ninguna,31.2
+8113,Economía,Masculino,28,Deporte en equipo,Salud,56.9,1.52,1-2 días,Mañana,Ninguna,24.6
+8114,Administración,Femenino,22,Running,Salud,46.7,1.77,1-2 días,Tarde,Ninguna,14.9
+8115,Administración,Femenino,23,Gimnasio,Social,81.7,1.78,1-2 días,Tarde,Ninguna,25.8
+8116,Economía,Femenino,21,Running,Social,50.8,1.9,1-2 días,Mañana,Ninguna,14.1
+8117,Administración,Masculino,28,Deporte en equipo,Social,61.6,1.78,1-2 días,Mañana,Fractura,19.4
+8118,Contaduría,Femenino,27,Yoga,Salud,66.5,1.6,1-2 días,Tarde,Ninguna,26.0
+8119,Estadística,Femenino,20,Gimnasio,Salud,64.5,1.71,0 días,Mañana,Ninguna,22.1
+8120,Administración,Masculino,22,Gimnasio,Competencia,77.7,1.86,0 días,Tarde,Ninguna,22.5
+8121,Administración,Masculino,24,Deporte en equipo,Salud,71.9,1.92,3+ días,Tarde,Fractura,19.5
+8122,Economía,Masculino,20,Gimnasio,Salud,58.3,1.61,1-2 días,Tarde,Lumbalgia,22.5
+8123,Economía,Masculino,21,Deporte en equipo,Salud,47.3,1.74,1-2 días,Mañana,Ninguna,15.6
+8124,Contaduría,Femenino,23,Gimnasio,Otro,79.5,1.57,1-2 días,Tarde,Ninguna,32.3
+8125,Contaduría,Masculino,22,Gimnasio,Salud,60.9,1.72,1-2 días,Mañana,Lumbalgia,20.6
+8126,Economía,Femenino,29,Running,Competencia,85.0,1.54,0 días,Noche,Ninguna,35.8
+8127,Contaduría,Masculino,20,Deporte en equipo,Salud,62.8,1.92,3+ días,Mañana,Ninguna,17.0
+8128,Administración,Masculino,29,Running,Competencia,77.3,1.79,1-2 días,Noche,Ninguna,24.1
+8129,Administración,Femenino,20,Gimnasio,Competencia,87.3,1.88,0 días,Tarde,Ninguna,24.7
+8130,Contaduría,Masculino,26,Yoga,Salud,74.3,1.95,3+ días,Tarde,Ninguna,19.5
+8131,Economía,Femenino,20,Gimnasio,Salud,63.6,1.58,1-2 días,Mañana,Ninguna,25.5
+8132,Economía,Femenino,17,Gimnasio,Competencia,70.5,1.81,3+ días,Mañana,Ninguna,21.5
+8133,Estadística,Masculino,21,Deporte en equipo,Salud,69.5,1.9,0 días,Tarde,Ninguna,19.3
+8134,Economía,Masculino,24,Gimnasio,Competencia,71.3,1.76,0 días,Mañana,Ninguna,23.0
+8135,Contaduría,Masculino,23,Running,Competencia,51.6,1.79,0 días,Noche,Ninguna,16.1
+8136,Administración,Femenino,21,Ninguna,Salud,76.4,1.68,1-2 días,Mañana,Ninguna,27.1
+8137,Contaduría,Masculino,19,Deporte en equipo,Salud,51.5,1.8,3+ días,Noche,Ninguna,15.9
+8138,Contaduría,Femenino,27,Deporte en equipo,Salud,45.7,1.68,3+ días,Tarde,Ninguna,16.2
+8139,Contaduría,Femenino,17,Deporte en equipo,Competencia,73.1,1.71,1-2 días,Mañana,Ninguna,25.0
+8140,Administración,Femenino,29,Gimnasio,Salud,50.3,1.55,3+ días,Tarde,Ninguna,20.9
+8141,Economía,Femenino,23,Running,Otro,79.7,1.5,1-2 días,Mañana,Ninguna,35.4
+8142,Contaduría,Masculino,29,Running,Otro,84.0,1.52,3+ días,Mañana,Ninguna,36.4
+8143,Administración,Femenino,27,Ninguna,Salud,87.5,1.59,3+ días,Mañana,Ninguna,34.6
+8144,Contaduría,Femenino,19,Gimnasio,Salud,74.9,1.71,1-2 días,Noche,Ninguna,25.6
+8145,Contaduría,Femenino,20,Running,Salud,66.7,1.51,0 días,Tarde,Fascitis plantar,29.3
+8146,Administración,Masculino,21,Ninguna,Otro,60.9,1.57,3+ días,Tarde,Ninguna,24.7
+8147,Economía,Masculino,29,Deporte en equipo,Salud,67.1,1.85,1-2 días,Mañana,Fractura,19.6
+8148,Administración,Femenino,28,Ninguna,Salud,53.6,1.84,3+ días,Tarde,Ninguna,15.8
+8149,Administración,Masculino,24,Deporte en equipo,Competencia,60.7,1.86,0 días,Mañana,Ninguna,17.5
+8150,Administración,Femenino,29,Running,Salud,77.3,1.91,1-2 días,Mañana,Esguince,21.2
+8151,Contaduría,Masculino,23,Yoga,Salud,54.8,1.55,1-2 días,Mañana,Ninguna,22.8
+8152,Estadística,Femenino,25,Gimnasio,Salud,56.9,1.57,0 días,Tarde,Lumbalgia,23.1
+8153,Economía,Femenino,27,Gimnasio,Competencia,78.7,1.65,1-2 días,Tarde,Ninguna,28.9
+8154,Economía,Masculino,19,Deporte en equipo,Salud,53.0,1.91,0 días,Mañana,Ninguna,14.5
+8155,Administración,Masculino,27,Deporte en equipo,Salud,56.1,1.85,1-2 días,Noche,Ninguna,16.4
+8156,Administración,Femenino,26,Yoga,Social,45.8,1.65,3+ días,Mañana,Ninguna,16.8
+8157,Contaduría,Masculino,17,Ninguna,Salud,77.4,1.54,1-2 días,Tarde,Ninguna,32.6
+8158,Administración,Masculino,17,Yoga,Competencia,72.8,1.78,3+ días,Mañana,Ninguna,23.0
+8159,Economía,Masculino,28,Gimnasio,Salud,76.2,1.62,0 días,Mañana,Ninguna,29.0
+8160,Contaduría,Femenino,26,Deporte en equipo,Salud,54.6,1.74,1-2 días,Noche,Ninguna,18.0
+8161,Estadística,Femenino,29,Deporte en equipo,Salud,75.9,1.92,3+ días,Noche,Ninguna,20.6
+8162,Administración,Masculino,17,Ninguna,Salud,71.8,1.76,1-2 días,Tarde,Ninguna,23.2
+8163,Contaduría,Femenino,18,Running,Salud,61.5,1.92,3+ días,Noche,Ninguna,16.7
+8164,Contaduría,Femenino,18,Gimnasio,Salud,64.7,1.68,1-2 días,Noche,Ninguna,22.9
+8165,Administración,Femenino,23,Yoga,Salud,70.6,1.79,1-2 días,Tarde,Ninguna,22.0
+8166,Contaduría,Masculino,25,Running,Salud,67.2,1.9,3+ días,Noche,Ninguna,18.6
+8167,Administración,Femenino,24,Deporte en equipo,Salud,73.9,1.76,0 días,Mañana,Esguince,23.9
+8168,Administración,Masculino,20,Running,Salud,53.1,1.78,0 días,Tarde,Ninguna,16.8
+8169,Administración,Femenino,18,Running,Salud,69.3,1.82,1-2 días,Tarde,Fascitis plantar,20.9
+8170,Administración,Femenino,19,Deporte en equipo,Competencia,65.3,1.9,3+ días,Mañana,Esguince,18.1
+8171,Contaduría,Femenino,26,Running,Salud,65.7,1.54,3+ días,Noche,Ninguna,27.7
+8172,Administración,Femenino,21,Deporte en equipo,Salud,66.1,1.65,0 días,Mañana,Ninguna,24.3
+8173,Administración,Masculino,25,Gimnasio,Social,84.7,1.68,3+ días,Noche,Ninguna,30.0
+8174,Administración,Masculino,24,Running,Salud,81.8,1.91,3+ días,Mañana,Ninguna,22.4
+8175,Administración,Femenino,29,Running,Salud,73.3,1.93,3+ días,Mañana,Esguince,19.7
+8176,Administración,Femenino,28,Deporte en equipo,Salud,77.2,1.55,1-2 días,Mañana,Fractura,32.1
+8177,Administración,Masculino,19,Running,Social,46.9,1.55,1-2 días,Noche,Ninguna,19.5
+8178,Contaduría,Masculino,25,Deporte en equipo,Salud,78.5,1.92,3+ días,Mañana,Ninguna,21.3
+8179,Contaduría,Masculino,26,Deporte en equipo,Social,66.9,1.63,1-2 días,Tarde,Esguince,25.2
+8180,Contaduría,Masculino,19,Deporte en equipo,Competencia,59.3,1.61,3+ días,Tarde,Esguince,22.9
+8181,Economía,Femenino,26,Deporte en equipo,Salud,51.3,1.52,1-2 días,Mañana,Ninguna,22.2
+8182,Contaduría,Masculino,28,Running,Competencia,48.4,1.62,1-2 días,Noche,Ninguna,18.4
+8183,Contaduría,Femenino,24,Running,Salud,47.0,1.81,3+ días,Mañana,Ninguna,14.3
+8184,Economía,Femenino,17,Deporte en equipo,Salud,52.3,1.69,3+ días,Tarde,Ninguna,18.3
+8185,Administración,Masculino,20,Gimnasio,Salud,46.4,1.73,1-2 días,Tarde,Lumbalgia,15.5
+8186,Contaduría,Masculino,20,Yoga,Competencia,78.0,1.91,0 días,Mañana,Sobrecarga muscular,21.4
+8187,Administración,Masculino,22,Yoga,Salud,56.2,1.55,3+ días,Mañana,Sobrecarga muscular,23.4
+8188,Administración,Femenino,28,Running,Salud,61.6,1.53,3+ días,Tarde,Ninguna,26.3
+8189,Contaduría,Femenino,28,Deporte en equipo,Competencia,82.0,1.88,1-2 días,Noche,Esguince,23.2
+8190,Administración,Femenino,18,Ninguna,Competencia,50.2,1.85,1-2 días,Mañana,Ninguna,14.7
+8191,Administración,Masculino,23,Gimnasio,Otro,82.6,1.62,3+ días,Mañana,Ninguna,31.5
+8192,Administración,Femenino,21,Deporte en equipo,Salud,73.8,1.65,0 días,Noche,Ninguna,27.1
+8193,Administración,Masculino,26,Gimnasio,Salud,60.4,1.64,3+ días,Mañana,Ninguna,22.5
+8194,Administración,Femenino,22,Running,Salud,50.3,1.79,1-2 días,Tarde,Ninguna,15.7
+8195,Contaduría,Masculino,27,Yoga,Competencia,49.1,1.53,1-2 días,Tarde,Ninguna,21.0
+8196,Contaduría,Masculino,22,Deporte en equipo,Salud,60.1,1.72,1-2 días,Mañana,Ninguna,20.3
+8197,Contaduría,Femenino,28,Deporte en equipo,Social,51.3,1.56,1-2 días,Tarde,Esguince,21.1
+8198,Administración,Femenino,27,Ninguna,Salud,57.0,1.87,3+ días,Noche,Ninguna,16.3
+8199,Estadística,Masculino,22,Deporte en equipo,Social,47.4,1.67,3+ días,Tarde,Ninguna,17.0
+8200,Contaduría,Femenino,26,Deporte en equipo,Competencia,71.8,1.74,1-2 días,Tarde,Ninguna,23.7
+8201,Administración,Masculino,28,Deporte en equipo,Social,51.5,1.51,3+ días,Tarde,Esguince,22.6
+8202,Economía,Masculino,24,Deporte en equipo,Salud,79.1,1.53,0 días,Tarde,Ninguna,33.8
+8203,Contaduría,Femenino,26,Yoga,Salud,54.8,1.8,3+ días,Mañana,Ninguna,16.9
+8204,Contaduría,Masculino,20,Ninguna,Salud,80.9,1.85,1-2 días,Tarde,Ninguna,23.6
+8205,Administración,Femenino,26,Deporte en equipo,Salud,53.5,1.82,0 días,Mañana,Ninguna,16.2
+8206,Contaduría,Masculino,24,Deporte en equipo,Salud,77.5,1.83,0 días,Mañana,Ninguna,23.1
+8207,Economía,Femenino,25,Gimnasio,Competencia,60.0,1.55,1-2 días,Noche,Lumbalgia,25.0
+8208,Contaduría,Masculino,29,Yoga,Salud,71.2,1.81,3+ días,Tarde,Ninguna,21.7
+8209,Contaduría,Femenino,29,Deporte en equipo,Social,46.7,1.58,1-2 días,Noche,Esguince,18.7
+8210,Contaduría,Femenino,20,Deporte en equipo,Salud,67.3,1.54,1-2 días,Mañana,Ninguna,28.4
+8211,Economía,Femenino,17,Gimnasio,Salud,51.7,1.84,1-2 días,Noche,Ninguna,15.3
+8212,Administración,Masculino,19,Ninguna,Salud,66.9,1.9,1-2 días,Tarde,Ninguna,18.5
+8213,Contaduría,Masculino,17,Gimnasio,Competencia,51.4,1.82,0 días,Noche,Lumbalgia,15.5
+8214,Administración,Masculino,23,Gimnasio,Salud,64.7,1.86,1-2 días,Noche,Ninguna,18.7
+8215,Contaduría,Femenino,28,Deporte en equipo,Social,50.0,1.95,1-2 días,Noche,Ninguna,13.1
+8216,Contaduría,Masculino,17,Deporte en equipo,Salud,54.9,1.56,3+ días,Noche,Ninguna,22.6
+8217,Administración,Masculino,27,Running,Social,71.8,1.93,1-2 días,Mañana,Ninguna,19.3
+8218,Contaduría,Femenino,20,Deporte en equipo,Salud,88.9,1.77,1-2 días,Tarde,Esguince,28.4
+8219,Administración,Femenino,29,Running,Salud,65.2,1.87,3+ días,Mañana,Esguince,18.6
+8220,Administración,Femenino,17,Gimnasio,Competencia,75.9,1.79,3+ días,Tarde,Ninguna,23.7
+8221,Administración,Femenino,29,Gimnasio,Social,69.3,1.76,3+ días,Noche,Ninguna,22.4
+8222,Administración,Femenino,29,Yoga,Salud,67.4,1.82,1-2 días,Mañana,Ninguna,20.3
+8223,Administración,Masculino,18,Gimnasio,Social,47.9,1.64,1-2 días,Tarde,Ninguna,17.8
+8224,Administración,Femenino,27,Gimnasio,Salud,51.5,1.92,3+ días,Tarde,Tendinitis,14.0
+8225,Contaduría,Masculino,17,Deporte en equipo,Competencia,84.7,1.55,0 días,Mañana,Ninguna,35.3
+8226,Contaduría,Masculino,29,Running,Salud,63.5,1.64,1-2 días,Mañana,Ninguna,23.6
+8227,Contaduría,Masculino,21,Deporte en equipo,Salud,72.6,1.51,1-2 días,Mañana,Ninguna,31.8
+8228,Administración,Masculino,23,Yoga,Salud,68.8,1.62,1-2 días,Mañana,Ninguna,26.2
+8229,Economía,Femenino,19,Yoga,Social,62.0,1.6,3+ días,Tarde,Ninguna,24.2
+8230,Contaduría,Masculino,24,Running,Otro,62.5,1.52,1-2 días,Tarde,Esguince,27.1
+8231,Administración,Femenino,21,Running,Salud,70.0,1.72,3+ días,Mañana,Ninguna,23.7
+8232,Economía,Masculino,21,Deporte en equipo,Social,51.4,1.71,1-2 días,Noche,Ninguna,17.6
+8233,Administración,Masculino,29,Running,Salud,62.4,1.53,3+ días,Tarde,Ninguna,26.7
+8234,Contaduría,Masculino,21,Gimnasio,Competencia,65.1,1.62,1-2 días,Tarde,Tendinitis,24.8
+8235,Contaduría,Masculino,24,Running,Salud,89.3,1.93,0 días,Mañana,Ninguna,24.0
+8236,Administración,Femenino,18,Gimnasio,Salud,60.8,1.55,1-2 días,Tarde,Ninguna,25.3
+8237,Economía,Femenino,18,Ninguna,Salud,74.0,1.64,3+ días,Mañana,Ninguna,27.5
+8238,Administración,Masculino,28,Deporte en equipo,Salud,51.2,1.52,3+ días,Tarde,Ninguna,22.2
+8239,Administración,Femenino,24,Gimnasio,Salud,47.9,1.57,1-2 días,Tarde,Lumbalgia,19.4
+8240,Economía,Masculino,25,Gimnasio,Social,84.2,1.81,1-2 días,Mañana,Ninguna,25.7
+8241,Economía,Femenino,27,Ninguna,Salud,77.9,1.67,3+ días,Noche,Ninguna,27.9
+8242,Contaduría,Masculino,28,Running,Social,59.3,1.7,3+ días,Tarde,Ninguna,20.5
+8243,Contaduría,Femenino,26,Deporte en equipo,Social,67.7,1.57,1-2 días,Mañana,Ninguna,27.5
+8244,Administración,Femenino,26,Running,Salud,51.1,1.81,3+ días,Noche,Ninguna,15.6
+8245,Contaduría,Masculino,18,Yoga,Salud,76.8,1.84,1-2 días,Tarde,Sobrecarga muscular,22.7
+8246,Administración,Femenino,20,Deporte en equipo,Competencia,48.2,1.58,0 días,Tarde,Ninguna,19.3
+8247,Administración,Femenino,24,Gimnasio,Social,79.1,1.52,0 días,Tarde,Lumbalgia,34.2
+8248,Contaduría,Femenino,18,Gimnasio,Otro,69.6,1.54,3+ días,Mañana,Ninguna,29.3
+8249,Administración,Femenino,20,Deporte en equipo,Competencia,57.5,1.8,0 días,Noche,Fractura,17.7
+8250,Administración,Femenino,26,Ninguna,Salud,83.8,1.56,1-2 días,Tarde,Ninguna,34.4
+8251,Administración,Femenino,29,Gimnasio,Competencia,89.4,1.72,3+ días,Mañana,Ninguna,30.2
+8252,Administración,Masculino,29,Deporte en equipo,Salud,56.4,1.57,0 días,Noche,Ninguna,22.9
+8253,Administración,Femenino,17,Running,Salud,81.3,1.58,3+ días,Tarde,Ninguna,32.6
+8254,Administración,Masculino,18,Yoga,Competencia,78.8,1.5,3+ días,Tarde,Ninguna,35.0
+8255,Administración,Femenino,23,Deporte en equipo,Social,78.6,1.64,3+ días,Noche,Fractura,29.2
+8256,Contaduría,Femenino,17,Running,Otro,88.1,1.54,1-2 días,Mañana,Fascitis plantar,37.1
+8257,Economía,Femenino,28,Gimnasio,Salud,66.9,1.68,1-2 días,Mañana,Ninguna,23.7
+8258,Contaduría,Masculino,17,Gimnasio,Competencia,75.3,1.77,3+ días,Mañana,Ninguna,24.0
+8259,Contaduría,Femenino,18,Deporte en equipo,Social,82.1,1.67,1-2 días,Noche,Ninguna,29.4
+8260,Administración,Masculino,20,Running,Competencia,66.6,1.82,1-2 días,Mañana,Fascitis plantar,20.1
+8261,Administración,Femenino,23,Running,Salud,66.7,1.83,3+ días,Mañana,Ninguna,19.9
+8262,Administración,Femenino,20,Ninguna,Competencia,59.3,1.81,1-2 días,Mañana,Ninguna,18.1
+8263,Contaduría,Masculino,21,Running,Salud,80.1,1.92,3+ días,Mañana,Esguince,21.7
+8264,Contaduría,Femenino,20,Deporte en equipo,Competencia,75.9,1.61,1-2 días,Tarde,Ninguna,29.3
+8265,Contaduría,Femenino,20,Gimnasio,Competencia,65.3,1.59,0 días,Noche,Lumbalgia,25.8
+8266,Administración,Masculino,25,Gimnasio,Social,63.9,1.77,0 días,Mañana,Ninguna,20.4
+8267,Administración,Masculino,22,Running,Salud,48.3,1.77,0 días,Tarde,Fascitis plantar,15.4
+8268,Contaduría,Masculino,28,Deporte en equipo,Salud,45.3,1.73,1-2 días,Tarde,Ninguna,15.1
+8269,Administración,Masculino,19,Running,Salud,68.8,1.5,3+ días,Tarde,Ninguna,30.6
+8270,Contaduría,Masculino,22,Yoga,Salud,63.8,1.75,0 días,Noche,Sobrecarga muscular,20.8
+8271,Contaduría,Masculino,29,Running,Otro,80.8,1.92,1-2 días,Tarde,Ninguna,21.9
+8272,Contaduría,Femenino,23,Running,Salud,69.4,1.65,3+ días,Mañana,Ninguna,25.5
+8273,Economía,Masculino,23,Ninguna,Salud,87.2,1.94,1-2 días,Noche,Ninguna,23.2
+8274,Economía,Masculino,24,Running,Social,53.8,1.66,1-2 días,Tarde,Ninguna,19.5
+8275,Contaduría,Femenino,29,Gimnasio,Salud,89.6,1.56,3+ días,Mañana,Lumbalgia,36.8
+8276,Contaduría,Femenino,20,Gimnasio,Social,58.4,1.68,1-2 días,Mañana,Ninguna,20.7
+8277,Administración,Femenino,17,Deporte en equipo,Salud,73.9,1.72,3+ días,Noche,Esguince,25.0
+8278,Economía,Masculino,22,Yoga,Salud,67.6,1.78,3+ días,Tarde,Ninguna,21.3
+8279,Contaduría,Femenino,24,Gimnasio,Social,61.2,1.73,3+ días,Tarde,Ninguna,20.4
+8280,Administración,Masculino,21,Running,Salud,51.3,1.74,3+ días,Noche,Fascitis plantar,16.9
+8281,Administración,Femenino,29,Deporte en equipo,Salud,51.1,1.51,1-2 días,Tarde,Ninguna,22.4
+8282,Administración,Masculino,19,Ninguna,Salud,77.0,1.61,3+ días,Mañana,Ninguna,29.7
+8283,Contaduría,Femenino,20,Running,Salud,62.0,1.64,3+ días,Tarde,Ninguna,23.1
+8284,Contaduría,Masculino,24,Yoga,Social,88.3,1.94,1-2 días,Tarde,Ninguna,23.5
+8285,Administración,Masculino,22,Running,Competencia,59.7,1.63,1-2 días,Tarde,Ninguna,22.5
+8286,Administración,Masculino,29,Gimnasio,Salud,89.3,1.9,3+ días,Mañana,Ninguna,24.7
+8287,Economía,Masculino,29,Gimnasio,Competencia,54.2,1.64,1-2 días,Mañana,Ninguna,20.2
+8288,Contaduría,Masculino,21,Running,Competencia,49.6,1.54,3+ días,Tarde,Ninguna,20.9
+8289,Economía,Femenino,29,Running,Social,59.1,1.61,1-2 días,Noche,Ninguna,22.8
+8290,Administración,Femenino,25,Ninguna,Salud,84.9,1.62,1-2 días,Tarde,Ninguna,32.4
+8291,Contaduría,Masculino,26,Gimnasio,Social,68.5,1.94,0 días,Noche,Ninguna,18.2
+8292,Contaduría,Femenino,19,Running,Salud,51.1,1.8,1-2 días,Tarde,Ninguna,15.8
+8293,Administración,Femenino,23,Gimnasio,Competencia,54.1,1.92,1-2 días,Noche,Ninguna,14.7
+8294,Administración,Masculino,25,Deporte en equipo,Otro,59.0,1.88,1-2 días,Mañana,Ninguna,16.7
+8295,Administración,Femenino,27,Ninguna,Salud,71.6,1.76,1-2 días,Mañana,Ninguna,23.1
+8296,Administración,Femenino,29,Gimnasio,Salud,60.0,1.8,3+ días,Tarde,Ninguna,18.5
+8297,Estadística,Masculino,27,Running,Salud,78.6,1.78,1-2 días,Mañana,Ninguna,24.8
+8298,Administración,Femenino,28,Gimnasio,Salud,72.7,1.8,3+ días,Tarde,Ninguna,22.4
+8299,Administración,Femenino,20,Running,Salud,84.3,1.62,1-2 días,Noche,Fascitis plantar,32.1
+8300,Contaduría,Femenino,26,Gimnasio,Competencia,67.5,1.68,1-2 días,Tarde,Ninguna,23.9
+8301,Administración,Masculino,26,Running,Salud,59.9,1.77,0 días,Noche,Ninguna,19.1
+8302,Contaduría,Masculino,19,Deporte en equipo,Salud,89.8,1.52,1-2 días,Tarde,Fractura,38.9
+8303,Administración,Masculino,17,Deporte en equipo,Salud,61.0,1.72,1-2 días,Tarde,Ninguna,20.6
+8304,Contaduría,Femenino,25,Gimnasio,Salud,64.3,1.89,1-2 días,Tarde,Ninguna,18.0
+8305,Administración,Masculino,29,Running,Salud,81.4,1.72,1-2 días,Mañana,Fascitis plantar,27.5
+8306,Contaduría,Masculino,17,Deporte en equipo,Competencia,49.0,1.75,0 días,Mañana,Ninguna,16.0
+8307,Contaduría,Masculino,18,Deporte en equipo,Salud,62.4,1.59,1-2 días,Tarde,Fractura,24.7
+8308,Economía,Masculino,25,Gimnasio,Otro,48.9,1.86,3+ días,Noche,Tendinitis,14.1
+8309,Economía,Femenino,21,Yoga,Salud,51.3,1.66,1-2 días,Tarde,Ninguna,18.6
+8310,Contaduría,Femenino,20,Running,Social,45.2,1.93,3+ días,Mañana,Esguince,12.1
+8311,Administración,Femenino,25,Gimnasio,Salud,45.4,1.95,1-2 días,Mañana,Tendinitis,11.9
+8312,Contaduría,Femenino,25,Gimnasio,Competencia,62.1,1.91,1-2 días,Noche,Ninguna,17.0
+8313,Contaduría,Masculino,18,Ninguna,Competencia,81.4,1.54,0 días,Tarde,Ninguna,34.3
+8314,Economía,Masculino,19,Gimnasio,Social,71.4,1.65,1-2 días,Noche,Ninguna,26.2
+8315,Administración,Masculino,28,Ninguna,Competencia,73.6,1.93,3+ días,Tarde,Ninguna,19.8
+8316,Administración,Femenino,19,Running,Otro,68.4,1.86,1-2 días,Tarde,Ninguna,19.8
+8317,Contaduría,Femenino,21,Running,Competencia,81.9,1.91,0 días,Tarde,Ninguna,22.5
+8318,Administración,Femenino,29,Deporte en equipo,Competencia,84.6,1.76,1-2 días,Mañana,Ninguna,27.3
+8319,Administración,Femenino,19,Gimnasio,Social,83.2,1.72,1-2 días,Tarde,Ninguna,28.1
+8320,Administración,Femenino,26,Running,Competencia,81.5,1.55,3+ días,Tarde,Ninguna,33.9
+8321,Contaduría,Masculino,22,Running,Salud,53.2,1.88,1-2 días,Tarde,Ninguna,15.1
+8322,Estadística,Femenino,18,Yoga,Salud,71.7,1.84,1-2 días,Noche,Ninguna,21.2
+8323,Contaduría,Masculino,22,Running,Social,71.2,1.53,1-2 días,Mañana,Ninguna,30.4
+8324,Administración,Femenino,22,Running,Salud,68.8,1.59,0 días,Tarde,Ninguna,27.2
+8325,Administración,Masculino,18,Gimnasio,Competencia,66.6,1.75,1-2 días,Mañana,Lumbalgia,21.7
+8326,Administración,Femenino,22,Deporte en equipo,Salud,49.0,1.81,1-2 días,Mañana,Ninguna,15.0
+8327,Contaduría,Femenino,22,Gimnasio,Salud,49.6,1.56,1-2 días,Tarde,Ninguna,20.4
+8328,Contaduría,Masculino,22,Gimnasio,Competencia,85.6,1.61,3+ días,Mañana,Ninguna,33.0
+8329,Administración,Masculino,28,Gimnasio,Salud,73.4,1.59,1-2 días,Tarde,Ninguna,29.0
+8330,Contaduría,Femenino,29,Deporte en equipo,Salud,56.8,1.6,1-2 días,Mañana,Ninguna,22.2
+8331,Contaduría,Femenino,21,Running,Salud,57.6,1.91,1-2 días,Mañana,Esguince,15.8
+8332,Administración,Femenino,23,Running,Salud,72.5,1.82,1-2 días,Mañana,Fascitis plantar,21.9
+8333,Administración,Masculino,29,Deporte en equipo,Competencia,63.3,1.83,3+ días,Mañana,Ninguna,18.9
+8334,Estadística,Masculino,28,Ninguna,Salud,64.9,1.86,0 días,Noche,Ninguna,18.8
+8335,Administración,Femenino,21,Deporte en equipo,Competencia,47.7,1.66,3+ días,Tarde,Ninguna,17.3
+8336,Contaduría,Femenino,27,Running,Salud,51.2,1.85,1-2 días,Noche,Ninguna,15.0
+8337,Contaduría,Masculino,17,Deporte en equipo,Otro,62.7,1.94,1-2 días,Mañana,Ninguna,16.7
+8338,Contaduría,Femenino,28,Ninguna,Salud,76.5,1.81,1-2 días,Tarde,Ninguna,23.4
+8339,Contaduría,Masculino,25,Running,Salud,47.2,1.69,0 días,Tarde,Ninguna,16.5
+8340,Contaduría,Femenino,19,Running,Salud,60.1,1.82,1-2 días,Mañana,Ninguna,18.1
+8341,Economía,Masculino,18,Gimnasio,Salud,76.3,1.91,1-2 días,Tarde,Lumbalgia,20.9
+8342,Economía,Femenino,26,Yoga,Salud,80.6,1.56,0 días,Tarde,Ninguna,33.1
+8343,Contaduría,Femenino,22,Gimnasio,Social,53.6,1.62,3+ días,Tarde,Tendinitis,20.4
+8344,Administración,Femenino,24,Gimnasio,Salud,77.9,1.91,3+ días,Tarde,Ninguna,21.4
+8345,Administración,Masculino,18,Running,Salud,88.0,1.93,0 días,Tarde,Ninguna,23.6
+8346,Contaduría,Masculino,20,Yoga,Salud,85.8,1.72,1-2 días,Mañana,Ninguna,29.0
+8347,Contaduría,Masculino,18,Running,Social,80.5,1.67,0 días,Tarde,Fascitis plantar,28.9
+8348,Administración,Masculino,28,Deporte en equipo,Salud,77.1,1.63,3+ días,Noche,Esguince,29.0
+8349,Administración,Femenino,28,Yoga,Salud,55.6,1.72,1-2 días,Mañana,Ninguna,18.8
+8350,Contaduría,Femenino,25,Running,Salud,73.5,1.92,1-2 días,Tarde,Ninguna,19.9
+8351,Administración,Masculino,26,Deporte en equipo,Competencia,73.9,1.57,1-2 días,Tarde,Ninguna,30.0
+8352,Contaduría,Femenino,29,Running,Social,63.3,1.69,1-2 días,Tarde,Ninguna,22.2
+8353,Contaduría,Femenino,18,Ninguna,Salud,67.2,1.91,3+ días,Tarde,Ninguna,18.4
+8354,Contaduría,Femenino,26,Deporte en equipo,Salud,76.2,1.66,3+ días,Mañana,Ninguna,27.7
+8355,Administración,Femenino,18,Ninguna,Salud,87.8,1.85,1-2 días,Tarde,Ninguna,25.7
+8356,Administración,Femenino,29,Gimnasio,Competencia,58.3,1.68,1-2 días,Tarde,Ninguna,20.7
+8357,Administración,Masculino,21,Running,Salud,56.1,1.86,1-2 días,Tarde,Ninguna,16.2
+8358,Administración,Masculino,28,Gimnasio,Social,72.1,1.94,0 días,Tarde,Ninguna,19.2
+8359,Contaduría,Masculino,21,Running,Salud,50.9,1.67,0 días,Tarde,Ninguna,18.3
+8360,Contaduría,Masculino,28,Yoga,Salud,71.2,1.88,1-2 días,Noche,Ninguna,20.1
+8361,Administración,Masculino,23,Running,Salud,49.0,1.94,3+ días,Tarde,Fascitis plantar,13.0
+8362,Administración,Femenino,17,Gimnasio,Social,67.1,1.94,3+ días,Tarde,Ninguna,17.8
+8363,Administración,Femenino,28,Gimnasio,Competencia,72.9,1.7,0 días,Mañana,Ninguna,25.2
+8364,Estadística,Masculino,18,Running,Otro,48.2,1.72,1-2 días,Mañana,Ninguna,16.3
+8365,Contaduría,Femenino,27,Gimnasio,Salud,54.3,1.64,1-2 días,Noche,Lumbalgia,20.2
+8366,Economía,Femenino,27,Running,Salud,60.1,1.64,3+ días,Tarde,Ninguna,22.3
+8367,Economía,Femenino,22,Yoga,Salud,61.6,1.72,3+ días,Tarde,Sobrecarga muscular,20.8
+8368,Contaduría,Femenino,18,Running,Salud,75.4,1.59,1-2 días,Tarde,Ninguna,29.8
+8369,Contaduría,Femenino,20,Deporte en equipo,Salud,68.8,1.82,3+ días,Mañana,Ninguna,20.8
+8370,Administración,Femenino,26,Running,Salud,62.2,1.74,3+ días,Noche,Ninguna,20.5
+8371,Contaduría,Femenino,22,Deporte en equipo,Salud,65.3,1.9,0 días,Tarde,Ninguna,18.1
+8372,Administración,Masculino,29,Gimnasio,Salud,45.6,1.86,1-2 días,Tarde,Ninguna,13.2
+8373,Economía,Masculino,28,Ninguna,Competencia,79.7,1.65,1-2 días,Mañana,Ninguna,29.3
+8374,Administración,Masculino,23,Deporte en equipo,Salud,46.8,1.73,0 días,Tarde,Ninguna,15.6
+8375,Contaduría,Femenino,26,Gimnasio,Social,82.3,1.84,1-2 días,Mañana,Ninguna,24.3
+8376,Administración,Femenino,21,Gimnasio,Salud,69.3,1.59,0 días,Tarde,Ninguna,27.4
+8377,Economía,Masculino,24,Gimnasio,Social,68.8,1.51,1-2 días,Tarde,Ninguna,30.2
+8378,Administración,Femenino,22,Deporte en equipo,Salud,76.7,1.88,3+ días,Mañana,Ninguna,21.7
+8379,Contaduría,Masculino,21,Deporte en equipo,Salud,83.7,1.56,1-2 días,Tarde,Ninguna,34.4
+8380,Contaduría,Masculino,20,Running,Otro,87.4,1.9,0 días,Tarde,Ninguna,24.2
+8381,Administración,Masculino,22,Running,Salud,69.5,1.91,0 días,Noche,Ninguna,19.1
+8382,Contaduría,Masculino,22,Yoga,Competencia,51.8,1.71,1-2 días,Tarde,Ninguna,17.7
+8383,Economía,Femenino,22,Yoga,Competencia,84.5,1.86,1-2 días,Mañana,Ninguna,24.4
+8384,Administración,Femenino,17,Deporte en equipo,Salud,46.8,1.66,1-2 días,Mañana,Ninguna,17.0
+8385,Economía,Masculino,22,Running,Competencia,81.3,1.89,0 días,Noche,Ninguna,22.8
+8386,Contaduría,Femenino,17,Yoga,Social,75.6,1.87,3+ días,Tarde,Ninguna,21.6
+8387,Economía,Femenino,21,Deporte en equipo,Salud,85.7,1.54,3+ días,Tarde,Fractura,36.1
+8388,Administración,Femenino,23,Running,Competencia,85.4,1.76,3+ días,Mañana,Ninguna,27.6
+8389,Contaduría,Femenino,17,Gimnasio,Competencia,47.4,1.79,1-2 días,Mañana,Ninguna,14.8
+8390,Economía,Femenino,29,Deporte en equipo,Salud,72.4,1.5,1-2 días,Noche,Esguince,32.2
+8391,Administración,Femenino,17,Gimnasio,Salud,50.6,1.94,1-2 días,Tarde,Ninguna,13.4
+8392,Contaduría,Masculino,29,Gimnasio,Salud,48.5,1.68,3+ días,Mañana,Lumbalgia,17.2
+8393,Administración,Masculino,29,Yoga,Competencia,65.2,1.73,0 días,Tarde,Ninguna,21.8
+8394,Administración,Masculino,22,Deporte en equipo,Social,49.4,1.59,3+ días,Mañana,Ninguna,19.5
+8395,Contaduría,Masculino,23,Yoga,Competencia,77.8,1.77,1-2 días,Noche,Ninguna,24.8
+8396,Contaduría,Femenino,22,Running,Salud,88.6,1.86,3+ días,Tarde,Esguince,25.6
+8397,Contaduría,Femenino,21,Ninguna,Salud,70.6,1.76,3+ días,Tarde,Ninguna,22.8
+8398,Administración,Femenino,22,Running,Social,55.6,1.85,1-2 días,Tarde,Ninguna,16.2
+8399,Administración,Masculino,29,Deporte en equipo,Salud,82.9,1.83,3+ días,Noche,Ninguna,24.8
+8400,Administración,Masculino,19,Running,Social,83.4,1.61,1-2 días,Noche,Ninguna,32.2
+8401,Contaduría,Femenino,25,Gimnasio,Competencia,78.0,1.7,3+ días,Mañana,Ninguna,27.0
+8402,Economía,Femenino,21,Running,Salud,72.7,1.57,3+ días,Noche,Ninguna,29.5
+8403,Contaduría,Masculino,18,Deporte en equipo,Salud,84.1,1.52,3+ días,Noche,Ninguna,36.4
+8404,Administración,Masculino,28,Gimnasio,Salud,52.3,1.53,0 días,Mañana,Ninguna,22.3
+8405,Economía,Masculino,26,Running,Competencia,86.9,1.92,1-2 días,Noche,Fascitis plantar,23.6
+8406,Contaduría,Femenino,26,Gimnasio,Social,87.6,1.94,3+ días,Tarde,Ninguna,23.3
+8407,Contaduría,Femenino,23,Gimnasio,Competencia,84.2,1.54,3+ días,Tarde,Lumbalgia,35.5
+8408,Administración,Masculino,19,Deporte en equipo,Salud,56.3,1.65,0 días,Mañana,Ninguna,20.7
+8409,Contaduría,Masculino,17,Ninguna,Salud,83.6,1.55,0 días,Tarde,Ninguna,34.8
+8410,Administración,Masculino,19,Running,Competencia,67.4,1.88,1-2 días,Mañana,Ninguna,19.1
+8411,Administración,Masculino,25,Deporte en equipo,Salud,71.8,1.72,3+ días,Noche,Ninguna,24.3
+8412,Administración,Masculino,21,Ninguna,Competencia,82.8,1.78,3+ días,Noche,Ninguna,26.1
+8413,Administración,Masculino,23,Deporte en equipo,Salud,46.3,1.74,1-2 días,Tarde,Esguince,15.3
+8414,Administración,Femenino,19,Deporte en equipo,Salud,61.3,1.82,0 días,Tarde,Ninguna,18.5
+8415,Administración,Femenino,20,Gimnasio,Salud,81.7,1.64,1-2 días,Tarde,Ninguna,30.4
+8416,Administración,Masculino,17,Running,Salud,81.6,1.56,1-2 días,Mañana,Ninguna,33.5
+8417,Contaduría,Femenino,19,Running,Competencia,83.2,1.51,3+ días,Tarde,Ninguna,36.5
+8418,Administración,Femenino,23,Running,Salud,52.6,1.7,1-2 días,Tarde,Ninguna,18.2
+8419,Contaduría,Masculino,20,Yoga,Social,76.8,1.91,1-2 días,Mañana,Ninguna,21.1
+8420,Administración,Masculino,18,Running,Salud,51.6,1.64,3+ días,Mañana,Ninguna,19.2
+8421,Economía,Femenino,21,Gimnasio,Salud,80.3,1.59,1-2 días,Tarde,Ninguna,31.8
+8422,Economía,Femenino,21,Ninguna,Salud,56.0,1.92,1-2 días,Tarde,Ninguna,15.2
+8423,Administración,Masculino,18,Running,Salud,78.2,1.55,3+ días,Noche,Ninguna,32.5
+8424,Contaduría,Masculino,27,Ninguna,Salud,65.5,1.52,1-2 días,Mañana,Ninguna,28.4
+8425,Administración,Masculino,22,Deporte en equipo,Otro,89.4,1.9,3+ días,Mañana,Ninguna,24.8
+8426,Economía,Femenino,26,Gimnasio,Salud,71.1,1.82,0 días,Tarde,Ninguna,21.5
+8427,Contaduría,Femenino,20,Deporte en equipo,Salud,73.5,1.69,3+ días,Tarde,Fractura,25.7
+8428,Administración,Masculino,17,Deporte en equipo,Salud,61.6,1.84,0 días,Tarde,Ninguna,18.2
+8429,Administración,Masculino,19,Gimnasio,Salud,78.1,1.83,0 días,Tarde,Ninguna,23.3
+8430,Administración,Masculino,25,Running,Salud,67.3,1.52,1-2 días,Tarde,Ninguna,29.1
+8431,Administración,Femenino,26,Running,Social,45.8,1.8,3+ días,Tarde,Ninguna,14.1
+8432,Contaduría,Femenino,23,Deporte en equipo,Salud,72.4,1.79,3+ días,Mañana,Ninguna,22.6
+8433,Contaduría,Femenino,29,Gimnasio,Salud,82.4,1.93,1-2 días,Mañana,Ninguna,22.1
+8434,Administración,Masculino,22,Deporte en equipo,Otro,55.7,1.93,0 días,Mañana,Esguince,15.0
+8435,Administración,Masculino,17,Gimnasio,Salud,54.9,1.67,1-2 días,Mañana,Ninguna,19.7
+8436,Administración,Femenino,25,Running,Salud,72.4,1.77,1-2 días,Mañana,Ninguna,23.1
+8437,Administración,Femenino,29,Gimnasio,Salud,81.8,1.56,3+ días,Mañana,Ninguna,33.6
+8438,Economía,Masculino,25,Gimnasio,Salud,56.2,1.53,1-2 días,Noche,Ninguna,24.0
+8439,Administración,Femenino,17,Running,Salud,87.0,1.69,3+ días,Mañana,Ninguna,30.5
+8440,Contaduría,Masculino,29,Gimnasio,Social,86.7,1.81,3+ días,Mañana,Lumbalgia,26.5
+8441,Administración,Masculino,29,Running,Social,54.0,1.76,1-2 días,Noche,Ninguna,17.4
+8442,Administración,Femenino,22,Ninguna,Competencia,56.9,1.69,3+ días,Tarde,Ninguna,19.9
+8443,Contaduría,Femenino,23,Running,Salud,76.5,1.87,0 días,Tarde,Ninguna,21.9
+8444,Contaduría,Masculino,18,Deporte en equipo,Social,87.8,1.86,0 días,Tarde,Fractura,25.4
+8445,Administración,Femenino,26,Ninguna,Salud,76.9,1.83,3+ días,Tarde,Ninguna,23.0
+8446,Contaduría,Femenino,24,Ninguna,Salud,65.0,1.53,1-2 días,Mañana,Ninguna,27.8
+8447,Contaduría,Masculino,24,Yoga,Salud,52.6,1.86,0 días,Mañana,Ninguna,15.2
+8448,Administración,Masculino,22,Gimnasio,Salud,65.7,1.91,3+ días,Noche,Lumbalgia,18.0
+8449,Contaduría,Masculino,25,Deporte en equipo,Social,72.3,1.53,1-2 días,Mañana,Esguince,30.9
+8450,Contaduría,Femenino,19,Yoga,Competencia,59.9,1.68,1-2 días,Mañana,Sobrecarga muscular,21.2
+8451,Administración,Femenino,18,Yoga,Competencia,68.0,1.94,3+ días,Tarde,Sobrecarga muscular,18.1
+8452,Contaduría,Femenino,18,Deporte en equipo,Competencia,50.9,1.77,1-2 días,Mañana,Ninguna,16.2
+8453,Administración,Femenino,22,Gimnasio,Competencia,65.3,1.73,3+ días,Tarde,Ninguna,21.8
+8454,Administración,Masculino,23,Ninguna,Salud,49.1,1.58,0 días,Noche,Ninguna,19.7
+8455,Contaduría,Femenino,22,Running,Salud,47.2,1.75,1-2 días,Noche,Ninguna,15.4
+8456,Economía,Masculino,27,Running,Social,83.6,1.7,3+ días,Tarde,Ninguna,28.9
+8457,Economía,Femenino,19,Running,Salud,54.2,1.56,1-2 días,Mañana,Fascitis plantar,22.3
+8458,Administración,Femenino,21,Running,Otro,70.9,1.71,3+ días,Noche,Ninguna,24.2
+8459,Administración,Masculino,24,Gimnasio,Salud,51.7,1.57,3+ días,Mañana,Ninguna,21.0
+8460,Contaduría,Femenino,22,Running,Salud,56.8,1.83,3+ días,Mañana,Fascitis plantar,17.0
+8461,Administración,Femenino,18,Ninguna,Salud,61.3,1.94,1-2 días,Tarde,Ninguna,16.3
+8462,Contaduría,Femenino,23,Running,Social,51.5,1.71,1-2 días,Tarde,Ninguna,17.6
+8463,Contaduría,Femenino,24,Running,Salud,47.1,1.78,3+ días,Mañana,Ninguna,14.9
+8464,Economía,Femenino,20,Yoga,Competencia,84.5,1.69,1-2 días,Tarde,Ninguna,29.6
+8465,Administración,Femenino,28,Running,Salud,45.5,1.56,1-2 días,Noche,Esguince,18.7
+8466,Administración,Masculino,17,Running,Competencia,47.8,1.94,1-2 días,Mañana,Ninguna,12.7
+8467,Economía,Masculino,18,Running,Salud,81.2,1.56,0 días,Tarde,Fascitis plantar,33.4
+8468,Contaduría,Femenino,20,Gimnasio,Salud,57.7,1.55,0 días,Mañana,Ninguna,24.0
+8469,Economía,Femenino,23,Gimnasio,Salud,77.5,1.71,3+ días,Tarde,Ninguna,26.5
+8470,Administración,Masculino,18,Deporte en equipo,Salud,51.6,1.8,1-2 días,Mañana,Ninguna,15.9
+8471,Contaduría,Femenino,22,Ninguna,Salud,55.7,1.66,0 días,Tarde,Ninguna,20.2
+8472,Contaduría,Masculino,18,Deporte en equipo,Competencia,70.8,1.59,3+ días,Mañana,Ninguna,28.0
+8473,Administración,Masculino,28,Gimnasio,Salud,89.5,1.87,1-2 días,Noche,Ninguna,25.6
+8474,Contaduría,Femenino,23,Running,Salud,48.3,1.66,3+ días,Noche,Ninguna,17.5
+8475,Contaduría,Masculino,18,Gimnasio,Salud,63.0,1.59,0 días,Noche,Ninguna,24.9
+8476,Administración,Masculino,19,Running,Salud,46.9,1.66,3+ días,Mañana,Ninguna,17.0
+8477,Administración,Masculino,25,Gimnasio,Salud,54.0,1.6,1-2 días,Mañana,Ninguna,21.1
+8478,Contaduría,Femenino,29,Yoga,Salud,85.8,1.73,3+ días,Tarde,Ninguna,28.7
+8479,Contaduría,Masculino,20,Gimnasio,Salud,49.3,1.8,0 días,Tarde,Ninguna,15.2
+8480,Economía,Masculino,21,Gimnasio,Salud,83.6,1.86,1-2 días,Noche,Tendinitis,24.2
+8481,Administración,Femenino,25,Running,Salud,53.0,1.6,1-2 días,Tarde,Esguince,20.7
+8482,Administración,Masculino,23,Gimnasio,Competencia,83.8,1.58,3+ días,Tarde,Lumbalgia,33.6
+8483,Estadística,Femenino,24,Deporte en equipo,Salud,69.2,1.51,0 días,Mañana,Esguince,30.3
+8484,Economía,Femenino,27,Ninguna,Salud,84.5,1.6,3+ días,Noche,Ninguna,33.0
+8485,Administración,Masculino,19,Gimnasio,Salud,51.8,1.51,0 días,Mañana,Ninguna,22.7
+8486,Contaduría,Masculino,27,Running,Salud,79.3,1.66,0 días,Mañana,Fascitis plantar,28.8
+8487,Administración,Masculino,27,Ninguna,Salud,75.6,1.57,1-2 días,Noche,Ninguna,30.7
+8488,Administración,Masculino,20,Deporte en equipo,Competencia,69.4,1.76,3+ días,Tarde,Ninguna,22.4
+8489,Administración,Femenino,23,Ninguna,Salud,81.5,1.67,3+ días,Mañana,Ninguna,29.2
+8490,Administración,Femenino,20,Gimnasio,Otro,74.2,1.54,3+ días,Mañana,Ninguna,31.3
+8491,Economía,Masculino,18,Gimnasio,Salud,84.5,1.68,3+ días,Mañana,Ninguna,29.9
+8492,Contaduría,Femenino,26,Gimnasio,Competencia,62.1,1.59,0 días,Tarde,Ninguna,24.6
+8493,Estadística,Masculino,22,Running,Competencia,71.5,1.81,3+ días,Mañana,Ninguna,21.8
+8494,Contaduría,Femenino,25,Deporte en equipo,Salud,84.2,1.66,1-2 días,Noche,Esguince,30.6
+8495,Administración,Femenino,18,Gimnasio,Salud,54.7,1.57,3+ días,Mañana,Ninguna,22.2
+8496,Contaduría,Femenino,17,Running,Salud,66.9,1.66,0 días,Tarde,Esguince,24.3
+8497,Estadística,Femenino,24,Gimnasio,Social,88.2,1.6,3+ días,Mañana,Lumbalgia,34.5
+8498,Contaduría,Masculino,17,Yoga,Salud,66.3,1.86,0 días,Mañana,Ninguna,19.2
+8499,Contaduría,Masculino,17,Gimnasio,Salud,56.4,1.94,1-2 días,Tarde,Ninguna,15.0
+8500,Economía,Masculino,19,Gimnasio,Salud,60.8,1.51,0 días,Tarde,Ninguna,26.7
+8501,Administración,Femenino,21,Deporte en equipo,Salud,84.8,1.81,0 días,Mañana,Fractura,25.9
+8502,Contaduría,Femenino,29,Gimnasio,Social,88.0,1.62,1-2 días,Tarde,Ninguna,33.5
+8503,Economía,Femenino,28,Running,Competencia,87.8,1.53,3+ días,Noche,Fascitis plantar,37.5
+8504,Estadística,Femenino,25,Running,Salud,76.5,1.51,3+ días,Mañana,Ninguna,33.6
+8505,Administración,Femenino,27,Yoga,Salud,67.9,1.9,1-2 días,Mañana,Ninguna,18.8
+8506,Contaduría,Femenino,26,Deporte en equipo,Salud,53.2,1.66,0 días,Tarde,Fractura,19.3
+8507,Contaduría,Femenino,18,Deporte en equipo,Social,50.5,1.95,1-2 días,Tarde,Ninguna,13.3
+8508,Administración,Femenino,28,Ninguna,Social,47.7,1.7,3+ días,Mañana,Ninguna,16.5
+8509,Contaduría,Femenino,28,Ninguna,Salud,45.8,1.58,0 días,Mañana,Ninguna,18.3
+8510,Administración,Masculino,17,Deporte en equipo,Salud,84.5,1.85,1-2 días,Tarde,Esguince,24.7
+8511,Administración,Femenino,17,Running,Social,81.4,1.92,0 días,Noche,Fascitis plantar,22.1
+8512,Administración,Femenino,24,Deporte en equipo,Salud,70.6,1.87,1-2 días,Tarde,Esguince,20.2
+8513,Contaduría,Masculino,26,Running,Salud,89.9,1.84,0 días,Mañana,Ninguna,26.6
+8514,Administración,Femenino,26,Ninguna,Salud,87.9,1.65,0 días,Tarde,Ninguna,32.3
+8515,Contaduría,Masculino,26,Deporte en equipo,Salud,74.5,1.53,0 días,Mañana,Ninguna,31.8
+8516,Administración,Femenino,18,Gimnasio,Salud,65.9,1.59,1-2 días,Mañana,Ninguna,26.1
+8517,Administración,Masculino,29,Gimnasio,Otro,51.8,1.7,1-2 días,Tarde,Ninguna,17.9
+8518,Administración,Femenino,25,Gimnasio,Salud,68.2,1.93,1-2 días,Noche,Ninguna,18.3
+8519,Administración,Masculino,25,Gimnasio,Salud,52.1,1.83,0 días,Noche,Ninguna,15.6
+8520,Contaduría,Femenino,18,Gimnasio,Salud,62.9,1.87,0 días,Mañana,Lumbalgia,18.0
+8521,Contaduría,Masculino,19,Running,Competencia,87.4,1.62,0 días,Tarde,Fascitis plantar,33.3
+8522,Administración,Femenino,18,Gimnasio,Salud,60.4,1.81,3+ días,Mañana,Tendinitis,18.4
+8523,Administración,Femenino,22,Deporte en equipo,Salud,51.9,1.89,1-2 días,Mañana,Ninguna,14.5
+8524,Contaduría,Masculino,23,Gimnasio,Salud,71.2,1.72,3+ días,Noche,Ninguna,24.1
+8525,Administración,Femenino,28,Gimnasio,Competencia,72.1,1.69,1-2 días,Noche,Ninguna,25.2
+8526,Estadística,Masculino,22,Running,Salud,53.7,1.82,1-2 días,Mañana,Ninguna,16.2
+8527,Contaduría,Femenino,19,Yoga,Salud,53.8,1.75,0 días,Mañana,Ninguna,17.6
+8528,Administración,Femenino,28,Running,Salud,89.5,1.95,1-2 días,Mañana,Esguince,23.5
+8529,Administración,Masculino,19,Running,Salud,55.9,1.69,1-2 días,Tarde,Ninguna,19.6
+8530,Contaduría,Femenino,28,Deporte en equipo,Otro,82.7,1.58,3+ días,Noche,Ninguna,33.1
+8531,Administración,Femenino,18,Gimnasio,Competencia,66.2,1.71,3+ días,Mañana,Ninguna,22.6
+8532,Administración,Masculino,18,Running,Salud,64.6,1.61,1-2 días,Tarde,Ninguna,24.9
+8533,Administración,Masculino,27,Gimnasio,Salud,58.3,1.75,1-2 días,Mañana,Ninguna,19.0
+8534,Contaduría,Masculino,28,Deporte en equipo,Salud,79.8,1.56,0 días,Mañana,Ninguna,32.8
+8535,Contaduría,Femenino,21,Deporte en equipo,Salud,84.6,1.93,1-2 días,Tarde,Ninguna,22.7
+8536,Administración,Femenino,27,Deporte en equipo,Competencia,56.8,1.89,3+ días,Noche,Ninguna,15.9
+8537,Contaduría,Femenino,27,Gimnasio,Salud,49.3,1.57,0 días,Mañana,Ninguna,20.0
+8538,Administración,Femenino,24,Deporte en equipo,Salud,51.2,1.58,3+ días,Mañana,Ninguna,20.5
+8539,Contaduría,Masculino,22,Gimnasio,Otro,80.7,1.73,1-2 días,Mañana,Ninguna,27.0
+8540,Administración,Femenino,25,Gimnasio,Salud,64.6,1.85,1-2 días,Tarde,Ninguna,18.9
+8541,Contaduría,Femenino,27,Running,Salud,50.9,1.6,0 días,Mañana,Esguince,19.9
+8542,Estadística,Femenino,21,Deporte en equipo,Competencia,60.3,1.53,1-2 días,Tarde,Ninguna,25.8
+8543,Administración,Masculino,26,Gimnasio,Social,68.1,1.75,1-2 días,Mañana,Ninguna,22.2
+8544,Administración,Masculino,20,Deporte en equipo,Competencia,83.3,1.81,1-2 días,Mañana,Esguince,25.4
+8545,Administración,Masculino,25,Yoga,Competencia,73.9,1.61,1-2 días,Tarde,Ninguna,28.5
+8546,Administración,Femenino,28,Gimnasio,Salud,52.9,1.83,0 días,Mañana,Lumbalgia,15.8
+8547,Administración,Masculino,26,Running,Salud,52.1,1.93,1-2 días,Tarde,Esguince,14.0
+8548,Economía,Masculino,27,Gimnasio,Salud,63.6,1.56,1-2 días,Tarde,Ninguna,26.1
+8549,Economía,Femenino,21,Running,Competencia,48.4,1.73,3+ días,Noche,Fascitis plantar,16.2
+8550,Administración,Femenino,17,Gimnasio,Salud,79.0,1.53,3+ días,Mañana,Ninguna,33.7
