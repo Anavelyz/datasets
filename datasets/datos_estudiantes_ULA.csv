@@ -1,0 +1,561 @@
+﻿ID_Estudiante,Carrera,Edad,Sexo,Semestre,Nota_Promedio,Modalidad_Ingreso,Horas_Estudio_Semana,Trabaja,Tipo_Colegio,Estado_Procedencia,Año_Ingreso
+7001,Administración,34,Masculino,2,13.8,Artista de Destacada Trayectoria,18.6,No,Público,Táchira,2016
+7002,Estadística,28,Masculino,1,18.63,Población Indígena Venezolana,7.0,Sí,Público,Barinas,2016
+7003,Contaduría,17,Femenino,10,15.19,Prueba de Habilidades Específicas,16.5,Parcial,Público,Zulia,2022
+7004,Contaduría,28,Masculino,2,14.79,Prueba de Habilidades Específicas,17.1,Sí,Público,Aragua,2016
+7005,Administración,21,Masculino,7,10.26,Población Indígena Venezolana,9.1,Sí,Privado,Bolívar,2023
+7006,Administración,33,Femenino,3,13.41,Población Indígena Venezolana,28.6,Sí,Semi-privado,Mérida,2015
+7007,Administración,32,Femenino,10,13.8,Alto Rendimiento,26.2,No,Privado,Caracas,2023
+7008,Economía,31,Masculino,2,13.99,Cambio de Opción,21.7,No,Otro,Zulia,2015
+7009,Contaduría,31,Masculino,7,15.8,Alto Rendimiento,16.6,No,Privado,Barinas,2016
+7010,Contaduría,21,Femenino,2,15.34,Población Indígena Venezolana,15.3,Sí,Privado,Bolívar,2020
+7011,Admón,30,Femenino,3,16.08,Cambio de Opción,21.3,No,Otro,Lara,2020
+7012,Admón,18,Femenino,7,17.65,Carreras Paralelas,18.6,No,Público,Mérida,2015
+7013,Admón,27,Femenino,4,18.13,Alto Rendimiento,6.6,No,Otro,Aragua,2021
+7014,Admón,23,Femenino,1,17.18,Prueba de Habilidades Específicas,17.8,No,Público,Bolívar,2022
+7015,Admón,22,Masculino,5,19.56,Atleta de Alta Competencia,25.2,Sí,Público,Táchira,2016
+7016,Admón,18,Femenino,9,10.18,Convenio ULA-Gremios,16.5,Parcial,Público,Bolívar,2022
+7017,Administración,22,Femenino,8,11.96,Carreras Paralelas,6.3,No,Semi-privado,Mérida,2023
+7018,Contaduría,34,Femenino,9,10.08,Atleta de Alta Competencia,24.7,Sí,Público,Caracas,2020
+7019,Administración,18,Femenino,10,16.47,Artista de Destacada Trayectoria,10.0,No,Otro,Lara,2019
+7020,Administración,34,Femenino,9,18.98,Población Indígena Venezolana,11.5,Sí,Público,Barinas,2023
+7021,Contaduría,31,Masculino,7,-2.0,Cambio de Opción,9.1,Sí,Público,Bolívar,2023
+7022,Administración,18,Femenino,4,25.0,Convenio ULA-Gremios,13.3,No,Privado,Mérida,2015
+7023,Administración,22,Femenino,5,30.5,Convenio ULA-Gremios,23.9,No,Público,,2017
+7024,Administración,17,Femenino,1,18.0,Población Indígena Venezolana,18.0,No,Privado,Táchira,2023
+7025,Contaduría,31,Masculino,1,15.0,Cambio de Opción,10.1,No,Público,Lara,2016
+7026,Contaduría,26,Femenino,3,22.0,Alto Rendimiento,26.9,Sí,Semi-privado,Lara,2018
+7027,Administración,33,Femenino,8,14.86,Alto Rendimiento,27.0,No,Público,Mérida,2018
+7028,Contaduría,21,Femenino,2,12.57,Artista de Destacada Trayectoria,26.8,No,Público,Lara,2016
+7029,Contaduría,20,Femenino,4,12.85,Cambio de Opción,11.0,No,Privado,Bolívar,2017
+7030,Administración,26,Masculino,2,13.07,Atleta de Alta Competencia,16.3,No,Privado,Bolívar,2017
+7031,Contaduría,33,Femenino,5,18.03,Prueba,29.6,Sí,Público,Aragua,2015
+7032,Administración,26,Femenino,9,15.39,Prueba,24.3,No,Público,Lara,2020
+7033,Administración,33,Femenino,1,13.11,Prueba,5.7,No,Público,Mérida,2022
+7034,Economía,21,Femenino,5,16.1,Prueba,6.6,Sí,Semi-privado,Zulia,2017
+7035,Estadística,18,Masculino,9,17.16,Prueba,16.6,No,Público,Bolívar,2019
+7036,Economía,22,Femenino,1,12.73,Prueba,27.7,No,Público,Bolívar,2015
+7037,Administración,18,Femenino,9,14.14,Cambio de Opción,18.5,No,Privado,Barinas,2021
+7038,Administración,29,Femenino,8,11.22,Prueba de Habilidades Específicas,17.4,Sí,Público,Mérida,2015
+7039,Contaduría,27,Masculino,4,11.81,Artista de Destacada Trayectoria,7.6,Sí,Privado,Bolívar,2023
+7040,Administración,27,Femenino,10,16.81,Carreras Paralelas,21.4,Parcial,Semi-privado,Bolívar,2022
+7041,Administración,32,Masculino,5,11.81,Prueba de Habilidades Específicas,25.6,Sí,Público,Merida,2021
+7042,Contaduría,27,Femenino,5,15.25,Prueba de Habilidades Específicas,14.5,No,Semi-privado,Merida,2021
+7043,Administración,31,Masculino,6,17.09,Prueba de Habilidades Específicas,24.4,Sí,Semi-privado,Merida,2019
+7044,Economía,32,Femenino,7,11.07,Convenio ULA-Gremios,29.1,Sí,Privado,Merida,2019
+7045,Administración,27,Femenino,8,15.67,Prueba de Habilidades Específicas,10.1,Sí,Público,Merida,2019
+7046,Contaduría,32,Femenino,8,12.57,Carreras Paralelas,18.1,Sí,Otro,Merida,2015
+7047,Administración,24,Masculino,2,19.63,Atleta de Alta Competencia,12.2,No,Privado,Táchira,2022
+7048,Contaduría,20,Masculino,9,14.84,Carreras Paralelas,24.8,No,Semi-privado,Barinas,2015
+7049,Contaduría,24,Femenino,7,18.06,Cambio de Opción,19.4,No,Público,Mérida,2018
+7050,Administración,20,Femenino,4,15.5,Alto Rendimiento,20.9,Sí,Público,Barinas,2023
+7051,Admnistración,19,Femenino,4,10.43,Convenio ULA-Gremios,24.9,No,Público,Aragua,2023
+7052,Contaduria,19,Masculino,8,16.33,Alto Rendimiento,14.9,No,Privado,Bolívar,2019
+7053,Económia,34,Masculino,4,19.51,Alto Rendimiento,27.9,Sí,Público,Zulia,2018
+7054,Estadisticas,21,Masculino,6,16.02,Prueba,18.3,Sí,Privado,Zulia,2017
+7055,Admin,34,Masculino,5,18.19,Carreras Paralelas,8.9,No,Semi-privado,Lara,2017
+7056,Conta,26,Masculino,3,18.84,Artista de Destacada Trayectoria,22.4,No,Privado,Bolívar,2019
+7057,Administración,22,Femenino,10,12.28,Convenio ULA-Gremios,24.8,No,Público,Mérida,2015
+7058,Administración,17,Femenino,2,12.12,Alto Rendimiento,12.9,Sí,Público,Barinas,2019
+7059,Administración,21,Femenino,9,16.11,Alto Rendimiento,26.4,No,Otro,Aragua,2020
+7060,Administración,25,Femenino,10,14.11,Alto Rendimiento,27.7,Sí,Público,Lara,2021
+7061,Administración,28,femenino,9,18.4,Atleta de Alta Competencia,11.9,Sí,Privado,Caracas,2023
+7062,Administración,30,MASCULINO,1,19.0,Artista de Destacada Trayectoria,29.6,Sí,Público,Mérida,2017
+7063,Economía,18,Femenino,10,13.53,Artista de Destacada Trayectoria,8.5,No,Privado,Lara,2016
+7064,Administración,33,masculino,3,12.37,Convenio ULA-Gremios,10.1,Sí,Público,Mérida,2017
+7065,Administración,30,FEMENINO,8,17.81,Cambio de Opción,9.6,Sí,Público,Mérida,2023
+7066,Contaduría,29,Masculino,6,12.75,Población Indígena Venezolana,27.3,No,Público,Caracas,2021
+7067,Administración,25,Masculino,5,18.23,Atleta de Alta Competencia,21.4,Parcial,Público,Mérida,2023
+7068,Economía,31,Masculino,5,14.24,Convenio ULA-Gremios,8.8,Sí,Privado,Bolívar,2016
+7069,Administración,31,Femenino,6,16.68,Artista de Destacada Trayectoria,16.0,No,Privado,Aragua,2019
+7070,Estadística,27,Femenino,7,10.96,Convenio ULA-Gremios,20.4,Sí,Público,Lara,2018
+7071,Contaduría,32,Masculino,1,16.24,Prueba habilidades,7.1,Sí,Público,Caracas,2016
+7072,Administración,33,Masculino,9,14.52,Convenio gremios,27.1,Parcial,Público,Caracass,2023
+7073,Administración,20,Femenino,3,15.87,Poblacion indigena,25.1,No,Público,Táchira,2023
+7074,Economía,17,Masculino,4,11.68,Artista destacado,17.6,No,Público,Zulia,2020
+7075,Contaduría,24,Femenino,10,17.37,Atleta competencia,29.2,No,Público,Mérida,2020
+7076,Contaduría,33,Masculino,1,18.63,Alto rend,15.4,Sí,Público,Bolívar,2022
+7077,Contaduría,19,Masculino,10,12.17,Cambio de Opción,29.6,Sí,Otro,Barinas,2020
+7078,Administración,31,Femenino,3,10.96,Artista de Destacada Trayectoria,21.7,Sí,Privado,Zulia,2015
+7079,Administración,31,Masculino,2,10.24,Prueba de Habilidades Específicas,20.9,No,Público,Táchira,2018
+7080,Administración,30,Femenino,2,16.42,Prueba de Habilidades Específicas,9.1,No,Público,Barinas,2021
+7081,Economía,30,Masculino,1,16.07,Prueba de Habilidades Específicas,27.0,Sí,Público,Merida,2016
+7082,Contaduría,18,Femenino,8,15.47,Prueba de Habilidades Específicas,15.7,Sí,Público,tachira,2023
+7083,Administración,29,Masculino,3,12.32,Cambio de Opción,9.1,Sí,Otro,ZULIA,2022
+7084,Administración,30,Femenino,3,13.91,Población Indígena Venezolana,5.3,No,Privado,barinas,2022
+7085,Administración,23,Masculino,6,15.94,Convenio ULA-Gremios,19.0,No,Público,caracas,2021
+7086,Administración,19,Femenino,8,14.97,Alto Rendimiento,18.2,No,Público,LARA,2018
+7087,Contaduría,31,Femenino,9,19.88,Atleta de Alta Competencia,23.0,No,Privado,Merida,2016
+7088,Contaduría,30,Femenino,9,11.36,Población Indígena Venezolana,27.3,Parcial,Público,Bolívar,2017
+7089,Economía,27,Masculino,4,16.95,Artista de Destacada Trayectoria,7.0,Sí,Público,Aragua,2020
+7090,Contaduría,31,,5,14.04,Prueba de Habilidades Específicas,23.3,No,Público,Aragua,2019
+7091,Administración,29,Femenino,2,14.28,Prueba,9.7,Sí,publico,Barinas,2022
+7092,Contaduría,34,Masculino,9,17.18,Artista de Destacada Trayectoria,26.5,No,PRIVADO,Barinas,2020
+7093,Contaduría,22,Femenino,8,16.92,Prueba de Habilidades Específicas,25.5,No,Semi privado,Lara,2020
+7094,Contaduría,19,Masculino,3,19.91,Prueba,18.5,Parcial,semi-privado,Zulia,2015
+7095,Contaduría,31,Masculino,9,11.28,Carreras Paralelas,22.8,Sí,otro,Bolívar,2018
+7096,Contaduría,21,Femenino,3,11.04,Prueba,12.9,Parcial,Public,Zulia,2019
+7097,Contaduría,26,Femenino,9,17.24,Artista de Destacada Trayectoria,16.8,No,Público,Lara,2017
+7098,Administración,23,Femenino,2,15.78,Atleta de Alta Competencia,25.5,Sí,Semi-privado,Barinas,2023
+7099,Administración,33,Femenino,10,12.74,Carreras Paralelas,16.5,No,Privado,Aragua,2015
+7100,Administración,23,Masculino,9,10.79,Carreras Paralelas,13.9,Parcial,Público,Barinas,2020
+7101,Administración,28,Masculino,8,10.86,Alto Rendimiento,17.4,si,Privado,Mérida,2020
+7102,Contaduría,33,,9,18.94,Población Indígena Venezolana,25.7,NO,Privado,Barinas,2019
+7103,Administración,29,Femenino,5,11.92,Prueba de Habilidades Específicas,13.4,Si,Público,Merida,2019
+7104,Contaduría,20,Femenino,2,13.23,Artista de Destacada Trayectoria,9.3,no,Público,Caracas,2019
+7105,Economía,26,Masculino,8,12.27,Alto Rendimiento,22.8,parcialmente,Público,Aragua,2020
+7106,Administración,19,Masculino,6,13.55,Convenio ULA-Gremios,25.6,Parcial,Público,Táchira,2022
+7107,Administración,25,Masculino,8,10.69,Carreras Paralelas,7.5,No,Público,Táchira,2016
+7108,Contaduría,29,Femenino,5,15.19,Cambio de Opción,11.0,No,Público,Zulia,2020
+7109,Administración,34,Femenino,10,10.68,Carreras Paralelas,8.5,Parcial,,Mérida,2015
+7110,Administración,31,Femenino,2,18.0,Prueba de Habilidades Específicas,13.7,No,Privado,Mérida,2018
+7111, Administración,20,Masculino,6,12.34,Alto Rendimiento,16.3,Sí,Privado,Táchira,2017
+7112,Contaduría   ,31,Masculino,5,15.4,Alto Rendimiento,23.7,Sí,Público,Zulia,2023
+7113,Economía,18,Masculino,5,18.8,  Prueba de Habilidades Específicas,21.3,Sí,Privado,Aragua,2017
+7114,Economía,31,Masculino,1,16.51,Población Indígena Venezolana,20.5,Sí,,Mérida  ,2020
+7115,Contaduría,24,Masculino,2,15.33,Atleta de Alta Competencia,13.8,Parcial,Público,Aragua,2015
+7116,Economía,24,Masculino,8,13.24,Prueba de Habilidades Específicas,26.0,No,,Táchira,2020
+7117,Economía,33,Femenino,3,13.33,Atleta de Alta Competencia,16.8,Sí,Público,Zulia,2018
+7118,Administración,28,Femenino,10,16.69,Atleta de Alta Competencia,29.5,No,Público,Mérida,2022
+7119,Economía,26,Masculino,3,19.94,Atleta de Alta Competencia,20.9,Sí,Público,Barinas,2023
+7120,Contaduría,25,Femenino,8,16.62,Convenio ULA-Gremios,8.2,No,Público,Lara,2018
+7121,Economía,21,Femenino,8,15.58,Prueba,21.9,No,Público,Barinas,2020
+7122,Economía,22,Masculino,2,17.31,Alto Rendimiento,13.1,No,Otro,Caracas,2015
+7123,Administración,18,Femenino,8,14.65,Convenio ULA-Gremios,22.2,No,Privado,Táchira,2018
+7124,Administración,29,Femenino,1,10.6,Prueba,6.7,Parcial,Público,Bolívar,2021
+7125,Administración,22,Femenino,6,15.62,Población Indígena Venezolana,9.4,No,,Barinas,2015
+7126,Administración,21,Masculino,8,19.58,Población Indígena Venezolana,26.4,No,Privado,Barinas,2022
+7127,Economía,17,Masculino,3,11.75,Prueba de Habilidades Específicas,10.7,No,Público,Táchira,2020
+7128,Economía,22,Masculino,8,16.9,Artista de Destacada Trayectoria,25.9,No,Público,Barinas,2019
+7129,Administración,22,Masculino,1,12.01,Carreras Paralelas,12.0,Sí,Público,Barinas,2023
+7130,Contaduría,32,Masculino,9,15.36,Convenio ULA-Gremios,21.1,No,Público,Bolívar,2016
+7131,Administración,20,Masculino,9,10.97,Artista de Destacada Trayectoria,22.4,Sí,Público,Bolívar,2019
+7132,Administración,27,Masculino,5,14.5,Atleta de Alta Competencia,17.8,No,Privado,Bolívar,2020
+7133,Administración,25,Femenino,10,17.56,Convenio ULA-Gremios,12.6,No,Público,Bolívar,2021
+7134,Administración,19,Femenino,4,13.48,Prueba de Habilidades Específicas,10.3,Sí,Privado,Barinas,2019
+7135,Economía,24,Masculino,6,16.65,Población Indígena Venezolana,5.8,No,Otro,Zulia,2023
+7136,Administración,21,Femenino,7,17.95,Población Indígena Venezolana,12.6,Parcial,Público,Mérida,2015
+7137,Contaduría,20,Femenino,5,19.27,Cambio de Opción,21.3,Sí,Público,Bolívar,2021
+7138,Contaduría,22,Femenino,10,12.35,Atleta de Alta Competencia,28.5,Parcial,Público,Táchira,2021
+7139,Administración,18,Femenino,9,13.99,Artista de Destacada Trayectoria,26.8,No,Público,Caracass,2018
+7140,Estadística,27,Masculino,3,11.52,Alto Rendimiento,24.2,No,Público,Bolívar,2023
+7141,Estadística,20,Masculino,7,19.92,Prueba de Habilidades Específicas,24.7,Sí,Semi-privado,Barinas,2019
+7142,Administración,31,Femenino,10,19.27,Prueba de Habilidades Específicas,21.6,Sí,Privado,Lara,2018
+7143,Contaduría,22,Masculino,10,15.4,Atleta de Alta Competencia,11.5,No,Público,Caracas,2021
+7144,Administración,33,Masculino,5,18.42,Atleta de Alta Competencia,27.7,No,Público,Barinas,2018
+7145,Administración,22,Masculino,7,15.21,Prueba de Habilidades Específicas,21.8,Sí,Privado,Barinas,2017
+7146,Administración,18,Femenino,2,16.24,Carreras Paralelas,19.0,Parcial,Privado,Táchira,2023
+7147,Contaduría,31,Masculino,4,10.89,Convenio ULA-Gremios,7.8,Sí,Público,Lara,2022
+7148,Contaduría,27,Masculino,2,17.55,Convenio ULA-Gremios,16.2,Sí,Público,Barinas,2015
+7149,Administración,24,Masculino,7,11.28,Población Indígena Venezolana,16.5,Sí,Público,Bolívar,2021
+7150,Administración,29,Femenino,2,18.26,Población Indígena Venezolana,26.6,Sí,Público,Barinas,2023
+7151,Economía,28,Masculino,1,17.82,Artista de Destacada Trayectoria,18.7,Sí,Público,Bolívar,2022
+7152,Administración,21,Masculino,9,17.09,Prueba de Habilidades Específicas,14.5,No,Semi-privado,Táchira,2022
+7153,Administración,22,Femenino,1,10.36,Atleta de Alta Competencia,29.4,Sí,Público,Lara,2020
+7154,Contaduría,20,Femenino,8,13.03,Prueba de Habilidades Específicas,7.8,No,Privado,Táchira,2018
+7155,Estadística,17,Masculino,2,12.63,Prueba de Habilidades Específicas,15.6,No,Público,Táchira,2022
+7156,Administración,33,Femenino,8,13.6,Cambio de Opción,6.1,Parcial,Público,Lara,2017
+7157,Contaduría,28,Femenino,3,10.88,Población Indígena Venezolana,23.5,No,Público,Táchira,2023
+7158,Contaduría,31,Masculino,6,19.37,Artista de Destacada Trayectoria,28.0,Sí,Público,Bolívar,2016
+7159,Administración,17,Masculino,3,15.54,Prueba de Habilidades Específicas,12.0,Sí,Privado,Táchira,2016
+7160,Contaduría,30,Masculino,7,13.06,Convenio ULA-Gremios,26.5,No,Público,Táchira,2021
+7161,Administración,22,Femenino,10,13.97,Artista de Destacada Trayectoria,12.3,No,Público,Lara,2018
+7162,Contaduría,21,Femenino,9,14.47,Cambio de Opción,27.8,No,Privado,Lara,2022
+7163,Contaduría,27,,2,16.01,Cambio de Opción,23.8,No,Público,Mérida,2023
+7164,Contaduría,20,Femenino,5,15.16,Alto Rendimiento,25.1,Parcial,Otro,Táchira,2021
+7165,Administración,29,Femenino,6,19.19,Convenio ULA-Gremios,5.5,No,Público,Caracas,2019
+7166,Economía,27,Masculino,4,14.97,Alto Rendimiento,29.1,No,Público,Zulia,2022
+7167,Administración,19,Femenino,4,19.92,Cambio de Opción,23.2,Sí,Público,Lara,2018
+7168,Administración,17,Masculino,4,18.51,Artista de Destacada Trayectoria,12.6,Sí,Público,Bolívar,2016
+7169,Administración,22,Femenino,2,12.09,Prueba de Habilidades Específicas,25.7,Sí,Privado,Mérida,2020
+7170,Contaduría,34,Femenino,4,19.31,Alto Rendimiento,12.0,Sí,Público,Táchira,2023
+7171,Contaduría,26,Masculino,1,11.16,Convenio ULA-Gremios,26.8,Sí,Público,Zulia,2015
+7172,Administración,21,,6,18.17,Cambio de Opción,7.8,Sí,Semi-privado,Táchira,2021
+7173,Contaduría,26,Masculino,1,13.81,Cambio de Opción,22.6,Parcial,Público,Lara,2023
+7174,Administración,28,Femenino,10,18.78,Artista de Destacada Trayectoria,18.5,Sí,Privado,Aragua,2023
+7175,Contaduría,18,Masculino,6,18.68,Prueba de Habilidades Específicas,7.4,No,Privado,Caracas,2017
+7176,Administración,29,Masculino,1,18.06,Prueba de Habilidades Específicas,11.0,No,Privado,Mérida,2019
+7177,Contaduría,24,Masculino,6,17.9,Cambio de Opción,5.3,Sí,Privado,Lara,2022
+7178,Administración,18,Masculino,10,13.05,Cambio de Opción,16.7,Parcial,Público,Táchira,2022
+7179,Economía,17,Femenino,8,10.81,Artista de Destacada Trayectoria,12.5,Sí,Privado,Lara,2018
+7180,Administración,21,Femenino,2,14.03,Atleta de Alta Competencia,20.0,No,Público,Barinas,2015
+7181,Administración,25,Masculino,2,11.74,Prueba de Habilidades Específicas,12.4,No,Privado,Caracas,2015
+7182,Administración,33,Femenino,4,16.95,Cambio de Opción,12.5,No,Público,Táchira,2018
+7183,Economía,25,Femenino,3,13.46,Cambio de Opción,23.6,No,Público,Mérida,2020
+7184,Economía,27,Femenino,4,19.76,Atleta de Alta Competencia,6.2,No,Público,Zulia,2022
+7185,Administración,31,Masculino,7,16.41,Convenio ULA-Gremios,27.6,Parcial,Privado,Táchira,2020
+7186,Contaduría,22,Masculino,1,18.22,Carreras Paralelas,26.3,No,Público,Bolívar,2023
+7187,Economía,19,Femenino,6,11.33,Artista de Destacada Trayectoria,21.7,No,Público,Lara,2023
+7188,Contaduría,33,Masculino,3,18.62,Artista de Destacada Trayectoria,19.8,No,Público,Táchira,2016
+7189,Contaduría,21,Femenino,10,19.23,Convenio ULA-Gremios,27.3,No,Privado,Aragua,2015
+7190,Administración,28,Masculino,7,14.87,Población Indígena Venezolana,9.6,Parcial,Privado,Aragua,2016
+7191,Administración,34,Masculino,10,16.06,Cambio de Opción,7.0,No,Público,Lara,2019
+7192,Economía,30,Masculino,2,17.65,Población Indígena Venezolana,11.0,No,Privado,Caracas,2018
+7193,Economía,27,Femenino,2,11.75,Artista de Destacada Trayectoria,24.9,No,Público,Aragua,2018
+7194,Contaduría,25,Masculino,4,15.03,Carreras Paralelas,5.9,Parcial,Público,Barinas,2023
+7195,Administración,18,Masculino,1,13.99,,19.6,Sí,Privado,Barinas,2022
+7196,Administración,28,Masculino,3,11.46,Prueba,29.9,Sí,Otro,Zulia,2020
+7197,Contaduría,19,Femenino,9,13.68,Carreras Paralelas,26.4,Sí,Privado,Táchira,2015
+7198,Economía,19,Femenino,7,10.68,Prueba de Habilidades Específicas,18.0,Sí,Público,Bolívar,2016
+7199,Economía,17,,7,10.26,Artista de Destacada Trayectoria,6.6,No,Privado,Aragua,2020
+7200,Contaduría,24,Masculino,4,11.35,Atleta de Alta Competencia,25.8,Sí,Semi-privado,Mérida,2016
+7201,Contaduría,24,Masculino,2,19.63,Convenio ULA-Gremios,20.0,No,Público,Táchira,2019
+7202,Administración,27,Femenino,4,15.5,Alto Rendimiento,7.9,No,Privado,Barinas,2019
+7203,Administración,25,Masculino,6,19.66,Convenio ULA-Gremios,7.3,Sí,Semi-privado,Merida,2020
+7204,Economía,21,Masculino,3,14.32,Carreras Paralelas,27.7,No,Semi-privado,Aragua,2020
+7205,Contaduría,30,Femenino,1,13.12,Cambio de Opción,21.7,Sí,Público,Barinas,2020
+7206,Administración,19,Masculino,8,15.06,Prueba de Habilidades Específicas,25.7,No,Privado,Táchira,2016
+7207,Administración,21,Masculino,5,14.4,,27.0,No,Público,Mérida,2017
+7208,Contaduría,21,Masculino,5,11.06,Artista de Destacada Trayectoria,19.3,Sí,Privado,Lara,2020
+7209,Administración,30,Masculino,4,16.41,Artista de Destacada Trayectoria,17.9,Sí,Privado,Aragua,2022
+7210,Administración,20,Masculino,6,12.16,Convenio ULA-Gremios,15.8,No,Público,Táchira,2015
+7211,Contaduría,29,Masculino,3,16.2,,12.9,No,,Aragua,2015
+7212,Contaduría,26,Masculino,9,16.5,Población Indígena Venezolana,15.9,No,Privado,Lara,2016
+7213,Contaduría,34,Femenino,5,11.52,Carreras Paralelas,24.3,Sí,Público,Lara,2020
+7214,Administración,24,,3,10.61,Artista de Destacada Trayectoria,20.0,No,Público,Zulia,2023
+7215,Contaduría,24,Masculino,1,17.81,Cambio de Opción,27.3,No,Público,Aragua,2018
+7216,Administración,23,,10,14.6,Atleta de Alta Competencia,16.1,No,Público,Táchira,2017
+7217,Administración,24,Femenino,6,10.58,Población Indígena Venezolana,20.2,Parcial,Privado,Zulia,2022
+7218,Contaduría,30,Masculino,2,19.95,Artista de Destacada Trayectoria,20.8,No,Privado,Lara,2023
+7219,Contaduría,22,Femenino,3,10.58,Cambio de Opción,19.8,No,Público,Barinas,2019
+7220,Economía,17,Masculino,1,16.95,Población Indígena Venezolana,22.6,Sí,Privado,Mérida,2023
+7221,Contaduría,31,Femenino,9,19.84,Convenio ULA-Gremios,10.9,Sí,Privado,Lara,2016
+7222,Contaduría,17,Masculino,8,12.39,Alto Rendimiento,17.8,Sí,Público,Táchira,2017
+7223,Administración,33,Femenino,2,11.42,Atleta de Alta Competencia,7.6,Sí,Público,Bolívar,2021
+7224,Administración,17,Femenino,8,11.21,Alto Rendimiento,14.6,Sí,Público,Mérida,2021
+7225,Administración,31,Masculino,9,13.03,Carreras Paralelas,17.2,Sí,Privado,Caracas,2020
+7226,Administración,18,Femenino,1,11.01,Alto Rendimiento,21.3,No,Público,Bolívar,2020
+7227,Estadística,30,Femenino,5,16.92,Atleta de Alta Competencia,28.8,No,Público,Caracas,2016
+7228,Administración,24,Femenino,8,10.62,Cambio de Opción,20.0,No,Otro,Zulia,2020
+7229,Economía,24,Masculino,2,15.09,Cambio de Opción,23.6,Sí,Otro,Zulia,2018
+7230,Contaduría,23,Masculino,4,19.97,Alto Rendimiento,17.7,Sí,Privado,Mérida,2017
+7231,Contaduría,22,,7,18.14,,20.9,Sí,Otro,Táchira,2016
+7232,Contaduría,22,Femenino,3,16.15,Atleta de Alta Competencia,6.8,No,Público,Táchira,2015
+7233,Contaduría,19,Masculino,5,13.06,Carreras Paralelas,11.4,No,Privado,Táchira,2019
+7234,Contaduría,23,Femenino,8,16.24,Alto Rendimiento,14.0,No,Privado,Aragua,2016
+7235,Administración,24,Masculino,10,15.27,Atleta de Alta Competencia,16.8,Sí,Público,Táchira,2016
+7236,Contaduría,26,Masculino,3,14.26,Población Indígena Venezolana,6.1,Sí,Público,Aragua,2021
+7237,Administración,31,Masculino,4,11.31,Población Indígena Venezolana,8.5,No,Público,Mérida,2022
+7238,Administración,31,Masculino,9,18.87,Artista de Destacada Trayectoria,11.9,Sí,Público,Zulia,2022
+7239,Contaduría,17,Femenino,7,14.5,Prueba de Habilidades Específicas,29.3,Parcial,Público,Mérida,2018
+7240,Administración,23,Masculino,1,11.95,Convenio ULA-Gremios,13.3,No,Otro,Táchira,2015
+7241,Economía,20,Femenino,4,13.68,Cambio de Opción,17.1,No,Privado,Lara,2021
+7242,Estadística,22,Masculino,4,14.14,Alto Rendimiento,9.9,Sí,Público,Táchira,2015
+7243,Economía,17,Masculino,9,18.28,Atleta de Alta Competencia,20.3,No,Público,Zulia,2018
+7244,Administración,21,Masculino,6,17.34,Cambio de Opción,12.0,Parcial,Privado,Mérida,2022
+7245,Administración,17,Femenino,9,17.69,Convenio ULA-Gremios,10.2,No,Privado,Zulia,2016
+7246,Economía,20,Masculino,6,10.11,Convenio ULA-Gremios,17.9,Sí,Público,Zulia,2020
+7247,Administración,18,Masculino,6,14.16,Artista de Destacada Trayectoria,5.1,Sí,Privado,Barinas,2020
+7248,Estadística,26,Femenino,5,14.81,Carreras Paralelas,5.2,No,Público,Bolívar,2023
+7249,Estadística,21,Femenino,5,10.19,Población Indígena Venezolana,10.5,Sí,Público,Barinas,2019
+7250,Economía,26,Femenino,2,12.6,Convenio ULA-Gremios,5.9,No,Público,Barinas,2018
+7251,Administración,17,Femenino,8,17.6,Cambio de Opción,7.7,No,Público,Zulia,2019
+7252,Administración,22,Masculino,8,11.37,Cambio de Opción,13.5,Parcial,Público,Aragua,2019
+7253,Economía,29,Femenino,1,15.35,Prueba,25.1,No,Público,Lara,2022
+7254,Administración,31,Femenino,8,12.15,Cambio de Opción,19.3,No,Semi-privado,Merida,2022
+7255,Administración,20,Masculino,5,10.12,Carreras Paralelas,17.8,No,Semi-privado,Barinas,2016
+7256,Contaduría,29,Masculino,2,12.41,Alto Rendimiento,12.3,Sí,Privado,Táchira,2021
+7257,Economía,31,Femenino,2,19.76,Carreras Paralelas,28.3,Sí,Privado,Aragua,2022
+7258,Contaduría,24,Femenino,6,18.02,Prueba de Habilidades Específicas,14.9,No,Público,Mérida,2020
+7259,Contaduría,21,Femenino,9,19.6,Población Indígena Venezolana,7.2,Sí,Público,Lara,2019
+7260,Administración,31,Femenino,1,14.88,,20.4,No,Público,Aragua,2023
+7261,Contaduría,20,,6,11.1,Prueba de Habilidades Específicas,7.8,Sí,Público,Aragua,2017
+7262,Estadística,28,Femenino,9,15.48,Alto Rendimiento,13.6,No,Público,Zulia,2018
+7263,Administración,29,Femenino,8,14.54,Cambio de Opción,17.7,No,Otro,Caracas,2023
+7264,Contaduría,18,Femenino,6,18.44,Carreras Paralelas,26.9,No,Público,Mérida,2020
+7265,Economía,20,Femenino,3,10.98,Prueba,17.3,Sí,Público,Táchira,2022
+7266,Contaduría,20,Femenino,8,14.88,Alto Rendimiento,22.6,No,Privado,Aragua,2021
+7267,Contaduría,27,Masculino,9,11.5,Prueba,29.8,No,,Zulia,2016
+7268,Contaduría,21,Femenino,1,13.25,Artista de Destacada Trayectoria,8.3,Sí,Público,Táchira,2017
+7269,Administración,27,Masculino,9,17.37,Alto Rendimiento,11.9,Sí,Público,Táchira,2015
+7270,Administración,26,Masculino,6,14.76,Carreras Paralelas,14.9,No,Público,Barinas,2023
+7271,Economía,24,Femenino,6,13.76,Prueba de Habilidades Específicas,15.5,Sí,Público,Lara,2021
+7272,Economía,22,,4,13.94,Prueba de Habilidades Específicas,15.3,Sí,Público,Caracas,2015
+7273,Economía,22,Femenino,1,14.59,Carreras Paralelas,27.7,No,Público,Aragua,2017
+7274,Economía,24,Masculino,10,17.85,Cambio de Opción,22.9,Sí,Privado,Lara,2018
+7275,Contaduría,31,Femenino,8,18.92,Atleta de Alta Competencia,20.2,Sí,Público,Barinas,2018
+7276,Contaduría,30,Masculino,2,19.55,Carreras Paralelas,12.7,Sí,Público,Zulia,2019
+7277,Contaduría,27,Masculino,1,17.87,Cambio de Opción,25.6,Sí,Público,Bolívar,2017
+7278,Contaduría,28,Femenino,2,13.15,Prueba,28.9,No,Privado,Zulia,2017
+7279,Contaduría,29,Femenino,1,16.88,Población Indígena Venezolana,25.5,No,Privado,Barinas,2015
+7280,Contaduría,24,Femenino,1,14.38,Carreras Paralelas,5.0,Parcial,Público,Mérida,2021
+7281,Economía,34,Femenino,9,12.55,Cambio de Opción,20.9,No,Privado,Aragua,2015
+7282,Administración,17,Femenino,1,18.41,Población Indígena Venezolana,6.3,Sí,Público,Caracas,2016
+7283,Administración,31,Femenino,4,10.38,Alto Rendimiento,11.4,No,Público,Bolívar,2018
+7284,Administración,24,Masculino,10,19.02,Convenio ULA-Gremios,6.5,Sí,Otro,Bolívar,2018
+7285,Contaduría,27,Masculino,6,14.61,Carreras Paralelas,20.1,Sí,Semi-privado,Bolívar,2019
+7286,Administración,28,Masculino,7,16.37,Cambio de Opción,22.2,Sí,Otro,Caracas,2016
+7287,Contaduría,28,Femenino,2,16.59,Prueba,7.9,No,Semi-privado,Mérida,2018
+7288,Contaduría,20,Femenino,6,18.95,Carreras Paralelas,14.6,Parcial,Semi-privado,Aragua,2015
+7289,Administración,32,Masculino,7,16.37,Carreras Paralelas,16.4,No,Público,Lara,2016
+7290,Contaduría,20,,10,16.14,Carreras Paralelas,14.2,No,Privado,Mérida,2015
+7291,Administración,21,Femenino,10,10.67,Convenio ULA-Gremios,8.0,Sí,Privado,Caracas,2018
+7292,Administración,21,Femenino,2,15.18,Prueba de Habilidades Específicas,15.5,No,Semi-privado,Barinas,2018
+7293,Economía,24,Femenino,2,11.5,Alto Rendimiento,23.8,Parcial,Otro,Caracas,2021
+7294,Administración,26,Femenino,10,17.37,Atleta de Alta Competencia,6.8,Sí,Público,Aragua,2023
+7295,Administración,33,Femenino,7,15.12,Población Indígena Venezolana,7.0,Sí,Privado,Zulia,2023
+7296,Contaduría,25,Masculino,1,16.8,Cambio de Opción,13.9,Sí,Otro,Aragua,2019
+7297,Contaduría,30,Femenino,8,10.42,Prueba de Habilidades Específicas,28.5,Sí,Público,Zulia,2015
+7298,Administración,24,Femenino,3,10.85,Prueba,21.7,No,Público,Mérida,2015
+7299,Contaduría,25,Masculino,6,17.16,Alto Rendimiento,22.0,Sí,Público,Aragua,2020
+7300,Administración,27,Femenino,9,10.72,Prueba de Habilidades Específicas,14.0,No,Semi-privado,Aragua,2016
+7301,Administración,17,Femenino,6,10.71,Convenio ULA-Gremios,19.8,Sí,Público,Aragua,2022
+7302,Contaduría,30,Femenino,9,10.12,Cambio de Opción,5.3,No,Público,Lara,2023
+7303,Contaduría,21,Masculino,7,19.57,Prueba de Habilidades Específicas,20.9,No,Público,Táchira,2018
+7304,Contaduría,30,Masculino,9,17.38,Carreras Paralelas,27.8,Parcial,Privado,Táchira,2019
+7305,Contaduría,20,Masculino,2,13.53,Atleta de Alta Competencia,20.3,No,Privado,Lara,2022
+7306,Estadística,17,Femenino,8,12.97,Prueba de Habilidades Específicas,26.8,Parcial,Semi-privado,Caracas,2017
+7307,Contaduría,24,Masculino,8,13.5,Atleta de Alta Competencia,23.1,Sí,Público,Barinas,2019
+7308,Administración,31,Masculino,2,17.75,Convenio ULA-Gremios,8.0,No,Público,Caracas,2017
+7309,Contaduría,31,Masculino,4,16.61,Carreras Paralelas,27.6,Sí,Público,Mérida,2017
+7310,Administración,25,Femenino,7,11.85,Convenio ULA-Gremios,6.7,Sí,Público,Zulia,2017
+7311,Administración,25,Masculino,4,11.74,Cambio de Opción,18.3,Sí,Privado,Bolívar,2021
+7312,Administración,26,Femenino,4,10.98,Alto Rendimiento,8.6,Sí,Público,Lara,2021
+7313,Administración,25,Masculino,6,16.6,Cambio de Opción,5.3,No,Público,Táchira,2021
+7314,Estadística,19,,10,17.64,Atleta de Alta Competencia,15.6,Sí,Privado,Aragua,2022
+7315,Economía,27,Masculino,6,12.65,Alto Rendimiento,12.4,No,Privado,Zulia,2019
+7316,Contaduría,22,,10,10.21,Cambio de Opción,17.2,Sí,Público,Aragua,2019
+7317,Administración,18,Femenino,3,10.82,Población Indígena Venezolana,19.4,No,Público,Bolívar,2018
+7318,Administración,23,Masculino,9,19.68,Cambio de Opción,6.1,No,Público,Mérida,2021
+7319,Administración,34,Femenino,10,12.95,Población Indígena Venezolana,8.1,No,Privado,Caracas,2018
+7320,Administración,18,Femenino,2,17.69,Población Indígena Venezolana,19.0,No,Otro,Mérida,2016
+7321,Contaduría,33,Femenino,6,16.25,Convenio ULA-Gremios,13.6,No,Privado,Lara,2018
+7322,Contaduría,27,Masculino,7,13.82,Población Indígena Venezolana,23.2,Sí,Público,Caracas,2022
+7323,Contaduría,28,Masculino,9,12.06,Carreras Paralelas,21.3,No,Público,Barinas,2023
+7324,Administración,23,Femenino,3,11.21,Alto Rendimiento,26.1,Sí,Privado,Bolívar,2017
+7325,Estadística,22,Masculino,10,16.15,Atleta de Alta Competencia,22.3,Sí,Semi-privado,Mérida,2021
+7326,Contaduría,17,Femenino,3,17.75,Prueba de Habilidades Específicas,15.7,No,Otro,Aragua,2023
+7327,Contaduría,33,Femenino,7,16.44,Alto Rendimiento,21.8,Sí,Privado,Barinas,2018
+7328,Contaduría,27,Femenino,4,15.3,Artista de Destacada Trayectoria,11.9,Sí,Privado,Barinas,2017
+7329,Administración,34,Femenino,8,10.42,Atleta de Alta Competencia,12.7,Sí,Público,Caracas,2019
+7330,Administración,33,Masculino,7,19.68,Alto Rendimiento,24.7,Sí,Privado,Zulia,2015
+7331,Administración,23,Masculino,5,17.99,Prueba de Habilidades Específicas,16.2,No,Privado,Mérida,2017
+7332,Contaduría,33,Femenino,7,12.93,Convenio ULA-Gremios,25.0,Sí,Público,Caracass,2022
+7333,Administración,25,Femenino,3,19.8,Convenio ULA-Gremios,25.6,Sí,Público,Táchira,2022
+7334,Administración,33,Masculino,2,16.02,Convenio ULA-Gremios,26.4,Sí,Público,Aragua,2018
+7335,Administración,24,Femenino,6,15.82,Carreras Paralelas,27.9,Sí,Público,Barinas,2016
+7336,Administración,33,Masculino,2,17.48,Alto Rendimiento,15.8,No,Privado,Caracas,2022
+7337,Economía,23,Femenino,3,18.12,Convenio ULA-Gremios,13.0,Sí,Público,Zulia,2022
+7338,Contaduría,17,Femenino,6,16.56,Prueba de Habilidades Específicas,19.6,Sí,Público,Táchira,2018
+7339,Contaduría,29,Femenino,5,11.28,Carreras Paralelas,14.3,No,Privado,Aragua,2017
+7340,Administración,33,Masculino,8,13.38,Carreras Paralelas,20.0,Parcial,Público,Táchira,2016
+7341,Contaduría,29,Femenino,9,19.28,Prueba de Habilidades Específicas,22.6,Parcial,Público,Mérida,2023
+7342,Contaduría,32,Femenino,3,12.25,Población Indígena Venezolana,22.2,Parcial,Público,Bolívar,2015
+7343,Administración,24,Femenino,10,13.72,Prueba de Habilidades Específicas,14.4,Parcial,Privado,Aragua,2021
+7344,Administración,34,Femenino,3,14.32,Artista de Destacada Trayectoria,9.2,No,Público,Zulia,2019
+7345,Administración,17,Femenino,3,14.39,Población Indígena Venezolana,15.8,No,Privado,Caracas,2022
+7346,Contaduría,30,Masculino,6,16.13,Atleta de Alta Competencia,8.6,Sí,Semi-privado,Lara,2018
+7347,Contaduría,31,Masculino,1,19.43,Prueba de Habilidades Específicas,27.3,No,Público,Barinas,2021
+7348,Administración,34,Masculino,7,12.41,Población Indígena Venezolana,13.6,No,Público,Zulia,2019
+7349,Administración,18,Masculino,1,11.22,Cambio de Opción,8.9,No,Privado,Táchira,2019
+7350,Contaduría,33,Femenino,5,11.97,Carreras Paralelas,5.6,Sí,Público,Lara,2023
+7351,Contaduría,34,Femenino,10,18.87,Convenio ULA-Gremios,21.1,No,Público,Zulia,2023
+7352,Economía,22,Femenino,8,16.46,Artista de Destacada Trayectoria,20.9,Sí,Privado,Merida,2023
+7353,Contaduría,20,Femenino,4,12.86,Convenio ULA-Gremios,13.5,Sí,Público,Aragua,2020
+7354,Administración,17,Masculino,5,18.16,Atleta de Alta Competencia,6.8,Sí,Otro,Zulia,2020
+7355,Administración,24,Masculino,4,18.61,Prueba,15.2,Sí,Público,Barinas,2019
+7356,Contaduría,23,,4,18.47,Población Indígena Venezolana,12.8,Sí,Público,Zulia,2023
+7357,Administración,19,Masculino,8,19.19,Carreras Paralelas,21.9,No,Público,Bolívar,2022
+7358,Contaduría,26,Femenino,2,12.52,Prueba de Habilidades Específicas,20.1,Parcial,Privado,Barinas,2021
+7359,Economía,26,Femenino,1,17.55,Prueba de Habilidades Específicas,14.1,Sí,Otro,Barinas,2021
+7360,Contaduría,30,Masculino,3,14.61,Población Indígena Venezolana,10.4,Sí,Público,Táchira,2020
+7361,Administración,18,Femenino,9,18.42,Población Indígena Venezolana,29.7,No,,Bolívar,2019
+7362,Contaduría,17,Masculino,4,17.28,Atleta de Alta Competencia,16.4,Sí,Público,Barinas,2018
+7363,Contaduría,34,Masculino,10,17.76,Artista de Destacada Trayectoria,22.2,No,Público,Lara,2017
+7364,Contaduría,23,Masculino,5,16.56,Artista de Destacada Trayectoria,8.5,No,Privado,Táchira,2017
+7365,Economía,24,Masculino,2,11.77,Prueba,17.1,No,Público,Aragua,2020
+7366,Administración,17,Masculino,4,15.45,Población Indígena Venezolana,5.7,No,Público,Caracas,2018
+7367,Estadística,19,Masculino,2,19.85,Convenio ULA-Gremios,17.6,Sí,Privado,Aragua,2020
+7368,Economía,24,Masculino,2,19.37,Prueba de Habilidades Específicas,29.1,Parcial,Semi-privado,Aragua,2017
+7369,Administración,31,Masculino,4,10.43,Población Indígena Venezolana,14.6,Sí,Público,Bolívar,2018
+7370,Administración,21,Masculino,6,11.65,Prueba de Habilidades Específicas,6.0,Sí,Público,Lara,2023
+7371,Administración,19,Femenino,7,11.32,Artista de Destacada Trayectoria,5.8,No,Público,Lara,2019
+7372,Administración,17,Femenino,10,17.26,Alto Rendimiento,14.7,Sí,Público,Barinas,2021
+7373,Administración,31,Masculino,3,18.18,Alto Rendimiento,9.0,No,Privado,Zulia,2016
+7374,Contaduría,24,Femenino,3,12.14,Prueba de Habilidades Específicas,5.6,No,Público,Táchira,2019
+7375,Administración,18,Masculino,10,15.06,Atleta de Alta Competencia,23.9,No,Público,Merida,2023
+7376,Administración,19,Femenino,6,18.41,Carreras Paralelas,16.5,No,Público,Bolívar,2017
+7377,Economía,30,Masculino,3,17.33,Convenio ULA-Gremios,12.2,Parcial,Público,Táchira,2023
+7378,Administración,30,Femenino,2,15.42,Cambio de Opción,27.5,No,Público,Zulia,2020
+7379,Economía,27,Masculino,8,15.9,Cambio de Opción,7.9,Sí,Público,Aragua,2018
+7380,Administración,32,Masculino,5,15.08,Convenio ULA-Gremios,28.9,No,Público,Zulia,2021
+7381,Administración,20,Masculino,1,12.98,Alto Rendimiento,12.8,No,Privado,Táchira,2022
+7382,Contaduría,21,Femenino,3,15.65,Carreras Paralelas,27.2,No,Semi-privado,Lara,2020
+7383,Contaduría,30,Femenino,10,16.89,Carreras Paralelas,20.1,Sí,Privado,Bolívar,2019
+7384,Economía,32,Masculino,8,18.73,Cambio de Opción,25.7,Sí,Privado,Barinas,2020
+7385,Contaduría,34,Masculino,4,16.36,Artista de Destacada Trayectoria,29.6,No,Público,Caracas,2019
+7386,Economía,23,Femenino,7,17.61,Artista de Destacada Trayectoria,12.2,No,Semi-privado,Táchira,2022
+7387,Administración,26,Femenino,10,11.6,Población Indígena Venezolana,29.0,No,Privado,Aragua,2015
+7388,Administración,23,Masculino,2,14.62,Carreras Paralelas,14.7,Sí,Privado,Caracas,2021
+7389,Contaduría,17,,7,10.09,Prueba de Habilidades Específicas,14.6,Parcial,Privado,Lara,2016
+7390,Economía,32,Masculino,5,12.47,Artista de Destacada Trayectoria,13.5,Sí,Otro,Táchira,2023
+7391,Estadística,20,Femenino,5,17.26,Cambio de Opción,18.5,No,Privado,Lara,2015
+7392,Administración,34,Masculino,6,19.92,Artista de Destacada Trayectoria,8.9,Sí,Público,Barinas,2020
+7393,Administración,18,Femenino,9,10.99,Alto Rendimiento,18.8,Sí,Público,Zulia,2023
+7394,Contaduría,17,Femenino,6,14.01,Artista de Destacada Trayectoria,18.5,Sí,Público,Zulia,2015
+7395,Administración,31,Masculino,8,18.0,Prueba de Habilidades Específicas,24.0,No,Privado,Merida,2018
+7396,Economía,21,Masculino,7,12.04,Población Indígena Venezolana,25.8,Sí,Público,Lara,2018
+7397,Economía,27,Femenino,9,15.55,Artista de Destacada Trayectoria,16.0,No,Privado,Caracas,2023
+7398,Administración,26,Femenino,4,17.33,Carreras Paralelas,12.6,Sí,Público,Aragua,2019
+7399,Contaduría,18,Masculino,2,16.16,Cambio de Opción,11.5,Parcial,Privado,Caracas,2019
+7400,Contaduría,19,Masculino,7,11.88,Atleta de Alta Competencia,9.9,Sí,Público,Mérida,2020
+7401,Administración,28,Masculino,6,13.55,Población Indígena Venezolana,6.4,Parcial,Privado,Mérida,2015
+7402,Economía,21,Femenino,1,17.84,Cambio de Opción,13.6,Sí,Semi-privado,Lara,2015
+7403,Contaduría,21,Femenino,9,15.54,Población Indígena Venezolana,11.8,No,Privado,Aragua,2023
+7404,Economía,22,Femenino,9,10.05,Prueba de Habilidades Específicas,29.2,No,Público,Caracass,2017
+7405,Administración,25,Femenino,2,17.61,Carreras Paralelas,18.9,Sí,Privado,Barinas,2018
+7406,Economía,18,Masculino,3,10.35,Cambio de Opción,13.7,No,Privado,Lara,2015
+7407,Administración,28,Femenino,5,17.46,Alto Rendimiento,19.5,No,Privado,Lara,2023
+7408,Administración,19,Masculino,5,12.02,Artista de Destacada Trayectoria,8.5,Parcial,Público,Táchira,2022
+7409,Economía,28,Masculino,1,19.58,Atleta de Alta Competencia,16.1,Sí,Público,Aragua,2016
+7410,Administración,33,Femenino,8,13.68,Prueba de Habilidades Específicas,20.7,Sí,Público,Táchira,2022
+7411,Administración,26,Masculino,8,13.27,Prueba,17.2,Sí,Otro,Caracas,2021
+7412,Estadística,30,Femenino,4,11.49,Cambio de Opción,15.0,Parcial,Público,Caracas,2020
+7413,Estadística,33,Masculino,7,13.06,Población Indígena Venezolana,29.8,No,Privado,Táchira,2015
+7414,Contaduría,34,Femenino,10,18.77,Carreras Paralelas,27.0,No,Público,Barinas,2021
+7415,Contaduría,33,Masculino,3,19.96,Prueba de Habilidades Específicas,20.6,No,Semi-privado,Bolívar,2021
+7416,Administración,30,Masculino,6,13.68,Artista de Destacada Trayectoria,19.2,No,Público,Barinas,2023
+7417,Administración,25,Femenino,10,14.49,Cambio de Opción,20.5,No,Semi-privado,Bolívar,2015
+7418,Administración,24,Femenino,10,17.22,Convenio ULA-Gremios,10.0,Sí,Público,Caracas,2016
+7419,Contaduría,18,Femenino,9,18.86,Artista de Destacada Trayectoria,14.9,Sí,Privado,Caracas,2023
+7420,Contaduría,29,Masculino,1,15.93,Población Indígena Venezolana,6.0,Sí,Público,Caracas,2023
+7421,Contaduría,23,Femenino,5,13.92,Artista de Destacada Trayectoria,16.9,Sí,Público,Barinas,2020
+7422,Contaduría,25,Masculino,4,14.13,Convenio ULA-Gremios,18.6,Sí,Público,Táchira,2020
+7423,Administración,27,Femenino,8,16.96,Cambio de Opción,10.7,No,Semi-privado,Mérida,2018
+7424,Contaduría,30,Femenino,1,10.03,Alto Rendimiento,29.1,Sí,Privado,Zulia,2018
+7425,Administración,20,Femenino,9,16.2,Alto Rendimiento,27.7,Sí,Público,Bolívar,2019
+7426,Contaduría,29,Femenino,6,13.55,Alto Rendimiento,23.1,No,Privado,Aragua,2017
+7427,Administración,18,Femenino,4,17.94,Prueba de Habilidades Específicas,18.3,No,Público,Lara,2015
+7428,Economía,21,Femenino,9,10.93,Cambio de Opción,26.7,Sí,Público,Barinas,2015
+7429,Administración,27,Femenino,5,15.88,Atleta de Alta Competencia,8.3,No,Otro,Bolívar,2021
+7430,Administración,22,Femenino,5,14.81,Alto Rendimiento,24.8,Sí,Público,Barinas,2015
+7431,Administración,34,Femenino,5,16.42,Atleta de Alta Competencia,8.1,Parcial,Privado,Mérida,2015
+7432,Contaduría,26,Femenino,1,10.65,Convenio ULA-Gremios,24.9,Parcial,Público,Aragua,2017
+7433,Contaduría,20,Masculino,1,15.8,Prueba de Habilidades Específicas,11.9,No,Otro,Táchira,2018
+7434,Administración,25,Femenino,8,15.61,Convenio ULA-Gremios,26.9,Sí,Otro,Zulia,2018
+7435,Administración,22,Femenino,8,15.61,Alto Rendimiento,28.6,No,Privado,Bolívar,2016
+7436,Contaduría,18,Masculino,6,16.03,Prueba,8.7,Sí,Otro,Táchira,2015
+7437,Administración,33,Femenino,4,16.76,Población Indígena Venezolana,16.6,No,Público,Merida,2017
+7438,Economía,21,Masculino,2,18.05,Carreras Paralelas,29.5,Sí,Público,Zulia,2018
+7439,Contaduría,22,Femenino,2,12.7,Atleta de Alta Competencia,17.1,Sí,Público,Barinas,2017
+7440,Administración,28,Femenino,9,18.25,Artista de Destacada Trayectoria,26.6,No,Público,Zulia,2022
+7441,Administración,26,Masculino,5,14.98,Artista de Destacada Trayectoria,19.7,No,,Mérida,2015
+7442,Estadística,22,Femenino,4,10.77,Carreras Paralelas,14.4,No,Semi-privado,Mérida,2016
+7443,Administración,24,Masculino,10,10.59,Carreras Paralelas,12.1,No,Otro,Zulia,2021
+7444,Administración,18,Femenino,1,13.34,Prueba de Habilidades Específicas,10.1,No,Público,Lara,2018
+7445,Economía,28,Masculino,7,17.85,Convenio ULA-Gremios,24.0,Parcial,Privado,Lara,2022
+7446,Economía,29,Femenino,3,17.08,Prueba de Habilidades Específicas,14.7,No,Privado,Aragua,2017
+7447,Estadística,23,Femenino,6,17.89,Atleta de Alta Competencia,17.8,Sí,Privado,Mérida,2020
+7448,Contaduría,26,Femenino,5,15.17,Convenio ULA-Gremios,17.3,No,Privado,Mérida,2023
+7449,Administración,29,Masculino,5,14.4,Artista de Destacada Trayectoria,19.4,Sí,Público,Táchira,2015
+7450,Administración,33,Femenino,5,11.47,Prueba de Habilidades Específicas,26.6,Parcial,Privado,Mérida,2015
+7451,Contaduría,30,Femenino,1,13.28,Convenio ULA-Gremios,29.5,Sí,Público,Barinas,2022
+7452,Contaduría,18,Masculino,1,14.34,Alto Rendimiento,15.2,No,Privado,Aragua,2017
+7453,Administración,27,Masculino,3,10.89,Convenio ULA-Gremios,25.7,No,Semi-privado,Táchira,2019
+7454,Economía,17,Femenino,10,12.21,Población Indígena Venezolana,24.1,No,Público,Bolívar,2015
+7455,Administración,20,Femenino,4,15.98,Atleta de Alta Competencia,19.3,No,Público,Caracas,2019
+7456,Contaduría,27,Masculino,5,17.36,Atleta de Alta Competencia,28.9,No,Público,Mérida,2020
+7457,Administración,24,Masculino,2,19.98,Artista de Destacada Trayectoria,10.0,Sí,Privado,Lara,2022
+7458,Contaduría,27,Masculino,8,19.33,Alto Rendimiento,7.7,Parcial,Público,Barinas,2017
+7459,Administración,20,Femenino,2,16.43,Carreras Paralelas,26.3,No,,Barinas,2017
+7460,Administración,33,Femenino,9,14.21,Atleta de Alta Competencia,16.0,No,Privado,Mérida,2023
+7461,Administración,23,Masculino,2,16.36,Prueba de Habilidades Específicas,26.2,Sí,Privado,Bolívar,2018
+7462,Contaduría,24,Femenino,9,17.86,Población Indígena Venezolana,27.3,Sí,Público,Zulia,2018
+7463,Contaduría,19,Masculino,7,11.18,Convenio ULA-Gremios,6.6,Sí,Semi-privado,Táchira,2021
+7464,Contaduría,18,Femenino,8,14.1,Artista de Destacada Trayectoria,27.1,Sí,Privado,Zulia,2016
+7465,Estadística,31,Masculino,2,18.4,Carreras Paralelas,16.2,No,Público,Aragua,2022
+7466,Administración,21,Masculino,7,13.84,Carreras Paralelas,17.8,No,Público,Zulia,2020
+7467,Administración,17,Femenino,6,15.72,Cambio de Opción,20.7,Parcial,Público,Lara,2017
+7468,Economía,20,Masculino,4,15.88,Convenio ULA-Gremios,28.2,Sí,Privado,Táchira,2023
+7469,Administración,31,Masculino,7,11.84,Cambio de Opción,5.5,Sí,Público,Caracas,2019
+7470,Estadística,19,Femenino,4,13.62,Convenio ULA-Gremios,16.9,No,Público,Mérida,2022
+7471,Administración,27,Femenino,2,13.35,Artista de Destacada Trayectoria,22.2,No,Público,Zulia,2021
+7472,Estadística,33,Femenino,10,10.26,Atleta de Alta Competencia,23.1,Sí,Privado,Bolívar,2022
+7473,Administración,29,Femenino,7,10.24,Carreras Paralelas,22.3,Sí,Público,Zulia,2021
+7474,Economía,27,Femenino,8,18.32,Alto Rendimiento,8.4,No,Público,Aragua,2017
+7475,Contaduría,18,Femenino,2,12.73,Cambio de Opción,12.5,Sí,Público,Aragua,2016
+7476,Estadística,25,Femenino,5,15.18,Convenio ULA-Gremios,14.0,Sí,Semi-privado,Mérida,2021
+7477,Administración,18,Masculino,1,12.99,Alto Rendimiento,25.1,No,Privado,Mérida,2017
+7478,Contaduría,25,Femenino,7,19.41,Carreras Paralelas,12.0,Sí,Público,Lara,2017
+7479,Estadística,25,Masculino,8,12.59,Alto Rendimiento,10.3,Parcial,,Caracas,2016
+7480,Contaduría,24,Femenino,6,14.3,Prueba de Habilidades Específicas,28.9,Sí,Público,Bolívar,2018
+7481,Contaduría,33,Masculino,5,18.73,Carreras Paralelas,5.2,No,Privado,Lara,2022
+7482,Contaduría,17,Masculino,6,18.42,Carreras Paralelas,29.9,Sí,Privado,Lara,2015
+7483,Contaduría,27,Masculino,2,11.86,Carreras Paralelas,21.9,Sí,Público,Zulia,2015
+7484,Contaduría,24,Femenino,1,18.03,Alto Rendimiento,25.7,No,Público,Zulia,2019
+7485,Contaduría,26,Femenino,7,14.58,Alto Rendimiento,12.4,No,Privado,Táchira,2019
+7486,Economía,23,Femenino,7,14.83,Alto Rendimiento,5.4,Sí,Privado,Caracas,2015
+7487,Administración,19,Masculino,10,11.33,Población Indígena Venezolana,23.4,Sí,Público,Mérida,2020
+7488,Administración,19,Masculino,10,10.81,Cambio de Opción,25.9,No,Privado,Mérida,2015
+7489,Estadística,34,Femenino,2,17.28,Atleta de Alta Competencia,23.5,No,Público,Lara,2019
+7490,Economía,21,Femenino,2,14.96,Prueba de Habilidades Específicas,8.6,No,Semi-privado,Lara,2023
+7491,Contaduría,28,Femenino,1,14.37,Carreras Paralelas,23.8,Parcial,Público,Barinas,2019
+7492,Contaduría,28,Femenino,10,17.3,Alto Rendimiento,24.2,No,Público,Lara,2020
+7493,Administración,22,Femenino,8,17.66,Convenio ULA-Gremios,21.5,Parcial,Privado,Bolívar,2022
+7494,Administración,18,Femenino,8,11.59,Atleta de Alta Competencia,24.2,No,,Bolívar,2015
+7495,Contaduría,28,Masculino,1,16.1,Alto Rendimiento,26.1,No,Semi-privado,Mérida,2016
+7496,Administración,21,Femenino,8,11.35,Alto Rendimiento,20.3,No,Público,Zulia,2023
+7497,Contaduría,28,Masculino,9,17.51,Carreras Paralelas,7.2,No,Público,Zulia,2017
+7498,Administración,33,Femenino,4,16.57,Carreras Paralelas,17.2,Sí,Privado,Aragua,2020
+7499,Estadística,33,Femenino,1,19.57,Atleta de Alta Competencia,6.9,No,Privado,Bolívar,2019
+7500,Estadística,26,Femenino,1,10.69,Población Indígena Venezolana,15.2,No,Semi-privado,Bolívar,2016
+7501,Contaduría,33,Masculino,3,10.57,Cambio de Opción,15.2,Sí,Público,Táchira,2021
+7502,Contaduría,31,Femenino,5,12.82,Población Indígena Venezolana,6.7,No,Público,Bolívar,2018
+7503,Administración,28,Masculino,5,12.62,Carreras Paralelas,13.7,Parcial,Público,Caracas,2015
+7504,Economía,32,Femenino,9,12.47,Carreras Paralelas,7.8,No,Privado,Lara,2018
+7505,Contaduría,24,Masculino,10,19.06,Alto Rendimiento,25.2,Sí,Público,Lara,2020
+7506,Administración,33,Femenino,2,12.5,Alto Rendimiento,28.7,Sí,Semi-privado,Zulia,2021
+7507,Economía,21,Masculino,2,12.72,Convenio ULA-Gremios,6.8,No,Privado,Lara,2021
+7508,Economía,32,Femenino,6,17.59,Artista de Destacada Trayectoria,28.9,Sí,Público,Bolívar,2021
+7509,Economía,22,Femenino,9,14.5,Cambio de Opción,18.1,Sí,Privado,Aragua,2017
+7510,Contaduría,24,Masculino,1,17.77,Población Indígena Venezolana,12.5,Sí,Privado,Lara,2020
+7511,Contaduría,34,Masculino,9,10.65,Carreras Paralelas,6.9,Parcial,Público,Lara,2022
+7512,Administración,28,Masculino,9,14.88,Carreras Paralelas,17.5,No,Otro,Mérida,2018
+7513,Economía,31,Masculino,9,10.34,Artista de Destacada Trayectoria,24.9,No,Público,Caracas,2022
+7514,Economía,25,,5,10.63,Atleta de Alta Competencia,22.7,Sí,Semi-privado,Bolívar,2016
+7515,Administración,29,Femenino,9,19.06,Prueba,6.3,Sí,Público,Bolívar,2023
+7516,Administración,31,Masculino,4,11.39,Convenio ULA-Gremios,6.8,No,Semi-privado,Caracas,2023
+7517,Administración,26,,2,15.32,Población Indígena Venezolana,15.1,No,Semi-privado,Bolívar,2022
+7518,Economía,32,,6,14.11,Prueba de Habilidades Específicas,12.4,Sí,Público,Mérida,2015
+7519,Estadística,23,Femenino,4,13.47,Atleta de Alta Competencia,10.8,No,,Barinas,2016
+7520,Administración,33,Masculino,6,19.0,Carreras Paralelas,12.0,Sí,Público,Mérida,2020
+7521,Contaduría,23,Masculino,3,10.22,Alto Rendimiento,25.1,Sí,Público,Bolívar,2019
+7522,Administración,30,Masculino,6,16.64,Prueba de Habilidades Específicas,28.2,No,Público,Bolívar,2023
+7523,Estadística,31,Masculino,2,19.63,Cambio de Opción,15.1,Sí,Semi-privado,Aragua,2019
+7524,Economía,23,Masculino,2,15.6,Atleta de Alta Competencia,27.7,Parcial,Público,Caracas,2016
+7525,Economía,25,Masculino,9,19.37,Convenio ULA-Gremios,13.0,No,Público,Lara,2018
+7526,Contaduría,32,Masculino,7,10.52,Cambio de Opción,16.9,No,Otro,Aragua,2023
+7527,Administración,24,Femenino,3,14.19,Cambio de Opción,10.7,No,Privado,Lara,2015
+7528,Administración,34,Masculino,1,12.6,Prueba de Habilidades Específicas,21.0,Sí,Público,Barinas,2015
+7529,Administración,34,Femenino,8,17.31,Artista de Destacada Trayectoria,29.5,No,Público,Zulia,2021
+7530,Economía,23,Femenino,6,19.81,Prueba de Habilidades Específicas,20.1,Sí,Privado,Zulia,2017
+7531,Economía,19,Femenino,7,12.57,Población Indígena Venezolana,13.9,Sí,Privado,Táchira,2016
+7532,Estadística,34,Masculino,9,16.54,Carreras Paralelas,21.2,No,Público,Lara,2023
+7533,Estadística,26,Femenino,5,11.98,Atleta de Alta Competencia,8.1,Parcial,Público,Mérida,2017
+7534,Contaduría,23,Femenino,1,15.65,Atleta de Alta Competencia,27.2,Sí,Público,Zulia,2016
+7535,Contaduría,33,Femenino,10,14.64,Carreras Paralelas,17.6,Sí,Público,Barinas,2022
+7536,Economía,30,Masculino,7,19.72,Población Indígena Venezolana,16.2,No,Público,Táchira,2020
+7537,Economía,19,Femenino,5,16.09,Carreras Paralelas,19.6,Sí,Privado,Zulia,2020
+7538,Administración,28,Femenino,3,13.5,Atleta de Alta Competencia,20.6,Sí,,Aragua,2021
+7539,Contaduría,29,Femenino,9,11.14,Población Indígena Venezolana,6.8,Sí,Público,Aragua,2021
+7540,Administración,18,Femenino,1,11.51,Carreras Paralelas,22.1,Sí,Público,Zulia,2020
+7541,Estadística,19,Femenino,1,12.25,Población Indígena Venezolana,11.0,No,Privado,Barinas,2018
+7542,Contaduría,21,Masculino,1,12.51,Alto Rendimiento,22.8,Sí,Privado,Mérida,2023
+7543,Administración,27,Femenino,3,18.51,Convenio ULA-Gremios,25.6,No,Público,Bolívar,2020
+7544,Contaduría,24,Masculino,6,15.61,Población Indígena Venezolana,25.1,No,Privado,Aragua,2018
+7545,Contaduría,28,Femenino,10,15.23,Prueba,18.8,No,Privado,Mérida,2017
+7546,Administración,23,Femenino,3,11.15,Artista de Destacada Trayectoria,18.0,Sí,Público,Bolívar,2018
+7547,Administración,31,Masculino,8,18.6,Población Indígena Venezolana,8.6,Sí,Privado,Bolívar,2017
+7548,Contaduría,33,Masculino,10,17.23,Población Indígena Venezolana,24.4,No,Público,Bolívar,2016
+7549,Contaduría,20,Femenino,2,10.68,Alto Rendimiento,11.8,No,Público,Lara,2019
+7550,Contaduría,29,Masculino,9,17.08,Artista de Destacada Trayectoria,17.4,Sí,Público,Lara,2016
+7241,Economía,20,Femenino,4,13.68,Cambio de Opción,17.1,No,Privado,Lara,2021
+7499,Estadística,33,Femenino,1,19.57,Atleta de Alta Competencia,6.9,No,Privado,Bolívar,2019
+7248,Estadística,26,Femenino,5,14.81,Carreras Paralelas,5.2,No,Público,Bolívar,2023
+7415,Contaduría,33,Masculino,3,19.96,Prueba de Habilidades Específicas,20.6,No,Semi-privado,Bolívar,2021
+7020,Administración,34,Femenino,9,18.98,Población Indígena Venezolana,11.5,Sí,Público,Barinas,2023
+7081,Economía,30,Masculino,1,16.07,Prueba de Habilidades Específicas,27.0,Sí,Público,Lara,2016
+7454,Economía,17,Femenino,10,12.21,Población Indígena Venezolana,24.1,No,Público,Bolívar,2015
+7124,Administración,29,Femenino,1,10.6,Prueba,6.7,Parcial,Público,Bolívar,2021
+7204,Economía,21,Masculino,3,14.32,Carreras Paralelas,27.7,No,Semi-privado,Aragua,2020
+7342,Contaduría,32,Femenino,3,12.25,Población Indígena Venezolana,22.2,Parcial,Público,Bolívar,2015
