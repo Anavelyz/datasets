@@ -1,0 +1,561 @@
+﻿ID_Producto,Marca,Modelo,Precio (USD),Talla,Color,Material,Peso (gr),Disponibilidad,Rating,Tipo_Deporte,Garantía (meses),Fecha_Lanzamiento
+5001,Nkie,Chuck Taylor,106.18,8.6,Negro,Sintético,211.6,No,4,Basketball,6,2022-03-03
+5002,New Balance,Chuck Taylor,192.61,11.0,Gris,Sintético,393.8,En stock,1,Basketball,12,2021-06-16
+5003,Reebok,Free Run,159.8,8.9,Gris,Sintético,376.8,Sí,2,Fútbol,6,2022-09-05
+5004,Nike,RS-X,139.8,8.9,Rojo,Cuero,385.6,Sí,5,Deporte,6,2023-08-09
+5005,New Balance,Free Run,73.4,11.1,Verde,Malla,399.0,No,2,Deporte,6,2022-03-20
+5006,Nike,Ultraboost,73.4,7.8,Azul,Sintético,234.8,Sí,1,Basketball,6,2022-07-01
+5007,Adidas,Ultraboost,58.71,5.9,Rojo,,279.2,Sí,5,Tenis,12,2023-01-29
+5008,Under Armour,Free Run,179.93,5.2,Gris,Lona,351.6,No,2,Deporte,6,2023-08-20
+5009,New Balance,Free Run,140.17,10.3,Negro,,339.2,En stock,3,Tenis,6,2022-05-20
+5010,Adidas,Ultraboost,156.21,9.3,Rojo Oscuro,,230.8,Sí,1,Fútbol,12,2021-06-23
+5011,Addidas,air max,53.09,9.9,Blanco,Sintético,363.2,Sí,1,Deporte,6,2022-10-20
+5012,Addidas,ULTRABOOST,195.49,6.5,Gris,Sintético,244.9,Sí,1,Gym,24,2023-10-10
+5013,Addidas,rs-x,174.87,6.0,Rojo Oscuro,Lona,244.8,No,3,Fútbol,12,2023-08-19
+5014,Addidas,Clasik,81.85,5.1,Rojo Oscuro,Malla,307.4,Sí,3,Deporte,12,2020-08-14
+5015,Addidas,Ultraboost,77.27,7.5,blanco,,318.6,Sí,4,Tenis,12,2023-06-13
+5016,Addidas,,77.51,9.1,NEGRO,Lona,316.0,No,2,Deporte,6,2022-05-22
+5017,nike,Ultraboost,95.64,7.7,rojo oscuro,Malla,218.3,Sí,4,Tenis,12,2022-06-10
+5018,ADIDAS,Classic,128.71,8.1,Azull,Sintético,375.5,Sí,2,Fútbol,6,2022-11-02
+5019,puma,Free Run,114.79,11.3,Negro,cuero,253.1,Sí,3,Running,24,2020-07-28
+5020,Rebok,Chuck Taylor,93.68,7.4,Negro,MALLA,225.9,No,3,Gym,6,2022-01-10
+5021,Adidas,Ultraboost,-20.0,8.6,Azul,Sintetico,377.7,Sí,4,Gym,12,2021-01-31
+5022,Reebok,RS-X,2000.0,10.5,Rojo,Sintético,391.1,Sí,5,running,12,2023-01-28
+5023,Reebok,Chuck Taylor,999.0,7.8,Negro,Sintético,372.4,Sí,4,FÚTBOL,6,2020-01-31
+5024,Adidas,Classic,-50.0,9.4,Verde,,361.9,No,2,Deporte,6,2022-06-16
+5025,Puma,Classic,1500.0,11.0,Azul,,331.0,No,4,Fútbol,12,2021-10-10
+5026,New Balance,Chuck Taylor,888.0,11.6,Rojo Oscuro,Cuero,310.2,En stock,1,Running,24,2020-11-24
+5027,Under Armour,Free Run,79.95,6.0,Negro,,217.4,Sí,2,Deporte,6,2023-04-04
+5028,Under Armour,Chuck Taylor,127.14,11.5,Blanco,Cuero,281.7,Sí,2,Running,12,2022-08-09
+5029,New Balance,,138.86,8.4,Verde,,274.5,Sí,5,Tenis,-3,2023-01-28
+5030,Puma,Free Run,56.97,6.8,Rojo,,252.0,Sí,3,Basketball,24,2021-09-12
+5031,Puma,,141.13,42.0,Gris,Malla,344.7,No,2,Deporte,6,2023-04-11
+5032,New Balance,Air Max,75.58,44.0,Azul,Sintético,299.2,Sí,3,Gym,12,2020-06-10
+5033,Under Armour,Ultraboost,59.76,7.5,Azul,Sintético,216.2,Sí,4,Gym,6,2022-02-14
+5034,Under Armour,Classic,192.33,41.0,Verde,Malla,244.0,Sí,1,Deporte,-3,2023-07-10
+5035,Reebok,Air Max,194.84,45.0,Gris,Cuero,336.7,Sí,5,Deporte,12,2020-09-30
+5036,Nike,Free Run,171.26,8.0,Verde,,215.2,Sí,3,Basketball,6,2022-10-23
+5037,Puma,Ultraboost,95.69,5.5,Blanco,Cuero,370.2,No,2,Deporte,12,2022-11-17
+5038,New Balance,Air Max,64.65,5.9,Rojo,,299.0,No,3,Running,6,2020-11-21
+5039,Adidas,,152.63,5.9,Verde,Malla,296.1,No,2,Running,-3,2022-07-28
+5040,Nike,Free Run,116.02,6.1,Azul,Lona,318.5,No,3,Deporte,-3,2023-03-18
+5041,Nike,Chuck Taylor,68.31,6.0,Rojo Oscuro,Sintético,364.9,Sí,0,Tenis,12,2021-06-23
+5042,New Balance,Ultraboost,124.28,9.5,Azul,,269.6,No,6,Running,6,2021-05-02
+5043,Puma,,55.16,6.3,Azul,Malla,335.6,Sí,10,Gym,12,2022-04-01
+5044,Nike,Air Max,186.4,7.4,Rojo,Sintético,313.1,En stock,7,Running,6,2022-12-24
+5045,Adidas,Classic,88.82,11.3,Gris,Lona,253.4,Sí,-1,Gym,6,2020-12-21
+5046,Under Armour,Free Run,149.38,8.3,Blanco,Malla,375.7,Sí,12,Deporte,24,2023-06-29
+5047,Puma,Free Run,96.76,9.7,Rojo Oscuro,,359.5,Sí,1,Basketball,6,2020-08-22
+5048,Puma,Classic,128.01,6.2,Verde,Lona,331.7,Sí,5,Tenis,6,2020-08-14
+5049,Adidas,Air Max,132.01,6.3,Gris,Sintético,370.1,Sí,1,Fútbol,-3,2023-08-29
+5050,New Balance,Air Max,77.73,5.3,Blanco,,373.5,Sí,4,Running,6,2020-02-18
+5051,Addidas,Ultraboost,195.44,6.2,Rojo Oscuro,Lona,341.7,No,1,Deporte,6,2020-04-27
+5052,Reebok,RS-X,166.27,7.0,Azul,,367.4,Sí,5,Basketball,-3,2020-02-23
+5053,Adidas,Classic,190.92,6.2,Rojo,,339.5,No,4,Deporte,6,2021-07-18
+5054,Adidas,Classic,184.22,5.6,Verde,Cuero,336.0,Sí,3,Tenis,12,2022-12-03
+5055,Reebok,RS-X,139.68,5.8,Negro,Sintético,323.7,Sí,3,Basketball,-3,2020-02-22
+5056,Reebok,Free Run,188.28,8.2,Verde,Sintético,350.5,En stock,1,Fútbol,-3,2021-07-11
+5057,Reebok,RS-X,63.27,6.4,Azul,Lona,231.7,No,1,Deporte,12,2023-01-30
+5058,Nike,RS-X,79.4,7.5,Gris,Sintético,376.2,Sí,5,Tenis,6,2022-05-17
+5059,New Balance,Chuck Taylor,56.78,8.5,Negro,Sintético,374.4,Sí,5,Fútbol,6,2021-02-01
+5060,New Balance,Air Max,98.8,9.8,Rojo,Cuero,205.8,Sí,2,Running,24,2023-03-07
+5061,New Balance,Air Max,108.3,5.3,Azul,Malla,365.2,Sí,5,Tenis,24,2021-11-05
+5062,Adidas,,90.7,10.6,Negro,Sintético,225.8,Sí,2,Deporte,12,2021-01-21
+5063,Puma,Free Run,174.31,9.4,Blanco,Malla,267.0,Sí,4,Basketball,6,2020-04-20
+5064,New Balance,,103.51,5.6,Negro,,348.7,Sí,1,Gym,6,2021-09-05
+5065,New Balance,RS-X,92.14,11.1,Verde,Sintético,232.2,Sí,4,Basketball,6,2020-01-17
+5066,Nike,RS-X,131.4,11.4,Negro,Sintético,363.6,Sí,5,Running,12,2023-04-20
+5067,New Balance,,71.14,5.4,Gris,Malla,366.4,Sí,4,Basketball,12,2022-06-02
+5068,Under Armour,Classic,170.33,6.9,Gris,Lona,301.5,Sí,4,Basketball,-3,2021-06-24
+5069,Puma,Free Run,61.18,10.6,Verde,Sintético,201.3,No,4,Fútbol,12,2020-06-19
+5070,Under Armour,Classic,198.03,10.2,Negro,,257.4,Sí,5,Deporte,6,2021-02-12
+5071,Reebok,Free Run,165.84,6.3,Verde,Cuero,323.4,Sí,4,Gym,12,2022-01-09
+5072,Nike,Air Max,79.81,6.5,Negro,,396.2,En stock,2,Fútbol,12,2023-11-02
+5073,Reebok,Chuck Taylor,50.83,7.6,Gris,Cuero,326.4,Sí,5,Tenis,12,2023-04-26
+5074,Under Armour,Classic,172.32,8.4,Gris,Sintético,252.0,Sí,4,Fútbol,12,2022-05-07
+5075,Reebok,Classic,156.03,9.3,Negro,,326.8,Sí,5,Tenis,24,2020-08-17
+5076,Adidas,Air Max,159.35,7.6,Verde,,308.0,Sí,3,Deporte,24,2020-04-28
+5077,New Balance,Chuck Taylor,165.69,8.2,Verde,Lona,356.0,No,2,Deporte,6,2023-03-25
+5078,Reebok,Ultraboost,61.11,10.2,Verde,Lona,221.4,Sí,4,Deporte,6,2022-02-22
+5079,Puma,RS-X,103.77,5.3,Gris,Malla,352.2,No,3,Gym,12,2021-04-09
+5080,Puma,Free Run,67.38,6.8,Rojo,Sintético,308.3,Sí,3,Tenis,6,2020-04-13
+5081,Puma,Air Max,179.47,10.0,Azul,Sintético,392.6,Sí,5,Running,6,2021-11-28
+5082,Puma,Air Max,143.49,11.3,Negro,Lona,268.4,Sí,3,Running,6,2020-06-23
+5083,Under Armour,RS-X,99.63,8.6,Negro,Lona,326.5,Sí,2,Deporte,12,2022-01-14
+5084,Puma,Air Max,59.53,8.7,Negro,Malla,386.4,No,2,Gym,6,2023-12-15
+5085,Puma,Free Run,96.65,5.8,Verde,Malla,220.5,Sí,1,Fútbol,12,2023-03-03
+5086,New Balance,RS-X,98.78,8.1,Negro,Sintético,387.4,No,2,Tenis,-3,2023-11-15
+5087,Nike,Air Max,159.44,8.7,Blanco,,337.6,Sí,3,Running,6,2021-10-26
+5088,Adidas,Classic,145.63,6.7,Verde,,213.6,Sí,2,Gym,6,2020-02-02
+5089,Reebok,Chuck Taylor,183.08,6.9,Rojo,,260.2,No,5,Basketball,6,2020-02-24
+5090,Under Armour,Chuck Taylor,120.83,7.6,Blanco,,341.6,Sí,1,Deporte,24,2021-06-02
+5091,Puma,Ultraboost,67.94,5.1,Rojo Oscuro,Cuero,213.5,No,3,Basketball,6,2022-01-25
+5092,Under Armour,Free Run,156.99,7.3,Gris,Lona,316.4,No,1,Gym,6,2020-01-12
+5093,Under Armour,,164.12,6.5,Rojo,,269.2,En stock,3,Basketball,6,2021-12-20
+5094,Puma,Classic,134.19,7.3,Rojo,Cuero,324.2,No,5,Gym,12,2021-07-08
+5095,Reebok,Ultraboost,165.65,5.8,Rojo,Lona,209.1,Sí,1,Deporte,12,2021-01-07
+5096,Nike,Chuck Taylor,124.07,11.2,Azul,Malla,374.3,No,4,Gym,12,2021-04-28
+5097,Reebok,Ultraboost,128.41,9.2,Azul,Sintético,394.7,Sí,3,Deporte,-3,2022-08-30
+5098,Puma,Air Max,114.13,9.8,Negro,Sintético,393.8,Sí,4,Fútbol,6,2023-06-05
+5099,Nike,Air Max,53.81,10.5,Verde,,349.9,Sí,1,Deporte,24,2021-09-14
+5100,Nike,Classic,66.18,8.5,Blanco,Malla,226.0,En stock,4,Fútbol,6,2020-11-02
+5101,Reebok,Air Max,54.71,5.6,Verde,Sintético,351.7,No,4,Running,24,2021-04-01
+5102,Nike,Air Max,145.46,8.8,Blanco,Sintético,204.9,Sí,1,Deporte,12,2020-06-08
+5103,Puma,Ultraboost,97.15,9.1,Verde,Malla,204.4,Sí,5,Gym,24,2020-11-26
+5104,New Balance,Free Run,126.29,10.2,Gris,,264.7,No,4,Fútbol,6,2022-02-14
+5105,Under Armour,RS-X,186.13,8.0,Rojo,Malla,297.7,Sí,4,Deporte,6,2020-08-12
+5106,Reebok,,87.39,5.9,Negro,Lona,354.1,Sí,5,Gym,6,2022-09-09
+5107,Puma,Free Run,111.56,7.0,Verde,,336.7,Sí,4,Running,6,2021-12-29
+5108,Reebok,Free Run,163.33,7.5,Azul,,289.2,No,4,Gym,6,2022-12-04
+5109,Adidas,RS-X,84.32,9.5,Gris,,254.7,Sí,4,Gym,6,2023-05-22
+5110,Under Armour,Free Run,61.55,9.0,Negro,,399.4,Sí,2,Gym,6,2022-12-18
+5111,Nike,Air Max,93.46,7.5,Azul,Malla,285.2,En stock,5,Fútbol,12,2021-10-05
+5112,Adidas,Classic,74.18,11.9,Blanco,Lona,290.3,No,4,Tenis,24,2021-09-07
+5113,Nike,Air Max,189.45,9.2,Azul,,232.7,Sí,5,Deporte,12,2020-07-13
+5114,Adidas,Ultraboost,171.22,6.7,Rojo,Sintético,359.0,En stock,3,Running,6,2021-05-03
+5115,New Balance,RS-X,145.01,5.7,Gris,Malla,338.7,Sí,3,Gym,12,2020-06-05
+5116,Adidas,Classic,180.72,6.1,Verde,,244.2,Sí,4,Running,6,2021-09-01
+5117,Adidas,Air Max,170.55,6.7,Blanco,Cuero,216.5,Sí,5,Running,-3,2023-06-03
+5118,Puma,,77.99,6.1,Rojo Oscuro,Sintético,336.1,Sí,5,Deporte,6,2021-02-15
+5119,Nike,Classic,183.88,6.3,Rojo Oscuro,Sintético,330.9,No,5,Deporte,12,2023-05-13
+5120,Reebok,Free Run,130.9,7.0,Rojo,Cuero,254.7,Sí,2,Gym,-3,2023-01-07
+5121,New Balance,Classic,171.12,6.2,Negro,Malla,390.2,Sí,3,Tenis,24,2023-02-21
+5122,Adidas,RS-X,184.41,11.3,Rojo,Sintético,230.2,No,5,Deporte,12,2021-04-15
+5123,Adidas,Classic,97.7,5.6,Gris,Cuero,286.5,Sí,5,Gym,24,2023-05-26
+5124,Reebok,Free Run,66.51,8.7,Gris,Lona,388.7,No,2,Tenis,-3,2021-05-30
+5125,New Balance,RS-X,84.19,7.9,Rojo Oscuro,,283.9,Sí,2,Fútbol,12,2023-02-01
+5126,Adidas,Chuck Taylor,114.07,11.9,Azul,,327.7,No,5,Tenis,12,2021-01-27
+5127,Nike,Ultraboost,172.7,5.8,Azul,Lona,279.5,Sí,1,Deporte,12,2021-09-22
+5128,Under Armour,,179.11,7.8,Azul,Malla,254.8,Sí,5,Running,12,2021-08-30
+5129,Reebok,Free Run,51.04,11.8,Blanco,Cuero,396.8,No,5,Running,12,2022-09-06
+5130,Nike,Ultraboost,126.61,11.1,Azul,Lona,281.9,No,2,Tenis,12,2021-03-09
+5131,Adidas,Ultraboost,112.61,10.7,Rojo Oscuro,Cuero,378.8,No,2,Gym,6,2023-09-16
+5132,Adidas,Classic,83.32,6.8,Rojo Oscuro,,246.0,En stock,5,Running,6,2023-03-12
+5133,Reebok,Air Max,67.98,6.2,Azul,Lona,242.6,Sí,5,Fútbol,6,2021-06-23
+5134,Nike,Chuck Taylor,100.64,9.7,Negro,Cuero,206.2,No,5,Running,6,2020-10-04
+5135,Reebok,Classic,191.44,11.5,Verde,Lona,330.3,Sí,2,Basketball,6,2020-08-20
+5136,Nike,Free Run,98.48,8.9,Gris,Malla,273.7,Sí,5,Tenis,12,2023-01-18
+5137,Adidas,RS-X,127.82,9.0,Azul,Malla,372.9,No,5,Deporte,6,2023-05-07
+5138,Reebok,Chuck Taylor,155.45,7.0,Gris,Cuero,294.6,Sí,4,Running,24,2020-12-27
+5139,Adidas,Air Max,104.54,10.4,Rojo Oscuro,Sintético,393.6,En stock,1,Basketball,6,2020-01-26
+5140,Nike,Free Run,195.77,6.3,Verde,,237.1,En stock,3,Basketball,6,2022-11-14
+5141,Puma,Classic,194.37,7.3,Gris,Cuero,373.7,Sí,1,Running,12,2023-11-18
+5142,Puma,Classic,87.77,8.0,Negro,Malla,355.3,Sí,4,Fútbol,12,2021-05-21
+5143,Adidas,Chuck Taylor,124.59,8.6,Azul,Sintético,354.2,No,3,Deporte,6,2023-08-17
+5144,Reebok,Chuck Taylor,95.13,6.7,Gris,Lona,369.0,Sí,5,Basketball,24,2023-09-24
+5145,Reebok,Free Run,92.73,5.8,Blanco,Lona,352.2,Sí,4,Running,24,2020-09-23
+5146,Reebok,Classic,55.53,9.3,Verde,Sintético,325.2,Sí,5,Basketball,6,2021-04-05
+5147,Under Armour,Chuck Taylor,141.43,7.0,Azul,Sintético,226.2,Sí,2,Running,6,2021-03-31
+5148,Adidas,Free Run,125.4,9.1,Negro,Malla,206.5,Sí,4,Gym,-3,2023-10-15
+5149,Nike,,57.72,6.1,Blanco,Malla,384.2,Sí,2,Running,12,2022-12-27
+5150,Nike,Chuck Taylor,91.8,8.4,Rojo,Cuero,323.3,Sí,4,Fútbol,12,2022-10-03
+5151,New Balance,Ultraboost,186.24,8.7,Negro,,359.3,Sí,4,Deporte,24,2022-05-12
+5152,Puma,RS-X,85.93,5.4,Verde,,296.3,Sí,2,Fútbol,6,2023-12-06
+5153,New Balance,Air Max,71.73,7.4,Azul,Lona,223.5,No,3,Fútbol,12,2021-05-05
+5154,Under Armour,Free Run,123.42,5.9,Azul,Sintético,225.0,Sí,1,Gym,6,2022-12-08
+5155,Adidas,Classic,197.85,5.4,Rojo,Lona,337.1,En stock,5,Gym,12,2021-07-17
+5156,Adidas,RS-X,86.31,11.9,Gris,Lona,286.1,En stock,4,Gym,12,2023-01-30
+5157,Nike,Chuck Taylor,150.82,7.3,Negro,,240.1,No,5,Tenis,12,2020-08-03
+5158,Under Armour,Classic,164.24,10.7,Rojo Oscuro,Malla,298.3,En stock,2,Tenis,6,2021-07-12
+5159,Puma,Free Run,85.65,6.8,Rojo Oscuro,,212.8,No,5,Tenis,6,2020-06-07
+5160,Under Armour,Free Run,159.23,9.8,Verde,Cuero,316.4,Sí,2,Gym,12,2021-05-03
+5161,Reebok,Classic,105.17,10.3,Verde,Malla,253.8,Sí,5,Fútbol,12,2021-11-16
+5162,Reebok,Air Max,144.85,9.2,Negro,Malla,359.5,Sí,1,Gym,12,2023-06-19
+5163,Nike,Free Run,145.03,8.3,Rojo,Cuero,262.1,Sí,1,Tenis,6,2022-03-04
+5164,Nike,RS-X,130.37,7.9,Rojo Oscuro,,291.0,Sí,1,Deporte,24,2020-01-05
+5165,Reebok,Chuck Taylor,63.54,7.4,Blanco,Lona,202.3,No,1,Tenis,6,2020-12-26
+5166,Puma,Classic,175.3,11.5,Blanco,,214.5,No,1,Deporte,-3,2021-04-03
+5167,Reebok,Classic,98.12,10.8,Azul,Sintético,278.5,Sí,1,Fútbol,6,2020-09-04
+5168,Reebok,Chuck Taylor,77.98,11.8,Rojo Oscuro,Lona,296.0,Sí,2,Deporte,12,2022-08-03
+5169,New Balance,,56.12,5.9,Blanco,Lona,320.0,Sí,4,Running,6,2021-02-25
+5170,Nike,Classic,138.63,10.1,Gris,Sintético,258.3,Sí,5,Running,-3,2020-01-15
+5171,New Balance,Classic,151.63,11.6,Verde,Lona,339.0,No,1,Tenis,12,2022-01-05
+5172,Nike,Classic,52.49,6.3,Verde,Cuero,372.0,Sí,2,Basketball,6,2023-02-19
+5173,Adidas,Classic,126.81,5.5,Rojo,,356.0,En stock,2,Basketball,6,2020-10-03
+5174,Adidas,Chuck Taylor,83.97,10.2,Gris,Malla,207.9,Sí,2,Basketball,6,2021-03-28
+5175,Reebok,Air Max,146.78,9.0,Rojo Oscuro,Lona,296.1,Sí,4,Basketball,6,2023-11-14
+5176,Reebok,Chuck Taylor,76.15,10.9,Azul,,221.0,No,5,Basketball,-3,2023-08-10
+5177,Puma,RS-X,153.64,6.0,Negro,Lona,248.4,Sí,4,Gym,12,2021-08-20
+5178,Reebok,RS-X,108.01,10.6,Gris,Lona,397.3,No,3,Tenis,12,2021-03-21
+5179,Adidas,,190.51,6.4,Blanco,Lona,228.5,No,2,Tenis,12,2020-07-28
+5180,Puma,Chuck Taylor,70.63,6.1,Rojo,Sintético,299.8,Sí,3,Deporte,12,2021-12-14
+5181,Under Armour,,101.16,6.1,Blanco,Malla,323.6,No,1,Deporte,6,2020-10-28
+5182,Puma,RS-X,67.02,10.7,Rojo Oscuro,Sintético,340.5,No,1,Tenis,6,2023-05-31
+5183,Reebok,RS-X,188.7,9.7,Gris,Cuero,311.9,Sí,4,Deporte,12,2020-01-03
+5184,New Balance,Ultraboost,181.6,8.7,Rojo Oscuro,Sintético,202.0,Sí,5,Gym,-3,2022-09-16
+5185,Addidas,Free Run,88.69,7.5,Verde,,265.3,No,3,Fútbol,6,2023-01-21
+5186,Nike,RS-X,149.0,11.1,Negro,,303.5,Sí,5,Gym,6,2021-06-03
+5187,Nike,Air Max,172.58,7.7,Negro,Cuero,217.6,No,4,Running,12,2023-12-22
+5188,Adidas,Chuck Taylor,133.28,10.7,Negro,Cuero,270.1,Sí,1,Tenis,-3,2021-05-07
+5189,Nike,Ultraboost,129.45,8.1,Gris,Lona,206.6,Sí,5,Tenis,6,2023-06-12
+5190,Nike,Free Run,86.28,7.6,Rojo Oscuro,,215.7,Sí,5,Running,12,2021-09-11
+5191,Under Armour,Chuck Taylor,63.97,8.2,Rojo Oscuro,,279.4,En stock,1,Running,24,2023-03-30
+5192,Under Armour,RS-X,184.58,7.1,Rojo Oscuro,Malla,226.5,No,3,Running,6,2020-11-26
+5193,Adidas,,185.06,10.2,Azul,Sintético,313.5,Sí,1,Deporte,6,2020-11-28
+5194,Puma,Air Max,144.97,8.5,Rojo,,337.9,No,5,Deporte,12,2020-02-19
+5195,New Balance,Classic,100.85,6.6,Verde,Lona,360.1,Sí,3,Fútbol,-3,2022-05-12
+5196,Adidas,,102.38,11.3,Verde,Malla,240.0,Sí,3,Basketball,6,2020-09-28
+5197,Puma,Ultraboost,158.89,7.7,Blanco,,233.5,En stock,1,Tenis,12,2021-08-02
+5198,Nike,Classic,184.57,8.8,Verde,Cuero,220.9,En stock,5,Basketball,12,2023-06-29
+5199,New Balance,Free Run,183.06,11.3,Azul,Lona,327.3,No,4,Deporte,12,2021-07-13
+5200,New Balance,Classic,166.98,9.4,Azul,Cuero,341.3,Sí,5,Gym,12,2021-11-26
+5201,Reebok,RS-X,146.3,5.8,Rojo,,206.3,Sí,2,Tenis,12,2023-01-18
+5202,Under Armour,Chuck Taylor,62.62,11.6,Verde,Cuero,387.2,Sí,4,Basketball,12,2021-03-21
+5203,Under Armour,Classic,74.24,9.4,Rojo Oscuro,Cuero,210.4,Sí,3,Basketball,12,2022-10-13
+5204,Nike,Chuck Taylor,184.78,7.3,Azul,Cuero,308.3,No,4,Gym,12,2023-09-17
+5205,Puma,Classic,140.96,6.0,Negro,Lona,341.8,Sí,3,Tenis,12,2023-03-08
+5206,Under Armour,Classic,51.38,10.6,Azul,Malla,374.2,Sí,3,Gym,24,2020-12-22
+5207,Reebok,Free Run,65.22,9.3,Rojo Oscuro,Cuero,342.8,No,4,Fútbol,6,2020-09-30
+5208,Under Armour,,149.53,8.7,Rojo,Cuero,360.3,Sí,3,Gym,24,2022-11-08
+5209,Reebok,Air Max,50.76,11.3,Blanco,Cuero,267.9,Sí,3,Deporte,24,2020-11-06
+5210,Puma,Ultraboost,74.12,10.5,Gris,Malla,363.0,Sí,2,Gym,6,2022-05-19
+5211,Adidas,Ultraboost,132.31,6.1,Azul,Malla,216.0,No,5,Deporte,12,2022-06-04
+5212,Adidas,Air Max,153.78,7.2,Azul,Sintético,379.0,Sí,5,Gym,12,2020-06-02
+5213,New Balance,Ultraboost,147.79,6.7,Azul,Cuero,309.5,En stock,2,Tenis,6,2023-11-14
+5214,Reebok,Chuck Taylor,83.64,10.2,Rojo Oscuro,Sintético,363.5,Sí,4,Basketball,6,2023-07-07
+5215,New Balance,RS-X,156.83,5.2,Verde,Malla,290.5,Sí,1,Basketball,6,2021-09-11
+5216,Nike,Free Run,85.59,9.0,Blanco,Cuero,328.7,Sí,1,Deporte,6,2022-06-01
+5217,Addidas,Ultraboost,98.81,10.3,Verde,Sintético,305.3,Sí,1,Deporte,24,2022-03-07
+5218,Puma,Ultraboost,161.97,11.1,Verde,Cuero,346.3,En stock,2,Fútbol,6,2020-05-04
+5219,New Balance,Free Run,147.44,7.4,Gris,Sintético,216.3,Sí,2,Basketball,24,2023-10-09
+5220,Nike,Free Run,177.38,10.7,Rojo Oscuro,Sintético,212.1,En stock,3,Deporte,12,2023-07-20
+5221,Nike,Chuck Taylor,148.64,5.8,Negro,,249.4,Sí,1,Running,24,2021-09-10
+5222,Under Armour,Air Max,135.25,10.9,Negro,Lona,231.9,Sí,4,Deporte,12,2020-09-01
+5223,Under Armour,Ultraboost,64.05,5.9,Verde,Malla,374.4,Sí,4,Gym,6,2022-04-27
+5224,Nike,Air Max,105.16,7.8,Gris,Sintético,243.8,Sí,1,Basketball,12,2021-03-25
+5225,Nkie,Classic,89.78,10.6,Rojo Oscuro,Sintético,395.2,Sí,1,Gym,6,2022-07-18
+5226,Under Armour,Classic,86.6,6.0,Rojo,Malla,267.4,No,1,Fútbol,12,2023-06-24
+5227,Adidas,RS-X,195.95,6.6,Blanco,Cuero,236.4,En stock,2,Deporte,-3,2021-06-03
+5228,Adidas,Free Run,108.96,10.1,Rojo Oscuro,,357.9,No,2,Tenis,6,2023-03-10
+5229,New Balance,RS-X,183.81,10.0,Verde,,331.7,No,2,Running,6,2020-12-27
+5230,Nike,,144.67,9.5,Negro,Sintético,299.6,Sí,5,Running,12,2020-01-08
+5231,New Balance,Ultraboost,169.22,9.9,Rojo,Cuero,311.1,En stock,4,Running,24,2021-04-22
+5232,Adidas,Free Run,125.4,8.8,Blanco,Lona,343.8,No,4,Gym,12,2023-10-07
+5233,Adidas,RS-X,136.54,6.8,Verde,Malla,245.7,No,3,Basketball,6,2021-05-09
+5234,Nkie,Free Run,123.88,7.4,Gris,Malla,399.3,No,2,Tenis,12,2022-04-12
+5235,Adidas,Ultraboost,79.29,6.3,Blanco,,395.0,No,5,Basketball,6,2023-12-21
+5236,Nike,Chuck Taylor,158.37,11.4,Blanco,Sintético,330.1,Sí,5,Deporte,12,2022-11-28
+5237,Under Armour,Free Run,92.12,9.1,Negro,,239.9,En stock,4,Basketball,-3,2021-08-15
+5238,Adidas,Classic,53.65,7.8,Negro,Malla,336.0,Sí,2,Running,12,2020-07-05
+5239,Adidas,,146.82,8.2,Rojo,Sintético,214.4,Sí,3,Running,24,2022-01-23
+5240,Adidas,RS-X,76.57,11.6,Negro,Cuero,206.1,Sí,2,Fútbol,6,2020-04-02
+5241,Under Armour,RS-X,191.07,6.1,Rojo,,251.5,Sí,1,Tenis,12,2020-03-26
+5242,Nike,Air Max,193.09,9.1,Verde,Cuero,292.5,No,2,Deporte,24,2022-12-03
+5243,Adidas,Chuck Taylor,187.23,8.5,Rojo,Sintético,373.7,Sí,1,Deporte,6,2020-05-16
+5244,Puma,Chuck Taylor,105.52,9.3,Rojo,Lona,345.4,No,1,Basketball,24,2021-02-24
+5245,Adidas,Classic,52.32,5.1,Rojo Oscuro,Lona,348.5,Sí,3,Gym,6,2020-03-14
+5246,Reebok,Chuck Taylor,189.25,11.1,Blanco,Sintético,285.1,Sí,4,Tenis,12,2023-03-25
+5247,Reebok,Free Run,114.23,11.5,Negro,Lona,269.2,Sí,2,Gym,24,2023-07-02
+5248,Puma,,195.0,9.0,Gris,Lona,274.2,Sí,1,Gym,12,2020-06-19
+5249,Puma,Ultraboost,194.54,9.9,Negro,Malla,397.5,No,2,Deporte,6,2020-06-18
+5250,New Balance,Chuck Taylor,177.95,11.5,Azul,Lona,208.0,En stock,4,Deporte,12,2022-05-21
+5251,Nike,,94.17,10.0,Azul,Cuero,373.4,No,4,Deporte,12,2020-11-17
+5252,Puma,Chuck Taylor,107.76,6.1,Azul,Lona,315.7,No,5,Gym,-3,2021-03-31
+5253,Reebok,Classic,177.67,9.0,Blanco,Cuero,287.7,Sí,4,Basketball,12,2022-08-01
+5254,Under Armour,Ultraboost,97.54,9.2,Verde,Lona,345.1,No,3,Running,6,2022-02-28
+5255,Nike,Chuck Taylor,75.42,8.0,Azul,Malla,297.3,No,1,Gym,12,2021-09-04
+5256,Reebok,Free Run,133.52,10.2,Rojo Oscuro,Cuero,374.7,En stock,5,Basketball,12,2023-03-24
+5257,Reebok,Free Run,190.42,11.5,Rojo,Malla,380.1,Sí,3,Basketball,12,2022-06-07
+5258,Under Armour,Free Run,154.4,11.5,Azul,,284.3,Sí,2,Gym,12,2020-12-14
+5259,Adidas,Classic,135.51,8.2,Gris,Malla,255.4,Sí,1,Basketball,24,2023-04-11
+5260,Nike,,64.58,5.8,Rojo Oscuro,Malla,318.5,Sí,4,Tenis,12,2020-01-10
+5261,Nike,RS-X,142.25,11.9,Gris,Malla,382.5,No,1,Basketball,12,2022-01-09
+5262,Puma,Ultraboost,198.51,10.9,Azul,Malla,242.1,Sí,2,Tenis,6,2023-07-12
+5263,Adidas,Air Max,71.01,5.9,Blanco,Cuero,324.6,Sí,5,Running,6,2023-06-24
+5264,New Balance,Chuck Taylor,127.75,11.4,Negro,Sintético,326.3,No,5,Running,6,2021-10-28
+5265,Reebok,Classic,181.61,11.1,Gris,Cuero,346.6,Sí,5,Fútbol,6,2021-06-29
+5266,Adidas,Air Max,161.12,8.6,Gris,Cuero,226.3,No,4,Fútbol,12,2020-05-08
+5267,Reebok,Ultraboost,154.55,9.1,Verde,Sintético,343.2,Sí,3,Gym,12,2021-08-23
+5268,Adidas,,155.37,7.8,Negro,Malla,381.8,Sí,3,Fútbol,12,2021-08-27
+5269,Under Armour,Free Run,103.92,5.4,Blanco,Cuero,235.9,Sí,1,Tenis,24,2020-11-22
+5270,Puma,Air Max,94.04,7.3,Blanco,Cuero,247.5,En stock,4,Running,-3,2022-09-06
+5271,Adidas,Chuck Taylor,171.4,10.6,Rojo,,394.3,Sí,5,Fútbol,24,2021-02-07
+5272,Adidas,RS-X,171.52,5.0,Rojo Oscuro,Sintético,236.2,No,5,Deporte,12,2021-09-20
+5273,Puma,Classic,180.06,7.3,Blanco,,370.9,No,2,Gym,12,2023-10-14
+5274,Under Armour,,186.99,7.8,Blanco,,298.5,Sí,2,Gym,12,2021-12-18
+5275,Nike,Ultraboost,126.7,8.8,Verde,Malla,249.4,Sí,5,Basketball,6,2022-11-06
+5276,Under Armour,Free Run,125.23,11.4,Rojo,Sintético,374.1,Sí,5,Running,6,2020-09-30
+5277,Puma,Free Run,169.74,7.4,Verde,,289.1,En stock,4,Fútbol,-3,2021-11-15
+5278,New Balance,Ultraboost,147.49,7.4,Verde,Lona,303.0,Sí,3,Deporte,24,2020-04-25
+5279,Under Armour,Chuck Taylor,155.3,10.2,Azul,,271.8,Sí,2,Basketball,6,2022-05-10
+5280,Nike,Classic,169.37,8.2,Verde,Sintético,318.6,Sí,3,Tenis,12,2021-11-23
+5281,Nike,Chuck Taylor,183.5,6.6,Rojo Oscuro,,232.7,En stock,4,Basketball,24,2023-01-19
+5282,Reebok,RS-X,100.7,8.2,Azul,,278.2,Sí,5,Deporte,6,2023-01-10
+5283,Nkie,Free Run,106.34,6.0,Verde,Lona,393.9,Sí,3,Tenis,6,2020-11-19
+5284,Adidas,RS-X,64.1,6.2,Negro,Cuero,251.6,Sí,5,Gym,24,2022-08-18
+5285,Puma,Ultraboost,136.74,8.5,Negro,Cuero,331.3,Sí,5,Basketball,12,2020-04-23
+5286,Nike,,55.39,7.9,Rojo,Sintético,265.0,Sí,1,Gym,6,2022-12-17
+5287,Nike,RS-X,119.84,11.4,Rojo Oscuro,,354.7,Sí,3,Basketball,12,2020-06-02
+5288,Under Armour,Air Max,131.4,7.5,Verde,Lona,226.2,Sí,3,Fútbol,24,2023-11-28
+5289,New Balance,Free Run,92.98,9.1,Azul,Sintético,394.0,Sí,5,Running,12,2023-07-13
+5290,Adidas,,138.62,9.4,Rojo Oscuro,,290.8,En stock,4,Basketball,6,2020-11-10
+5291,New Balance,Ultraboost,54.58,5.1,Blanco,Sintético,247.2,No,1,Fútbol,6,2022-11-30
+5292,New Balance,,55.6,9.6,Gris,,214.7,Sí,5,Deporte,12,2020-04-14
+5293,New Balance,RS-X,173.39,6.2,Negro,Lona,234.0,No,2,Running,12,2023-05-01
+5294,New Balance,Air Max,104.03,11.7,Negro,Malla,304.0,Sí,2,Tenis,12,2023-11-25
+5295,Puma,Classic,69.06,6.0,Negro,,267.4,No,1,Fútbol,6,2023-07-25
+5296,Nike,Classic,128.34,7.9,Rojo Oscuro,Malla,365.8,Sí,4,Deporte,24,2020-12-19
+5297,Under Armour,Chuck Taylor,165.5,5.6,Blanco,Malla,286.2,No,5,Basketball,6,2022-10-12
+5298,Under Armour,Ultraboost,82.37,12.0,Rojo,Sintético,249.7,No,3,Tenis,6,2022-01-02
+5299,Nike,RS-X,143.43,8.5,Azul,Sintético,323.4,No,1,Deporte,6,2021-12-09
+5300,Reebok,Classic,62.8,9.2,Blanco,Cuero,341.4,Sí,4,Deporte,6,2023-07-03
+5301,Nike,Chuck Taylor,57.75,5.5,Blanco,Malla,233.4,Sí,3,Basketball,12,2021-10-12
+5302,Reebok,Classic,129.7,10.2,Verde,,233.5,Sí,2,Running,12,2022-04-03
+5303,Adidas,Classic,131.1,6.5,Azul,Sintético,207.3,Sí,2,Basketball,6,2022-08-04
+5304,New Balance,Free Run,145.61,11.3,Verde,,347.3,Sí,3,Running,12,2021-10-22
+5305,Nike,,158.91,6.4,Verde,,332.8,Sí,1,Basketball,6,2020-04-08
+5306,Nike,Chuck Taylor,196.38,6.3,Negro,Malla,294.9,No,2,Deporte,12,2021-08-10
+5307,Reebok,Chuck Taylor,127.45,5.3,Rojo,Sintético,368.8,Sí,5,Fútbol,-3,2020-10-08
+5308,Adidas,Classic,98.44,8.3,Azul,Sintético,361.1,Sí,3,Deporte,6,2021-02-06
+5309,Nike,Chuck Taylor,169.28,9.0,Verde,Lona,317.1,Sí,3,Tenis,12,2023-02-06
+5310,New Balance,Free Run,90.62,5.5,Gris,,373.7,No,2,Gym,6,2021-11-30
+5311,New Balance,Air Max,115.85,10.4,Blanco,Cuero,241.2,Sí,1,Fútbol,6,2020-07-17
+5312,Under Armour,,61.77,8.2,Verde,Lona,222.4,Sí,5,Gym,6,2023-08-19
+5313,New Balance,Ultraboost,53.8,8.7,Blanco,Lona,253.9,Sí,1,Deporte,12,2020-11-22
+5314,New Balance,Air Max,194.4,8.1,Rojo,Lona,211.4,Sí,4,Deporte,12,2020-06-02
+5315,Puma,Air Max,175.4,7.8,Verde,Lona,306.2,Sí,4,Fútbol,6,2021-07-05
+5316,Nike,Classic,154.4,8.9,Rojo,Malla,387.3,En stock,2,Deporte,24,2021-02-08
+5317,Adidas,Free Run,111.34,6.1,Verde,Lona,207.9,No,2,Gym,12,2021-04-06
+5318,Puma,Classic,75.99,6.3,Azul,Malla,224.4,Sí,2,Gym,24,2020-05-11
+5319,Puma,Ultraboost,73.47,11.0,Verde,Malla,290.4,En stock,4,Gym,12,2022-03-01
+5320,Adidas,,87.54,11.6,Rojo Oscuro,Lona,386.8,Sí,1,Basketball,12,2022-05-23
+5321,Puma,Ultraboost,132.38,7.6,Blanco,Malla,263.2,No,1,Basketball,6,2020-03-24
+5322,Nike,Classic,157.19,6.9,Rojo Oscuro,Lona,301.4,Sí,2,Gym,6,2023-11-23
+5323,Adidas,Air Max,149.03,9.5,Gris,Lona,208.3,No,5,Running,-3,2022-01-23
+5324,Nike,Air Max,91.99,7.9,Negro,Sintético,229.7,No,1,Running,6,2021-09-19
+5325,New Balance,Free Run,193.23,5.2,Azul,,397.3,Sí,4,Running,-3,2023-02-06
+5326,New Balance,Chuck Taylor,160.68,6.1,Negro,Malla,393.0,En stock,3,Deporte,12,2020-08-08
+5327,Adidas,Classic,133.15,10.0,Negro,Malla,201.0,Sí,3,Deporte,6,2021-07-06
+5328,New Balance,Chuck Taylor,141.76,9.6,Rojo Oscuro,,390.4,Sí,3,Deporte,6,2023-10-23
+5329,New Balance,Chuck Taylor,112.94,5.2,Rojo Oscuro,Malla,327.8,No,5,Gym,6,2023-03-16
+5330,Puma,Air Max,87.16,6.6,Gris,Cuero,373.6,Sí,2,Tenis,-3,2020-04-21
+5331,New Balance,Classic,103.4,6.6,Rojo Oscuro,Cuero,290.9,Sí,4,Fútbol,12,2021-09-06
+5332,Adidas,Air Max,163.68,9.7,Gris,,303.1,En stock,5,Deporte,6,2022-07-12
+5333,Puma,Chuck Taylor,52.16,5.1,Verde,Sintético,297.8,Sí,4,Deporte,6,2021-04-19
+5334,Under Armour,,67.41,5.7,Rojo,Lona,333.4,Sí,4,Deporte,6,2022-04-15
+5335,New Balance,Free Run,56.9,10.6,Rojo,Sintético,227.9,Sí,2,Fútbol,12,2020-09-27
+5336,Nike,Ultraboost,56.11,6.2,Negro,,206.0,No,3,Fútbol,6,2021-02-24
+5337,New Balance,Air Max,178.32,9.6,Rojo,Malla,261.6,Sí,2,Basketball,24,2021-12-07
+5338,Under Armour,RS-X,155.55,6.7,Verde,Lona,340.9,Sí,5,Tenis,6,2023-10-22
+5339,Under Armour,RS-X,121.13,5.7,Azul,Sintético,240.4,Sí,5,Deporte,6,2023-07-27
+5340,New Balance,Classic,64.68,6.7,Blanco,,334.7,En stock,5,Gym,12,2023-07-30
+5341,Reebok,Ultraboost,123.74,10.1,Negro,Malla,394.0,No,2,Gym,12,2020-02-09
+5342,Puma,Ultraboost,121.02,11.0,Blanco,Sintético,218.8,Sí,4,Basketball,-3,2020-07-07
+5343,Adidas,Free Run,75.98,10.8,Azul,,334.5,Sí,4,Fútbol,12,2023-04-02
+5344,Adidas,Air Max,115.08,7.8,Rojo,Sintético,288.8,Sí,1,Running,6,2022-09-20
+5345,Under Armour,Classic,109.78,9.7,Rojo,Cuero,373.6,Sí,5,Deporte,12,2021-06-19
+5346,Puma,RS-X,142.38,6.4,Azul,Sintético,235.4,No,4,Running,6,2022-10-24
+5347,Nike,RS-X,145.26,7.1,Rojo Oscuro,Malla,338.5,Sí,1,Running,6,2020-10-16
+5348,Addidas,Chuck Taylor,56.8,11.3,Verde,Malla,367.6,No,4,Deporte,-3,2021-03-08
+5349,Under Armour,Chuck Taylor,106.19,5.1,Gris,Sintético,388.9,Sí,5,Gym,12,2021-04-15
+5350,Adidas,Ultraboost,143.88,5.6,Rojo Oscuro,Sintético,336.6,Sí,3,Deporte,-3,2023-04-19
+5351,Nike,RS-X,125.47,6.5,Negro,Sintético,299.4,Sí,5,Tenis,12,2023-06-25
+5352,Puma,,178.47,5.2,Azul,Malla,323.6,Sí,2,Gym,12,2021-09-19
+5353,Reebok,RS-X,148.8,6.3,Rojo,Malla,373.8,Sí,4,Gym,6,2020-10-05
+5354,Puma,,74.44,9.1,Rojo,Cuero,314.1,Sí,4,Deporte,6,2022-05-26
+5355,Adidas,Air Max,60.59,7.9,Gris,Sintético,206.1,No,2,Deporte,24,2021-08-03
+5356,Under Armour,Free Run,146.36,11.2,Azul,,386.2,Sí,2,Basketball,6,2022-05-12
+5357,Under Armour,RS-X,53.98,10.7,Verde,Lona,337.9,No,3,Deporte,24,2020-09-10
+5358,Under Armour,Chuck Taylor,137.87,7.4,Rojo Oscuro,Cuero,335.3,Sí,4,Deporte,12,2020-06-29
+5359,Reebok,RS-X,191.03,6.8,Gris,Malla,243.1,Sí,4,Deporte,6,2021-11-11
+5360,Under Armour,Chuck Taylor,136.32,7.7,Negro,Sintético,331.8,Sí,3,Fútbol,12,2022-04-04
+5361,Reebok,Classic,108.23,9.1,Azul,,278.8,No,1,Deporte,12,2021-11-30
+5362,Puma,Air Max,146.49,6.9,Verde,Sintético,330.2,En stock,3,Running,6,2021-07-19
+5363,New Balance,Ultraboost,118.74,9.4,Gris,Malla,221.3,En stock,5,Deporte,24,2023-09-11
+5364,Puma,Ultraboost,131.84,7.9,Verde,Sintético,331.6,Sí,4,Gym,12,2023-10-12
+5365,Under Armour,Ultraboost,191.22,8.9,Negro,Cuero,399.9,Sí,2,Deporte,6,2021-11-10
+5366,Nkie,Free Run,107.92,8.1,Blanco,Lona,209.6,No,5,Gym,12,2021-01-25
+5367,Nike,RS-X,194.18,7.1,Rojo Oscuro,Sintético,395.4,No,4,Tenis,-3,2023-01-13
+5368,Puma,Free Run,185.8,11.6,Verde,Lona,281.4,No,3,Deporte,6,2023-09-02
+5369,Reebok,Ultraboost,79.37,10.3,Gris,Malla,374.2,No,5,Running,24,2020-07-30
+5370,New Balance,RS-X,60.4,6.0,Rojo,,356.5,Sí,4,Deporte,6,2021-01-18
+5371,Puma,RS-X,65.12,11.1,Azul,Cuero,313.4,Sí,1,Deporte,12,2020-12-07
+5372,Reebok,Classic,52.73,8.4,Rojo Oscuro,Lona,347.7,No,1,Running,12,2022-04-23
+5373,Puma,RS-X,64.17,11.3,Rojo,Malla,375.7,Sí,2,Gym,6,2022-11-27
+5374,Puma,RS-X,152.45,10.6,Gris,Cuero,280.8,Sí,4,Tenis,6,2021-02-23
+5375,New Balance,Ultraboost,60.68,8.0,Rojo Oscuro,Cuero,265.4,Sí,1,Running,12,2022-01-20
+5376,Puma,Ultraboost,97.85,5.2,Rojo Oscuro,Cuero,333.5,Sí,3,Basketball,12,2023-04-07
+5377,Adidas,Ultraboost,176.73,6.9,Rojo Oscuro,Sintético,361.6,Sí,4,Fútbol,12,2023-09-28
+5378,Reebok,Ultraboost,53.49,8.8,Rojo,Lona,352.5,Sí,3,Tenis,6,2020-11-01
+5379,Adidas,Chuck Taylor,172.17,9.4,Rojo Oscuro,Malla,359.6,Sí,3,Basketball,24,2021-12-02
+5380,Reebok,Free Run,92.28,6.8,Rojo Oscuro,Cuero,287.1,Sí,1,Deporte,12,2022-05-18
+5381,Under Armour,Free Run,67.72,6.0,Blanco,,363.6,No,4,Fútbol,-3,2021-06-20
+5382,Adidas,Free Run,154.51,10.8,Rojo Oscuro,Cuero,224.0,Sí,5,Gym,6,2023-02-09
+5383,Nike,Free Run,144.34,11.9,Rojo,Malla,308.9,No,1,Deporte,12,2023-12-05
+5384,Adidas,Air Max,181.62,8.7,Blanco,Malla,201.2,Sí,1,Gym,12,2020-07-24
+5385,New Balance,Ultraboost,160.26,6.2,Rojo Oscuro,Sintético,264.9,No,4,Running,6,2023-04-23
+5386,Under Armour,,170.52,6.9,Gris,Lona,273.3,No,4,Deporte,12,2023-11-06
+5387,Nike,Free Run,92.31,5.1,Rojo Oscuro,Sintético,279.2,En stock,3,Deporte,6,2021-05-10
+5388,Nike,Air Max,76.62,11.4,Verde,Malla,339.1,No,4,Deporte,12,2023-11-03
+5389,Nike,Free Run,162.59,5.8,Gris,Lona,277.7,No,3,Running,12,2022-12-06
+5390,Reebok,Ultraboost,171.03,9.0,Gris,,289.7,Sí,1,Basketball,6,2021-05-18
+5391,Reebok,Classic,198.58,6.9,Rojo,Malla,247.5,Sí,2,Running,12,2022-11-11
+5392,Adidas,RS-X,111.89,8.9,Rojo Oscuro,Cuero,274.7,Sí,5,Fútbol,12,2020-07-31
+5393,Nike,RS-X,105.8,9.6,Rojo Oscuro,Lona,245.5,Sí,1,Basketball,6,2020-11-05
+5394,Reebok,Air Max,166.46,10.8,Azul,Cuero,214.6,Sí,4,Tenis,-3,2021-10-22
+5395,Nike,,101.12,6.4,Blanco,Lona,320.7,Sí,5,Deporte,-3,2022-01-22
+5396,Reebok,Classic,189.61,5.1,Gris,Sintético,333.6,En stock,2,Basketball,12,2020-09-28
+5397,Nike,RS-X,178.76,6.0,Rojo Oscuro,Malla,323.9,No,2,Tenis,6,2022-07-26
+5398,Reebok,Classic,114.35,11.3,Rojo,Lona,292.7,No,3,Basketball,12,2023-05-10
+5399,Under Armour,Chuck Taylor,162.63,11.1,Verde,Cuero,276.0,Sí,5,Fútbol,12,2020-02-01
+5400,Nike,RS-X,163.18,9.2,Azul,Malla,372.7,No,3,Basketball,6,2021-03-18
+5401,Nike,Free Run,65.47,9.2,Negro,,303.8,Sí,1,Deporte,12,2020-06-10
+5402,Puma,Chuck Taylor,185.38,9.7,Azul,Sintético,295.8,Sí,5,Tenis,12,2022-02-05
+5403,Under Armour,,125.79,6.2,Azul,,205.1,Sí,1,Running,12,2020-09-10
+5404,Adidas,Ultraboost,173.97,11.4,Verde,Sintético,268.2,Sí,3,Tenis,12,2021-06-04
+5405,New Balance,Classic,98.01,7.9,Verde,Cuero,276.0,En stock,5,Basketball,12,2022-09-03
+5406,Adidas,Classic,184.33,7.7,Negro,Lona,279.8,Sí,3,Tenis,-3,2020-01-10
+5407,Nike,Classic,108.38,8.6,Blanco,Sintético,316.0,Sí,5,Basketball,6,2021-12-26
+5408,New Balance,Free Run,51.63,5.3,Azul,Cuero,306.7,No,3,Deporte,12,2021-05-19
+5409,Nike,Air Max,185.81,6.2,Verde,Sintético,321.6,Sí,2,Gym,24,2022-02-23
+5410,New Balance,,63.69,10.2,Negro,Malla,353.0,Sí,3,Gym,12,2021-03-11
+5411,Reebok,Ultraboost,97.9,5.6,Gris,Cuero,362.6,Sí,2,Basketball,12,2023-02-08
+5412,Puma,,192.51,9.2,Blanco,Malla,343.6,Sí,3,Tenis,12,2020-06-01
+5413,Under Armour,Chuck Taylor,192.59,6.7,Rojo Oscuro,Lona,391.1,No,5,Deporte,12,2022-07-05
+5414,Under Armour,Classic,136.02,7.7,Negro,Cuero,203.6,No,5,Fútbol,24,2022-05-18
+5415,Adidas,Chuck Taylor,144.78,7.0,Verde,Sintético,239.2,En stock,5,Deporte,12,2023-01-30
+5416,Under Armour,Classic,117.27,7.5,Verde,Sintético,201.5,Sí,4,Fútbol,-3,2022-01-22
+5417,Reebok,RS-X,93.98,10.0,Gris,,329.5,No,1,Deporte,6,2023-04-29
+5418,Under Armour,,99.3,7.1,Gris,Malla,379.6,Sí,5,Running,6,2021-07-16
+5419,Nike,Ultraboost,150.88,9.0,Azul,Cuero,248.7,No,2,Basketball,12,2023-01-09
+5420,New Balance,Ultraboost,162.86,8.3,Blanco,,385.4,No,5,Deporte,6,2021-05-03
+5421,Puma,Free Run,168.74,9.6,Azul,Cuero,212.1,En stock,4,Running,6,2022-06-13
+5422,New Balance,Ultraboost,168.44,11.6,Rojo Oscuro,,386.9,Sí,2,Deporte,6,2023-01-16
+5423,Under Armour,Classic,63.68,10.1,Blanco,,270.3,Sí,4,Gym,6,2023-05-02
+5424,Nike,,124.16,6.5,Gris,Lona,220.3,En stock,2,Deporte,6,2020-04-13
+5425,Under Armour,Classic,58.63,5.2,Blanco,Sintético,297.2,En stock,3,Fútbol,-3,2023-01-24
+5426,New Balance,,132.43,6.8,Negro,Sintético,251.4,En stock,1,Running,6,2023-12-17
+5427,Under Armour,Air Max,116.23,9.2,Rojo,Cuero,257.0,No,1,Gym,12,2023-05-06
+5428,Puma,,183.16,5.4,Blanco,Malla,261.5,No,4,Deporte,12,2022-10-21
+5429,Adidas,Ultraboost,102.64,8.5,Negro,Sintético,360.6,Sí,1,Running,-3,2022-10-03
+5430,Reebok,Ultraboost,67.56,9.2,Gris,,307.8,No,4,Gym,6,2021-02-10
+5431,Nike,RS-X,71.45,7.3,Verde,Lona,262.3,En stock,4,Tenis,24,2023-11-02
+5432,New Balance,Air Max,164.23,10.4,Verde,Lona,322.1,No,4,Fútbol,12,2020-06-15
+5433,Adidas,Free Run,142.73,5.7,Azul,Lona,343.2,Sí,1,Tenis,12,2021-05-23
+5434,Under Armour,,65.17,5.5,Gris,Sintético,254.5,Sí,4,Basketball,12,2020-11-08
+5435,Adidas,Ultraboost,62.62,10.1,Negro,Cuero,282.7,Sí,1,Deporte,24,2023-12-12
+5436,New Balance,Free Run,155.15,8.5,Blanco,Malla,224.4,No,4,Tenis,6,2022-02-01
+5437,Puma,Free Run,60.91,9.8,Gris,Cuero,236.2,Sí,5,Deporte,12,2021-11-11
+5438,Adidas,Chuck Taylor,173.28,8.0,Negro,Lona,336.2,Sí,4,Deporte,12,2021-04-21
+5439,Nike,Free Run,155.94,6.7,Rojo Oscuro,,236.3,Sí,2,Basketball,12,2020-03-13
+5440,Puma,Ultraboost,62.2,10.7,Rojo,Cuero,305.0,Sí,4,Fútbol,-3,2023-03-10
+5441,Under Armour,Ultraboost,62.73,10.6,Verde,Lona,341.8,Sí,3,Gym,6,2021-08-04
+5442,Under Armour,,198.0,9.9,Azul,Malla,221.4,Sí,4,Deporte,-3,2020-09-18
+5443,Under Armour,RS-X,106.14,6.9,Gris,Malla,313.5,No,2,Tenis,6,2023-09-25
+5444,Under Armour,Ultraboost,105.6,9.1,Azul,Sintético,251.3,No,2,Deporte,6,2023-08-24
+5445,Reebok,Chuck Taylor,171.92,7.5,Negro,,392.6,Sí,1,Tenis,6,2020-09-01
+5446,Under Armour,Chuck Taylor,192.09,5.6,Rojo Oscuro,Malla,296.7,Sí,5,Deporte,6,2023-09-22
+5447,Nike,Chuck Taylor,197.9,11.4,Azul,,361.2,No,4,Deporte,12,2021-07-14
+5448,New Balance,,163.01,6.0,Rojo Oscuro,,310.0,Sí,1,Tenis,6,2023-01-04
+5449,Reebok,Classic,106.44,11.7,Azul,,208.7,No,5,Gym,6,2020-06-23
+5450,New Balance,Free Run,62.53,8.1,Rojo,Cuero,326.6,Sí,4,Fútbol,-3,2020-04-18
+5451,Puma,,166.57,6.3,Negro,Malla,390.3,No,3,Running,24,2020-07-01
+5452,Reebok,RS-X,133.76,8.8,Azul,Sintético,320.3,No,4,Basketball,24,2020-07-10
+5453,New Balance,Ultraboost,113.63,11.1,Azul,,363.8,En stock,2,Running,24,2020-03-05
+5454,Reebok,Air Max,185.95,10.1,Rojo Oscuro,Malla,376.8,No,2,Gym,12,2022-08-20
+5455,Puma,Ultraboost,66.68,10.6,Azul,Lona,245.6,Sí,3,Gym,6,2023-01-28
+5456,Under Armour,Air Max,123.89,9.6,Blanco,Malla,242.4,Sí,1,Fútbol,6,2022-05-13
+5457,Nike,Air Max,51.7,9.8,Azul,Lona,322.2,No,5,Deporte,12,2023-02-25
+5458,New Balance,Classic,120.3,10.9,Verde,Sintético,282.2,No,4,Deporte,6,2021-01-03
+5459,Under Armour,Ultraboost,58.45,6.7,Gris,,368.0,Sí,2,Running,12,2022-04-30
+5460,Under Armour,Ultraboost,67.82,8.4,Rojo,Lona,380.0,Sí,1,Basketball,6,2020-02-12
+5461,Puma,Chuck Taylor,67.63,6.5,Rojo,,270.7,No,3,Running,6,2023-12-13
+5462,New Balance,Chuck Taylor,147.38,11.9,Rojo Oscuro,Sintético,247.4,En stock,2,Deporte,12,2021-05-02
+5463,Reebok,Chuck Taylor,161.91,11.6,Rojo,Sintético,356.1,No,3,Deporte,12,2020-03-18
+5464,Puma,RS-X,137.51,5.3,Azul,Lona,255.0,Sí,4,Running,12,2022-04-05
+5465,Nike,Air Max,194.33,9.9,Rojo Oscuro,Malla,364.5,No,5,Basketball,12,2023-07-17
+5466,Nike,Classic,106.23,11.5,Gris,Malla,284.7,No,2,Deporte,6,2021-11-04
+5467,Nike,Ultraboost,92.86,6.3,Blanco,Cuero,333.5,No,2,Running,6,2021-12-01
+5468,New Balance,Ultraboost,180.29,9.0,Rojo,Cuero,219.1,No,4,Basketball,24,2022-01-28
+5469,Reebok,Chuck Taylor,83.54,11.4,Gris,Sintético,324.8,No,1,Fútbol,12,2021-12-28
+5470,Under Armour,Ultraboost,194.48,5.2,Blanco,Lona,290.4,No,5,Deporte,6,2023-08-31
+5471,Nike,Classic,51.82,9.9,Verde,,317.3,Sí,2,Fútbol,24,2022-07-13
+5472,Nike,Ultraboost,195.48,7.1,Blanco,,233.6,No,5,Running,6,2022-06-20
+5473,Puma,,56.47,11.5,Negro,Lona,347.4,No,2,Gym,12,2022-06-07
+5474,Reebok,Chuck Taylor,183.67,11.8,Verde,Lona,372.6,Sí,5,Gym,6,2022-09-19
+5475,Puma,Ultraboost,129.16,11.6,Azul,Cuero,243.3,Sí,3,Gym,12,2023-04-06
+5476,Under Armour,Chuck Taylor,198.94,8.3,Blanco,Sintético,219.1,Sí,2,Tenis,12,2020-12-04
+5477,Reebok,Free Run,61.07,11.0,Blanco,Cuero,204.7,No,5,Tenis,6,2020-07-11
+5478,New Balance,Free Run,133.08,10.9,Blanco,Malla,328.4,Sí,1,Basketball,24,2020-10-09
+5479,Adidas,,195.4,7.2,Blanco,Sintético,321.4,No,3,Fútbol,12,2023-09-21
+5480,Under Armour,Air Max,128.46,10.8,Verde,Lona,309.3,No,3,Basketball,6,2021-01-24
+5481,Under Armour,RS-X,144.41,5.3,Gris,Cuero,246.4,No,1,Basketball,6,2022-09-26
+5482,New Balance,,154.36,9.2,Rojo,Cuero,278.2,Sí,5,Fútbol,6,2021-06-08
+5483,Reebok,Free Run,118.18,6.6,Blanco,Sintético,318.9,Sí,4,Deporte,6,2023-06-17
+5484,New Balance,,144.13,5.8,Rojo Oscuro,Lona,299.4,Sí,1,Tenis,12,2021-10-20
+5485,New Balance,,137.65,5.5,Gris,Malla,397.6,No,5,Gym,24,2021-12-16
+5486,Puma,Classic,185.17,9.9,Blanco,Cuero,227.3,No,1,Fútbol,12,2022-06-09
+5487,Adidas,Free Run,56.82,7.4,Verde,Sintético,339.0,Sí,1,Deporte,6,2023-01-17
+5488,Under Armour,RS-X,92.14,10.1,Rojo Oscuro,Cuero,280.9,Sí,2,Running,6,2023-01-23
+5489,Reebok,Free Run,192.56,5.5,Verde,Cuero,285.6,Sí,5,Gym,6,2021-03-27
+5490,New Balance,Air Max,183.54,7.2,Verde,Sintético,343.5,En stock,4,Basketball,12,2021-03-03
+5491,Under Armour,Classic,118.35,8.8,Rojo Oscuro,Sintético,338.5,Sí,2,Gym,12,2023-03-20
+5492,Puma,Ultraboost,143.02,10.5,Azul,Lona,398.3,No,1,Running,6,2023-10-31
+5493,Puma,Free Run,91.61,7.2,Azul,Lona,225.7,No,1,Tenis,12,2022-11-11
+5494,Nike,RS-X,78.22,9.4,Negro,Cuero,220.8,Sí,1,Deporte,24,2022-06-01
+5495,New Balance,Ultraboost,119.55,11.2,Rojo,,344.9,Sí,5,Fútbol,12,2020-11-08
+5496,Puma,,103.0,9.3,Rojo,,315.7,Sí,5,Deporte,24,2022-04-19
+5497,Under Armour,Free Run,137.55,6.6,Rojo Oscuro,,254.8,Sí,2,Basketball,12,2021-06-02
+5498,Adidas,,61.66,5.2,Negro,Sintético,215.9,Sí,4,Deporte,12,2023-05-14
+5499,Nike,Chuck Taylor,196.16,11.1,Blanco,,217.1,No,2,Deporte,12,2021-01-09
+5500,New Balance,RS-X,197.93,5.1,Rojo Oscuro,,378.8,Sí,3,Basketball,12,2021-03-26
+5501,Puma,Chuck Taylor,154.72,11.1,Gris,,238.4,Sí,1,Deporte,6,2022-10-11
+5502,Nike,Classic,130.41,8.7,Verde,,264.7,En stock,1,Deporte,6,2021-08-17
+5503,Reebok,Air Max,96.43,11.6,Azul,Sintético,245.3,No,1,Gym,6,2023-04-17
+5504,Adidas,Ultraboost,172.07,10.6,Azul,Cuero,271.0,Sí,2,Tenis,12,2023-05-18
+5505,Adidas,Air Max,152.71,12.0,Rojo Oscuro,Sintético,213.9,Sí,2,Running,6,2021-05-14
+5506,Under Armour,,74.39,7.5,Rojo Oscuro,Cuero,303.8,Sí,1,Deporte,-3,2021-04-08
+5507,Reebok,RS-X,186.64,10.4,Blanco,Lona,213.5,No,2,Tenis,12,2023-02-21
+5508,New Balance,,173.38,7.8,Blanco,Malla,360.1,Sí,5,Running,12,2020-04-22
+5509,Under Armour,RS-X,192.47,8.4,Verde,,246.7,Sí,5,Deporte,6,2022-11-01
+5510,Under Armour,RS-X,158.86,9.4,Blanco,Cuero,308.0,Sí,2,Deporte,24,2023-02-23
+5511,New Balance,,142.01,11.1,Azul,Malla,376.0,Sí,1,Running,24,2020-11-26
+5512,Adidas,Free Run,112.74,11.9,Azul,Malla,330.2,Sí,2,Deporte,12,2023-07-30
+5513,Under Armour,Air Max,189.91,10.4,Rojo Oscuro,Cuero,306.6,No,2,Fútbol,6,2020-05-19
+5514,Reebok,Chuck Taylor,179.91,7.9,Azul,Cuero,264.9,No,2,Running,12,2023-11-25
+5515,Adidas,Air Max,56.78,7.9,Negro,Cuero,266.6,Sí,3,Deporte,6,2022-06-20
+5516,Puma,Air Max,53.96,10.2,Rojo Oscuro,Lona,333.9,Sí,5,Deporte,6,2023-01-25
+5517,Puma,RS-X,106.47,6.7,Azul,,398.8,Sí,4,Tenis,12,2021-05-31
+5518,New Balance,Ultraboost,171.58,5.8,Azul,Lona,332.4,En stock,4,Basketball,12,2021-07-22
+5519,Adidas,,198.09,7.5,Blanco,Lona,311.6,No,3,Gym,12,2022-04-25
+5520,Puma,RS-X,72.56,7.0,Blanco,Cuero,346.1,No,2,Fútbol,24,2022-12-28
+5521,Addidas,Air Max,139.12,7.1,Verde,Sintético,293.0,Sí,3,Tenis,12,2020-04-27
+5522,Adidas,Classic,107.13,6.6,Negro,Lona,212.0,No,3,Tenis,12,2022-06-06
+5523,Nike,Chuck Taylor,195.49,5.3,Verde,Malla,312.5,Sí,1,Running,6,2022-12-18
+5524,Under Armour,Ultraboost,176.32,5.1,Negro,Sintético,391.5,Sí,5,Tenis,-3,2022-11-22
+5525,New Balance,Classic,175.75,11.9,Azul,Malla,235.1,Sí,4,Basketball,6,2023-09-03
+5526,Nike,Free Run,120.3,8.0,Gris,Lona,338.0,Sí,2,Deporte,-3,2020-02-19
+5527,Under Armour,Ultraboost,112.22,7.7,Rojo,Cuero,240.2,Sí,4,Tenis,24,2020-01-19
+5528,Reebok,,91.01,9.8,Negro,Cuero,307.2,Sí,4,Deporte,6,2021-12-26
+5529,Puma,RS-X,58.46,6.5,Azul,,219.3,En stock,5,Fútbol,12,2020-07-15
+5530,Adidas,Air Max,179.71,11.6,Rojo,Malla,290.1,Sí,4,Tenis,24,2021-07-12
+5531,Under Armour,Chuck Taylor,171.94,10.5,Verde,Malla,351.2,En stock,4,Deporte,12,2021-03-27
+5532,Under Armour,Air Max,199.96,5.6,Verde,Sintético,269.5,Sí,3,Running,-3,2020-10-15
+5533,Nike,Chuck Taylor,199.5,7.9,Negro,Malla,333.0,No,5,Deporte,-3,2023-03-10
+5534,Nike,Classic,133.31,11.2,Verde,,359.1,Sí,1,Gym,12,2023-01-12
+5535,Adidas,Free Run,165.35,11.6,Negro,Malla,385.4,En stock,2,Deporte,6,2021-01-25
+5536,Adidas,RS-X,191.71,8.3,Rojo,Cuero,246.9,Sí,4,Gym,-3,2020-08-02
+5537,Under Armour,Ultraboost,177.45,9.3,Blanco,Sintético,279.9,Sí,2,Deporte,12,2020-08-02
+5538,Reebok,Free Run,87.1,6.2,Azul,Lona,230.5,Sí,1,Running,6,2023-11-27
+5539,Adidas,Air Max,117.58,11.9,Verde,Malla,398.5,No,2,Basketball,6,2020-05-07
+5540,Reebok,Classic,69.37,6.6,Azul,Lona,385.4,Sí,1,Fútbol,12,2022-01-29
+5541,Under Armour,Classic,193.11,11.6,Rojo,Cuero,308.0,Sí,3,Fútbol,-3,2021-02-07
+5542,Reebok,RS-X,140.93,9.5,Negro,Malla,368.4,No,4,Deporte,24,2022-11-18
+5543,New Balance,RS-X,84.3,9.3,Rojo Oscuro,Lona,304.2,En stock,1,Basketball,12,2020-12-03
+5544,Nike,Chuck Taylor,150.76,8.6,Rojo,Lona,324.7,No,2,Basketball,6,2022-04-10
+5545,Reebok,Chuck Taylor,142.72,6.6,Verde,Cuero,217.8,En stock,4,Running,6,2021-12-14
+5546,Under Armour,RS-X,103.72,6.2,Rojo Oscuro,,351.1,No,3,Gym,24,2020-12-26
+5547,Adidas,Free Run,67.03,6.5,Verde,,225.5,No,4,Deporte,6,2021-07-22
+5548,Adidas,,150.74,6.3,Gris,Lona,365.2,Sí,1,Gym,6,2023-11-16
+5549,Adidas,Ultraboost,128.05,10.5,Azul,Lona,356.4,No,3,Tenis,6,2020-08-05
+5550,Puma,Chuck Taylor,165.85,7.5,Negro,Cuero,341.7,Sí,2,Gym,12,2020-07-20
+5228,Adidas,Free Run,108.96,10.1,Rojo Oscuro,,357.9,No,2,Tenis,6,2023-03-10
+5481,Under Armour,RS-X,144.41,5.3,Gris,Cuero,246.4,No,1,Basketball,6,2022-09-26
+5411,Reebok,Ultraboost,97.9,5.6,Gris,Cuero,362.6,Sí,2,Basketball,12,2023-02-08
+5033,Under Armour,Ultraboost,59.76,7.5,Azul,Sintético,216.2,Sí,4,Gym,6,2022-02-14
+5390,Reebok,Ultraboost,171.03,9.0,Gris,,289.7,Sí,1,Basketball,6,2021-05-18
+5152,Puma,RS-X,85.93,5.4,Verde,,296.3,Sí,2,Fútbol,6,2023-12-06
+5331,New Balance,Classic,103.4,6.6,Rojo Oscuro,Cuero,290.9,Sí,4,Fútbol,12,2021-09-06
+5243,Adidas,Chuck Taylor,187.23,8.5,Rojo,Sintético,373.7,Sí,1,Deporte,6,2020-05-16
+5359,Reebok,RS-X,191.03,6.8,Gris,Malla,243.1,Sí,4,Deporte,6,2021-11-11
+5291,New Balance,Ultraboost,54.58,5.1,Blanco,Sintético,247.2,No,1,Fútbol,6,2022-11-30
