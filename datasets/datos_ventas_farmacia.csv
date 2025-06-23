@@ -1,0 +1,561 @@
+﻿ID_Venta,Medicamento,Categoría,Precio_Unitario (USD),Cantidad,Total_Venta (USD),Fecha_Venta,Método_Pago,Sucursal,Receta_Médica,Descuento (%),Stock_Actual
+1001,Amoxicilina,Antiinflamatorio,19.35,2,38.7,2023-10-09,Efectivo en Bs,Norte,Sí,0,76
+1002,Acetaminofén,Vitamina,47.59,1,47.59,2023-03-27,Efectivo en Bs,Norte,No,0,43
+1003,Aspirina,Antibiótico,36.87,6,221.22,2023-09-07,Transferencia,Oeste,No,0,16
+1004,Acetaminofén,Vitamina,30.33,5,144.07,2023-09-27,Efectivo en $,Sur,No,5,164
+1005,Ibuprofeno,Analgésico,8.64,9,77.76,2023-12-01,Pago Móvil,Norte,No,0,28
+1006,Atorvastatina,Analgésico,8.64,1,8.64,2023-04-27,Pago Móvil,Este,No,0,3
+1007,Cetirizina,Antiinflamatorio,3.85,7,26.95,2023-01-07,Efectivo en $,Oeste,No,0,80
+1008,Aspirina,Analgésico,43.44,5,217.2,2023-05-17,Tarjeta,Sur,No,0,30
+1009,Salbutamol,Antialérgico,30.45,5,152.25,2023-06-25,Tarjeta,Este,Sí,0,59
+1010,Aspirina,Vitamina,35.7,2,67.83,2023-11-24,Pago Móvil,Oeste,No,5,381
+1011,Acetaminofén,Vitamina,2.01,3,6.03,2023-11-11,Tarjeta,Centro,No,0,-5
+1012,Ibuprofeno,Vitamina,48.53,7,339.71,2023-08-03,Efectivo en Bs,Este,No,0,1000
+1013,Ibuprofeno,Analgésico,41.79,6,238.2,2023-03-23,Efectivo en $,Este,Sí,5,-5
+1014,Paracetamol,Antibiótico,11.4,2,22.8,2023-08-11,Efectivo en Bs,Norte,Sí,0,1000
+1015,Diclofenaco,Vitamina,9.91,6,59.46,2023-04-13,Efectivo en Bs,Sur,No,0,-5
+1016,Ibuprofeno,Vitamina,9.99,2,20.98,2023-09-30,Efectivo en $,Este,No,-5,1000
+1017,Aspirina,Vitamina,15.91,2,31.82,2023-01-14,Transferencia,Oeste,Sí,0,84
+1018,Metformina,Analgésico,26.71,2,53.42,2023-06-08,Transferencia,Este,No,0,58
+1019,Losartán,Antibiótico,22.17,3,66.51,2023-06-01,Efectivo en $,Oeste,Sí,0,42
+1020,Loratadina,Antiinflamatorio,15.27,2,30.54,2023-04-18,Efectivo en Bs,Oeste,Sí,0,145
+1021,Aspirina,Vitamina,30.98,4,123.92,2023-07-07,Efectivo en Bs,Sur,No,40,51
+1022,Amoxicilina,Analgésico,7.84,9,70.56,2023-10-28,Efectivo en Bs,Oeste,No,110,31
+1023,Ibuprofeno,Antialérgico,15.32,6,91.92,2023-04-08,Transferencia,Norte,Sí,40,3
+1024,Amoxicilina,Antiinflamatorio,18.95,1,18.95,2023-05-11,Transferencia,Oeste,No,110,82
+1025,Cetirizina,Antibiótico,23.35,8,149.44,2023-10-20,Efectivo en Bs,Oeste,No,40,89
+1026,Loratadina,Antialérgico,39.47,7,262.48,2023-06-20,Tarjeta,Sur,Sí,110,321
+1027,Vitamina C,Antibiótico,10.78,3,32.34,2023-07-02,Efectivo en $,Norte,No,0,1
+1028,Ibuprofeno,Antiinflamatorio,26.2,1,26.2,2023-12-30,Pago Móvil,Norte,Sí,0,15
+1029,Loratadina,Vitamina,30.03,5,142.64,2023-02-08,Pago Móvil,Centro,No,5,5
+1030,Vitamina C,Analgésico,3.28,4,13.12,2023-01-15,Tarjeta,Oeste,No,0,13
+1031,Omeprazol,Analgésico,30.77,8,246.16,2023-01-04,Efectivo en Bs,Norte,Sí,0,80
+1032,Aspirina,Antialérgico,9.36,1,9.83,2023-12-15,Pago Móvil,Sur,No,-5,82
+1033,Loratadina,Analgésico,4.19,1,4.19,2023-07-29,Efectivo en Bs,Centro,No,0,37
+1034,Paracetamol,Antiinflamatorio,47.5,4,180.5,2023-06-10,Pago Móvil,Este,No,5,9
+1035,Vitamina C,Antiinflamatorio,48.32,8,193.28,2023-01-16,Tarjeta,Norte,Sí,50,1
+1036,Aspirina,Antiinflamatorio,40.61,5,203.05,2023-04-18,Efectivo en $,Sur,No,0,4
+1037,Amoxicilina,Analgésico,15.93,2,31.86,2023-11-07,Efectivo en Bs,Norte,No,0,3
+1038,Acetaminofén,Antialérgico,5.79,6,34.74,2023-08-15,Pago Móvil,Sur,No,0,2
+1039,Vitamina C,Antialérgico,34.53,5,155.39,2023-06-19,Tarjeta,Oeste,Sí,10,8
+1040,Loratadina,Antiinflamatorio,22.57,2,38.37,2023-02-03,Pago Móvil,Este,Sí,15,42
+1041,Omeprazol,Antiinflamatorio,6.98,3,18.85,2023-09-08,Pago Móvil,Sur,Sí,10,33
+1042,Aspirina,Analgésico,25.26,9,227.34,2023-09-04,Efectivo en Bs,Norte,No,0,68
+1043,Salbutamol,Antibiótico,2.69,7,16.95,2023-09-26,Pago Móvil,Oeste,No,10,38
+1044,Losartán,Vitamina,45.56,7,255.14,2023-05-21,Tarjeta,Oeste,Sí,20,96
+1045,Ibuprofeno,Antibiótico,13.68,6,77.98,2023-10-01,Transferencia,Norte,No,5,6
+1046,Acetaminofén,Vitamina,33.46,8,187.38,2023-04-06,Pago Móvil,Centro,No,30,11
+1047,Metformina,Vitamina,16.27,4,58.57,2023-08-15,Efectivo en $,Sur,No,10,175
+1048,Diclofenaco,Vitamina,26.48,8,201.25,2023-02-08,Transferencia,Oeste,Sí,5,8
+1049,Acetaminofén,Analgésico,27.79,4,111.16,2023-10-29,Transferencia,Este,Sí,0,99
+1050,Paracetamol,Antialérgico,10.06,8,80.48,2023-01-29,Efectivo en $,Oeste,Sí,0,83
+1051,Metformina,Antibiótico,48.51,9,436.59,2023-11-14,Efectivo en bs,Centro,No,0,59
+1052,Ibuprofeno,Vitamina,38.98,3,111.09,2023-09-02,Efectivo en $,Oeste,No,5,33
+1053,Omeprazol,Antiinflamatorio,47.04,3,141.12,2023-08-24,Pago móvil,Este,No,0,52
+1054,Loratadina,Antibiótico,44.85,2,76.24,2023-07-04,Tarjeta,Norte,No,15,13
+1055,Cetirizina,Antibiótico,30.3,3,45.45,2023-09-29,transferencia,Sur,No,50,19
+1056,Vitamina C,Antiinflamatorio,46.17,3,124.66,2023-08-24,Efectivo en $,Oeste,No,10,40
+1057,Cetirizina,Antiinflamatorio,5.34,5,26.7,2023-08-27,Pago Móvil,Sur,Sí,0,97
+1058,Cetirizina,Analgésico,10.6,5,53.0,2023-09-23,Pago Móvil,Oeste,No,0,2
+1059,Losartán,Antibiótico,3.22,2,6.44,2023-12-25,Efectivo en $,Norte,Sí,0,83
+1060,Metformina,Analgésico,16.94,6,96.56,2023-12-06,Efectivo en $,Sur,No,5,96
+1061,Metformina,antibiótico,20.05,5,90.22,2023-03-06,Transferencia,Oeste,No,10,64
+1062,Omeprazol,Vitamina,14.3,6,68.64,2023-06-26,Transferencia,Sur,Sí,20,484
+1063,Aspirina,ANALGÉSICO,41.61,1,41.61,2023-01-03,Transferencia,Centro,Sí,0,80
+1064,Aspirina,Antiinflamatorio,18.48,5,73.92,2023-05-22,Efectivo en Bs,Oeste,No,20,91
+1065,Salbutamol,Antialérgico,14.77,9,112.99,2023-06-07,Transferencia,Este,No,15,68
+1066,Metformina,Vitamina,27.59,2,55.18,2023-11-20,Pago Móvil,Centro,Sí,0,2
+1067,Cetirizina,Vitamina,7.91,1,6.72,2023-05-26,Transferencia,Norte,Sí,15,36
+1068,Losartán,Antibiótico,40.31,9,362.79,2023-10-20,Efectivo en $,Norte,No,0,15
+1069,Vitamina C,Antiinflamatorio,4.65,9,41.85,2023-06-02,Efectivo en Bs,Sur,No,0,59
+1070,Acetaminofén,Antibiótico,49.36,9,422.03,2023-07-12,Tarjeta,Sur,No,5,88
+1071,Amoxicilina,Antiinflamatorio,38.84,6,233.04,2023-03-14,Tarjeta,Centro,No,0,79
+1072,Paracetamol,Antiinflamatorio,10.74,8,81.62,2023-11-01,Tarjeta,Este,No,5,82
+1073,Aspirina,Antialérgico,1.27,1,1.21,2023-12-10,Efectivo en Bs,Norte,No,5,14
+1074,Atorvastatina,Antiinflamatorio,40.96,4,163.84,2023-05-20,Efectivo en $,Sur,Sí,0,7
+1075,Acetaminofén,Analgésico,35.64,1,35.64,2023-07-06,Transferencia,Centro,No,0,97
+1076,Diclofenaco,Analgésico,36.72,8,293.76,2023-10-20,Efectivo en Bs,Norte,Sí,0,416
+1077,Cetirizina,Analgésico,38.79,1,38.79,2023-03-02,Efectivo en Bs,Centro,Sí,0,17
+1078,Salbutamol,Antialérgico,4.63,3,13.89,2023-07-17,Efectivo en Bs,Sur,No,0,74
+1079,Vitamina C,Analgésico,18.56,4,74.24,2023-10-22,Efectivo en Bs,Sur,No,0,24
+1080,Cetirizina,Vitamina,6.68,8,53.44,2023-11-15,Tarjeta,Sur,No,0,116
+1081,Acetaminofén,Antiinflamatorio,43.29,6,259.74,2023-10-29,Efectivo en $,Sur,Sí,0,19
+1082,Aspirina,Antialérgico,31.54,7,220.78,2023-12-10,Pago Móvil,Oeste,Sí,0,45
+1083,Salbutamol,Analgésico,17.21,8,130.8,2023-01-11,Efectivo en $,Oeste,No,5,97
+1084,Cetirizina,Antialérgico,4.11,2,7.4,2023-03-03,Efectivo en Bs,Centro,No,10,52
+1085,Losartán,Antialérgico,16.24,8,129.92,2023-11-29,Pago Móvil,Centro,No,0,79
+1086,Vitamina C,Analgésico,16.93,3,50.79,2023-08-14,Efectivo en Bs,Centro,No,0,83
+1087,Loratadina,Antibiótico,36.75,7,270.11,2023-06-02,Efectivo en $,Sur,No,-5,18
+1088,Acetaminofén,Vitamina,32.24,3,87.05,2023-07-18,Efectivo en $,Norte,No,10,441
+1089,Diclofenaco,Antiinflamatorio,44.47,7,249.03,2023-02-21,Pago Móvil,Centro,No,20,87
+1090,Losartán,Vitamina,24.14,2,43.45,2023-09-17,Efectivo en Bs,Sur,Sí,10,14
+1091,Atorvastatina,Antibiótico,6.86,6,41.16,2023-02-28,Efectivo en Bs,Oeste,No,0,23
+1092,Cetirizina,Antibiótico,35.95,3,107.85,2023-03-13,Pago Móvil,Este,Sí,0,4
+1093,Omeprazol,Antibiótico,38.28,3,114.84,2023-05-28,Efectivo en $,Oeste,Sí,0,13
+1094,Ibuprofeno,Antiinflamatorio,28.5,9,256.5,2023-12-15,Efectivo en Bs,Oeste,Sí,0,92
+1095,Acetaminofén,Antialérgico,38.78,7,271.46,2023-03-04,Efectivo en Bs,Este,No,0,92
+1096,Salbutamol,Antibiótico,25.2,5,126.0,2023-11-06,Efectivo en Bs,Norte,No,0,325
+1097,Ibuprofeno,Analgésico,26.61,7,186.27,2023-08-31,Efectivo en $,Centro,No,0,14
+1098,Ibuprofeno,Vitamina,21.95,9,187.67,2023-11-26,Efectivo en $,Sur,No,5,26
+1099,Metformina,Antiinflamatorio,2.25,1,2.14,2023-04-17,Transferencia,Este,No,5,18
+1100,Aspirina,Antibiótico,6.29,7,44.03,2023-08-14,Pago Móvil,Oeste,Sí,0,281
+1101,Vitamina C,Vitamina,2.54,6,13.72,2023-11-09,Pago Móvil,Sur,No,10,30
+1102,Aspirina,Antibiótico,32.18,9,289.62,2023-08-06,Tarjeta,Oeste,No,0,299
+1103,Atorvastatina,Antibiótico,16.4,1,13.94,2023-08-29,Tarjeta,Sur,No,15,79
+1104,Omeprazol,Antibiótico,25.92,4,103.68,2023-09-16,Efectivo en $,Este,No,0,96
+1105,Paracetamol,Antibiótico,45.47,9,429.69,2023-09-19,Efectivo en Bs,Oeste,No,-5,69
+1106,Loratadina,Analgésico,13.22,4,50.24,2023-01-05,Efectivo en Bs,Oeste,Sí,5,79
+1107,Ibuprofeno,Antibiótico,21.11,3,63.33,2023-09-18,Transferencia,Este,No,0,51
+1108,Loratadina,Antibiótico,38.02,9,342.18,2023-02-23,Efectivo en Bs,Norte,No,0,89
+1109,Diclofenaco,Vitamina,12.21,2,24.42,2023-02-16,Efectivo en $,Sur,Sí,0,17
+1110,Diclofenaco,Antialérgico,4.77,4,19.08,2023-08-03,Efectivo en $,Sur,Sí,0,18
+1111,Atorvastatina,Antibiótico,15.2,6,91.2,2023-06-26,Efectivo en $,Centro,No,0,61
+1112,Vitamina C,Antialérgico,8.9,2,16.91,2023-01-09,Pago Móvil,Centro,No,5,9
+1113,Amoxicilina,Antibiótico,46.56,8,372.48,2023-04-09,Efectivo en $,Sur,No,0,6
+1114,Atorvastatina,Antialérgico,40.6,8,308.56,2023-01-20,Efectivo en $,Este,Sí,5,112
+1115,Omeprazol,Antialérgico,32.04,1,25.63,2023-08-29,Efectivo en Bs,Oeste,No,20,33
+1116,Salbutamol,Antibiótico,43.7,3,131.1,2023-03-02,Pago Móvil,Centro,Sí,0,65
+1117,Cetirizina,Antibiótico,40.38,9,363.42,2023-06-27,Efectivo en $,Oeste,Sí,0,469
+1118,Amoxicilina,Analgésico,10.14,5,50.7,2023-12-04,Efectivo en Bs,Este,Sí,0,69
+1119,Amoxicilina,Vitamina,44.74,6,255.02,2023-03-03,Pago Móvil,Este,Sí,5,19
+1120,Salbutamol,Vitamina,27.43,4,109.72,2023-05-25,Efectivo en $,Este,Sí,0,97
+1121,Losartán,Analgésico,40.56,2,40.56,2023-08-04,Efectivo en $,Sur,No,50,2
+1122,Losartán,Antialérgico,44.91,8,323.35,2023-01-03,Pago Móvil,Norte,No,10,56
+1123,Salbutamol,Vitamina,16.58,6,99.48,2023-06-09,Pago Móvil,Centro,No,0,282
+1124,Vitamina C,Vitamina,6.39,5,31.95,2023-08-15,Tarjeta,Sur,No,0,35
+1125,Loratadina,Antibiótico,12.17,9,93.1,2023-09-26,Efectivo en $,Oeste,Sí,15,97
+1126,Omeprazol,Antiinflamatorio,21.93,1,19.74,2023-04-30,Efectivo en Bs,Norte,No,10,37
+1127,Amoxicilina,Analgésico,41.08,5,205.4,2023-03-30,Pago Móvil,Centro,Sí,0,19
+1128,Acetaminofén,Analgésico,43.18,6,259.08,2023-11-25,Efectivo en $,Este,No,0,78
+1129,Atorvastatina,Antiinflamatorio,1.34,5,6.03,2023-03-09,Efectivo en Bs,Norte,No,10,19
+1130,Ibuprofeno,Antiinflamatorio,26.03,6,156.18,2023-12-23,Transferencia,Centro,Sí,0,17
+1131,Acetaminofén,Vitamina,21.45,6,102.96,2023-04-08,Efectivo en Bs,Oeste,No,20,6
+1132,Atorvastatina,Antibiótico,11.88,7,83.16,2023-09-24,Pago Móvil,Este,No,0,92
+1133,Cetirizina,Analgésico,6.87,4,27.48,2023-04-15,Efectivo en Bs,Centro,No,0,28
+1134,Metformina,Antialérgico,17.54,8,126.29,2023-11-19,Tarjeta,Sur,No,10,19
+1135,Metformina,Antibiótico,47.2,7,330.4,2023-05-03,Pago Móvil,Centro,No,0,79
+1136,Metformina,Vitamina,16.84,9,151.56,2023-01-29,Transferencia,Norte,No,0,461
+1137,Paracetamol,Vitamina,26.42,7,184.94,2023-05-17,Transferencia,Norte,No,0,1
+1138,Paracetamol,Analgésico,35.45,3,106.35,2023-07-14,Transferencia,Norte,No,0,48
+1139,Amoxicilina,Antibiótico,18.82,3,53.64,2023-08-14,Efectivo en Bs,Norte,No,5,81
+1140,Aspirina,Antiinflamatorio,48.62,8,388.96,2023-11-28,Efectivo en Bs,Centro,No,0,36
+1141,Losartán,Antialérgico,48.16,5,240.8,2023-06-19,Pago Móvil,Este,Sí,0,22
+1142,Salbutamol,Antibiótico,13.34,4,48.02,2023-01-09,Efectivo en Bs,Norte,No,10,5
+1143,Atorvastatina,Antiinflamatorio,25.37,8,192.81,2023-02-09,Transferencia,Oeste,Sí,5,50
+1144,Salbutamol,Antialérgico,15.74,6,94.44,2023-01-25,Pago Móvil,Centro,No,0,33
+1145,Losartán,Antialérgico,14.96,2,29.92,2023-09-18,Efectivo en $,Oeste,No,0,33
+1146,Cetirizina,Antialérgico,2.81,4,8.99,2023-08-14,Efectivo en Bs,Sur,No,20,17
+1147,Omeprazol,Antibiótico,30.87,4,111.13,2023-05-04,Tarjeta,Norte,No,10,41
+1148,Atorvastatina,Antiinflamatorio,25.63,6,153.78,2023-02-07,Efectivo en Bs,Norte,Sí,0,75
+1149,Salbutamol,Antiinflamatorio,3.52,6,21.12,2023-11-24,Pago Móvil,Centro,No,0,9
+1150,Vitamina C,Antibiótico,14.65,1,14.65,2023-09-08,Transferencia,Oeste,No,0,262
+1151,Atorvastatina,Antibiótico,45.51,8,345.88,2023-06-25,Tarjeta,Centro,No,5,260
+1152,Paracetamol,Antiinflamatorio,12.74,6,64.97,2023-03-31,Tarjeta,Sur,Sí,15,189
+1153,Aspirina,Antibiótico,8.1,3,23.08,2023-02-06,Efectivo en Bs,Norte,No,5,422
+1154,Aspirina,Antibiótico,24.98,9,202.34,2023-11-12,Pago Móvil,Este,No,10,73
+1155,Loratadina,Vitamina,49.3,2,88.74,2023-06-25,Pago Móvil,Centro,No,10,72
+1156,Vitamina C,Antialérgico,12.86,8,102.88,2023-10-11,Efectivo en Bs,Sur,No,0,50
+1157,Losartán,Antiinflamatorio,33.93,3,101.79,2023-03-22,Efectivo en Bs,Oeste,No,0,16
+1158,Losartán,Antiinflamatorio,38.32,5,191.6,2023-04-24,Efectivo en Bs,Centro,No,0,77
+1159,Ibuprofeno,Antibiótico,12.64,6,75.84,2023-02-09,Transferencia,Este,Sí,0,72
+1160,Paracetamol,Antiinflamatorio,36.68,6,187.07,2023-10-28,Transferencia,Este,No,15,29
+1161,Atorvastatina,Antibiótico,19.02,4,76.08,2023-08-12,Efectivo en $,Oeste,No,0,74
+1162,Cetirizina,Analgésico,31.98,3,95.94,2023-11-14,Pago Móvil,Este,No,0,16
+1163,Loratadina,Antiinflamatorio,32.04,4,128.16,2023-12-15,Efectivo en Bs,Norte,Sí,0,64
+1164,Losartán,Antibiótico,27.25,1,27.25,2023-04-25,Pago Móvil,Norte,No,0,95
+1165,Vitamina C,Antibiótico,5.42,4,21.68,2023-07-05,Efectivo en Bs,Oeste,No,0,29
+1166,Vitamina C,Antiinflamatorio,41.93,1,41.93,2023-11-19,Efectivo en $,Oeste,No,0,52
+1167,Atorvastatina,Antialérgico,16.72,1,15.88,2023-02-25,Efectivo en $,Sur,No,5,421
+1168,Atorvastatina,Vitamina,10.14,6,60.84,2023-02-09,Efectivo en Bs,Este,Sí,0,7
+1169,Metformina,Vitamina,3.0,5,14.25,2023-12-20,Pago Móvil,Oeste,No,5,98
+1170,Losartán,Antibiótico,29.95,4,119.8,2023-02-09,Efectivo en $,Oeste,Sí,0,13
+1171,Loratadina,Vitamina,34.2,3,102.6,2023-12-13,Tarjeta,Sur,No,0,18
+1172,Salbutamol,Antibiótico,1.81,1,1.81,2023-08-25,Pago Móvil,Sur,Sí,0,92
+1173,Acetaminofén,Analgésico,26.09,6,156.54,2023-10-16,Transferencia,Este,No,0,13
+1174,Metformina,Antiinflamatorio,12.1,2,22.99,2023-09-19,Efectivo en $,Oeste,No,5,82
+1175,Omeprazol,Antialérgico,32.61,8,260.88,2023-08-04,Efectivo en $,Oeste,No,0,32
+1176,Salbutamol,Analgésico,9.54,5,47.7,2023-05-27,Transferencia,Norte,Sí,0,85
+1177,Diclofenaco,Antiinflamatorio,34.86,7,231.82,2023-12-02,Transferencia,Oeste,No,5,9
+1178,Metformina,Antiinflamatorio,19.95,2,39.9,2023-06-17,Efectivo en Bs,Centro,Sí,0,82
+1179,Amoxicilina,Vitamina,46.9,8,375.2,2023-04-02,Tarjeta,Centro,No,0,6
+1180,Atorvastatina,Antialérgico,7.74,2,13.93,2023-12-19,Efectivo en $,Oeste,Sí,10,63
+1181,Acetaminofén,Vitamina,17.71,4,67.3,2023-02-28,Pago Móvil,Centro,Sí,5,37
+1182,Omeprazol,Vitamina,6.56,1,6.56,2023-02-28,Transferencia,Centro,No,0,52
+1183,Diclofenaco,Antibiótico,46.31,5,185.24,2023-10-31,Efectivo en $,Oeste,No,20,60
+1184,Omeprazol,Antialérgico,43.99,9,356.32,2023-06-18,Efectivo en Bs,Norte,Sí,10,43
+1185,Metformina,Antialérgico,13.64,1,13.64,2023-09-26,Efectivo en $,Este,No,0,13
+1186,Paracetamol,Antialérgico,33.34,9,285.06,2023-12-29,Tarjeta,Norte,Sí,5,26
+1187,Ibuprofeno,Analgésico,41.04,8,328.32,2023-02-14,Efectivo en $,Sur,No,0,457
+1188,Amoxicilina,Antibiótico,28.2,6,169.2,2023-12-11,Tarjeta,Oeste,No,0,57
+1189,Aspirina,Antibiótico,26.95,7,188.65,2023-06-30,Pago Móvil,Oeste,No,0,7
+1190,Loratadina,Antibiótico,12.85,3,38.55,2023-06-19,Efectivo en $,Oeste,No,0,4
+1191,Acetaminofén,Antiinflamatorio,5.56,1,5.28,2023-12-22,Tarjeta,Este,Sí,5,18
+1192,Loratadina,Vitamina,44.96,5,224.8,2023-07-10,Efectivo en Bs,Norte,No,0,69
+1193,Omeprazol,Antiinflamatorio,45.12,2,81.22,2023-06-04,Pago Móvil,Oeste,No,10,31
+1194,Loratadina,Antibiótico,32.02,5,152.1,2023-07-07,Pago Móvil,Oeste,No,5,69
+1195,Atorvastatina,Antialérgico,17.61,8,140.88,2023-01-07,Efectivo en Bs,Oeste,No,0,41
+1196,Amoxicilina,Antialérgico,18.11,9,154.84,2023-05-13,Efectivo en Bs,Sur,Sí,5,8
+1197,Salbutamol,Antibiótico,36.57,2,73.14,2023-08-23,Efectivo en $,Este,No,0,83
+1198,Diclofenaco,Antialérgico,44.96,3,134.88,2023-02-14,Transferencia,Sur,Sí,0,122
+1199,Cetirizina,Antialérgico,44.47,3,126.74,2023-11-10,Transferencia,Centro,No,5,306
+1200,Loratadina,Antiinflamatorio,39.21,1,39.21,2023-09-06,Transferencia,Sur,No,0,26
+1201,Atorvastatina,Vitamina,32.46,8,259.68,2023-01-31,Pago Móvil,Centro,No,0,39
+1202,Vitamina C,Vitamina,5.12,6,30.72,2023-01-23,Pago Móvil,Norte,Sí,0,76
+1203,Metformina,Antibiótico,8.92,8,71.36,2023-06-09,Efectivo en Bs,Este,No,0,10
+1204,Diclofenaco,Antiinflamatorio,45.03,9,405.27,2023-12-29,Efectivo en Bs,Norte,Sí,0,12
+1205,Loratadina,Antiinflamatorio,30.72,5,153.6,2023-06-07,Pago Móvil,Centro,No,0,58
+1206,Salbutamol,Antibiótico,1.45,3,2.17,2023-02-08,Pago Móvil,Oeste,No,50,10
+1207,Amoxicilina,Antialérgico,5.97,5,29.85,2023-03-23,Transferencia,Este,Sí,0,88
+1208,Aspirina,Analgésico,33.51,5,167.55,2023-12-22,Efectivo en $,Centro,No,0,13
+1209,Omeprazol,Antialérgico,1.25,5,6.25,2023-09-15,Pago Móvil,Norte,Sí,0,295
+1210,Amoxicilina,Antialérgico,8.88,3,26.64,2023-07-25,Tarjeta,Sur,No,0,6
+1211,Ibuprofeno,Analgésico,27.89,4,117.14,2023-03-18,Tarjeta,Centro,No,-5,78
+1212,Omeprazol,Vitamina,34.9,9,298.4,2023-01-12,Efectivo en Bs,Este,No,5,223
+1213,Cetirizina,Vitamina,32.95,9,266.9,2023-10-22,Efectivo en Bs,Centro,No,10,4
+1214,Metformina,Analgésico,11.99,2,23.98,2023-08-12,Efectivo en $,Este,No,0,14
+1215,Paracetamol,Analgésico,35.9,8,287.2,2023-01-13,Pago Móvil,Este,Sí,0,52
+1216,Amoxicilina,Antiinflamatorio,12.63,8,101.04,2023-02-15,Transferencia,Sur,No,0,80
+1217,Paracetamol,Vitamina,16.94,7,106.72,2023-06-04,Efectivo en $,Sur,Sí,10,3
+1218,Cetirizina,Antibiótico,37.58,8,300.64,2023-04-23,Pago Móvil,Oeste,Sí,0,306
+1219,Diclofenaco,Analgésico,32.83,3,98.49,2023-08-21,Efectivo en Bs,Oeste,No,0,6
+1220,Paracetamol,Analgésico,42.61,6,127.83,2023-01-17,Efectivo en Bs,Centro,Sí,50,21
+1221,Losartán,Antialérgico,33.22,1,33.22,2023-12-26,Pago Móvil,Centro,No,0,62
+1222,Amoxicilina,Analgésico,28.85,7,201.95,2023-08-11,Pago Móvil,Norte,No,0,68
+1223,Paracetamol,Antibiótico,5.59,1,5.59,2023-12-20,Pago Móvil,Este,No,0,60
+1224,Acetaminofén,Antibiótico,19.02,9,179.74,2023-07-07,Tarjeta,Oeste,No,-5,6
+1225,Salbutamol,Antiinflamatorio,13.99,1,13.99,2023-12-10,Pago Móvil,Oeste,No,0,96
+1226,Salbutamol,Analgésico,12.96,1,12.31,2023-12-31,Efectivo en $,Oeste,No,5,16
+1227,Aspirina,Antiinflamatorio,48.68,7,306.68,2023-06-12,Efectivo en Bs,Centro,Sí,10,388
+1228,Paracetamol,Vitamina,20.26,2,40.52,2023-11-22,Tarjeta,Sur,No,0,58
+1229,Salbutamol,Antibiótico,44.71,5,212.37,2023-03-15,Efectivo en Bs,Norte,Sí,5,47
+1230,Salbutamol,Antiinflamatorio,31.93,8,255.44,2023-08-21,Efectivo en $,Centro,Sí,0,12
+1231,Ibuprofeno,Analgésico,39.95,8,319.6,2023-08-12,Pago Móvil,Centro,No,0,10
+1232,Salbutamol,Antialérgico,25.63,3,69.2,2023-11-15,Tarjeta,Norte,No,10,76
+1233,Acetaminofén,Antibiótico,29.27,7,174.16,2023-03-01,Efectivo en $,Sur,Sí,15,96
+1234,Amoxicilina,Antiinflamatorio,25.13,3,71.62,2023-12-01,Tarjeta,Oeste,No,5,2
+1235,Aspirina,Antibiótico,10.57,6,63.42,2023-08-10,Tarjeta,Sur,No,0,34
+1236,Atorvastatina,Antiinflamatorio,36.4,6,218.4,2023-02-06,Efectivo en Bs,Sur,No,0,6
+1237,Losartán,Antibiótico,14.76,3,44.28,2023-10-05,Efectivo en $,Centro,Sí,0,54
+1238,Vitamina C,Antibiótico,2.19,7,15.33,2023-07-15,Efectivo en Bs,Oeste,Sí,0,87
+1239,Acetaminofén,Antialérgico,32.63,3,97.89,2023-12-18,Efectivo en Bs,Este,No,0,44
+1240,Acetaminofén,Antialérgico,9.68,8,77.44,2023-08-30,Pago Móvil,Oeste,No,0,12
+1241,Amoxicilina,Antiinflamatorio,47.08,4,188.32,2023-11-20,Efectivo en Bs,Este,Sí,0,46
+1242,Amoxicilina,Vitamina,47.74,1,47.74,2023-08-07,Efectivo en Bs,Este,No,0,16
+1243,Metformina,Vitamina,45.83,4,183.32,2023-07-11,Pago Móvil,Centro,No,0,84
+1244,Aspirina,Antialérgico,19.14,7,133.98,2023-01-17,Pago Móvil,Este,No,0,4
+1245,Paracetamol,Vitamina,1.76,4,6.34,2023-01-12,Transferencia,Sur,No,10,87
+1246,Aspirina,Antialérgico,46.49,6,278.94,2023-07-12,Efectivo en Bs,Norte,Sí,0,345
+1247,Atorvastatina,Antibiótico,21.98,9,138.47,2023-01-22,Tarjeta,Centro,No,30,25
+1248,Diclofenaco,Vitamina,48.37,1,41.11,2023-04-30,Transferencia,Este,No,15,87
+1249,Ibuprofeno,Antibiótico,48.22,5,241.1,2023-07-29,Efectivo en $,Norte,No,0,78
+1250,Amoxicilina,Antiinflamatorio,42.8,7,269.64,2023-11-02,Tarjeta,Centro,Sí,10,47
+1251,Salbutamol,Antiinflamatorio,15.43,1,15.43,2023-09-27,Efectivo en Bs,Norte,No,0,35
+1252,Vitamina C,Antiinflamatorio,19.87,4,79.48,2023-07-11,Efectivo en Bs,Sur,No,0,55
+1253,Omeprazol,Antiinflamatorio,42.71,6,256.26,2023-06-24,Transferencia,Centro,No,0,96
+1254,Loratadina,Antiinflamatorio,16.53,2,33.06,2023-10-12,Efectivo en $,Norte,No,0,73
+1255,Acetaminofén,Vitamina,9.31,5,46.55,2023-07-23,Pago Móvil,Centro,Sí,0,64
+1256,Cetirizina,Vitamina,28.28,1,28.28,2023-06-13,Transferencia,Este,No,0,46
+1257,Cetirizina,Analgésico,46.87,6,267.16,2023-09-08,Efectivo en $,Sur,Sí,5,8
+1258,Acetaminofén,Antibiótico,35.11,6,200.13,2023-08-15,Tarjeta,Sur,Sí,5,3
+1259,Paracetamol,Antialérgico,28.93,4,115.72,2023-01-07,Tarjeta,Oeste,No,0,9
+1260,Amoxicilina,Antibiótico,5.76,8,43.78,2023-01-29,Efectivo en Bs,Centro,Sí,5,2
+1261,Omeprazol,Antibiótico,31.14,4,124.56,2023-02-02,Efectivo en $,Este,No,0,2
+1262,Aspirina,Vitamina,49.51,8,396.08,2023-05-14,Tarjeta,Centro,No,0,68
+1263,Ibuprofeno,Analgésico,7.86,8,56.59,2023-03-20,Efectivo en $,Sur,No,10,15
+1264,Acetaminofén,Vitamina,26.4,5,132.0,2023-02-27,Efectivo en Bs,Centro,No,0,21
+1265,Losartán,Antialérgico,43.99,4,175.96,2023-01-26,Tarjeta,Oeste,Sí,0,4
+1266,Vitamina C,Antialérgico,37.3,2,74.6,2023-08-14,Transferencia,Centro,No,0,8
+1267,Paracetamol,Antialérgico,35.15,3,105.45,2023-10-12,Efectivo en $,Este,No,0,23
+1268,Acetaminofén,Antiinflamatorio,35.42,3,111.57,2023-01-04,Efectivo en $,Este,No,-5,41
+1269,Salbutamol,Vitamina,18.62,4,74.48,2023-04-09,Efectivo en Bs,Este,No,0,18
+1270,Aspirina,Vitamina,15.39,4,49.25,2023-02-08,Pago Móvil,Oeste,No,20,82
+1271,Salbutamol,Antialérgico,40.66,5,203.3,2023-09-28,Pago Móvil,Oeste,No,0,58
+1272,Omeprazol,Antialérgico,40.7,4,162.8,2023-10-12,Efectivo en $,Norte,No,0,35
+1273,Omeprazol,Antialérgico,43.49,8,347.92,2023-06-06,Pago Móvil,Centro,No,0,72
+1274,Diclofenaco,Antialérgico,45.75,6,260.77,2023-03-16,Tarjeta,Este,No,5,99
+1275,Omeprazol,Antibiótico,26.06,6,156.36,2023-10-15,Efectivo en $,Centro,No,0,66
+1276,Atorvastatina,Vitamina,25.57,8,173.88,2023-05-10,Tarjeta,Norte,Sí,15,45
+1277,Atorvastatina,Antibiótico,40.12,7,252.76,2023-06-24,Tarjeta,Sur,No,10,41
+1278,Diclofenaco,Antibiótico,32.85,8,262.8,2023-03-25,Transferencia,Oeste,Sí,0,13
+1279,Salbutamol,Analgésico,35.4,2,74.34,2023-01-22,Efectivo en Bs,Centro,No,-5,90
+1280,Diclofenaco,Vitamina,39.99,9,323.92,2023-01-27,Tarjeta,Oeste,Sí,10,11
+1281,Atorvastatina,Analgésico,44.61,1,42.38,2023-07-14,Transferencia,Sur,No,5,88
+1282,Ibuprofeno,Antiinflamatorio,17.56,8,140.48,2023-12-03,Efectivo en Bs,Norte,Sí,0,38
+1283,Amoxicilina,Vitamina,19.4,4,77.6,2023-08-24,Efectivo en $,Oeste,Sí,0,41
+1284,Aspirina,Antibiótico,5.61,4,22.44,2023-04-02,Pago Móvil,Centro,No,0,4
+1285,Amoxicilina,Antialérgico,29.34,5,146.7,2023-01-21,Efectivo en $,Oeste,No,0,15
+1286,Aspirina,Vitamina,2.76,8,22.08,2023-10-30,Pago Móvil,Este,No,0,87
+1287,Ibuprofeno,Antialérgico,23.81,5,107.14,2023-12-23,Pago Móvil,Centro,No,10,60
+1288,Salbutamol,Antiinflamatorio,27.59,8,220.72,2023-03-25,Pago Móvil,Sur,No,0,30
+1289,Omeprazol,Vitamina,15.04,1,15.04,2023-09-19,Pago Móvil,Oeste,Sí,0,17
+1290,Acetaminofén,Antibiótico,29.95,9,215.64,2023-05-27,Efectivo en Bs,Sur,Sí,20,92
+1291,Metformina,Vitamina,2.49,6,12.7,2023-09-14,Efectivo en Bs,Norte,Sí,15,6
+1292,Losartán,Analgésico,2.83,3,8.49,2023-02-27,Efectivo en $,Sur,No,0,81
+1293,Paracetamol,Analgésico,41.31,8,280.91,2023-01-15,Efectivo en Bs,Norte,Sí,15,9
+1294,Acetaminofén,Antibiótico,18.65,9,167.85,2023-06-11,Pago Móvil,Norte,No,0,25
+1295,Metformina,Analgésico,7.23,6,43.38,2023-06-12,Tarjeta,Norte,No,0,18
+1296,Diclofenaco,Antibiótico,26.59,7,176.82,2023-11-16,Efectivo en $,Oeste,No,5,288
+1297,Ibuprofeno,Antialérgico,38.73,1,38.73,2023-10-08,Efectivo en $,Norte,Sí,0,263
+1298,Salbutamol,Vitamina,11.58,5,57.9,2023-10-07,Pago Móvil,Norte,Sí,0,5
+1299,Amoxicilina,Vitamina,31.52,5,157.6,2023-01-12,Efectivo en Bs,Sur,No,0,79
+1300,Amoxicilina,Antiinflamatorio,5.18,4,20.72,2023-10-01,Tarjeta,Norte,No,0,11
+1301,Vitamina C,Antialérgico,3.53,6,21.18,2023-09-28,Efectivo en Bs,Sur,No,0,1
+1302,Aspirina,Antialérgico,27.04,7,189.28,2023-07-27,Transferencia,Sur,No,0,79
+1303,Diclofenaco,Analgésico,27.49,9,222.67,2023-01-27,Efectivo en Bs,Oeste,No,10,376
+1304,Atorvastatina,Antiinflamatorio,32.23,1,30.62,2023-03-13,Tarjeta,Centro,Sí,5,173
+1305,Cetirizina,Antiinflamatorio,36.58,6,219.48,2023-03-01,Efectivo en $,Centro,No,0,80
+1306,Loratadina,Analgésico,48.82,7,341.74,2023-05-25,Pago Móvil,Centro,No,0,71
+1307,Losartán,Analgésico,26.3,3,78.9,2023-04-03,Efectivo en Bs,Sur,Sí,0,5
+1308,Loratadina,Antiinflamatorio,16.82,8,134.56,2023-11-05,Pago Móvil,Centro,Sí,0,6
+1309,Cetirizina,Vitamina,39.96,5,179.82,2023-01-08,Efectivo en Bs,Oeste,No,10,202
+1310,Salbutamol,Analgésico,14.27,9,128.43,2023-03-20,Tarjeta,Sur,Sí,0,59
+1311,Atorvastatina,Antialérgico,22.51,5,112.55,2023-01-27,Transferencia,Centro,No,0,14
+1312,Amoxicilina,Antialérgico,4.84,9,41.38,2023-06-23,Transferencia,Centro,No,5,10
+1313,Ibuprofeno,Analgésico,2.24,4,8.51,2023-02-19,Pago Móvil,Norte,No,5,83
+1314,Cetirizina,Antialérgico,48.17,9,411.85,2023-07-18,Pago Móvil,Sur,No,5,84
+1315,Omeprazol,Vitamina,41.96,5,209.8,2023-12-15,Efectivo en $,Oeste,Sí,0,3
+1316,Losartán,Antibiótico,35.1,9,315.9,2023-06-30,Tarjeta,Norte,No,0,74
+1317,Acetaminofén,Antialérgico,21.04,3,63.12,2023-01-24,Transferencia,Este,Sí,0,93
+1318,Diclofenaco,Analgésico,9.49,4,37.96,2023-11-12,Pago Móvil,Este,Sí,0,12
+1319,Atorvastatina,Vitamina,8.67,9,74.13,2023-02-15,Efectivo en $,Sur,No,5,13
+1320,Vitamina C,Antibiótico,13.26,6,71.6,2023-01-15,Tarjeta,Norte,No,10,143
+1321,Vitamina C,Analgésico,27.91,2,53.03,2023-06-02,Efectivo en Bs,Oeste,No,5,51
+1322,Aspirina,Antibiótico,36.02,7,226.93,2023-08-10,Efectivo en $,Norte,Sí,10,1
+1323,Ibuprofeno,Analgésico,33.35,2,66.7,2023-07-25,Efectivo en Bs,Oeste,No,0,96
+1324,Paracetamol,Antibiótico,14.72,2,27.97,2023-09-30,Efectivo en Bs,Oeste,No,5,21
+1325,Aspirina,Analgésico,47.79,1,47.79,2023-08-24,Efectivo en $,Norte,No,0,75
+1326,Metformina,Antialérgico,37.16,3,111.48,2023-12-06,Efectivo en Bs,Oeste,No,0,42
+1327,Salbutamol,Antiinflamatorio,28.16,6,168.96,2023-08-16,Tarjeta,Sur,No,0,60
+1328,Omeprazol,Analgésico,30.97,8,247.76,2023-01-09,Pago Móvil,Centro,Sí,0,21
+1329,Salbutamol,Vitamina,21.56,9,194.04,2023-06-15,Efectivo en $,Este,Sí,0,85
+1330,Amoxicilina,Antialérgico,13.14,7,96.58,2023-11-15,Efectivo en $,Centro,Sí,-5,83
+1331,Diclofenaco,Vitamina,18.44,4,73.76,2023-08-02,Pago Móvil,Centro,No,0,74
+1332,Ibuprofeno,Analgésico,38.13,6,228.78,2023-04-27,Efectivo en $,Norte,No,0,62
+1333,Salbutamol,Antialérgico,1.71,5,8.55,2023-12-10,Efectivo en $,Este,Sí,0,4
+1334,Atorvastatina,Vitamina,6.69,8,48.17,2023-03-13,Tarjeta,Sur,No,10,99
+1335,Aspirina,Antiinflamatorio,3.25,1,3.25,2023-03-05,Efectivo en $,Sur,No,0,42
+1336,Salbutamol,Antiinflamatorio,3.0,1,2.85,2023-07-24,Transferencia,Centro,No,5,12
+1337,Salbutamol,Vitamina,42.92,6,257.52,2023-07-28,Tarjeta,Centro,No,0,28
+1338,Atorvastatina,Vitamina,35.48,2,67.41,2023-03-13,Pago Móvil,Sur,Sí,5,82
+1339,Acetaminofén,Vitamina,24.23,5,121.15,2023-10-04,Efectivo en Bs,Oeste,Sí,0,18
+1340,Aspirina,Antiinflamatorio,5.79,1,5.21,2023-10-01,Efectivo en Bs,Norte,No,10,37
+1341,Salbutamol,Antialérgico,25.09,7,166.85,2023-11-16,Efectivo en Bs,Sur,Sí,5,6
+1342,Vitamina C,Vitamina,24.2,1,24.2,2023-12-04,Pago Móvil,Sur,No,0,18
+1343,Cetirizina,Analgésico,9.49,4,37.96,2023-04-05,Efectivo en Bs,Este,No,0,37
+1344,Amoxicilina,Antialérgico,22.26,9,200.34,2023-06-15,Efectivo en $,Centro,Sí,0,4
+1345,Aspirina,Antiinflamatorio,20.53,1,20.53,2023-02-01,Pago Móvil,Sur,No,0,98
+1346,Ibuprofeno,Antibiótico,31.18,4,124.72,2023-01-11,Tarjeta,Sur,Sí,0,65
+1347,Omeprazol,Antiinflamatorio,32.12,6,183.08,2023-10-28,Efectivo en $,Centro,No,5,469
+1348,Cetirizina,Antibiótico,3.22,6,19.32,2023-08-05,Efectivo en $,Sur,Sí,0,55
+1349,Metformina,Analgésico,19.36,8,154.88,2023-10-16,Efectivo en Bs,Oeste,No,0,11
+1350,Omeprazol,Antibiótico,31.67,1,31.67,2023-04-12,Tarjeta,Oeste,No,0,92
+1351,Atorvastatina,Analgésico,25.65,7,179.55,2023-09-24,Pago Móvil,Este,No,0,16
+1352,Salbutamol,Antibiótico,42.97,1,36.52,2023-08-02,Pago Móvil,Centro,Sí,15,35
+1353,Atorvastatina,Analgésico,33.28,7,232.96,2023-06-28,Pago Móvil,Oeste,No,0,74
+1354,Diclofenaco,Antialérgico,8.98,3,25.59,2023-03-29,Efectivo en Bs,Este,No,5,8
+1355,Acetaminofén,Antiinflamatorio,4.46,8,32.11,2023-02-10,Pago Móvil,Centro,No,10,476
+1356,Acetaminofén,Antialérgico,32.48,3,92.57,2023-03-17,Pago Móvil,Oeste,No,5,51
+1357,Loratadina,Analgésico,2.3,1,1.95,2023-02-15,Efectivo en Bs,Norte,No,15,367
+1358,Loratadina,Analgésico,29.7,8,237.6,2023-06-09,Transferencia,Norte,No,0,80
+1359,Omeprazol,Analgésico,47.07,3,148.27,2023-03-21,Efectivo en Bs,Este,Sí,-5,15
+1360,Aspirina,Analgésico,29.2,2,58.4,2023-11-06,Efectivo en Bs,Oeste,No,0,89
+1361,Salbutamol,Antibiótico,20.02,1,20.02,2023-03-27,Transferencia,Norte,No,0,11
+1362,Salbutamol,Antibiótico,32.52,3,92.68,2023-04-02,Efectivo en Bs,Centro,Sí,5,69
+1363,Losartán,Analgésico,23.45,2,32.83,2023-05-28,Efectivo en $,Norte,Sí,30,43
+1364,Loratadina,Antibiótico,27.74,2,49.93,2023-06-10,Tarjeta,Este,No,10,54
+1365,Losartán,Antibiótico,47.13,6,282.78,2023-07-21,Pago Móvil,Sur,No,0,46
+1366,Atorvastatina,Antibiótico,19.92,1,19.92,2023-08-30,Efectivo en Bs,Sur,No,0,9
+1367,Cetirizina,Analgésico,48.1,2,76.96,2023-12-19,Tarjeta,Norte,No,20,25
+1368,Salbutamol,Analgésico,45.36,6,272.16,2023-01-02,Efectivo en Bs,Sur,Sí,0,40
+1369,Amoxicilina,Antialérgico,10.59,3,28.59,2023-08-13,Efectivo en $,Sur,No,10,4
+1370,Vitamina C,Antibiótico,4.4,4,15.84,2023-10-16,Pago Móvil,Norte,Sí,10,90
+1371,Cetirizina,Analgésico,5.94,1,5.94,2023-08-21,Tarjeta,Norte,Sí,0,10
+1372,Atorvastatina,Vitamina,1.89,8,15.12,2023-03-18,Efectivo en Bs,Este,Sí,0,84
+1373,Losartán,Antibiótico,5.63,7,39.41,2023-04-26,Pago Móvil,Oeste,Sí,0,369
+1374,Omeprazol,Antiinflamatorio,34.47,7,241.29,2023-06-03,Pago Móvil,Centro,No,0,24
+1375,Diclofenaco,Antiinflamatorio,4.49,3,11.45,2023-04-13,Efectivo en Bs,Sur,No,15,2
+1376,Salbutamol,Antiinflamatorio,16.63,3,49.89,2023-07-13,Efectivo en Bs,Norte,No,0,34
+1377,Paracetamol,Antialérgico,42.4,2,72.08,2023-06-15,Efectivo en Bs,Norte,No,15,98
+1378,Omeprazol,Antialérgico,2.14,1,2.14,2023-12-25,Pago Móvil,Este,No,0,33
+1379,Omeprazol,Antiinflamatorio,40.91,7,143.18,2023-03-31,Pago Móvil,Centro,No,50,218
+1380,Omeprazol,Antibiótico,14.81,7,103.67,2023-06-23,Tarjeta,Sur,No,0,64
+1381,Acetaminofén,Vitamina,6.79,2,13.58,2023-05-02,Transferencia,Centro,No,0,35
+1382,Paracetamol,Antiinflamatorio,35.14,7,245.98,2023-05-23,Efectivo en Bs,Oeste,No,0,39
+1383,Aspirina,Antialérgico,31.82,8,241.83,2023-04-16,Efectivo en $,Este,No,5,83
+1384,Vitamina C,Vitamina,44.0,1,41.8,2023-11-01,Efectivo en Bs,Norte,Sí,5,55
+1385,Paracetamol,Antialérgico,37.02,9,299.86,2023-12-26,Efectivo en Bs,Centro,No,10,222
+1386,Paracetamol,Antialérgico,40.37,7,282.59,2023-11-13,Efectivo en Bs,Este,Sí,0,39
+1387,Aspirina,Analgésico,14.82,3,44.46,2023-05-03,Pago Móvil,Centro,Sí,0,40
+1388,Cetirizina,Analgésico,9.69,8,77.52,2023-01-09,Pago Móvil,Sur,No,0,1
+1389,Loratadina,Antibiótico,37.78,7,264.46,2023-09-19,Efectivo en Bs,Sur,Sí,0,7
+1390,Acetaminofén,Antialérgico,40.53,8,324.24,2023-03-14,Tarjeta,Sur,No,0,17
+1391,Omeprazol,Antiinflamatorio,49.53,6,148.59,2023-12-25,Transferencia,Este,No,50,3
+1392,Cetirizina,Antibiótico,21.22,9,200.53,2023-08-11,Efectivo en $,Sur,Sí,-5,44
+1393,Omeprazol,Antialérgico,19.23,5,67.3,2023-02-10,Pago Móvil,Sur,No,30,81
+1394,Omeprazol,Antibiótico,39.04,3,105.41,2023-07-23,Transferencia,Este,No,10,37
+1395,Diclofenaco,Antiinflamatorio,17.7,3,53.1,2023-09-21,Efectivo en $,Este,Sí,0,154
+1396,Omeprazol,Antiinflamatorio,46.61,1,46.61,2023-11-24,Efectivo en Bs,Oeste,Sí,0,70
+1397,Ibuprofeno,Antiinflamatorio,43.06,8,344.48,2023-06-27,Efectivo en Bs,Norte,Sí,0,85
+1398,Loratadina,Vitamina,22.02,2,39.64,2023-12-14,Tarjeta,Este,No,10,52
+1399,Vitamina C,Antialérgico,37.79,3,113.37,2023-11-14,Efectivo en Bs,Este,No,0,56
+1400,Cetirizina,Antiinflamatorio,37.97,8,303.76,2023-03-25,Efectivo en Bs,Oeste,No,0,33
+1401,Paracetamol,Antibiótico,6.05,8,48.4,2023-11-14,Pago Móvil,Norte,No,0,4
+1402,Cetirizina,Antibiótico,45.23,4,180.92,2023-04-21,Pago Móvil,Este,No,0,78
+1403,Metformina,Antibiótico,25.76,4,87.58,2023-09-08,Efectivo en $,Oeste,No,15,34
+1404,Atorvastatina,Antiinflamatorio,41.5,5,186.75,2023-01-07,Efectivo en Bs,Oeste,No,10,57
+1405,Omeprazol,Antialérgico,16.68,6,100.08,2023-03-25,Efectivo en $,Norte,No,0,13
+1406,Vitamina C,Antiinflamatorio,44.88,5,112.2,2023-07-27,Tarjeta,Centro,No,50,338
+1407,Atorvastatina,Antialérgico,20.07,7,133.47,2023-11-10,Efectivo en Bs,Norte,Sí,5,60
+1408,Losartán,Antibiótico,1.53,2,3.06,2023-01-22,Efectivo en $,Sur,Sí,0,9
+1409,Losartán,Antiinflamatorio,45.36,7,317.52,2023-01-03,Tarjeta,Oeste,No,0,36
+1410,Ibuprofeno,Antiinflamatorio,5.47,7,38.29,2023-05-07,Efectivo en Bs,Sur,No,0,82
+1411,Cetirizina,Analgésico,16.65,1,16.65,2023-10-24,Tarjeta,Este,No,0,24
+1412,Acetaminofén,Antiinflamatorio,47.55,7,349.49,2023-07-07,Efectivo en Bs,Oeste,No,-5,17
+1413,Omeprazol,Analgésico,47.58,5,237.9,2023-12-28,Efectivo en Bs,Norte,No,0,206
+1414,Losartán,Analgésico,29.1,3,74.21,2023-01-14,Tarjeta,Centro,No,15,86
+1415,Metformina,Antiinflamatorio,31.96,3,95.88,2023-01-12,Pago Móvil,Este,No,0,281
+1416,Acetaminofén,Analgésico,22.97,4,91.88,2023-03-28,Efectivo en $,Norte,No,0,4
+1417,Paracetamol,Antialérgico,15.37,2,30.74,2023-01-12,Efectivo en Bs,Sur,Sí,0,346
+1418,Paracetamol,Antialérgico,17.1,2,34.2,2023-01-25,Pago Móvil,Sur,No,0,344
+1419,Atorvastatina,Analgésico,33.95,1,33.95,2023-10-28,Efectivo en $,Este,No,0,35
+1420,Acetaminofén,Analgésico,37.87,5,151.48,2023-08-31,Efectivo en $,Oeste,No,20,63
+1421,Amoxicilina,Antialérgico,39.79,4,159.16,2023-05-02,Pago Móvil,Oeste,No,0,12
+1422,Amoxicilina,Antibiótico,39.69,2,75.41,2023-05-27,Efectivo en $,Este,No,5,93
+1423,Amoxicilina,Antialérgico,5.47,3,16.41,2023-02-24,Efectivo en Bs,Centro,No,0,19
+1424,Omeprazol,Antialérgico,25.23,7,176.61,2023-08-26,Transferencia,Centro,Sí,0,86
+1425,Losartán,Antibiótico,3.82,7,26.74,2023-12-22,Tarjeta,Este,Sí,0,7
+1426,Omeprazol,Antialérgico,27.93,4,111.72,2023-06-22,Tarjeta,Centro,Sí,0,269
+1427,Losartán,Vitamina,22.63,5,113.15,2023-08-09,Efectivo en Bs,Oeste,No,0,430
+1428,Amoxicilina,Vitamina,44.5,5,222.5,2023-04-29,Transferencia,Sur,No,0,238
+1429,Acetaminofén,Antiinflamatorio,18.19,6,109.14,2023-11-05,Efectivo en $,Norte,No,0,5
+1430,Salbutamol,Antialérgico,6.74,9,60.66,2023-07-02,Efectivo en Bs,Este,No,0,38
+1431,Aspirina,Vitamina,8.01,2,16.02,2023-10-15,Efectivo en $,Sur,No,0,4
+1432,Paracetamol,Antibiótico,38.31,5,191.55,2023-11-03,Efectivo en $,Centro,No,0,59
+1433,Cetirizina,Antiinflamatorio,31.29,3,75.1,2023-10-27,Efectivo en Bs,Oeste,No,20,80
+1434,Atorvastatina,Vitamina,5.96,4,22.65,2023-03-23,Pago Móvil,Sur,No,5,63
+1435,Diclofenaco,Analgésico,5.12,6,30.72,2023-07-30,Efectivo en $,Centro,Sí,0,65
+1436,Diclofenaco,Antibiótico,35.35,8,282.8,2023-05-30,Efectivo en Bs,Sur,No,0,43
+1437,Atorvastatina,Antibiótico,4.57,1,2.28,2023-02-06,Efectivo en $,Sur,No,50,9
+1438,Omeprazol,Antialérgico,41.27,8,313.65,2023-12-18,Tarjeta,Norte,No,5,26
+1439,Metformina,Analgésico,35.61,7,249.27,2023-11-08,Efectivo en Bs,Sur,Sí,0,76
+1440,Ibuprofeno,Analgésico,4.99,1,4.24,2023-12-27,Efectivo en Bs,Este,No,15,24
+1441,Metformina,Analgésico,5.16,2,10.32,2023-02-28,Efectivo en $,Norte,Sí,0,7
+1442,Losartán,Analgésico,49.35,3,148.05,2023-05-11,Efectivo en Bs,Este,No,0,26
+1443,Vitamina C,Analgésico,19.34,1,18.37,2023-07-21,Pago Móvil,Este,No,5,52
+1444,Losartán,Vitamina,19.16,9,172.44,2023-08-31,Efectivo en Bs,Norte,No,0,38
+1445,Metformina,Antibiótico,40.83,8,163.32,2023-02-04,Pago Móvil,Sur,Sí,50,289
+1446,Paracetamol,Vitamina,47.42,2,90.1,2023-04-03,Pago Móvil,Este,No,5,60
+1447,Salbutamol,Antiinflamatorio,49.31,9,443.79,2023-07-26,Efectivo en $,Este,No,0,5
+1448,Diclofenaco,Antialérgico,37.92,7,265.44,2023-12-19,Efectivo en $,Este,No,0,1
+1449,Paracetamol,Antiinflamatorio,19.44,9,174.96,2023-11-28,Transferencia,Norte,No,0,392
+1450,Salbutamol,Analgésico,5.09,6,30.54,2023-11-01,Efectivo en Bs,Oeste,No,0,15
+1451,Aspirina,Antiinflamatorio,39.08,6,211.03,2023-12-16,Efectivo en $,Norte,No,10,87
+1452,Vitamina C,Antiinflamatorio,28.36,4,113.44,2023-08-01,Efectivo en Bs,Oeste,No,0,399
+1453,Acetaminofén,Analgésico,21.79,2,43.58,2023-06-08,Efectivo en Bs,Este,No,0,2
+1454,Metformina,Vitamina,45.41,7,301.98,2023-01-24,Efectivo en Bs,Norte,No,5,10
+1455,Diclofenaco,Antialérgico,6.45,5,32.25,2023-10-20,Tarjeta,Este,Sí,0,4
+1456,Vitamina C,Antiinflamatorio,25.14,6,143.3,2023-01-04,Efectivo en $,Norte,Sí,5,83
+1457,Cetirizina,Vitamina,1.56,2,3.12,2023-08-08,Efectivo en $,Centro,No,0,88
+1458,Vitamina C,Vitamina,23.96,5,125.79,2023-12-30,Pago Móvil,Centro,No,-5,61
+1459,Atorvastatina,Vitamina,3.76,4,15.04,2023-01-20,Efectivo en Bs,Este,Sí,0,116
+1460,Metformina,Antiinflamatorio,6.82,9,61.38,2023-06-01,Pago Móvil,Centro,No,0,5
+1461,Atorvastatina,Antiinflamatorio,6.76,6,40.56,2023-02-19,Efectivo en $,Oeste,No,0,90
+1462,Loratadina,Antialérgico,32.81,2,65.62,2023-06-26,Pago Móvil,Centro,Sí,0,6
+1463,Loratadina,Antialérgico,37.56,1,33.8,2023-04-06,Efectivo en Bs,Este,No,10,42
+1464,Amoxicilina,Antialérgico,29.59,5,140.55,2023-04-15,Efectivo en Bs,Sur,Sí,5,131
+1465,Ibuprofeno,Antibiótico,48.15,9,411.68,2023-09-07,Pago Móvil,Sur,Sí,5,360
+1466,Ibuprofeno,Vitamina,19.37,6,116.22,2023-04-27,Efectivo en $,Este,Sí,0,31
+1467,Salbutamol,Vitamina,15.0,7,105.0,2023-12-20,Transferencia,Centro,No,0,139
+1468,Atorvastatina,Antibiótico,43.56,5,217.8,2023-08-16,Efectivo en Bs,Centro,No,0,23
+1469,Omeprazol,Antibiótico,11.96,6,71.76,2023-03-07,Pago Móvil,Sur,No,0,29
+1470,Atorvastatina,Vitamina,48.2,5,204.85,2023-12-01,Efectivo en Bs,Este,Sí,15,19
+1471,Vitamina C,Antibiótico,1.6,9,14.4,2023-09-19,Tarjeta,Oeste,No,0,96
+1472,Omeprazol,Analgésico,48.52,6,291.12,2023-10-22,Pago Móvil,Sur,Sí,0,4
+1473,Amoxicilina,Antibiótico,3.11,8,24.88,2023-08-31,Pago Móvil,Oeste,Sí,0,12
+1474,Aspirina,Analgésico,44.67,2,80.41,2023-07-05,Pago Móvil,Centro,No,10,93
+1475,Loratadina,Antiinflamatorio,26.86,9,229.65,2023-09-03,Pago Móvil,Este,Sí,5,166
+1476,Acetaminofén,Antiinflamatorio,49.66,5,211.05,2023-05-05,Pago Móvil,Norte,No,15,94
+1477,Aspirina,Vitamina,4.62,7,32.34,2023-09-25,Efectivo en Bs,Sur,No,0,67
+1478,Diclofenaco,Analgésico,28.14,1,28.14,2023-05-11,Efectivo en Bs,Norte,No,0,89
+1479,Metformina,Analgésico,48.5,5,206.12,2023-08-25,Efectivo en $,Sur,No,15,5
+1480,Omeprazol,Analgésico,26.63,2,50.6,2023-01-18,Tarjeta,Norte,No,5,13
+1481,Losartán,Analgésico,31.84,6,191.04,2023-02-09,Efectivo en Bs,Centro,No,0,45
+1482,Losartán,Antibiótico,35.09,1,33.34,2023-01-21,Pago Móvil,Oeste,Sí,5,48
+1483,Aspirina,Analgésico,23.27,3,62.83,2023-08-13,Efectivo en Bs,Este,Sí,10,45
+1484,Losartán,Vitamina,31.75,5,150.81,2023-12-21,Efectivo en $,Este,Sí,5,94
+1485,Amoxicilina,Antialérgico,29.63,4,112.59,2023-10-09,Pago Móvil,Centro,Sí,5,14
+1486,Aspirina,Antibiótico,45.16,3,135.48,2023-01-08,Pago Móvil,Centro,Sí,0,78
+1487,Vitamina C,Vitamina,3.23,5,16.15,2023-04-10,Efectivo en Bs,Norte,No,0,61
+1488,Paracetamol,Vitamina,14.77,8,118.16,2023-08-28,Efectivo en Bs,Sur,No,0,4
+1489,Vitamina C,Vitamina,47.57,4,171.25,2023-03-28,Pago Móvil,Oeste,No,10,190
+1490,Omeprazol,Antiinflamatorio,44.62,1,40.16,2023-10-25,Efectivo en $,Sur,No,10,68
+1491,Aspirina,Antibiótico,23.33,7,146.98,2023-01-14,Efectivo en $,Oeste,No,10,8
+1492,Losartán,Antibiótico,31.39,8,251.12,2023-11-30,Tarjeta,Norte,No,0,95
+1493,Aspirina,Antialérgico,14.59,3,41.58,2023-01-02,Pago Móvil,Sur,No,5,31
+1494,Paracetamol,Antibiótico,10.22,6,55.19,2023-10-20,Efectivo en $,Centro,No,10,10
+1495,Losartán,Antialérgico,23.72,2,45.07,2023-11-21,Tarjeta,Norte,No,5,252
+1496,Cetirizina,Antibiótico,18.31,7,115.35,2023-02-10,Efectivo en $,Sur,No,10,2
+1497,Loratadina,Antibiótico,29.6,8,213.12,2023-11-14,Efectivo en Bs,Centro,Sí,10,119
+1498,Ibuprofeno,Antialérgico,4.81,6,28.86,2023-11-12,Efectivo en Bs,Oeste,No,0,84
+1499,Loratadina,Analgésico,48.75,6,292.5,2023-04-21,Transferencia,Este,No,0,22
+1500,Metformina,Vitamina,49.32,5,246.6,2023-01-14,Efectivo en $,Norte,No,0,96
+1501,Diclofenaco,Antiinflamatorio,35.21,8,281.68,2023-08-19,Pago Móvil,Oeste,No,0,62
+1502,Vitamina C,Analgésico,27.27,1,25.91,2023-03-25,Tarjeta,Oeste,Sí,5,74
+1503,Metformina,Antiinflamatorio,16.17,4,58.21,2023-05-10,Tarjeta,Sur,No,10,95
+1504,Metformina,Vitamina,40.88,4,163.52,2023-08-19,Pago Móvil,Centro,No,0,15
+1505,Ibuprofeno,Antiinflamatorio,34.55,3,103.65,2023-11-22,Efectivo en $,Este,No,0,38
+1506,Losartán,Vitamina,8.97,3,25.56,2023-05-25,Pago Móvil,Este,No,5,79
+1507,Acetaminofén,Antibiótico,45.64,4,182.56,2023-12-11,Tarjeta,Este,Sí,0,36
+1508,Paracetamol,Analgésico,41.3,1,41.3,2023-01-28,Transferencia,Norte,Sí,0,1
+1509,Omeprazol,Antialérgico,47.54,2,95.08,2023-03-07,Tarjeta,Norte,No,0,77
+1510,Amoxicilina,Antibiótico,36.56,9,329.04,2023-06-12,Efectivo en Bs,Centro,Sí,0,67
+1511,Vitamina C,Antibiótico,31.06,2,62.12,2023-08-17,Tarjeta,Este,No,0,68
+1512,Loratadina,Vitamina,21.49,5,107.45,2023-09-18,Pago Móvil,Sur,No,0,62
+1513,Omeprazol,Vitamina,46.7,9,420.3,2023-06-13,Efectivo en $,Norte,Sí,0,2
+1514,Salbutamol,Analgésico,43.44,9,332.32,2023-10-28,Tarjeta,Este,Sí,15,129
+1515,Omeprazol,Antiinflamatorio,3.22,8,25.76,2023-10-30,Tarjeta,Este,No,0,97
+1516,Losartán,Vitamina,2.29,1,2.18,2023-10-14,Efectivo en $,Norte,No,5,7
+1517,Salbutamol,Antibiótico,19.45,1,19.45,2023-01-10,Pago Móvil,Sur,No,0,290
+1518,Vitamina C,Antialérgico,40.72,9,366.48,2023-07-14,Tarjeta,Oeste,No,0,217
+1519,Aspirina,Vitamina,49.38,8,375.29,2023-04-28,Pago Móvil,Centro,No,5,15
+1520,Metformina,Antibiótico,8.37,9,75.33,2023-09-27,Efectivo en Bs,Sur,Sí,0,47
+1521,Diclofenaco,Vitamina,30.11,7,210.77,2023-03-21,Efectivo en Bs,Sur,Sí,0,99
+1522,Losartán,Antialérgico,19.66,3,58.98,2023-04-03,Pago Móvil,Este,No,0,473
+1523,Loratadina,Antiinflamatorio,48.53,3,138.31,2023-09-23,Efectivo en $,Norte,No,5,9
+1524,Salbutamol,Antialérgico,42.26,2,84.52,2023-11-28,Efectivo en Bs,Norte,No,0,83
+1525,Atorvastatina,Antibiótico,42.08,5,210.4,2023-12-16,Pago Móvil,Oeste,No,0,359
+1526,Losartán,Antibiótico,23.97,3,68.31,2023-12-27,Pago Móvil,Sur,No,5,83
+1527,Metformina,Antibiótico,21.33,6,127.98,2023-09-14,Efectivo en $,Oeste,No,0,271
+1528,Losartán,Vitamina,14.4,2,27.36,2023-05-13,Efectivo en $,Oeste,No,5,33
+1529,Cetirizina,Antiinflamatorio,3.76,3,10.72,2023-10-03,Efectivo en Bs,Norte,No,5,336
+1530,Atorvastatina,Antialérgico,43.37,5,108.42,2023-09-21,Tarjeta,Norte,Sí,50,37
+1531,Metformina,Analgésico,40.83,1,40.83,2023-06-20,Tarjeta,Sur,No,0,83
+1532,Paracetamol,Antibiótico,49.99,1,44.99,2023-01-01,Tarjeta,Norte,Sí,10,56
+1533,Diclofenaco,Vitamina,49.84,9,448.56,2023-11-09,Efectivo en Bs,Sur,No,0,478
+1534,Salbutamol,Vitamina,28.22,7,197.54,2023-03-05,Efectivo en Bs,Norte,No,0,111
+1535,Paracetamol,Analgésico,38.68,1,38.68,2023-10-11,Tarjeta,Sur,Sí,0,168
+1536,Cetirizina,Vitamina,47.29,8,359.4,2023-05-01,Transferencia,Centro,No,5,479
+1537,Acetaminofén,Antialérgico,42.63,3,127.89,2023-04-17,Efectivo en $,Este,No,0,67
+1538,Omeprazol,Antialérgico,13.12,8,104.96,2023-06-24,Pago Móvil,Oeste,No,0,96
+1539,Cetirizina,Analgésico,23.08,5,115.4,2023-07-23,Efectivo en $,Norte,No,0,50
+1540,Amoxicilina,Vitamina,7.33,1,6.6,2023-06-14,Pago Móvil,Sur,Sí,10,43
+1541,Diclofenaco,Analgésico,47.75,7,300.82,2023-11-01,Transferencia,Centro,Sí,10,36
+1542,Diclofenaco,Antibiótico,30.7,5,145.82,2023-04-30,Pago Móvil,Norte,Sí,5,34
+1543,Aspirina,Antialérgico,12.2,6,73.2,2023-02-13,Tarjeta,Centro,Sí,0,19
+1544,Amoxicilina,Antiinflamatorio,33.91,6,203.46,2023-11-08,Efectivo en $,Norte,No,0,11
+1545,Cetirizina,Antiinflamatorio,31.29,8,237.8,2023-06-05,Efectivo en Bs,Sur,No,5,72
+1546,Atorvastatina,Antibiótico,18.55,9,166.95,2023-07-26,Efectivo en $,Sur,Sí,0,8
+1547,Paracetamol,Antibiótico,6.56,2,13.12,2023-04-18,Efectivo en Bs,Centro,Sí,0,14
+1548,Aspirina,Antibiótico,33.91,9,289.93,2023-09-08,Efectivo en Bs,Sur,Sí,5,87
+1549,Loratadina,Antibiótico,26.5,9,119.25,2023-11-30,Efectivo en Bs,Centro,No,50,14
+1550,Aspirina,Antialérgico,38.84,7,258.29,2023-05-10,Pago Móvil,Norte,Sí,5,2
+1376,Salbutamol,Antiinflamatorio,16.63,3,49.89,2023-07-13,Efectivo en Bs,Norte,No,0,34
+1234,Amoxicilina,Antiinflamatorio,25.13,3,71.62,2023-12-01,Tarjeta,Oeste,No,5,2
+1239,Acetaminofén,Antialérgico,32.63,3,97.89,2023-12-18,Efectivo en Bs,Este,No,0,44
+1235,Aspirina,Antibiótico,10.57,6,63.42,2023-08-10,Tarjeta,Sur,No,0,34
+1207,Amoxicilina,Antialérgico,5.97,5,29.85,2023-03-23,Transferencia,Este,Sí,0,88
+1125,Loratadina,Antibiótico,12.17,9,93.1,2023-09-26,Efectivo en $,Oeste,Sí,15,97
+1116,Salbutamol,Antibiótico,43.7,3,131.1,2023-03-02,Pago Móvil,Centro,Sí,0,65
+1402,Cetirizina,Antibiótico,45.23,4,180.92,2023-04-21,Pago Móvil,Este,No,0,78
+1548,Aspirina,Antibiótico,33.91,9,289.93,2023-09-08,Efectivo en Bs,Sur,Sí,5,87
+1471,Vitamina C,Antibiótico,1.6,9,14.4,2023-09-19,Tarjeta,Oeste,No,0,96
