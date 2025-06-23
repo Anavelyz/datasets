@@ -1,0 +1,551 @@
+﻿ID_Cliente,Edad,Sexo,Tipo_Juego,Horas_Jugadas,Consola,Gasto_Snacks,Miembro,Dia_Semana,Hora_Pico,Tipo_Membresia,Fecha_Ingreso,Puntos_Acumulados
+5001,16,Femenino,deportes,4.2,Xbox,2.98,Sí,Domingo,Sí,Gold,2022-10-26 00:00:00,95
+5002,29,masculino,FPS,7.1,Nintnedo Swtich,0.44,Sí,Jueves,Sí,Básica,2021-08-26 00:00:00,55
+5003,38,Masculino,rpg,6.1,ps5,2.55,No,Lunes,No,,,0
+5004,24,Masculino,FPS,6.2,pc,12.05,No,lunes,No,,,0
+5005,20,Femenino,rpg,4.0,Xbox,8.25,Sí,Sábado,Sí,basica,2022-11-11 00:00:00,149
+5006,17,Masculino,Deportes,3.4,Nintnedo Swtich,1.22,No,Sábado,Sí,,,0
+5007,38,Masculino,deportes,3.6,Nintnedo Swtich,3.14,No,Martes,Sí,,,0
+5008,30,Femenino,Deportes,7.9,Nintendo Switch,8.48,si,Lunes,No,Premium,2022-01-04 00:00:00,109
+5009,16,Femenino,FPS,1.3,Nintendo Switch,0.35,No,Martes,Sí,,,0
+5010,35,masculino,deportes,7.1,xbox,2.45,Sí,Jueves,No,Básica,2021-09-15 00:00:00,98
+5011,28,Masculino,Deportes,5.1,xbox,9.55,Sí,Martes,N,VIP,2021-07-30 00:00:00,96
+5012,32,Femenino,RPG,4.1,PS5,2.59,Sí,Lunes,Sí,vip,2021-10-28 00:00:00,38
+5013,20,Masculino,FPS,6.1,Nintnedo Swtich,0.4,Sí,Domingo,Sí,Vip,2022-03-10 00:00:00,33
+5014,20,Masculino,Deportes,4.4,Xbox,3.91,nan,lunes,Sí,Basica+,,0
+5015,33,Masculino,RPG,7.1,ps5,9.89,Sí,Sábado,Sí,Premium+,2021-10-24 00:00:00,146
+5016,30,Femenino,RPG,7.3,Nintnedo Swtich,4.46,Sí,Jueves,Sí,Oro,2021-02-05 00:00:00,55
+5017,13,Femenino,fps,4.0,Nintendo Switch,1.28,No,Sábado,Sí,,,0
+5018,17,Femenino,FPS,2.9,PC,2.42,No,Miércoles,No,,,0
+5019,33,Masculino,RPG,5.1,pc,2.99,Sí,lunes,Sí,basica,2021-02-10 00:00:00,118
+5020,12,Masculino,fps,7.4,xbox,4.33,Sí,jueves,Sí,Premium,2022-06-18 00:00:00,86
+5021,31,Femenino,Deportes,2.5,nintendo switch,7.12,Sí,Martes,si,premium,2022-08-27 00:00:00,-50
+5022,30,femenino,Battle Royale,5.4,PC,0.52,No,Viernes,No,,,5000
+5023,11,Masculino,FPS,5.4,ps5,11.02,Sí,Lunes,Sí,Básica,2021-07-19 00:00:00,N/A
+5024,33,Femenino,deportes,6.1,Nintendo Switch,0.06,Sí,Sábado,No,Básica,2021-11-17 00:00:00,muchos
+5025,21,Femenino,rpg,1.9,Nintendo Switch,2.31,No,Martes,Sí,,,pocos
+5026,39,Femenino,rpg,6.0,Nintendo Switch,0.14,Sí,Jueves,No,Premium,2022-10-29 00:00:00,
+5027,15,femenino,Deportes,7.4,nintendo switch,2.5,No,Sábado,No,,,0
+5028,11,Masculino,Deportes,2.3,xbox,3.73,Sí,jueves,No,Básica,2021-02-07 00:00:00,134
+5029,37,Masculino,RPG,2.7,PC,3.58,Sí,lunes,Sí,Básica,2022-05-06 00:00:00,60
+5030,30,Masculino,FPS,7.8,ps5,0.91,no,lunes,No,,,0
+5031,10,Masculino,rpg,2.3,xbox,5.19,No,Sábado,Sí,,12/2025,0
+5032,21,Masculino,rpg,7.0,ps5,0.23,Sí,Jueves,Sí,Básica,15-mar-2023,22
+5033,35,Femenino,RPG,4.4,xbox,7.18,No,lunes,Sí,,2023/07/10,0
+5034,31,Masculino,rpg,2.7,nintendo switch,14.65,No,lunes,Sí,,01-01-99,0
+5035,38,Femenino,deportes,7.1,pc,2.08,No,jueves,Sí,,31/02/2023,0
+5036,21,Femenino,FPS,4.1,ps5,3.64,Sí,Lunes,No,Básica,Hoy,63
+5037,34,Femenino,estrategia,4.6,xbox,2.38,SI,Jueves,no,basica,2021-12-14 00:00:00,70
+5038,26,Femenino,rpg,3.5,Nintendo Switch,0.03,Sí,Jueves,Sí,Básica,2021-10-28 00:00:00,99
+5039,36,Femenino,Deportes,5.2,Nintnedo Swtich,2.44,Sí,Domingo,Sí,Básica,2022-10-11 00:00:00,63
+5040,36,Femenino,deportes,2.1,Nintendo Switch,7.84,Sí,Domingo,Sí,Básica,2021-02-04 00:00:00,143
+5041,19,masculino,rpg,3.7,PlayStation 5,4.53,Sí,lunes,Sí,Premium,2021-05-01 00:00:00,117
+5042,37,Femenino,deportes,7.8,Xbox Series X,0.53,No,Viernes,Sí,,,0
+5043,37,Femenino,fps,2.8,Computadora,9.39,Sí,Domingo,si,Básica,2021-06-07 00:00:00,179
+5044,25,Masculino,estrategia,5.6,Switch,3.79,Sí,lunes,Sí,basica,2022-03-22 00:00:00,115
+5045,24,Masculino,Estrategia,3.3,Mobile,9.22,si,miercoles,Sí,Básica,2021-07-17 00:00:00,168
+5046,39,Femenino,Deportes,6.4,Tablet,4.34,Sí,Miércoles,Sí,Básica,2021-09-30 00:00:00,65
+5047,39,Masculino,Deportes,1.9,ps5,4.1,Sí,Miércoles,No,Premium,2022-06-04 00:00:00,121
+5048,24,Masculino,FPS,7.8,pc,0.56,Sí,Jueves,No,Básica,2022-08-29 00:00:00,52
+5049,39,Femenino,deportes,4.2,Nintendo Switch,0.92,Sí,Viernes,no,Básica,2021-11-15 00:00:00,10
+5050,28,femenino,RPG,2.7,Nintendo Switch,17.88,Sí,jueves,No,Básica,2021-08-21 00:00:00,261
+5051,5,nan,Deportes,1.5,nintendo switch,1.3,No,Lunes,Sí,,,0
+5052,99,Femenino,deportes,2.2,nintendo switch,18.96,Sí,Domingo,Sí,premium,2021-11-03 00:00:00,208
+5053,veinte,Femenino,deportes,4.6,Xbox,3.8,Sí,miercoles,No,Básica,2021-06-27 00:00:00,96
+5054,treinta y cinco,femenino,Battle Royale,3.4,Xbox,0.73,No,lunes,Sí,,,0
+5055,,Masculino,Battle Royale,6.8,PC,0.52,No,Viernes,No,,,0
+5056,-10,Masculino,Estrategia,4.0,PC,1.17,Sí,Jueves,Sí,Premium,2021-05-02 00:00:00,56
+5057,28,Masculino,fps,2.7,PS5,12.99,No,Domingo,Sí,,,0
+5058,16,Masculino,Estrategia,5.3,PC,2.67,Sí,Viernes,No,Básica,2021-07-08 00:00:00,28
+5059,30,femenino,rpg,5.9,xbox,2.52,Sí,Domingo,No,Básica,2022-07-28 00:00:00,79
+5060,18,femenino,RPG,2.2,nintendo switch,1.88,No,Lunes,No,,,0
+5061,16,Otro,rpg,25,xbox,0.8,Sí,Lunes,Sí,Básica,2022-09-12 00:00:00,19
+5062,27,Masculino,rpg,0.1,ps5,3.35,no,jueves,No,,,0
+5063,13,Masculino,FPS,muchas,Nintendo Switch,0.7,Sí,Miércoles,Sí,premium,2021-11-26 00:00:00,46
+5064,34,Masculino,rpg,pocas,PC,9.02,No,Martes,Sí,,,0
+5065,37,Masculino,Estrategia,,Nintendo Switch,2.31,Sí,Martes,Sí,Básica,2022-09-02 00:00:00,88
+5066,23,Femenino,Deportes,8 horas,pc,2.35,No,Domingo,Sí,,,0
+5067,27,Masculino,Deportes,6.6,PS5,3.21,No,jueves,Sí,,,0
+5068,35,Masculino,Battle Royale,5.1,pc,2.94,No,Martes,Sí,,,0
+5069,18,Masculino,RPG,7.1,PS5,26.35,Sí,Jueves,Sí,Básica,2022-04-04 00:00:00,362
+5070,35,Masculino,RPG,2.4,Xbox,3.94,No,Martes,Sí,,,0
+5071,30,Masculino,FPS,1.8,Nintendo Switch,1000,No,Sábado,Sí,,,0
+5072,11,Femenino,Estrategia,2.9,PS5,0,No,lunes,Sí,,,0
+5073,29,Femenino,Battle Royale,1.4,Nintnedo Swtich,Nada,No,jueves,Sí,,,0
+5074,37,Femenino,RPG,4.7,xbox,50 USD,No,Jueves,No,,,0
+5075,24,Masculino,Deportes,7.6,PS5,,Sí,Viernes,Sí,Básica,2022-03-14 00:00:00,253
+5076,37,Femenino,rpg,1.3,PS5,Mucho,Sí,Jueves,Sí,Básica,2021-11-30 00:00:00,89
+5077,16,Masculino,rpg,1.9,xbox,19.59,Sí,Miércoles,Sí,Básica,2021-09-18 00:00:00,277
+5078,21,Femenino,Battle Royale,4.2,Nintendo Switch,3.25,Sí,Viernes,No,Premium,2022-06-09 00:00:00,65
+5079,38,Masculino,Estrategia,7.5,Nintendo Switch,3.8,SI,miercoles,No,Básica,2022-09-14 00:00:00,81
+5080,17,Masculino,Estrategia,3.2,xbox,0.92,No,lunes,No,,,0
+5081,24, Femenino,fps,4.6,pc,1.42,SI,lunes,No,Básica,2021-10-19 00:00:00,19
+5082,12,Masculino ,estrategia,1.3,Nintnedo Swtich,9.12,Sí,lunes,Sí,basica,2022-03-30 00:00:00,167
+5083,23, Otro ,RPG,2.0,ps5,2.2,si,lunes,No,Básica,2021-06-13 00:00:00,85
+5084,26, femenino ,Estrategia,7.9,Nintnedo Swtich,8.77,No,Domingo,No,,,0
+5085,13, MASCULINO,Deportes,7.8,Nintendo Switch,6.17,No,lunes,Sí,,,0
+5086,27,Otro ,Battle Royale,1.0,Xbox,0.98,No,lunes,Sí,,,0
+5087,17,femenino,fps,7.7,PC,3.54,Sí,lunes,Sí,Básica,2021-06-12 00:00:00,134
+5088,13,Femenino,deportes,5.5,PS5,5.66,No,jueves,si,,,0
+5089,11,Masculino,FPS,7.1,xbox,1.34,No,Domingo,No,,,0
+5090,39,masculino,deportes,4.2,xbox,8.88,Sí,Lunes,No,Básica,2021-09-07 00:00:00,109
+5091,15,Masculino, FPS ,4.6,PS5,3.94,Sí,Jueves,Sí,Premium,2022-09-10 00:00:00,56
+5092,31,Masculino, RPG,4.4,PC,0.9,no,Jueves,Sí,,,0
+5093,19,Masculino,Battle Royale ,5.7,ps5,4.37,si,Viernes,Sí,Básica,2021-09-12 00:00:00,54
+5094,13,Masculino, deportes ,2.0,PC,40.79,NO,jueves,Sí,,,0
+5095,31,Masculino, Estrategia ,1.2,PC,0.82,No,Sábado,No,,,0
+5096,38,Femenino,fps ,3.2,PC,8.48,Sí,Jueves,No,Básica,2021-01-22 00:00:00,135
+5097,27,Femenino,deportes,5.9,ps5,1.16,Sí,Martes,Sí,Básica,2022-02-15 00:00:00,104
+5098,35,Masculino,RPG,2.4,ps5,7.63,Sí,Sábado,No,Premium,2022-07-07 00:00:00,126
+5099,21,Otro,estrategia,5.7,Nintendo Switch,6.63,Sí,lunes,Sí,Básica,2022-05-28 00:00:00,136
+5100,11,Masculino,rpg,7.8,PS5,1.79,Sí,lunes,no,Premium,2021-07-23 00:00:00,112
+5101,19,Femenino,estrategia,1.7,ps5,1.97,Sí,Domingo,Sí,basica,2021-08-28 00:00:00,66
+5102,39,Masculino,fps,5.7,ps5,7.86,Sí,Sábado,Sí,Premium,2022-11-02 00:00:00,96
+5103,13,Masculino,fps,4.1,Nintendo Switch,3.09,no,Martes,Sí,,,0
+5104,23,Femenino,Battle Royale,7.1,xbox,6.56,Sí,Domingo,Sí,Básica,2022-11-09 00:00:00,70
+5105,25,Masculino,RPG,2.2,Nintendo Switch,0.8,si,Viernes,Sí,Básica,2021-02-21 00:00:00,91
+5106,24,Masculino,rpg,5.8,pc,9.57,No,Sábado,No,,,0
+5107,17,Masculino,Estrategia,6.9,pc,6.2,Sí,jueves,No,Básica,2021-07-13 00:00:00,88
+5108,23,Masculino,fps,7.6,Xbox,11.87,Sí,lunes,No,Básica,2022-10-29 00:00:00,170
+5109,32,Femenino,RPG,5.8,PC,0.71,Sí,lunes,Sí,Básica,2021-04-30 00:00:00,54
+5110,37,Femenino,Estrategia,4.5,PS5,4.49,Sí,Miércoles,No,basica,2021-05-26 00:00:00,50
+5111,34,Femenino,Battle Royale,5.3,nintendo switch,4.57,No,Domingo,Sí,,,0
+5112,39,masculino,estrategia,7.1,Nintnedo Swtich,2.18,Sí,Lunes,Sí,Básica,2021-01-28 00:00:00,79
+5113,17,Masculino,fps,5.0,Nintendo Switch,3.07,Sí,Lunes,No,Básica,2022-07-15 00:00:00,98
+5114,30,Masculino,RPG,1.2,xbox,0.19,Sí,Domingo,No,Premium,2022-04-04 00:00:00,11
+5115,25,masculino,FPS,7.5,Nintnedo Swtich,6.85,NO,jueves,Sí,,,0
+5116,22,Masculino,Estrategia,5.8,xbox,3.99,No,miercoles,Sí,,,0
+5117,27,Masculino,estrategia,5.7,Nintnedo Swtich,0.3,No,Domingo,S,,,0
+5118,24,Masculino,fps,2.5,Nintendo Switch,5.71,Sí,jueves,Sí,Premium,2021-02-02 00:00:00,71
+5119,30,Femenino,rpg,5.6,nintendo switch,3.14,No,Viernes,Sí,,,0
+5120,33,Femenino,Estrategia,3.8,Nintnedo Swtich,0.18,No,lunes,No,,,0
+5121,35,Masculino,fps,5.6,Nintendo Switch,17.47,No,Martes,Sí,,,0
+5122,34,Masculino,Estrategia,1.7,ps5,14.89,nan,miercoles,Sí,,,0
+5123,37,Femenino,estrategia,5.6,nintendo switch,3.6,Sí,Sábado,Sí,Básica,2021-07-16 00:00:00,99
+5124,37,femenino,fps,8.0,xbox,0.49,no,miercoles,No,,,0
+5125,37,Masculino,deportes,1.3,pc,7.02,no,Martes,No,,,0
+5126,22,Femenino,RPG,7.8,PC,3.39,Sí,Miércoles,No,basica,2021-12-07 00:00:00,35
+5127,18,femenino,estrategia,3.8,pc,1.8,Sí,lunes,S,Básica,2021-02-08 00:00:00,86
+5128,38,masculino,Estrategia,7.1,nintendo switch,3.38,SI,Lunes,No,basica,2022-02-09 00:00:00,55
+5129,24,MASCULINO,rpg,6.5,xbox,3.7,Sí,jueves,Sí,basica,2022-09-16 00:00:00,89
+5130,22,Femenino,FPS,5.0,Nintnedo Swtich,4.14,No,Domingo,Sí,,,0
+5131,10,Masculino,Estrategia,6.2,xbox,2.91,SI,Domingo,No,basica,2022-07-24 00:00:00,65
+5132,34,Masculino,RPG,7.1,Nintnedo Swtich,4.65,No,Lunes,No,,,0
+5133,16,Masculino,fps,3.8,Nintendo Switch,12.55,Sí,miercoles,No,Premium,2021-10-07 00:00:00,133
+5134,18,masculino,FPS,3.3,nintendo switch,2.25,No,lunes,No,,,0
+5135,33,Masculino,Deportes,5.7,Nintendo Switch,6.47,Sí,Jueves,Sí,Básica,2022-06-10 00:00:00,78
+5136,10,Masculino,Estrategia,6.7,Xbox,11.24,No,jueves,Sí,,,0
+5137,21,Otro,Battle Royale,6.3,Nintnedo Swtich,3.04,Sí,Viernes,Sí,Básica,2021-05-22 00:00:00,32
+5138,17,Masculino,Deportes,6.6,ps5,2.93,No,Martes,Sí,,,0
+5139,33,Masculino,Estrategia,4.0,Nintendo Switch,4.61,No,miercoles,Sí,,,0
+5140,20,Femenino,deportes,6.7,Xbox,4.48,No,Sábado,No,,,0
+5141,28,Masculino,Battle Royale,1.8,PS5,8.21,No,Miércoles,No,,,0
+5142,26,nan,FPS,4.8,pc,3.24,No,Domingo,Sí,,,0
+5143,17,Femenino,rpg,1.0,xbox,27.76,No,miercoles,Sí,,,0
+5144,12,Masculino,deportes,3.3,Xbox,0.31,Sí,Miércoles,Sí,Premium,2022-12-17 00:00:00,95
+5145,12,Femenino,Deportes,3.6,nintendo switch,0.02,No,Martes,Sí,,,0
+5146,10,Masculino,fps,3.8,Nintendo Switch,5.11,Sí,Domingo,No,Básica,2022-02-09 00:00:00,120
+5147,36,Otro,RPG,5.9,nintendo switch,1.77,no,Domingo,No,,,0
+5148,14,nan,rpg,3.7,pc,1.37,Sí,Jueves,No,premium,2021-05-04 00:00:00,29
+5149,19,Femenino,deportes,4.1,ps5,1.87,Sí,miercoles,No,Básica,2021-03-14 00:00:00,43
+5150,16,femenino,fps,2.7,nintendo switch,1.48,No,lunes,No,,,0
+5151,35,Masculino,fps,3.6,Nintnedo Swtich,0.16,Sí,Lunes,Sí,Básica,2022-12-31 00:00:00,21
+5152,18,Masculino,Estrategia,2.6,ps5,17.8,Sí,Lunes,Sí,Básica,2022-12-23 00:00:00,249
+5153,37,Masculino,deportes,1.5,ps5,1.25,No,Viernes,Sí,,,0
+5154,16,Masculino,FPS,5.2,Xbox,6.62,No,Sábado,no,,,0
+5155,18,Masculino,Battle Royale,5.7,ps5,7.19,No,Miércoles,Sí,,,0
+5156,17,Masculino,Battle Royale,5.3,PC,13.24,Sí,miercoles,Sí,Básica,2021-10-25 00:00:00,152
+5157,21,Femenino,Deportes,4.2,pc,0.16,No,jueves,No,,,0
+5158,11,Femenino,Deportes,3.7,ps5,10.28,Sí,Sábado,no,Premium,2022-08-30 00:00:00,112
+5159,10,Masculino,Battle Royale,7.0,nintendo switch,3.75,No,Jueves,No,,,0
+5160,25,Femenino,FPS,4.6,PS5,5.01,No,Domingo,Sí,,,0
+5161,32,Masculino,RPG,4.4,PC,5.17,No,lunes,Sí,,,0
+5162,32,Masculino,estrategia,1.2,PC,8.57,Sí,miercoles,Sí,basica,2022-10-13 00:00:00,122
+5163,39,Masculino,RPG,3.4,Nintnedo Swtich,2.03,Sí,Sábado,Sí,Premium,2021-09-04 00:00:00,91
+5164,33,Masculino,Estrategia,3.7,ps5,6.6,Sí,Sábado,Sí,basica,2021-03-21 00:00:00,153
+5165,14,Masculino,estrategia,3.8,Nintnedo Swtich,3.76,Sí,lunes,Sí,premium,2022-08-05 00:00:00,71
+5166,12,Masculino,estrategia,5.1,Nintnedo Swtich,7.88,Sí,Viernes,no,basica,2022-01-27 00:00:00,91
+5167,21,Masculino,deportes,4.7,PS5,23.31,No,Miércoles,Sí,,,0
+5168,17,Femenino,FPS,5.3,Xbox,1.12,Sí,Miércoles,No,Básica,2022-08-26 00:00:00,24
+5169,31,Masculino,FPS,6.4,ps5,26.15,no,Sábado,No,,,0
+5170,36,Masculino,estrategia,6.7,Nintendo Switch,0.47,Sí,Martes,Sí,basica,2021-10-21 00:00:00,13
+5171,12,Femenino,deportes,6.0,Nintnedo Swtich,0.01,No,Sábado,No,,,0
+5172,10,Masculino,estrategia,7.7,pc,0.23,No,Sábado,Sí,,,0
+5173,12,Masculino,rpg,1.1,xbox,2.09,Sí,lunes,Sí,Básica,2021-08-19 00:00:00,31
+5174,14,Masculino,Deportes,2.4,pc,5.01,Sí,Domingo,No,Básica,2022-11-05 00:00:00,87
+5175,24,masculino,Deportes,1.1,PS5,0.36,No,lunes,Sí,,,0
+5176,23,Masculino,RPG,5.5,PS5,0.03,Sí,miercoles,N,Premium,2022-06-18 00:00:00,33
+5177,12,Femenino,Estrategia,7.3,nintendo switch,13.83,no,Sábado,Sí,,,0
+5178,10,Femenino,Deportes,2.7,Xbox,8.63,No,Miércoles,No,,,0
+5179,14,femenino,fps,7.5,Nintnedo Swtich,8.28,no,jueves,Sí,,,0
+5180,35,femenino,RPG,1.4,pc,10.79,Sí,Miércoles,Sí,Básica,2022-06-05 00:00:00,147
+5181,32,Femenino,Deportes,7.5,xbox,6.02,No,Lunes,Sí,,,0
+5182,23,Masculino,Estrategia,3.5,PS5,0.55,No,Viernes,No,,,0
+5183,16,Femenino,FPS,1.7,PS5,2.55,No,Jueves,No,,,0
+5184,36,Femenino,FPS,4.4,Xbox,6.42,Sí,miercoles,No,Básica,2022-11-18 00:00:00,73
+5185,18,Femenino,estrategia,2.8,xbox,1.64,No,miercoles,Sí,,,0
+5186,24,Femenino,rpg,3.0,xbox,5.81,Sí,Viernes,No,Básica,2022-09-27 00:00:00,74
+5187,24,MASCULINO,FPS,3.2,Xbox,0.12,No,jueves,No,,,0
+5188,35,Masculino,deportes,6.6,PS5,1.83,Sí,Jueves,No,Básica,2022-03-29 00:00:00,34
+5189,19,Masculino,Deportes,4.8,ps5,3.98,si,Domingo,Sí,premium,2021-07-16 00:00:00,105
+5190,37,Masculino,deportes,3.2,ps5,5.0,Sí,Sábado,No,Básica,2021-11-18 00:00:00,111
+5191,22,femenino,Estrategia,5.3,Xbox,4.3,No,Jueves,No,,,0
+5192,28,masculino,FPS,6.0,xbox,5.98,si,jueves,Sí,Básica,2021-09-28 00:00:00,153
+5193,16,Femenino,rpg,2.9,Nintnedo Swtich,0.03,No,Martes,No,,,0
+5194,26,Masculino,Estrategia,3.9,Xbox,0.53,No,Lunes,No,,,0
+5195,29,Femenino,fps,1.9,Xbox,10.16,Sí,Jueves,Sí,Básica,2021-12-07 00:00:00,101
+5196,38,Femenino,fps,2.3,PC,5.72,nan,Jueves,Sí,,,0
+5197,13,Femenino,deportes,5.8,pc,0.6,Sí,Lunes,Sí,Básica,2022-11-19 00:00:00,17
+5198,39,Masculino,estrategia,2.3,xbox,9.23,No,Sábado,No,,,0
+5199,14,Masculino,RPG,4.7,nintendo switch,1.39,No,Jueves,No,,,0
+5200,32,Femenino,estrategia,6.0,nintendo switch,3.25,No,Lunes,Sí,,,0
+5201,16,Femenino,estrategia,1.7,xbox,0.78,Sí,Lunes,No,premium,2022-12-06 00:00:00,10
+5202,22,Masculino,rpg,5.0,PC,6.19,No,Lunes,No,,,0
+5203,24,Femenino,FPS,2.8,PC,5.5,No,lunes,Sí,,,0
+5204,20,Masculino,rpg,7.7,PS5,1.19,Sí,jueves,No,Básica,2022-09-27 00:00:00,52
+5205,38,Femenino,Estrategia,4.4,pc,9.95,no,lunes,N,,,0
+5206,13,Femenino,fps,6.6,ps5,2.57,Sí,Martes,No,Premium,2021-07-03 00:00:00,37
+5207,22,Masculino,rpg,4.9,Nintendo Switch,1.73,Sí,Domingo,No,Premium,2021-04-21 00:00:00,114
+5208,16,Masculino,Estrategia,1.3,Nintendo Switch,0.83,Sí,lunes,N,premium,2021-06-14 00:00:00,92
+5209,36,Femenino,rpg,5.4,Nintendo Switch,1.55,Sí,lunes,No,Premium,2021-01-28 00:00:00,100
+5210,28,Femenino,estrategia,7.7,xbox,0.11,no,jueves,Sí,,,0
+5211,31,Femenino,Deportes,5.2,nintendo switch,4.38,Sí,Domingo,No,basica,2022-05-28 00:00:00,46
+5212,37,femenino,deportes,6.7,nintendo switch,9.23,Sí,Viernes,No,Básica,2022-07-01 00:00:00,173
+5213,11,Masculino,RPG,7.2,ps5,3.98,Sí,Lunes,No,Básica,2022-10-25 00:00:00,107
+5214,19,Masculino,rpg,2.6,xbox,1.24,No,miercoles,Sí,,,0
+5215,22,femenino,RPG,2.5,Nintendo Switch,0.17,No,Domingo,No,,,0
+5216,39,Femenino,Battle Royale,5.3,Nintnedo Swtich,1.21,Sí,Martes,Sí,Básica,2022-08-25 00:00:00,30
+5217,34,Otro,rpg,3.9,nintendo switch,2.69,Sí,Sábado,si,premium,2021-06-14 00:00:00,27
+5218,30,Masculino,Deportes,6.9,PS5,7.13,si,Martes,Sí,Básica,2021-05-03 00:00:00,82
+5219,15,Femenino,RPG,7.3,Xbox,1.04,Sí,Lunes,Sí,Básica,2021-05-13 00:00:00,90
+5220,37,Masculino,rpg,3.5,Nintnedo Swtich,6.36,Sí,Domingo,Sí,Básica,2021-04-11 00:00:00,136
+5221,37,Masculino,FPS,2.7,nintendo switch,10.08,Sí,Martes,Sí,Básica,2021-01-12 00:00:00,197
+5222,21,Masculino,deportes,6.5,PC,3.03,No,Martes,No,,,0
+5223,21,otro,Deportes,2.9,nintendo switch,8.61,Sí,Viernes,si,Básica,2022-02-02 00:00:00,91
+5224,29,Masculino,RPG,6.8,PS5,4.04,No,Viernes,No,,,0
+5225,39,Masculino,Deportes,4.0,Nintendo Switch,5.07,Sí,Domingo,Sí,BASICA,2022-08-01 00:00:00,57
+5226,39,Masculino,Estrategia,5.7,PC,3.74,NO,Lunes,Sí,,,0
+5227,20,Masculino,deportes,1.7,xbox,3.11,Sí,lunes,No,Básica,2021-07-04 00:00:00,81
+5228,35,Masculino,rpg,5.4,pc,1.34,No,Miércoles,si,,,0
+5229,32,Femenino,rpg,4.2,Nintendo Switch,1.81,Sí,Jueves,Sí,Premium,2022-10-15 00:00:00,28
+5230,37,Femenino,rpg,5.1,pc,1.71,Sí,miercoles,Sí,basica,2021-06-02 00:00:00,79
+5231,34,Femenino,deportes,2.2,Nintnedo Swtich,4.14,No,Jueves,Sí,,,0
+5232,16,Femenino,FPS,6.2,Xbox,0.64,Sí,jueves,No,Básica,2021-11-15 00:00:00,62
+5233,39,Femenino,Battle Royale,7.0,PC,12.43,si,Viernes,No,Básica,2021-07-05 00:00:00,135
+5234,10,Masculino,fps,2.5,ps5,6.38,no,Domingo,Sí,,,0
+5235,10,Masculino,estrategia,1.7,PC,2.57,si,Jueves,Sí,Básica,2021-05-03 00:00:00,97
+5236,34,Masculino,RPG,1.2,nintendo switch,0.86,Sí,Lunes,No,Básica,2022-07-17 00:00:00,9
+5237,36,femenino,FPS,5.5,nintendo switch,10.69,No,miercoles,Sí,,,0
+5238,39,Masculino,RPG,5.2,nintendo switch,8.68,Sí,Jueves,Sí,Premium,2021-02-20 00:00:00,93
+5239,34,Masculino,rpg,4.8,Nintnedo Swtich,6.4,si,miercoles,No,Básica,2021-03-10 00:00:00,74
+5240,29,Masculino,Deportes,2.6,Nintendo Switch,1.58,No,Sábado,Sí,,,0
+5241,22,Masculino,RPG,3.7,ps5,2.57,No,Lunes,Sí,,,0
+5242,18,Femenino,rpg,5.2,ps5,0.54,Sí,Miércoles,No,Básica,2021-05-29 00:00:00,57
+5243,12,Femenino,RPG,4.5,nintendo switch,1.05,No,Martes,No,,,0
+5244,16,Femenino,Deportes,7.9,pc,7.64,Sí,miercoles,No,Premium,2021-08-05 00:00:00,175
+5245,15,Femenino,rpg,2.0,Nintnedo Swtich,6.28,No,Lunes,No,,,0
+5246,17,Femenino,Battle Royale,5.9,nintendo switch,4.5,Sí,miercoles,No,premium,2022-02-22 00:00:00,54
+5247,36,Otro,FPS,3.8,Xbox,11.3,No,miercoles,No,,,0
+5248,18,Masculino,Estrategia,4.0,Nintendo Switch,4.38,No,lunes,Sí,,,0
+5249,39,Femenino,estrategia,6.0,xbox,3.15,No,lunes,No,,,0
+5250,14,Femenino,deportes,5.8,Xbox,2.08,Sí,Lunes,S,basica,2022-12-01 00:00:00,104
+5251,10,Femenino,estrategia,7.9,pc,14.1,No,lunes,Sí,,,0
+5252,28,Masculino,estrategia,1.9,PC,0.43,Sí,jueves,Sí,basica,2022-03-21 00:00:00,87
+5253,19,Masculino,rpg,1.7,PC,13.36,Sí,Miércoles,Sí,basica,2021-05-18 00:00:00,140
+5254,21,Masculino,Battle Royale,6.1,Xbox,8.76,Sí,Domingo,Sí,Básica,2022-11-20 00:00:00,122
+5255,33,Femenino,Estrategia,5.0,nintendo switch,0.7,Sí,Lunes,Sí,basica,2021-04-25 00:00:00,99
+5256,24,Masculino,FPS,2.9,xbox,4.16,Sí,Lunes,No,Básica,2023-01-01 00:00:00,116
+5257,36,masculino,FPS,1.6,PS5,10.07,No,jueves,no,,,0
+5258,31,Femenino,Deportes,1.6,PS5,4.24,Sí,Viernes,Sí,Premium,2021-06-08 00:00:00,55
+5259,33,Masculino,deportes,7.3,pc,11.89,Sí,Viernes,Sí,Premium,2022-04-07 00:00:00,171
+5260,18,Masculino,RPG,2.3,nintendo switch,14.32,no,lunes,Sí,,,0
+5261,29,Masculino,Battle Royale,3.3,ps5,2.74,Sí,Domingo,No,Básica,2022-07-06 00:00:00,111
+5262,26,Masculino,RPG,2.6,ps5,2.37,No,lunes,Sí,,,0
+5263,39,Masculino,Estrategia,3.5,Nintendo Switch,13.77,No,Sábado,Sí,,,0
+5264,26,Masculino,estrategia,1.5,xbox,5.62,no,Sábado,Sí,,,0
+5265,35,Masculino,FPS,4.6,xbox,0.62,No,Martes,Sí,,,0
+5266,29,femenino,Estrategia,1.5,PC,0.22,No,Sábado,Sí,,,0
+5267,21,Masculino,estrategia,6.6,Nintnedo Swtich,4.16,No,Viernes,No,,,0
+5268,39,otro,FPS,2.6,pc,13.31,Sí,Miércoles,No,basica,2021-08-02 00:00:00,218
+5269,16,Masculino,estrategia,4.8,PS5,9.3,No,Sábado,No,,,0
+5270,11,Masculino,deportes,7.2,pc,5.63,Sí,lunes,Sí,premium,2022-09-21 00:00:00,76
+5271,12,Masculino,Battle Royale,5.6,ps5,0.75,no,miercoles,No,,,0
+5272,26,Femenino,Estrategia,4.7,ps5,1.47,Sí,Lunes,No,Básica,2022-12-23 00:00:00,63
+5273,14,Masculino,Estrategia,3.3,Xbox,10.42,No,Miércoles,Sí,,,0
+5274,26,Masculino,fps,3.3,Nintendo Switch,1.01,Sí,Miércoles,No,basica,2021-05-29 00:00:00,103
+5275,33,Masculino,rpg,5.7,xbox,1.63,No,lunes,Sí,,,0
+5276,26,femenino,deportes,8.0,pc,0.69,Sí,Lunes,No,Básica,2022-10-04 00:00:00,44
+5277,36,Femenino,deportes,5.6,ps5,5.64,si,Viernes,Sí,Premium,2022-05-21 00:00:00,75
+5278,26,Masculino,RPG,4.9,Nintnedo Swtich,14.41,No,Miércoles,N,,,0
+5279,11,Masculino,estrategia,6.1,PC,1.57,Sí,Martes,Sí,Básica,2021-03-03 00:00:00,102
+5280,11,Masculino,rpg,4.3,PS5,3.23,No,lunes,No,,,0
+5281,37,Masculino,Battle Royale,1.4,Nintendo Switch,5.03,No,Miércoles,No,,,0
+5282,31,Masculino,Battle Royale,4.9,Nintnedo Swtich,37.68,No,Domingo,No,,,0
+5283,32,Masculino,deportes,7.7,Nintendo Switch,0.55,Sí,Lunes,Sí,Premium,2022-08-29 00:00:00,91
+5284,14,Femenino,Battle Royale,2.2,Xbox,3.45,Sí,Sábado,Sí,premium,2022-06-07 00:00:00,40
+5285,10,Femenino,fps,5.8,ps5,2.43,Sí,Miércoles,No,premium,2022-09-27 00:00:00,32
+5286,10,Masculino,Estrategia,2.4,PC,10.04,Sí,lunes,Sí,basica,2022-10-20 00:00:00,100
+5287,28,Femenino,Deportes,4.8,Nintnedo Swtich,3.23,no,Sábado,Sí,,,0
+5288,39,Femenino,RPG,1.7,Nintendo Switch,0.59,Sí,Martes,No,Básica,2021-04-15 00:00:00,30
+5289,11,Masculino,estrategia,4.2,xbox,5.03,No,Sábado,No,,,0
+5290,30,Femenino,estrategia,6.3,Xbox,7.37,Sí,Domingo,Sí,premium,2022-06-25 00:00:00,110
+5291,21,Masculino,FPS,3.4,xbox,0.01,No,Viernes,Sí,,,0
+5292,35,Masculino,Deportes,5.7,PC,9.79,No,Miércoles,Sí,,,0
+5293,15,Masculino,deportes,6.6,Nintnedo Swtich,1.03,si,Jueves,No,Básica,2021-02-19 00:00:00,47
+5294,32,Masculino,fps,7.5,Xbox,4.02,Sí,Jueves,No,premium,2021-01-16 00:00:00,100
+5295,13,Masculino,Estrategia,2.6,Nintnedo Swtich,2.69,Sí,Sábado,No,Básica,2022-11-07 00:00:00,69
+5296,32,Femenino,Estrategia,3.8,ps5,6.36,Sí,jueves,no,Básica,2021-01-12 00:00:00,148
+5297,20,Masculino,fps,2.1,nintendo switch,2.32,Sí,Lunes,Sí,Premium,2021-06-28 00:00:00,66
+5298,33,Masculino,rpg,7.9,Xbox,10.19,Sí,Jueves,Sí,Básica,2022-12-01 00:00:00,174
+5299,36,Otro,FPS,7.5,xbox,6.56,Sí,jueves,Sí,Básica,2021-07-24 00:00:00,126
+5300,26,Masculino,estrategia,4.8,PC,5.22,Sí,Jueves,Sí,Básica,2021-06-07 00:00:00,57
+5301,15,masculino,Deportes,6.9,ps5,7.95,No,jueves,si,,,0
+5302,33,Masculino,Battle Royale,4.6,nintendo switch,7.01,Sí,Lunes,No,Básica,2021-03-06 00:00:00,86
+5303,14,Femenino,FPS,5.4,PS5,0.18,Sí,miercoles,Sí,Básica,2022-03-24 00:00:00,51
+5304,29,Masculino,Deportes,1.6,ps5,2.51,Sí,Jueves,Sí,Básica,2021-01-11 00:00:00,62
+5305,11,Femenino,RPG,6.3,PC,13.35,No,Domingo,No,,,0
+5306,15,Femenino,RPG,1.9,Nintendo Switch,0.67,si,Miércoles,No,Básica,2021-08-26 00:00:00,29
+5307,31,Femenino,FPS,6.8,Xbox,6.68,No,jueves,Sí,,,0
+5308,20,Masculino,deportes,6.5,Nintnedo Swtich,18.36,No,Miércoles,no,,,0
+5309,25,Masculino,Deportes,6.0,PC,0.27,Sí,lunes,No,Básica,2022-06-29 00:00:00,52
+5310,25,Masculino,Deportes,1.3,Xbox,5.73,No,lunes,Sí,,,0
+5311,10,nan,fps,3.1,Nintnedo Swtich,3.16,Sí,Lunes,No,Premium,2021-08-22 00:00:00,40
+5312,18,Femenino,deportes,2.8,pc,4.33,Sí,jueves,Sí,Básica,2021-10-17 00:00:00,114
+5313,37,Femenino,estrategia,3.5,xbox,0.45,No,Martes,si,,,0
+5314,36,Femenino,estrategia,1.6,PS5,0.22,si,lunes,N,premium,2022-08-25 00:00:00,22
+5315,15,Femenino,Battle Royale,7.6,ps5,5.5,Sí,Lunes,No,premium,2021-04-03 00:00:00,124
+5316,25,Masculino,Estrategia,4.9,PC,8.67,No,lunes,No,,,0
+5317,38,Masculino,RPG,3.1,PS5,7.62,No,lunes,Sí,,,0
+5318,12,Masculino,estrategia,3.8,Nintendo Switch,3.92,Sí,Martes,no,Básica,2022-03-16 00:00:00,123
+5319,29,Femenino,deportes,4.1,Xbox,0.53,Sí,Jueves,No,basica,2022-09-10 00:00:00,61
+5320,37,Masculino,Deportes,5.2,Xbox,5.82,Sí,Sábado,No,basica,2022-06-17 00:00:00,96
+5321,36,Femenino,estrategia,4.6,PC,1.38,Sí,miercoles,si,PREMIUM,2022-12-20 00:00:00,100
+5322,13,Otro,Deportes,7.4,nintendo switch,12.1,Sí,lunes,no,Premium,2022-04-06 00:00:00,153
+5323,28,Femenino,estrategia,4.5,nintendo switch,9.11,Sí,lunes,No,Básica,2021-05-11 00:00:00,149
+5324,35,Masculino,RPG,7.9,pc,6.18,Sí,Domingo,Sí,Premium,2022-06-01 00:00:00,78
+5325,12,otro,estrategia,7.0,xbox,14.86,No,miercoles,no,,,0
+5326,28,Masculino,deportes,2.5,Nintnedo Swtich,0.16,No,Martes,No,,,0
+5327,29,femenino,estrategia,7.5,Nintendo Switch,6.66,NO,Miércoles,si,,,0
+5328,16,Femenino,Estrategia,1.8,PS5,2.0,Sí,jueves,No,Premium,2021-10-15 00:00:00,75
+5329,29,Masculino,RPG,6.7,nintendo switch,11.83,No,lunes,Sí,,,0
+5330,18,Masculino,deportes,3.7,pc,1.55,si,Sábado,Sí,Premium,2021-08-08 00:00:00,106
+5331,10,Masculino,fps,7.1,pc,6.45,No,jueves,No,,,0
+5332,17,Femenino,deportes,7.1,PC,10.5,Sí,miercoles,No,Básica,2021-10-12 00:00:00,161
+5333,16,Femenino,Estrategia,6.6,Nintendo Switch,0.21,No,jueves,Sí,,,0
+5334,27,Femenino,RPG,6.5,Nintnedo Swtich,2.53,Sí,Jueves,No,premium,2021-01-17 00:00:00,120
+5335,17,Masculino,fps,3.1,xbox,7.18,Sí,lunes,Sí,BASICA,2022-10-20 00:00:00,146
+5336,10,Masculino,Estrategia,1.6,ps5,3.03,No,jueves,No,,,0
+5337,20,Masculino,Estrategia,3.8,PC,1.55,No,Miércoles,Sí,,,0
+5338,37,Femenino,FPS,2.2,Nintnedo Swtich,1.24,Sí,Miércoles,Sí,Básica,2021-07-14 00:00:00,59
+5339,34,Otro,RPG,5.9,ps5,0.71,no,lunes,Sí,,,0
+5340,34,Masculino,deportes,3.4,ps5,9.73,No,Viernes,Sí,,,0
+5341,27,Masculino,Deportes,7.8,Nintendo Switch,4.28,Sí,Miércoles,Sí,Básica,2022-09-23 00:00:00,83
+5342,32,Femenino,Deportes,5.5,Nintendo Switch,0.4,no,jueves,Sí,,,0
+5343,39,Masculino,deportes,6.8,PS5,2.41,Sí,Lunes,Sí,Básica,2022-07-10 00:00:00,50
+5344,19,Femenino,deportes,1.9,pc,2.29,NO,Miércoles,no,,,0
+5345,12,Masculino,RPG,7.0,Nintnedo Swtich,1.0,No,miercoles,No,,,0
+5346,16,Masculino,deportes,7.5,PC,2.86,Sí,Viernes,Sí,basica,2021-11-01 00:00:00,101
+5347,37,Femenino,FPS,4.4,Xbox,2.02,No,jueves,S,,,0
+5348,25,Masculino,fps,5.2,PC,2.09,No,Martes,Sí,,,0
+5349,35,Femenino,deportes,6.4,PS5,6.72,No,Domingo,No,,,0
+5350,25,Femenino,Deportes,2.2,xbox,1.26,SI,Martes,No,Premium,2022-09-07 00:00:00,63
+5351,34,Masculino,deportes,4.5,pc,5.13,No,Jueves,Sí,,,0
+5352,29,Masculino,FPS,3.8,Xbox,4.23,No,Domingo,Sí,,,0
+5353,37,Masculino,estrategia,2.0,nintendo switch,4.2,si,Jueves,Sí,Premium,2022-07-20 00:00:00,83
+5354,26,Masculino,estrategia,3.6,xbox,5.44,No,Domingo,Sí,,,0
+5355,11,Masculino,Estrategia,1.5,Nintendo Switch,3.97,Sí,Domingo,No,Básica,2022-11-22 00:00:00,70
+5356,10,Masculino,Battle Royale,1.2,ps5,10.57,si,Lunes,Sí,Premium,2021-10-30 00:00:00,130
+5357,25,Masculino,fps,1.9,nintendo switch,5.63,Sí,Sábado,Sí,Básica,2022-01-23 00:00:00,80
+5358,39,Masculino,rpg,7.7,PC,3.96,No,miercoles,Sí,,,0
+5359,21,Masculino,Estrategia,4.8,PC,8.85,si,Martes,Sí,Básica,2021-11-04 00:00:00,162
+5360,14,Masculino,estrategia,7.8,Nintendo Switch,4.66,No,Miércoles,No,,,0
+5361,14,Femenino,Deportes,4.0,PS5,1.72,No,jueves,Sí,,,0
+5362,36,nan,rpg,3.2,Nintnedo Swtich,1.16,No,Viernes,No,,,0
+5363,32,Masculino,Estrategia,4.5,nintendo switch,0.83,Sí,miercoles,Sí,basica,2022-01-01 00:00:00,30
+5364,18,Femenino,rpg,4.1,nintendo switch,11.49,si,Jueves,Sí,PREMIUM,2022-09-04 00:00:00,211
+5365,18,Masculino,RPG,1.7,xbox,6.19,Sí,Lunes,No,premium,2021-05-03 00:00:00,117
+5366,12,Femenino,Battle Royale,5.5,pc,13.85,Sí,Jueves,Sí,premium,2021-03-16 00:00:00,189
+5367,28,femenino,RPG,2.5,xbox,4.62,Sí,Sábado,No,Básica,2021-01-04 00:00:00,132
+5368,25,Femenino,rpg,5.3,Nintnedo Swtich,3.21,No,Viernes,No,,,0
+5369,25,Femenino,RPG,5.6,PC,0.31,No,Lunes,Sí,,,0
+5370,12,Masculino,FPS,2.1,PC,5.57,No,Jueves,Sí,,,0
+5371,29,Masculino,estrategia,1.4,PC,4.36,Sí,Sábado,Sí,Básica,2022-05-18 00:00:00,135
+5372,33,Otro,FPS,6.5,PC,23.13,Sí,jueves,Sí,basica,2022-08-25 00:00:00,261
+5373,31,Femenino,deportes,4.2,Nintnedo Swtich,1.37,Sí,jueves,Sí,premium,2022-01-15 00:00:00,76
+5374,33,Masculino,RPG,1.4,Nintendo Switch,3.78,Sí,Jueves,Sí,Básica,2022-02-18 00:00:00,107
+5375,10,Femenino,deportes,8.0,pc,5.26,No,miercoles,Sí,,,0
+5376,33,Masculino,Deportes,1.4,Nintnedo Swtich,5.17,Sí,Viernes,No,Básica,2021-03-24 00:00:00,83
+5377,29,Femenino,fps,5.9,pc,4.12,Sí,lunes,No,Básica,2022-01-30 00:00:00,125
+5378,20,Femenino,Deportes,7.9,Nintnedo Swtich,7.5,Sí,miercoles,No,Premium,2022-04-04 00:00:00,76
+5379,26,Masculino,rpg,2.7,PC,1.15,Sí,jueves,Sí,Básica,2022-09-07 00:00:00,28
+5380,17,MASCULINO,estrategia,2.0,Nintendo Switch,6.47,Sí,Viernes,Sí,Básica,2021-12-30 00:00:00,110
+5381,13,nan,RPG,1.8,nintendo switch,4.83,Sí,Sábado,No,Básica,2022-09-30 00:00:00,80
+5382,15,Masculino,Estrategia,3.1,xbox,11.32,No,Lunes,No,,,0
+5383,17,femenino,fps,1.7,ps5,9.39,No,Domingo,No,,,0
+5384,29,Femenino,Battle Royale,5.8,Nintendo Switch,1.89,No,Jueves,Sí,,,0
+5385,39,masculino,Battle Royale,1.4,nintendo switch,1.62,NO,Martes,No,,,0
+5386,12,Masculino,Battle Royale,4.6,PS5,19.99,Sí,Viernes,No,Básica,2022-07-18 00:00:00,296
+5387,25,Masculino,RPG,8.0,Nintnedo Swtich,3.75,No,Miércoles,Sí,,,0
+5388,39,Masculino,Battle Royale,6.7,PS5,11.84,NO,Sábado,Sí,,,0
+5389,34,Masculino,FPS,5.3,nintendo switch,0.89,Sí,lunes,No,premium,2021-01-17 00:00:00,91
+5390,12,Masculino,fps,3.1,Nintendo Switch,5.15,no,Domingo,Sí,,,0
+5391,34,Masculino,FPS,5.4,Nintnedo Swtich,8.3,Sí,Miércoles,Sí,Básica,2022-01-26 00:00:00,117
+5392,38,Masculino,fps,4.7,ps5,14.72,Sí,lunes,No,Premium,2021-03-12 00:00:00,197
+5393,27,Femenino,FPS,4.0,PC,2.06,Sí,Martes,si,Premium,2021-02-06 00:00:00,37
+5394,23,masculino,fps,1.9,Nintnedo Swtich,6.45,No,jueves,Sí,,,0
+5395,27,Masculino,deportes,7.2,Nintnedo Swtich,3.87,No,miercoles,Sí,,,0
+5396,11,Femenino,RPG,4.1,Nintendo Switch,0.31,No,Jueves,Sí,,,0
+5397,31,Masculino,RPG,2.4,Nintendo Switch,5.86,Sí,Lunes,No,premium,2022-08-03 00:00:00,145
+5398,12,Masculino,Battle Royale,3.6,nintendo switch,5.86,Sí,lunes,Sí,Básica,2021-05-26 00:00:00,129
+5399,25,Masculino,Deportes,3.9,Xbox,13.34,Sí,Domingo,S,BASICA,2022-04-03 00:00:00,162
+5400,38,Masculino,Battle Royale,6.8,Nintnedo Swtich,3.44,Sí,Viernes,Sí,Premium,2021-06-27 00:00:00,77
+5401,18,Femenino,rpg,6.1,xbox,1.31,no,jueves,Sí,,,0
+5402,13,Masculino,FPS,6.4,Nintnedo Swtich,0.23,Sí,Viernes,No,Gold,2021-08-24 00:00:00,54
+5403,10,femenino,fps,1.1,nintendo switch,2.69,No,Domingo,No,,,0
+5404,13,Femenino,Deportes,3.9,pc,1.8,No,Viernes,Sí,,,0
+5405,10,Masculino,rpg,4.4,PS5,7.16,Sí,lunes,Sí,premium,2021-01-08 00:00:00,80
+5406,23,Masculino,RPG,1.1,PC,2.19,No,Sábado,N,,,0
+5407,30,Masculino,RPG,2.8,Xbox,14.89,Sí,Viernes,Sí,Básica,2022-09-23 00:00:00,234
+5408,25,Masculino,Battle Royale,6.3,ps5,16.39,Sí,miercoles,No,Básica,2021-06-24 00:00:00,214
+5409,29,Masculino,FPS,2.0,ps5,4.85,Sí,Martes,Sí,Básica,2022-10-12 00:00:00,96
+5410,33,Femenino,Deportes,4.7,ps5,13.2,No,Lunes,No,,,0
+5411,17,Masculino,estrategia,2.5,Nintendo Switch,7.15,Sí,lunes,No,Premium,2021-07-22 00:00:00,81
+5412,16,Femenino,rpg,1.1,ps5,3.96,No,Miércoles,Sí,,,0
+5413,12,Femenino,rpg,2.7,PC,0.99,No,Domingo,No,,,0
+5414,26,Femenino,Battle Royale,7.8,PS5,3.07,Sí,jueves,Sí,Básica,2022-10-21 00:00:00,95
+5415,10,Femenino,RPG,6.6,ps5,4.11,No,lunes,Sí,,,0
+5416,25,Masculino,Battle Royale,7.7,Nintnedo Swtich,9.97,No,Sábado,No,,,0
+5417,21,Masculino,fps,4.4,Nintnedo Swtich,3.28,Sí,jueves,Sí,Básica,2022-12-19 00:00:00,89
+5418,36,Masculino,Deportes,1.8,Nintendo Switch,11.4,Sí,miercoles,No,Básica,2021-10-26 00:00:00,203
+5419,28,Femenino,FPS,4.8,PC,5.61,No,Domingo,Sí,,,0
+5420,31,Otro,deportes,4.2,PS5,0.74,Sí,jueves,Sí,Básica,2022-07-29 00:00:00,42
+5421,32,Masculino,Estrategia,6.9,Xbox,26.47,No,Viernes,Sí,,,0
+5422,31,Masculino,Estrategia,1.7,nintendo switch,3.75,Sí,lunes,Sí,Básica,2022-08-23 00:00:00,69
+5423,23,femenino,Battle Royale,4.4,PS5,2.49,Sí,Martes,Sí,Básica,2022-01-29 00:00:00,70
+5424,39,FEMENINO,fps,2.1,nintendo switch,5.38,Sí,Domingo,No,Básica,2021-11-24 00:00:00,65
+5425,15,Femenino,Deportes,3.3,pc,0.58,Sí,Jueves,si,Básica,2021-12-22 00:00:00,44
+5426,15,Masculino,estrategia,6.2,nintendo switch,5.06,No,miercoles,No,,,0
+5427,22,femenino,Estrategia,4.3,xbox,3.45,Sí,Lunes,Sí,Básica,2021-06-22 00:00:00,122
+5428,28,Masculino,Deportes,3.6,Nintnedo Swtich,2.61,No,Domingo,Sí,,,0
+5429,31,Femenino,FPS,3.8,PC,15.29,si,Sábado,Sí,Básica,2022-09-17 00:00:00,219
+5430,17,Masculino,fps,4.2,Nintendo Switch,3.7,No,lunes,Sí,,,0
+5431,36,Masculino,RPG,6.5,xbox,1.24,No,Viernes,No,,,0
+5432,36,Masculino,Deportes,7.2,nintendo switch,3.07,Sí,Lunes,Sí,premium,2021-04-22 00:00:00,71
+5433,11,Masculino,FPS,7.7,ps5,12.59,Sí,Lunes,Sí,Premium,2022-04-12 00:00:00,143
+5434,30,Masculino,estrategia,6.5,PC,0.97,No,miercoles,si,,,0
+5435,39,Femenino,deportes,3.2,xbox,1.2,Sí,jueves,Sí,Básica,2022-06-11 00:00:00,93
+5436,10,Femenino,RPG,5.8,Nintendo Switch,0.07,No,Sábado,Sí,,,0
+5437,37,Masculino,deportes,4.1,Nintnedo Swtich,0.07,Sí,jueves,Sí,Básica,2022-10-15 00:00:00,93
+5438,24,femenino,estrategia,2.8,PC,8.84,No,Viernes,Sí,,,0
+5439,10,Femenino,FPS,6.9,Nintendo Switch,6.59,si,Lunes,No,basica,2022-07-31 00:00:00,83
+5440,14,Masculino,Estrategia,1.3,pc,2.19,si,Sábado,Sí,premium,2022-04-30 00:00:00,78
+5441,37,Masculino,deportes,7.3,pc,5.99,No,Sábado,Sí,,,0
+5442,38,Masculino,RPG,4.2,Nintendo Switch,2.51,No,Miércoles,Sí,,,0
+5443,25,Masculino,Battle Royale,5.5,xbox,15.28,No,lunes,Sí,,,0
+5444,28,nan,rpg,5.6,PC,17.06,No,Lunes,Sí,,,0
+5445,13,Masculino,Deportes,7.3,xbox,2.49,Sí,Lunes,No,premium,2021-07-20 00:00:00,46
+5446,12,Masculino,Estrategia,5.5,Xbox,9.63,Sí,Sábado,No,Premium,2021-07-13 00:00:00,149
+5447,26,Masculino,deportes,5.3,nintendo switch,7.42,Sí,jueves,No,Básica,2021-01-03 00:00:00,153
+5448,26,Masculino,Deportes,1.5,Xbox,1.86,SI,Lunes,Sí,Básica,2022-08-01 00:00:00,82
+5449,21,Masculino,Battle Royale,4.6,pc,1.32,Sí,Sábado,No,Básica,2022-08-01 00:00:00,24
+5450,37,Masculino,estrategia,2.1,Nintnedo Swtich,3.06,No,Lunes,No,,,0
+5451,39,Masculino,rpg,6.2,PS5,7.6,No,Sábado,Sí,,,0
+5452,38,Femenino,FPS,4.6,nintendo switch,16.12,No,Miércoles,No,,,0
+5453,23,Femenino,Battle Royale,5.8,pc,7.21,No,lunes,Sí,,,0
+5454,30,Masculino,Battle Royale,1.3,xbox,9.66,Sí,Sábado,Sí,premium,2021-02-15 00:00:00,119
+5455,15,Masculino,estrategia,1.6,xbox,4.62,No,Lunes,No,,,0
+5456,12,Femenino,fps,6.0,xbox,9.02,No,Viernes,Sí,,,0
+5457,37,Masculino,estrategia,1.5,Nintnedo Swtich,7.67,Sí,lunes,No,Premium,2022-10-02 00:00:00,109
+5458,18,Masculino,fps,1.5,Xbox,2.37,Sí,Miércoles,Sí,basica,2021-10-26 00:00:00,75
+5459,14,Femenino,fps,1.1,PS5,4.01,No,Sábado,No,,,0
+5460,33,Otro,Estrategia,7.7,xbox,8.17,No,Viernes,no,,,0
+5461,38,Masculino,Estrategia,6.2,nintendo switch,0.24,Sí,Sábado,No,Básica,2022-01-29 00:00:00,9
+5462,26,Masculino,RPG,3.5,PC,8.25,No,jueves,Sí,,,0
+5463,23,Masculino,deportes,3.1,PS5,0.98,No,Lunes,Sí,,,0
+5464,30,MASCULINO,deportes,3.4,Nintnedo Swtich,3.61,Sí,Domingo,Sí,basica,2021-09-09 00:00:00,53
+5465,12,Masculino,FPS,6.4,PS5,8.26,NO,miercoles,Sí,,,0
+5466,37,Masculino,deportes,5.6,PC,1.46,No,Martes,Sí,,,0
+5467,10,Masculino,Estrategia,2.3,nintendo switch,1.41,No,jueves,No,,,0
+5468,29,Femenino,RPG,2.2,PC,2.58,No,Viernes,No,,,0
+5469,38,Femenino,RPG,1.7,Nintendo Switch,11.25,Sí,jueves,N,Básica,2021-02-08 00:00:00,168
+5470,30,Masculino,fps,5.6,nintendo switch,0.0,Sí,Jueves,Sí,Básica,2022-08-24 00:00:00,4
+5471,32,Masculino,estrategia,6.4,PS5,11.58,Sí,Sábado,Sí,Básica,2021-10-09 00:00:00,140
+5472,10,Masculino,FPS,2.9,xbox,0.84,Sí,Sábado,Sí,Premium,2022-04-04 00:00:00,37
+5473,12,Femenino,fps,1.1,PS5,23.07,Sí,Martes,si,Básica,2021-05-24 00:00:00,283
+5474,27,Masculino,estrategia,1.6,PS5,15.49,si,Martes,No,premium,2022-07-09 00:00:00,166
+5475,34,Masculino,deportes,7.8,nintendo switch,3.41,No,Jueves,No,,,0
+5476,19,Masculino,fps,3.1,Nintendo Switch,3.59,No,Lunes,si,,,0
+5477,31,Masculino,Deportes,6.4,PS5,3.28,si,miercoles,No,Básica,2021-02-05 00:00:00,114
+5478,35,Masculino,deportes,5.4,pc,5.05,No,Domingo,Sí,,,0
+5479,12,Masculino,estrategia,3.7,ps5,0.48,Sí,Domingo,Sí,Premium,2021-03-30 00:00:00,32
+5480,17,Masculino,FPS,2.4,ps5,0.17,Sí,Miércoles,No,Premium,2022-11-14 00:00:00,3
+5481,23,Masculino,estrategia,1.8,PS5,0.3,No,Miércoles,Sí,,,0
+5482,33,Masculino,fps,5.3,xbox,2.94,No,Lunes,Sí,,,0
+5483,27,Femenino,fps,6.4,Nintnedo Swtich,1.61,Sí,Miércoles,si,Básica,2021-06-14 00:00:00,105
+5484,24,Masculino,Battle Royale,5.5,Nintnedo Swtich,4.86,No,Miércoles,S,,,0
+5485,31,Masculino,FPS,4.7,nintendo switch,24.43,Sí,Jueves,No,basica,2021-03-07 00:00:00,301
+5486,32,Masculino,deportes,1.3,ps5,2.44,No,Jueves,No,,,0
+5487,11,Masculino,RPG,7.8,PS5,4.26,No,Miércoles,No,,,0
+5488,36,Masculino,FPS,6.6,Nintnedo Swtich,2.69,No,jueves,Sí,,,0
+5489,19,masculino,RPG,3.0,PS5,9.4,SI,lunes,Sí,basica,2022-01-12 00:00:00,169
+5490,11,Femenino,FPS,7.9,nintendo switch,11.63,No,lunes,No,,,0
+5491,35,Femenino,FPS,5.2,ps5,10.49,no,Lunes,No,,,0
+5492,26,Masculino,estrategia,5.1,PC,18.32,no,Domingo,Sí,,,0
+5493,17,Femenino,FPS,6.2,pc,0.14,No,Martes,si,,,0
+5494,10,Masculino,Battle Royale,6.7,pc,9.16,No,Lunes,Sí,,,0
+5495,18,femenino,fps,5.6,Nintnedo Swtich,6.97,Sí,Miércoles,Sí,basica,2021-01-20 00:00:00,70
+5496,20,Femenino,rpg,1.9,pc,1.3,Sí,Jueves,No,premium,2022-02-28 00:00:00,87
+5497,31,Femenino,RPG,3.4,PC,15.65,No,Sábado,Sí,,,0
+5498,25,Femenino,fps,7.5,PS5,0.8,Sí,jueves,Sí,basica,2021-04-12 00:00:00,35
+5499,16,Masculino,rpg,2.6,nintendo switch,5.69,Sí,Viernes,Sí,Básica,2022-11-17 00:00:00,137
+5500,38,Masculino,RPG,3.6,PC,1.27,SI,Jueves,No,basica,2022-03-06 00:00:00,88
+5501,19,Femenino,RPG,4.0,nintendo switch,2.82,si,lunes,Sí,Básica,2021-11-20 00:00:00,113
+5502,32,femenino,rpg,4.1,nintendo switch,6.35,No,Jueves,No,,,0
+5503,35,Masculino,FPS,5.3,ps5,4.14,Sí,jueves,No,Básica,2022-06-27 00:00:00,116
+5504,12,Femenino,deportes,7.6,PS5,2.79,Sí,Martes,Sí,Básica,2022-08-26 00:00:00,28
+5505,27,Masculino,Deportes,2.7,pc,1.98,Sí,Miércoles,S,basica,2021-06-20 00:00:00,25
+5506,34,Masculino,fps,1.9,ps5,9.15,Sí,Sábado,Sí,basica,2021-07-14 00:00:00,116
+5507,33,Masculino,estrategia,2.4,nintendo switch,0.78,Sí,lunes,no,Básica,2022-04-11 00:00:00,96
+5508,22,Femenino,fps,7.2,Nintnedo Swtich,2.81,Sí,lunes,No,basica,2022-09-06 00:00:00,115
+5509,37,Femenino,estrategia,5.5,pc,11.7,no,miercoles,no,,,0
+5510,35,Femenino,rpg,3.0,pc,9.35,No,Domingo,Sí,,,0
+5511,16,Masculino,estrategia,6.7,PS5,2.56,Sí,Martes,Sí,premium,2021-09-25 00:00:00,100
+5512,34,femenino,RPG,7.0,Nintendo Switch,7.2,Sí,lunes,Sí,Básica,2022-08-11 00:00:00,87
+5513,13,Femenino,deportes,6.9,Xbox,8.66,No,Domingo,Sí,,,0
+5514,22,Femenino,deportes,7.4,Xbox,10.99,Sí,lunes,No,Básica,2021-10-17 00:00:00,131
+5515,29,Femenino,RPG,2.8,Xbox,3.93,no,Miércoles,Sí,,,0
+5516,10,Femenino,Battle Royale,6.3,Nintendo Switch,1.14,Sí,Domingo,No,basica,2022-06-16 00:00:00,50
+5517,17,Masculino,rpg,4.2,PS5,1.47,Sí,jueves,Sí,Básica,2022-07-29 00:00:00,73
+5518,23,Femenino,Battle Royale,6.9,Nintendo Switch,1.75,Sí,miercoles,Sí,Premium,2021-09-02 00:00:00,89
+5519,25,Femenino,Battle Royale,6.1,Xbox,4.5,Sí,Miércoles,No,Básica,2022-08-21 00:00:00,76
+5520,23,Femenino,fps,6.4,ps5,0.17,No,jueves,Sí,,,0
+5521,21,Masculino,fps,5.6,PC,5.05,No,Sábado,No,,,0
+5522,28,Masculino,Deportes,2.2,nintendo switch,2.27,No,Martes,No,,,0
+5523,32,Masculino,estrategia,4.8,Nintendo Switch,1.75,Sí,Martes,No,Básica,2022-08-07 00:00:00,31
+5524,24,Femenino,RPG,7.9,PS5,10.58,No,Viernes,Sí,,,0
+5525,37,Masculino,fps,7.6,PS5,3.08,No,Viernes,No,,,0
+5526,11,Masculino,rpg,1.3,PC,0.5,si,Domingo,no,basica,2022-01-31 00:00:00,17
+5527,11,Femenino,estrategia,2.2,Nintnedo Swtich,8.77,Sí,Martes,No,Premium,2022-10-23 00:00:00,91
+5528,32,Masculino,Deportes,1.9,pc,0.24,Sí,Domingo,Sí,basica,2022-05-14 00:00:00,76
+5529,31,Otro,Deportes,6.1,Xbox,6.49,No,Viernes,No,,,0
+5530,28,femenino,rpg,6.7,Nintnedo Swtich,7.43,No,Sábado,No,,,0
+5531,34,Masculino,Battle Royale,2.5,Xbox,2.17,Sí,lunes,No,premium,2022-02-02 00:00:00,94
+5532,35,Masculino,deportes,4.5,PC,8.71,Sí,jueves,Sí,basica,2021-03-07 00:00:00,138
+5533,39,femenino,rpg,6.9,Xbox,3.62,Sí,Jueves,Sí,Premium,2022-10-04 00:00:00,112
+5534,38,Masculino,Estrategia,6.1,PC,3.11,si,Domingo,No,Básica,2022-02-02 00:00:00,71
+5535,31,Femenino,rpg,4.8,xbox,0.23,Sí,Sábado,Sí,Premium,2022-06-17 00:00:00,54
+5536,35,femenino,Deportes,5.1,Nintnedo Swtich,1.71,no,jueves,No,,,0
+5537,35,Femenino,RPG,4.6,Nintnedo Swtich,13.37,No,Martes,Sí,,,0
+5538,31,Masculino,fps,3.1,pc,2.49,no,lunes,No,,,0
+5539,26,Femenino,RPG,5.0,PC,3.96,No,jueves,Sí,,,0
+5540,29,Femenino,Deportes,5.8,Nintendo Switch,3.8,Sí,miercoles,Sí,Básica,2022-07-25 00:00:00,87
+5541,19,Femenino,fps,7.1,xbox,4.46,si,Viernes,no,basica,2021-07-13 00:00:00,58
+5542,15,Masculino,Estrategia,5.5,ps5,0.32,Sí,jueves,No,Básica,2022-09-03 00:00:00,9
+5543,24,Femenino,deportes,6.3,Xbox,2.25,no,Jueves,No,,,0
+5544,31,Femenino,estrategia,2.1,xbox,6.42,No,Sábado,Sí,,,0
+5545,20,Femenino,Deportes,4.2,PC,1.12,Sí,lunes,No,Premium,2022-03-07 00:00:00,50
+5546,37,Masculino,Deportes,1.1,nintendo switch,1.14,No,Miércoles,No,,,0
+5547,14,masculino,Deportes,2.7,Xbox,0.05,SI,jueves,No,Básica,2021-01-08 00:00:00,27
+5548,10,Masculino,fps,6.1,PS5,2.88,Sí,Lunes,Sí,basica,2021-06-06 00:00:00,59
+5549,17,Masculino,FPS,7.9,Nintnedo Swtich,10.72,No,Jueves,No,,,0
+5550,30,Otro,rpg,1.7,PC,0.27,No,Jueves,No,,,0
