@@ -1,561 +1,561 @@
 ﻿ID_Cliente,Edad,Estado,Tipo_Piel,Tono_Base,Producto_Comprado,Marca_Preferida,Precio_Compra,Método_Pago,Frecuencia_Compra,Satisfacción,¿Acepta_Promociones?,Fecha_Compra,Motivo_Compra,Red_Social_Favorita
-1001,56,Bolívar,Grasa,Ébano,Labial Mate,Belcorp,53.18,ZELLE,Adicta,2,No,2023-02-24,Regalo,WhatsApp
-1002,69,Anzoátegui,Grasosa,Ébano,Rímel,Belcorp,6.99,Binance,Primera vez,1,No,2022-09-07,Regalo,WhatsApp
-1003,46,Anzoátegui,Grasosa,Trigo,Base Líquida,Belcorp,48.93,Efectivo,Ocasional,5,No,2022-04-27,Autoregalo,Facebook
-1004,32,Lara,Mixta,Ébano,Rubor en Crema,Belcorp,75.52,ZELLE,Primera vez,4,Sí,2023-05-27,Regalo,Instagram
-1005,60,Caracas,Sensible,Miel Claro,Rubor en Crema,Kryolan,48.16,Zelle,Adicta,10,Sí,2024-01-10,Regalo,WhatsApp
-1006,25,Bolívar,Grasa,Ébano,Rubor en Crema,Natura,34.11,Binance,,2,Sí,2023-08-01,Reemplazo,TikTok
-1007,38,Zulia,Mixta,Ébano,Paleta Sombras,Natura,53.25,Binance,Primera vez,3,No,2022-12-01,Autoregalo,TikTok
-1008,56,Zulia,Grasa,Canela Oscuro,Base Líquida,Belcorp,39.37,Binance,Frecuente,7,Sí,2023-02-22,Reemplazo,WhatsApp
-1009,36,Lara,Seca,Canela Oscuro,Labial Mate,Kryolan,45.92,Efectivo,Primera vez,7,Sí,2024-02-13,Regalo,Instagram
-1010,40,Miranda,Seca,Miel Claro,Labial Mate,Natura,75.61,Transferencia,Frecuente,4,No,2022-10-22,Autoregalo,TikTok
-1011,28,Lara,Seca,Trigo,Rubor en Crema,Belcorp,33.96,Zelle,Frecuente,5,Sí,2024-01-25,Auto-regalo,TikTok
-1012,28,Lara,Sensible,Canela,Paleta Sombras,Belcorp,77.09,Transferencia,,5,Sí,2023-01-06,Auto-regalo,TikTok
-1013,41,Caracas,Grasosa,Café,Rubor en Crema,Belcorp,72.9,Transferencia,Frecuente,6,Sí,2022-07-05,Auto-regalo,Facebook
-1014,53,Miranda,Seca,Canela Oscuro,Paleta Sombras,Natura,19.68,ZELLE,Primera vez,9,Si,2022-09-03,Auto-regalo,WhatsApp
-1015,57,Anzoátegui,Sensible,Trigo,Rubor en Crema,,10.2,Transferencia,Ocasional,2,Si,2023-09-29,,WhatsApp
-1016,41,Caracas,Mixta,Canela,Base Líquida,Chanel,12.56,ZELLE,Ocasional,5,Sí,2022-09-25,Auto-regalo,Instagram
-1017,20,Lara,Mixta,Canela,Rubor en Crema,Natura,6.37,Zelle,Primera vez,3,No,2023-10-05,Regalo,TikTok
-1018,39,Bolívar,Sensible,Café,Rubor en Crema,Belcorp,12.08,Zelle,Primera vez,4,No,2022-08-25,Reemplazo,Instagram
-1019,19,Miranda,Grasosa,Canela,Base Líquida,Kryolan,56.23,Binance,Primera vez,10,Sí,2023-06-14,Autoregalo,WhatsApp
-1020,41,Caracas,Mixta,Canela Oscuro,Labial Mate,Natura,10.34,Zelle,Frecuente,6,Sí,2023-07-06,Regalo,WhatsApp
-1021,61,Bolívar,Sensible,Ébano,Base Líquida,Belcorp,28.92,Transferencia,,8,No,2022-01-21,Reemplazo,Wspp
-1022,47,Lara,Mixta,Ébano,Rubor en Crema,Belcorp,68.37,Transferencia,Adicta,1,No,2024-01-07,Reemplazo,IG
-1023,55,Táchira,Mixta,Canela Oscuro,Paleta Sombras,Belcorp,6.75,Zelle,,10,Sí,2024-03-04,Regalo,FB
-1024,19,Bolívar,Seca,Canela,Rímel,Belcorp,66.09,Transferencia,Frecuente,8,Sí,2023-06-04,Autoregalo,Wspp
-1025,38,Miranda,Grasa,Miel Claro,Rubor en Crema,Natura,26.14,Transferencia,Adicta,7,No,2022-04-10,Reemplazo,FB
-1026,50,Lara,Seca,Trigo,Rímel,Belcorp,13.86,Zelle,Ocasional,1,Sí,2024-01-22,Autoregalo,IG
-1027,29,Miranda,Seca,Café,Rubor en Crema,Natura,57.26,Binance,Ocasional,2,No,2023-04-23,Regalo,Instagram
-1028,39,Miranda,Grasa,Café,Base Líquida,Natura,52.17,Binance,,3,No,2023-08-22,Regalo,Facebook
-1029,61,Zulia,Sensible,Canela,Rímel,Belcorp,70.81,Zelle,Ocasional,1,Sí,2022-10-25,Regalo,WhatsApp
-1030,42,Anzoátegui,Seca,Café,Rubor en Crema,Natura,60.13,Zelle,Frecuente,9,No,2023-06-10,Regalo,Facebook
-1031,66,Táchira,Mixta,Miel Claro,Base Líquida,Natura,65.26,Transferencia,Adicta,8,Si,2022-11-30,Regalo,WhatsApp
-1032,44,Bolívar,Mixta,Café,Base Líquida,Natura,26.15,ZELLE,Frecuente,2,No,2022-01-02,Autoregalo,WhatsApp
-1033,59,Bolívar,Sensible,Miel Claro,Rímel,Belcorp,18.31,ZELLE,,9,Sí,2023-01-10,,Facebook
-1034,45,Táchira,Seca,Miel Claro,Base Líquida,Fenty Beauty,61.3,Transferencia,Frecuente,7,Sí,2022-10-20,Regalo,Instagram
-1035,33,Miranda,Sensible,Café,Labial Mate,Belcorp,65.51,Efectivo,Ocasional,9,No,2023-07-07,Regalo,Facebook
-1036,32,Caracass,Mixta,Canela,Rubor en Crema,Belcorp,79.29,Binance,,6,Si,2022-11-14,Regalo,Facebook
-1037,64,Zulia,Seca,Canela Oscuro,Paleta Sombras,Belcorp,35.95,Transferencia,Frecuente,6,No,2023-05-17,,WhatsApp
-1038,68,Miranda,Grasosa,Miel Claro,Base Líquida,Belcorp,32.9,Binance,Adicta,4,Sí,2023-01-16,Reemplazo,WhatsApp
-1039,61,Caracas,Grasa,Canela Oscuro,Labial Mate,Fenty Beauty,63.23,Efectivo,,10,No,2023-09-15,Prueba nueva marca,WhatsApp
-1040,69,Anzoátegui,Sensible,Canela Oscuro,Base Líquida,Chanel,30.56,Transferencia,Adicta,10,No,2022-01-14,,Facebook
-1041,20,Anzoátegui,Seca,Canela,Base Líquida,Natura,74.81,Transferencia,Ocasional,2,No,2023-05-19,Reemplazo,TikTok
-1042,54,Miranda,Mixta,Canela Oscuro,Paleta Sombras,Belcorp,69.38,Transferencia,Ocasional,7,No,2022-08-19,Regalo,WhatsApp
-1043,68,Zulia,Grasosa,Canela Oscuro,Paleta Sombras,Kryolan,37.17,Efectivo,Ocasional,5,No,2022-03-25,Autoregalo,WhatsApp
-1044,24,Zulia,Grasa,Miel Claro,Paleta Sombras,Natura,61.32,ZELLE,,6,Sí,2022-05-10,Regalo,TikTok
-1045,38,Caracas,Mixta,Trigo,Labial Mate,Natura,61.59,Efectivo,Adicta,2,No,2024-01-13,Regalo,Facebook
-1046,26,Zulia,Sensible,Miel Claro,Base Líquida,Belcorp,12.73,Transferencia,Adicta,5,Sí,2022-05-25,Reemplazo,WhatsApp
-1047,56,Anzoátegui,Mixta,Canela,Rímel,Kryolan,72.69,ZELLE,Adicta,10,Sí,2022-01-28,Prueba nueva marca,Facebook
-1048,35,Táchira,Grasosa,Trigo,Rubor en Crema,Kryolan,42.89,Binance,Ocasional,4,No,2022-03-07,Regalo,TikTok
-1049,21,Anzoátegui,Grasa,Miel Claro,Rímel,Belcorp,66.98,Zelle,Adicta,9,No,2022-06-12,Reemplazo,TikTok
-1050,42,Anzoátegui,Grasa,Canela,Base Líquida,Kryolan,29.0,Binance,Ocasional,6,Sí,2022-08-17,Reemplazo,Facebook
-1051,31,Anzoátegui,Grasa,Trigo,Rubor en Crema,Belcorp,72.16,Zelle,Primera vez,2,Si,2022-09-18,Autoregalo,Instagram
-1052,67,Anzoátegui,Mixta,Canela,Paleta Sombras,Natura,34.19,Binance,Frecuente,1,Sí,2023-03-25,Auto-regalo,WhatsApp
-1053,26,Táchira,Mixta,Ébano,Paleta Sombras,Belcorp,5.81,Transferencia,Adicta,5,No,2023-02-28,Autoregalo,Instagram
-1054,43,Anzoátegui,Sensible,Miel Claro,Rímel,,72.9,Zelle,Frecuente,9,Sí,2023-04-05,Reemplazo,Facebook
-1055,19,Miranda,Grasa,Trigo,Rubor en Crema,Belcorp,11.85,Efectivo,Frecuente,6,No,2023-11-07,Regalo,TikTok
-1056,37,Zulia,Sensible,Canela Oscuro,Paleta Sombras,Belcorp,28.95,Efectivo,Frecuente,10,Si,2022-10-28,Autoregalo,Facebook
-1057,45,Caracass,Seca,Ébano,Rímel,,76.25,Binance,Frecuente,7,No,2022-10-30,Autoregalo,Facebook
-1058,64,Lara,Grasosa,Canela Oscuro,Base Líquida,Belcorp,76.3,Transferencia,Adicta,5,Sí,2022-10-14,,Facebook
-1059,24,Lara,Seca,Canela,Paleta Sombras,Belcorp,48.01,Transferencia,,10,Si,2023-01-30,Regalo,TikTok
-1060,61,Zulia,Grasosa,Trigo,Base Líquida,Fenty Beauty,52.39,Binance,Primera vez,6,Sí,2022-01-10,,WhatsApp
-1061,25,Lara,Sensible,Canela Oscuro,Base Líquida,Belcorp,38.63,Binance,,5,No,2023-12-08,Regalo,TikTok
-1062,64,Zulia,Grasosa,Café,Rubor en Crema,Belcorp,26.99,Binance,Primera vez,9,Sí,2023-09-22,Autoregalo,WhatsApp
-1063,52,Táchira,Seca,Canela Oscuro,Base Líquida,Belcorp,29.65,ZELLE,,6,Sí,2022-09-27,Regalo,Facebook
-1064,31,Caracas,Grasosa,Trigo,Labial Mate,Fenty Beauty,55.44,Binance,Ocasional,8,Sí,2023-08-15,Autoregalo,WhatsApp
-1065,34,Miranda,Seca,Canela Oscuro,Labial Mate,Kryolan,61.43,Zelle,Ocasional,2,Sí,2023-08-28,Regalo,TikTok
-1066,53,Táchira,Grasa,Ébano,Paleta Sombras,Natura,64.37,Transferencia,Adicta,9,No,2024-02-17,Regalo,Facebook
-1067,67,Anzoátegui,Seca,Canela Oscuro,Labial Mate,Belcorp,64.22,Efectivo,Frecuente,5,Sí,2022-12-27,Reemplazo,WhatsApp
-1068,57,Lara,Seca,Miel Claro,Labial Mate,Natura,11.84,ZELLE,Frecuente,7,Sí,2022-09-14,Reemplazo,WhatsApp
-1069,21,Caracas,Sensible,Miel Claro,Paleta Sombras,Belcorp,42.08,Efectivo,Primera vez,10,No,2022-05-13,Autoregalo,TikTok
-1070,19,Miranda,Grasosa,Canela,Labial Mate,Kryolan,9.32,Efectivo,Primera vez,1,No,2022-10-03,Reemplazo,TikTok
-1071,23,Anzoátegui,Seca,Ébano,Base Líquida,Kryolan,46.21,Efectivo,Frecuente,10,Sí,2024-02-15,Regalo,Instagram
-1072,59,Caracas,Seca,Canela Oscuro,Base Líquida,Natura,38.11,Efectivo,,5,No,2023-11-14,Reemplazo,WhatsApp
-1073,21,Zulia,Grasosa,Canela Oscuro,Paleta Sombras,Kryolan,71.58,Zelle,Primera vez,10,No,2023-05-28,Regalo,Facebook
-1074,46,Zulia,Sensible,Café,Paleta Sombras,Kryolan,31.32,Efectivo,,2,No,2022-11-09,Autoregalo,Facebook
-1075,35,Caracas,Sensible,Miel Claro,Base Líquida,Kryolan,13.78,Binance,Primera vez,6,No,2023-07-30,Autoregalo,Instagram
-1076,43,Lara,Grasosa,Trigo,Paleta Sombras,Belcorp,15.72,Efectivo,Frecuente,1,Sí,2022-10-11,Autoregalo,Instagram
-1077,61,Zulia,Grasa,Canela,Paleta Sombras,Kryolan,62.11,Binance,Primera vez,3,Sí,2022-05-01,Autoregalo,Facebook
-1078,51,Zulia,Sensible,Ébano,Rubor en Crema,Belcorp,51.37,ZELLE,Frecuente,5,Sí,2022-04-17,Regalo,WhatsApp
-1079,27,Anzoátegui,Grasosa,Canela,Paleta Sombras,,12.58,Zelle,Adicta,4,No,2023-11-18,,Instagram
-1080,53,Táchira,Sensible,Miel Claro,Rubor en Crema,,11.31,ZELLE,Primera vez,3,No,2022-07-23,,WhatsApp
-1081,31,Lara,Grasosa,Ébano,Paleta Sombras,Natura,57.57,Binance,Frecuente,10,Sí,2022-06-14,Prueba nueva marca,Instagram
-1082,48,Zulia,Sensible,Miel Claro,Rubor en Crema,Natura,10.46,Binance,Ocasional,5,No,2022-11-01,Regalo,Facebook
-1083,65,Bolívar,Grasa,Trigo,Rímel,Natura,66.64,Zelle,,8,Sí,2023-05-12,Regalo,Facebook
-1084,32,Zulia,Sensible,Miel Claro,Base Líquida,Belcorp,57.97,Transferencia,Frecuente,4,No,2023-09-24,Reemplazo,Instagram
-1085,25,Miranda,Grasosa,Ébano,Paleta Sombras,Natura,11.1,Efectivo,Primera vez,1,Sí,2023-07-10,,Instagram
-1086,31,Zulia,Grasa,Canela Oscuro,Paleta Sombras,Belcorp,11.36,Binance,Frecuente,7,No,2022-06-05,Reemplazo,Facebook
-1087,40,Miranda,Grasosa,Ébano,Paleta Sombras,Natura,79.0,Transferencia,Frecuente,8,No,2023-01-02,Autoregalo,Facebook
-1088,57,Caracas,Sensible,Café,Labial Mate,Belcorp,33.07,Binance,Primera vez,3,Si,2023-12-20,Regalo,Facebook
-1089,38,Bolívar,Grasosa,Café,Paleta Sombras,Belcorp,32.8,Zelle,,6,No,2023-09-12,Regalo,Facebook
-1090,33,Caracas,Seca,Trigo,Rímel,Fenty Beauty,65.96,Efectivo,Primera vez,2,No,2022-09-08,Regalo,Facebook
-1091,62,Anzoátegui,Grasosa,Café,Paleta Sombras,Natura,76.04,Zelle,Frecuente,7,Sí,2022-11-30,Autoregalo,WhatsApp
-1092,35,Táchira,Grasosa,Canela,Rímel,Belcorp,78.95,ZELLE,,8,Sí,2023-10-04,,TikTok
-1093,64,Zulia,Mixta,Café,Paleta Sombras,Natura,61.5,Zelle,,6,No,2023-05-26,Prueba nueva marca,Facebook
-1094,41,Zulia,Sensible,Canela Oscuro,Paleta Sombras,Fenty Beauty,33.22,Transferencia,Frecuente,6,Si,2022-10-20,,Facebook
-1095,43,Miranda,Grasa,Trigo,Base Líquida,Natura,11.26,ZELLE,Adicta,5,No,2022-01-20,,Facebook
-1096,42,Anzoátegui,Grasosa,Canela,Rubor en Crema,Fenty Beauty,63.29,ZELLE,Adicta,8,Sí,2022-10-09,Regalo,Facebook
-1097,62,Bolívar,Grasosa,Miel Claro,Rímel,Kryolan,46.88,Zelle,Adicta,1,Sí,2024-03-07,,Facebook
-1098,58,Miranda,Grasosa,Trigo,Labial Mate,Belcorp,36.82,Binance,Ocasional,10,Si,2022-01-01,,WhatsApp
-1099,46,Bolívar,Mixta,Canela Oscuro,Base Líquida,,72.98,ZELLE,Ocasional,4,Sí,2022-04-29,Autoregalo,Facebook
-1100,32,Anzoátegui,Seca,Canela Oscuro,Base Líquida,Belcorp,13.34,Efectivo,Adicta,4,Sí,2022-02-04,Autoregalo,Facebook
-1101,62,Anzoátegui,Grasa,Canela Oscuro,Rímel,Chanel,41.95,Zelle,Frecuente,3,Sí,2022-07-17,Reemplazo,WhatsApp
-1102,18,Zulia,Seca,Canela,Base Líquida,,5.85,Efectivo,,3,No,2023-04-30,Prueba nueva marca,Instagram
-1103,42,Caracas,Grasa,Trigo,Base Líquida,Chanel,40.15,Zelle,Adicta,4,Si,2024-01-27,Regalo,Instagram
-1104,24,Miranda,Seca,Trigo,Rubor en Crema,Belcorp,9.22,ZELLE,Adicta,1,Sí,2022-02-28,Regalo,TikTok
-1105,26,Lara,Sensible,Miel Claro,Rubor en Crema,Kryolan,13.91,Transferencia,,2,Sí,2022-06-10,Prueba nueva marca,TikTok
-1106,41,Bolívar,Grasa,Ébano,Rímel,Kryolan,13.81,Efectivo,Frecuente,9,No,2023-11-22,Reemplazo,Facebook
-1107,18,Bolívar,Grasosa,Trigo,Labial Mate,Kryolan,53.69,Zelle,Primera vez,10,Sí,2022-07-25,Regalo,WhatsApp
-1108,61,Miranda,Grasa,Canela Oscuro,Rímel,Belcorp,60.95,Zelle,Frecuente,2,Si,2022-01-12,Regalo,WhatsApp
-1109,25,Lara,Seca,Canela,Rímel,Belcorp,48.75,Efectivo,Primera vez,5,No,2023-05-05,Regalo,Instagram
-1110,41,Anzoátegui,Seca,Miel Claro,Labial Mate,Belcorp,77.16,Transferencia,Ocasional,9,No,2022-10-03,,Instagram
-1111,28,Miranda,Grasa,Café,Labial Mate,Natura,33.12,Transferencia,Primera vez,9,No,2023-11-24,Reemplazo,TikTok
-1112,68,Táchira,Mixta,Miel Claro,Labial Mate,Belcorp,26.43,Binance,Ocasional,8,Si,2022-08-30,Auto-regalo,WhatsApp
-1113,34,Anzoátegui,Grasosa,Canela Oscuro,Rubor en Crema,Natura,70.14,ZELLE,Ocasional,1,Si,2022-08-04,Autoregalo,Facebook
-1114,25,Anzoátegui,Mixta,Ébano,Rubor en Crema,Belcorp,21.77,Binance,Adicta,1,No,2022-09-08,Reemplazo,Instagram
-1115,52,Miranda,Seca,Ébano,Paleta Sombras,Kryolan,77.24,Zelle,Ocasional,9,Sí,2022-05-06,Regalo,Facebook
-1116,52,Zulia,Mixta,Canela Oscuro,Rímel,Fenty Beauty,5.91,Efectivo,,8,No,2022-08-05,,WhatsApp
-1117,50,Anzoátegui,Sensible,Canela Oscuro,Labial Mate,Natura,77.74,Transferencia,Ocasional,10,No,2022-11-02,Regalo,Instagram
-1118,22,Lara,Mixta,Canela,Rubor en Crema,Belcorp,8.24,Binance,,9,No,2024-03-07,Reemplazo,TikTok
-1119,59,Anzoátegui,Seca,Café,Paleta Sombras,Belcorp,71.84,Efectivo,Ocasional,7,Sí,2022-07-04,Regalo,TikTok
-1120,56,Zulia,Grasa,Miel Claro,Base Líquida,Chanel,44.58,Efectivo,Frecuente,3,Sí,2022-02-08,Auto-regalo,Facebook
-1121,58,Lara,Sensible,Miel Claro,Paleta Sombras,Belcorp,79.47,Zelle,,3,No,2022-08-11,Reemplazo,WhatsApp
-1122,45,Caracas,Seca,Canela Oscuro,Labial Mate,Fenty Beauty,10.53,Transferencia,,2,Sí,2022-07-03,Prueba nueva marca,TikTok
-1123,24,Anzoátegui,Sensible,Ébano,Rubor en Crema,Natura,46.54,ZELLE,Primera vez,5,Si,2023-05-10,Regalo,Instagram
-1124,26,Caracas,Grasa,Ébano,Rubor en Crema,Natura,77.7,Transferencia,Frecuente,3,No,2023-03-03,Reemplazo,TikTok
-1125,25,Zulia,Grasa,Canela,Base Líquida,Belcorp,44.23,Efectivo,,6,Si,2022-06-27,Autoregalo,Instagram
-1126,29,Lara,Mixta,Trigo,Base Líquida,Fenty Beauty,52.2,Transferencia,Primera vez,2,No,2023-03-04,Regalo,Instagram
-1127,51,Táchira,Mixta,Canela,Labial Mate,Kryolan,57.18,Efectivo,,3,Sí,2022-10-21,Regalo,WhatsApp
-1128,50,Caracas,Grasosa,Canela Oscuro,Rubor en Crema,Natura,39.09,Binance,Frecuente,5,Sí,2022-05-31,Auto-regalo,Facebook
-1129,65,Bolívar,Sensible,Canela,Paleta Sombras,Belcorp,52.07,Efectivo,,1,Si,2023-01-19,Prueba nueva marca,WhatsApp
-1130,40,Miranda,Sensible,Miel Claro,Base Líquida,Kryolan,48.82,Transferencia,Ocasional,1,Si,2023-09-30,Autoregalo,WhatsApp
-1131,41,Anzoátegui,Sensible,Miel Claro,Paleta Sombras,Belcorp,72.59,Efectivo,Frecuente,10,Sí,2022-11-04,,Facebook
-1132,54,Lara,Grasosa,Ébano,Paleta Sombras,Belcorp,8.41,Transferencia,,9,No,2022-12-02,Regalo,WhatsApp
-1133,52,Anzoátegui,Seca,Trigo,Rímel,Belcorp,26.07,Zelle,,7,No,2024-01-16,Reemplazo,WhatsApp
-1134,61,Bolívar,Sensible,Café,Base Líquida,Belcorp,76.28,ZELLE,Adicta,1,Sí,2023-01-10,,WhatsApp
-1135,57,Miranda,Grasa,Ébano,Rímel,Kryolan,71.77,Efectivo,Primera vez,8,Sí,2022-01-08,Auto-regalo,WhatsApp
-1136,39,Táchira,Seca,Canela Oscuro,Rímel,Fenty Beauty,39.17,Binance,Ocasional,3,No,2022-12-07,Autoregalo,WhatsApp
-1137,44,Bolívar,Grasa,Canela,Labial Mate,Belcorp,51.51,Transferencia,Ocasional,8,Sí,2022-05-09,Autoregalo,Facebook
-1138,52,Anzoátegui,Grasa,Ébano,Base Líquida,Belcorp,25.8,Zelle,Frecuente,5,No,2024-02-15,Reemplazo,WhatsApp
-1139,18,Zulia,Seca,Café,Labial Mate,Natura,19.11,Zelle,Primera vez,1,No,2023-10-31,Reemplazo,TikTok
-1140,52,Táchira,Sensible,Canela Oscuro,Rubor en Crema,Belcorp,39.78,ZELLE,,7,Sí,2022-12-18,Prueba nueva marca,Facebook
-1141,54,Bolívar,Grasosa,Canela,Base Líquida,Kryolan,31.5,Zelle,Ocasional,5,Sí,2022-12-24,Regalo,WhatsApp
-1142,64,Caracas,Grasosa,Trigo,Labial Mate,Belcorp,48.77,Efectivo,Ocasional,6,Sí,2023-06-01,Autoregalo,WhatsApp
-1143,31,Anzoátegui,Mixta,Café,Labial Mate,Natura,10.83,Zelle,,6,Sí,2023-05-10,Reemplazo,WhatsApp
-1144,20,Bolívar,Grasa,Miel Claro,Paleta Sombras,Fenty Beauty,78.08,Zelle,Frecuente,8,No,2022-03-27,Prueba nueva marca,Instagram
-1145,18,Caracas,Seca,Canela,Base Líquida,Kryolan,78.97,Zelle,Frecuente,9,Sí,2022-06-24,Prueba nueva marca,Instagram
-1146,22,Zulia,Grasa,Ébano,Base Líquida,Kryolan,57.36,Transferencia,,2,Si,2022-07-12,Reemplazo,Facebook
-1147,43,Táchira,Seca,Canela Oscuro,Rubor en Crema,Natura,45.21,ZELLE,Frecuente,9,Sí,2022-11-07,Autoregalo,Facebook
-1148,31,Caracas,Seca,Trigo,Rubor en Crema,Belcorp,28.21,Transferencia,Frecuente,10,Sí,2022-04-29,Regalo,Instagram
-1149,56,Zulia,Grasosa,Miel Claro,Labial Mate,Belcorp,66.03,Zelle,Ocasional,9,Sí,2022-08-06,Reemplazo,WhatsApp
-1150,44,Anzoátegui,Seca,Miel Claro,Rímel,,56.35,Zelle,Adicta,10,Si,2023-03-03,Prueba nueva marca,WhatsApp
-1151,26,Zulia,Grasa,Canela Oscuro,Paleta Sombras,Belcorp,17.2,Binance,Frecuente,10,Sí,2023-02-18,Regalo,Instagram
-1152,32,Bolívar,Grasa,Trigo,Labial Mate,Belcorp,73.32,Zelle,Frecuente,7,Sí,2022-04-24,Auto-regalo,Instagram
-1153,32,Lara,Seca,Trigo,Rímel,,66.69,Efectivo,Ocasional,1,No,2022-05-25,Prueba nueva marca,Instagram
-1154,43,Bolívar,Mixta,Canela,Base Líquida,Natura,76.23,Zelle,Ocasional,7,Sí,2023-06-22,Reemplazo,Facebook
-1155,59,Lara,Mixta,Trigo,Rubor en Crema,Belcorp,59.43,Zelle,,10,Sí,2023-10-10,Auto-regalo,WhatsApp
-1156,30,Anzoátegui,Mixta,Café,Rímel,Belcorp,51.01,Binance,Ocasional,5,Si,2022-10-30,Autoregalo,WhatsApp
-1157,68,Anzoátegui,Grasosa,Canela,Labial Mate,Chanel,36.37,Efectivo,Ocasional,6,Sí,2024-01-14,Autoregalo,Instagram
-1158,49,Lara,Seca,Miel Claro,Paleta Sombras,Belcorp,74.95,Zelle,Ocasional,10,No,2023-08-11,Reemplazo,Facebook
-1159,56,Bolívar,Seca,Canela Oscuro,Rímel,Kryolan,69.95,Transferencia,Primera vez,7,Sí,2022-12-11,Autoregalo,WhatsApp
-1160,66,Bolívar,Seca,Ébano,Base Líquida,Natura,8.39,ZELLE,Primera vez,5,No,2022-01-01,Regalo,WhatsApp
-1161,69,Zulia,Mixta,Ébano,Base Líquida,Chanel,6.98,ZELLE,Adicta,7,No,2022-05-27,Auto-regalo,Facebook
-1162,49,Miranda,Grasosa,Café,Rubor en Crema,Natura,33.23,Zelle,Primera vez,9,No,2022-10-14,Autoregalo,WhatsApp
-1163,21,Bolívar,Sensible,Canela Oscuro,Paleta Sombras,Belcorp,65.79,Binance,Ocasional,3,No,2023-10-16,Autoregalo,TikTok
-1164,47,Caracas,Grasosa,Miel Claro,Rímel,Belcorp,79.05,Transferencia,Frecuente,8,No,2022-02-22,Regalo,Instagram
-1165,54,Lara,Mixta,Canela Oscuro,Labial Mate,Kryolan,16.28,Zelle,Primera vez,2,Sí,2022-10-31,Prueba nueva marca,Facebook
-1166,40,Miranda,Sensible,Canela Oscuro,Labial Mate,Kryolan,49.56,ZELLE,Ocasional,7,Sí,2022-03-10,Autoregalo,Instagram
-1167,56,Bolívar,Grasosa,Canela Oscuro,Base Líquida,Fenty Beauty,33.57,ZELLE,Primera vez,2,Sí,2022-12-27,Reemplazo,WhatsApp
-1168,62,Zulia,Mixta,Trigo,Base Líquida,Belcorp,77.74,ZELLE,Frecuente,4,Sí,2023-08-25,Regalo,WhatsApp
-1169,32,Táchira,Seca,Canela,Rímel,,68.16,Binance,Adicta,7,No,2022-08-08,Autoregalo,Instagram
-1170,60,Táchira,Mixta,Miel Claro,Rubor en Crema,,67.87,Efectivo,Primera vez,3,Si,2023-12-05,Prueba nueva marca,WhatsApp
-1171,46,Anzoátegui,Mixta,Ébano,Labial Mate,Natura,40.15,Binance,Frecuente,2,Sí,2023-07-29,Reemplazo,Instagram
-1172,53,Lara,Seca,Miel Claro,Rubor en Crema,Natura,36.11,Efectivo,Adicta,10,Sí,2023-08-08,Regalo,WhatsApp
-1173,30,Miranda,Sensible,Miel Claro,Paleta Sombras,Natura,25.51,Binance,,7,No,2022-06-10,Reemplazo,Instagram
-1174,49,Bolívar,Seca,Trigo,Paleta Sombras,Natura,9.23,ZELLE,Ocasional,1,Sí,2023-11-12,Autoregalo,Instagram
-1175,24,Bolívar,Sensible,Canela Oscuro,Rubor en Crema,Belcorp,69.85,Zelle,Adicta,8,Sí,2022-03-30,Prueba nueva marca,Instagram
-1176,68,Zulia,Grasosa,Canela Oscuro,Base Líquida,Belcorp,65.97,Efectivo,Adicta,3,No,2023-11-19,Prueba nueva marca,WhatsApp
-1177,39,Táchira,Sensible,Canela Oscuro,Paleta Sombras,Natura,79.98,Zelle,Ocasional,2,No,2024-02-20,Reemplazo,Facebook
-1178,45,Bolívar,Grasa,Café,Labial Mate,Belcorp,79.75,Zelle,Adicta,3,Sí,2023-08-08,,Facebook
-1179,19,Miranda,Sensible,Canela Oscuro,Labial Mate,Natura,46.66,Efectivo,,5,No,2024-01-27,Prueba nueva marca,TikTok
-1180,59,Anzoátegui,Sensible,Canela Oscuro,Labial Mate,Belcorp,62.67,Zelle,,8,No,2023-08-12,,Facebook
-1181,62,Lara,Sensible,Canela,Base Líquida,Natura,75.86,Binance,Frecuente,10,Sí,2022-06-08,,TikTok
-1182,23,Lara,Grasosa,Trigo,Rímel,Fenty Beauty,68.72,Zelle,Primera vez,7,No,2023-05-04,Autoregalo,TikTok
-1183,45,Bolívar,Grasa,Miel Claro,Rímel,Belcorp,23.55,Transferencia,Frecuente,7,Sí,2022-11-20,Autoregalo,Facebook
-1184,45,Caracas,Mixta,Ébano,Rubor en Crema,,38.79,Transferencia,Ocasional,7,No,2023-09-02,Autoregalo,WhatsApp
-1185,61,Anzoátegui,Grasa,Trigo,Labial Mate,Natura,14.69,Transferencia,Frecuente,8,Si,2023-01-16,Prueba nueva marca,WhatsApp
-1186,61,Miranda,Grasosa,Canela,Rubor en Crema,Fenty Beauty,76.55,Efectivo,Adicta,1,No,2022-04-12,,WhatsApp
-1187,37,Lara,Grasa,Canela,Labial Mate,Natura,50.46,Zelle,Primera vez,4,No,2023-05-09,Autoregalo,Instagram
-1188,47,Lara,Sensible,Canela,Paleta Sombras,Belcorp,22.15,ZELLE,Ocasional,6,Sí,2023-10-06,Autoregalo,Instagram
-1189,28,Bolívar,Grasosa,Café,Paleta Sombras,Belcorp,55.38,Efectivo,,9,No,2023-09-06,Autoregalo,TikTok
-1190,45,Táchira,Grasa,Ébano,Rímel,Natura,51.36,Transferencia,Frecuente,2,Sí,2022-01-19,Regalo,Facebook
-1191,42,Miranda,Sensible,Miel Claro,Base Líquida,Natura,31.86,Binance,Adicta,1,Sí,2023-03-30,,Instagram
-1192,56,Bolívar,Mixta,Café,Base Líquida,Belcorp,13.52,ZELLE,Primera vez,10,No,2023-04-27,Autoregalo,WhatsApp
-1193,50,Caracas,Seca,Café,Base Líquida,Fenty Beauty,55.37,Zelle,Ocasional,2,Sí,2023-08-17,Regalo,Facebook
-1194,18,Lara,Grasosa,Trigo,Rubor en Crema,Belcorp,44.02,Binance,Frecuente,7,No,2023-02-01,Reemplazo,Instagram
-1195,44,Caracas,Sensible,Trigo,Paleta Sombras,Belcorp,62.92,Transferencia,Primera vez,3,Sí,2022-10-06,Regalo,Facebook
-1196,69,Caracas,Seca,Ébano,Rímel,Belcorp,44.01,ZELLE,Adicta,10,No,2022-12-31,,Facebook
-1197,30,Táchira,Grasosa,Ébano,Rubor en Crema,Belcorp,68.91,Zelle,Adicta,2,No,2022-11-27,Auto-regalo,TikTok
-1198,58,Lara,Mixta,Trigo,Rubor en Crema,Belcorp,46.39,Zelle,,7,No,2023-10-03,Reemplazo,TikTok
-1199,20,Anzoátegui,Sensible,Café,Paleta Sombras,Natura,47.07,Transferencia,Ocasional,2,No,2022-12-10,Reemplazo,TikTok
-1200,56,Lara,Sensible,Canela,Base Líquida,Natura,70.75,Binance,,3,Sí,2023-03-31,,WhatsApp
-1201,23,Táchira,Grasa,Trigo,Rímel,Belcorp,35.26,Binance,Primera vez,7,Sí,2023-08-24,Autoregalo,TikTok
-1202,25,Bolívar,Sensible,Ébano,Rubor en Crema,Natura,15.05,Transferencia,Frecuente,4,Sí,2023-12-26,Reemplazo,TikTok
-1203,44,Miranda,Sensible,Canela Oscuro,Rubor en Crema,Belcorp,7.16,Zelle,Adicta,1,Sí,2023-10-17,Autoregalo,WhatsApp
-1204,26,Lara,Grasosa,Miel Claro,Paleta Sombras,Natura,61.64,Efectivo,,5,No,2022-03-06,Regalo,WhatsApp
-1205,54,Bolívar,Sensible,Café,Paleta Sombras,Belcorp,51.52,Transferencia,Ocasional,9,Sí,2022-03-17,Autoregalo,WhatsApp
-1206,50,Táchira,Grasa,Café,Labial Mate,Chanel,57.81,Efectivo,,8,No,2023-12-12,Reemplazo,Facebook
-1207,68,Miranda,Mixta,Canela Oscuro,Labial Mate,Chanel,20.97,Binance,Ocasional,9,No,2022-05-23,Regalo,Facebook
-1208,59,Bolívar,Grasa,Miel Claro,Paleta Sombras,Fenty Beauty,15.23,Efectivo,Primera vez,10,Sí,2023-08-28,,Facebook
-1209,61,Caracass,Mixta,Canela Oscuro,Rímel,Chanel,6.09,ZELLE,Adicta,9,No,2023-04-18,Reemplazo,WhatsApp
-1210,41,Bolívar,Mixta,Canela Oscuro,Rubor en Crema,,31.29,Transferencia,Ocasional,7,No,2023-02-21,Prueba nueva marca,Facebook
-1211,32,Zulia,Sensible,Café,Rímel,Belcorp,49.24,Zelle,Adicta,4,Sí,2022-11-01,Prueba nueva marca,Facebook
-1212,49,Bolívar,Seca,Miel Claro,Rímel,Belcorp,34.42,Zelle,Primera vez,5,No,2024-01-06,Reemplazo,Instagram
-1213,49,Táchira,Mixta,Canela,Labial Mate,Belcorp,37.81,Zelle,Adicta,1,Sí,2023-05-12,Auto-regalo,Facebook
-1214,41,Anzoátegui,Mixta,Miel Claro,Base Líquida,,72.81,Binance,Primera vez,1,No,2022-10-18,,Instagram
-1215,58,Caracas,Mixta,Canela,Rubor en Crema,Kryolan,31.12,Efectivo,,3,No,2022-04-12,Reemplazo,WhatsApp
-1216,69,Miranda,Grasosa,Canela Oscuro,Base Líquida,Natura,43.55,Zelle,Frecuente,8,No,2022-09-24,Regalo,Facebook
-1217,66,Caracas,Grasa,Miel Claro,Rímel,Chanel,63.77,Zelle,,2,Sí,2023-09-14,Autoregalo,WhatsApp
-1218,66,Táchira,Sensible,Café,Paleta Sombras,Natura,34.74,Binance,Frecuente,4,Sí,2024-02-16,,WhatsApp
-1219,69,Lara,Grasa,Canela,Paleta Sombras,,51.66,Binance,Primera vez,2,Sí,2022-01-03,Auto-regalo,WhatsApp
-1220,29,Anzoátegui,Grasosa,Trigo,Rímel,Kryolan,69.68,Efectivo,Ocasional,5,Sí,2022-03-26,Prueba nueva marca,Instagram
-1221,56,Miranda,Grasa,Canela Oscuro,Rubor en Crema,Natura,76.21,ZELLE,Primera vez,9,Sí,2024-03-04,,WhatsApp
-1222,19,Miranda,Seca,Canela,Paleta Sombras,Fenty Beauty,16.03,Efectivo,Ocasional,1,No,2022-11-24,Reemplazo,TikTok
-1223,20,Caracas,Seca,Café,Base Líquida,Belcorp,74.49,Transferencia,Primera vez,5,Sí,2023-03-26,Regalo,TikTok
-1224,66,Caracas,Seca,Trigo,Base Líquida,Fenty Beauty,41.91,Transferencia,Frecuente,9,Sí,2023-03-30,Autoregalo,WhatsApp
-1225,54,Zulia,Grasosa,Canela Oscuro,Labial Mate,Natura,24.37,Binance,Frecuente,1,Sí,2023-09-21,Regalo,WhatsApp
-1226,66,Zulia,Grasosa,Canela,Rubor en Crema,Belcorp,39.44,Efectivo,Adicta,9,No,2022-08-09,,WhatsApp
-1227,34,Anzoátegui,Seca,Ébano,Paleta Sombras,,78.5,Transferencia,Primera vez,8,Sí,2022-06-03,,WhatsApp
-1228,66,Anzoátegui,Grasa,Trigo,Base Líquida,Natura,41.95,Transferencia,Adicta,4,No,2023-10-27,Autoregalo,WhatsApp
-1229,19,Lara,Grasa,Canela Oscuro,Labial Mate,Kryolan,29.66,Zelle,Adicta,10,No,2022-01-12,,Instagram
-1230,19,Caracass,Grasosa,Ébano,Rubor en Crema,Belcorp,52.51,Binance,Ocasional,5,Sí,2022-05-13,Regalo,TikTok
-1231,45,Zulia,Seca,Miel Claro,Labial Mate,Natura,23.01,Binance,,5,No,2022-10-31,Auto-regalo,Facebook
-1232,40,Anzoátegui,Seca,Ébano,Base Líquida,Belcorp,10.69,Efectivo,Frecuente,6,Si,2022-10-20,Regalo,Facebook
-1233,54,Caracas,Grasa,Trigo,Rímel,Belcorp,14.67,Transferencia,,7,Sí,2022-10-27,Autoregalo,WhatsApp
-1234,49,Anzoátegui,Mixta,Ébano,Base Líquida,Kryolan,14.6,Zelle,Ocasional,8,Sí,2024-01-10,Regalo,Instagram
-1235,50,Táchira,Mixta,Canela,Paleta Sombras,Fenty Beauty,16.39,Efectivo,Adicta,8,No,2024-02-22,Reemplazo,Instagram
-1236,18,Zuila,Grasosa,Trigo,Labial Mate,Belcorp,15.41,Binance,Frecuente,2,No,2022-02-12,Autoregalo,Instagram
-1237,36,Miranda,Grasosa,Café,Paleta Sombras,Natura,53.07,Binance,Adicta,9,Sí,2022-12-09,Regalo,Instagram
-1238,19,Zulia,Sensible,Café,Base Líquida,Natura,18.64,Transferencia,Frecuente,7,Si,2022-11-22,,TikTok
-1239,61,Lara,Seca,Miel Claro,Base Líquida,Belcorp,30.93,Zelle,,4,Sí,2023-05-13,Reemplazo,WhatsApp
-1240,43,Anzoátegui,Sensible,Trigo,Base Líquida,Kryolan,72.26,Transferencia,Primera vez,4,Sí,2022-12-30,Autoregalo,Facebook
-1241,49,Bolívar,Mixta,Canela Oscuro,Rímel,Natura,40.55,Zelle,Adicta,8,Sí,2023-03-03,Reemplazo,Facebook
-1242,23,Caracas,Mixta,Canela,Base Líquida,Fenty Beauty,55.07,Binance,Adicta,4,No,2022-01-21,Regalo,TikTok
-1243,49,Zuila,Grasa,Trigo,Paleta Sombras,Belcorp,17.92,Efectivo,Frecuente,6,No,2023-02-11,Reemplazo,Facebook
-1244,21,Anzoátegui,Grasosa,Café,Rímel,Kryolan,19.42,Efectivo,Primera vez,5,Sí,2023-09-11,,TikTok
-1245,28,Bolívar,Sensible,Trigo,Rubor en Crema,Natura,8.07,Efectivo,Frecuente,3,Sí,2022-12-02,Prueba nueva marca,Instagram
-1246,34,Anzoátegui,Mixta,Café,Labial Mate,Natura,17.67,Efectivo,Adicta,10,Sí,2022-04-27,Prueba nueva marca,TikTok
-1247,55,Miranda,Grasa,Canela Oscuro,Rubor en Crema,Natura,25.89,Binance,Frecuente,2,No,2022-05-04,Regalo,Instagram
-1248,41,Caracas,Mixta,Miel Claro,Rímel,Natura,18.28,Transferencia,Ocasional,9,Sí,2023-02-03,Autoregalo,Instagram
-1249,22,Bolívar,Grasa,Trigo,Rubor en Crema,Kryolan,11.65,ZELLE,,10,Sí,2024-03-03,Regalo,TikTok
-1250,69,Anzoátegui,Mixta,Miel Claro,Base Líquida,Kryolan,14.05,Efectivo,Adicta,9,No,2023-12-16,Regalo,WhatsApp
-1251,51,Bolívar,Mixta,Ébano,Rubor en Crema,Natura,39.56,Zelle,Adicta,1,Sí,2022-02-20,Regalo,Facebook
-1252,23,Miranda,Sensible,Trigo,Base Líquida,Natura,20.48,Zelle,Adicta,10,Sí,2024-02-22,Regalo,TikTok
-1253,39,Lara,Seca,Trigo,Paleta Sombras,Belcorp,32.32,ZELLE,,3,No,2022-11-20,Autoregalo,Facebook
-1254,28,Lara,Grasa,Café,Paleta Sombras,Belcorp,42.76,Efectivo,Adicta,8,Sí,2024-02-28,,Instagram
-1255,65,Táchira,Grasa,Ébano,Rímel,Kryolan,56.78,Binance,Frecuente,6,No,2022-05-21,Regalo,WhatsApp
-1256,33,Lara,Sensible,Canela Oscuro,Rímel,Fenty Beauty,7.95,Efectivo,Frecuente,5,No,2023-04-15,Regalo,Instagram
-1257,50,Bolívar,Grasosa,Trigo,Rubor en Crema,Natura,64.96,Efectivo,Ocasional,5,No,2024-02-26,,Instagram
-1258,26,Táchira,Seca,Café,Base Líquida,Fenty Beauty,52.09,ZELLE,Frecuente,6,No,2022-11-30,Regalo,TikTok
-1259,23,Anzoátegui,Seca,Trigo,Labial Mate,Belcorp,11.13,ZELLE,Ocasional,7,Sí,2023-01-08,Reemplazo,TikTok
-1260,33,Miranda,Grasa,Ébano,Rímel,Fenty Beauty,70.52,Transferencia,Ocasional,1,Si,2023-07-18,Reemplazo,Facebook
-1261,46,Zulia,Grasosa,Miel Claro,Base Líquida,Fenty Beauty,74.07,Binance,Ocasional,9,Sí,2023-05-09,Autoregalo,Facebook
-1262,20,Lara,Grasosa,Canela,Base Líquida,Belcorp,9.58,Transferencia,Frecuente,3,Si,2023-06-23,Reemplazo,TikTok
-1263,37,Anzoátegui,Grasosa,Miel Claro,Rubor en Crema,Belcorp,25.77,ZELLE,Ocasional,4,No,2023-10-31,,WhatsApp
-1264,53,Lara,Grasosa,Café,Labial Mate,Kryolan,65.47,Zelle,Primera vez,10,No,2024-01-21,Autoregalo,WhatsApp
-1265,36,Bolívar,Sensible,Ébano,Rubor en Crema,Belcorp,61.12,Efectivo,Ocasional,1,No,2022-06-05,Autoregalo,Instagram
-1266,43,Miranda,Grasa,Miel Claro,Base Líquida,Belcorp,18.84,ZELLE,Adicta,10,No,2022-10-18,Reemplazo,Facebook
-1267,20,Bolívar,Sensible,Ébano,Paleta Sombras,Belcorp,20.7,Zelle,Frecuente,3,Sí,2023-10-10,Autoregalo,Facebook
-1268,36,Caracas,Grasosa,Trigo,Labial Mate,,32.79,ZELLE,Adicta,2,No,2022-05-24,Reemplazo,Facebook
-1269,37,Caracas,Mixta,Café,Paleta Sombras,Kryolan,41.34,Zelle,Adicta,2,Sí,2022-04-16,,Facebook
-1270,49,Anzoátegui,Seca,Trigo,Paleta Sombras,Natura,51.37,Transferencia,,1,Sí,2023-02-24,Reemplazo,WhatsApp
-1271,24,Caracas,Sensible,Canela Oscuro,Labial Mate,Belcorp,32.67,Transferencia,Adicta,8,Sí,2023-11-01,Reemplazo,Instagram
-1272,69,Zulia,Grasosa,Canela,Labial Mate,Belcorp,39.69,Zelle,Ocasional,3,No,2023-10-20,,WhatsApp
-1273,58,Lara,Grasosa,Canela Oscuro,Labial Mate,Chanel,61.06,Transferencia,Adicta,3,No,2022-01-02,Reemplazo,Facebook
-1274,50,Lara,Seca,Café,Rímel,Belcorp,7.75,Efectivo,,6,Sí,2023-08-12,Autoregalo,Facebook
-1275,57,Anzoátegui,Grasosa,Canela Oscuro,Paleta Sombras,Belcorp,23.93,Zelle,Ocasional,8,Sí,2023-10-06,,WhatsApp
-1276,56,Lara,Grasosa,Canela,Paleta Sombras,Kryolan,58.5,ZELLE,,9,No,2022-03-31,Regalo,WhatsApp
-1277,35,Caracas,Grasosa,Canela Oscuro,Base Líquida,Natura,72.14,Zelle,Adicta,9,Sí,2022-12-11,Regalo,Facebook
-1278,57,Bolívar,Sensible,Canela Oscuro,Rubor en Crema,Belcorp,43.38,Efectivo,,4,Sí,2022-12-16,Reemplazo,Facebook
-1279,18,Zulia,Grasa,Miel Claro,Rubor en Crema,Kryolan,44.91,Transferencia,Primera vez,5,No,2023-04-04,Regalo,TikTok
-1280,28,Anzoátegui,Seca,Trigo,Labial Mate,Belcorp,13.04,ZELLE,,2,Sí,2022-09-20,Regalo,TikTok
-1281,45,Miranda,Sensible,Café,Rímel,Fenty Beauty,38.56,Efectivo,Ocasional,9,Sí,2022-12-17,Autoregalo,Instagram
-1282,42,Lara,Grasosa,Ébano,Paleta Sombras,Belcorp,44.95,ZELLE,Adicta,8,No,2022-04-18,Autoregalo,Instagram
-1283,67,Caracas,Mixta,Trigo,Paleta Sombras,Natura,23.19,Zelle,,3,No,2023-08-09,Reemplazo,WhatsApp
-1284,40,Miranda,Seca,Trigo,Rímel,Kryolan,25.19,Binance,Ocasional,9,Sí,2022-02-08,Regalo,Instagram
-1285,48,Zulia,Seca,Canela Oscuro,Labial Mate,Natura,33.3,Binance,Adicta,3,Sí,2022-06-08,Autoregalo,Facebook
-1286,47,Miranda,Grasa,Canela,Paleta Sombras,Kryolan,6.51,Zelle,,9,No,2023-08-06,,Instagram
-1287,59,Caracas,Grasa,Trigo,Rubor en Crema,Belcorp,29.16,Binance,,2,No,2022-11-08,Autoregalo,WhatsApp
-1288,52,Zulia,Grasa,Canela,Base Líquida,,20.86,ZELLE,,10,No,2022-08-29,Auto-regalo,TikTok
-1289,24,Zulia,Mixta,Trigo,Base Líquida,Belcorp,29.56,Transferencia,Adicta,9,No,2023-03-21,Regalo,TikTok
-1290,33,Caracas,Seca,Ébano,Base Líquida,Belcorp,13.98,ZELLE,Primera vez,8,Sí,2022-10-25,Prueba nueva marca,Facebook
-1291,43,Miranda,Seca,Café,Labial Mate,Fenty Beauty,71.79,Transferencia,,9,No,2022-02-05,,Facebook
-1292,65,Táchira,Mixta,Café,Rubor en Crema,Belcorp,49.52,Efectivo,Ocasional,5,Sí,2022-03-25,Reemplazo,WhatsApp
-1293,69,Caracas,Mixta,Café,Rímel,Belcorp,55.93,Transferencia,,2,Sí,2023-03-28,Autoregalo,WhatsApp
-1294,66,Miranda,Seca,Canela,Labial Mate,Kryolan,64.19,Transferencia,Primera vez,8,No,2024-02-14,Regalo,Instagram
-1295,19,Bolívar,Grasa,Canela Oscuro,Base Líquida,Kryolan,42.38,Zelle,,6,No,2023-01-20,Reemplazo,TikTok
-1296,18,Bolívar,Sensible,Miel Claro,Labial Mate,Belcorp,11.52,Transferencia,Frecuente,8,No,2022-06-21,Autoregalo,TikTok
-1297,65,Anzoátegui,Seca,Canela Oscuro,Base Líquida,,45.28,Binance,Ocasional,5,Sí,2023-01-11,Regalo,Facebook
-1298,29,Miranda,Mixta,Ébano,Base Líquida,Belcorp,49.01,ZELLE,Adicta,10,No,2023-11-16,Prueba nueva marca,TikTok
-1299,22,Anzoátegui,Sensible,Ébano,Rímel,Natura,60.91,ZELLE,Ocasional,2,Sí,2022-12-28,Autoregalo,Instagram
-1300,54,Bolívar,Grasosa,Trigo,Labial Mate,Belcorp,37.37,Transferencia,Ocasional,6,Sí,2023-07-13,Reemplazo,WhatsApp
-1301,49,Bolívar,Sensible,Trigo,Base Líquida,Kryolan,14.57,Zelle,Frecuente,5,No,2022-05-21,Regalo,Facebook
-1302,26,Táchira,Seca,Café,Rímel,Belcorp,26.28,Binance,Ocasional,5,No,2022-04-28,Regalo,TikTok
-1303,58,Caracas,Grasa,Ébano,Paleta Sombras,Belcorp,32.23,Transferencia,Primera vez,1,No,2022-10-04,,WhatsApp
-1304,52,Anzoátegui,Grasa,Trigo,Rubor en Crema,Belcorp,53.44,Zelle,Adicta,2,Sí,2023-12-27,Reemplazo,Instagram
-1305,36,Anzoátegui,Grasa,Miel Claro,Paleta Sombras,Belcorp,47.81,Transferencia,,8,Sí,2022-08-08,Autoregalo,Facebook
-1306,65,Anzoátegui,Grasa,Miel Claro,Rímel,Kryolan,31.71,ZELLE,Primera vez,3,No,2022-01-26,Regalo,WhatsApp
-1307,33,Caracas,Grasa,Ébano,Rubor en Crema,Belcorp,78.99,Transferencia,Adicta,10,Sí,2023-06-05,Reemplazo,Facebook
-1308,20,Lara,Mixta,Ébano,Base Líquida,Natura,50.43,ZELLE,Adicta,3,Sí,2024-02-22,Auto-regalo,TikTok
-1309,37,Táchira,Mixta,Miel Claro,Base Líquida,Natura,22.79,Efectivo,Primera vez,8,No,2022-01-10,Regalo,WhatsApp
-1310,41,Anzoátegui,Mixta,Ébano,Rímel,Belcorp,12.63,Zelle,,8,Sí,2023-01-13,Autoregalo,Facebook
-1311,50,Caracas,Sensible,Canela,Labial Mate,Chanel,16.46,ZELLE,Adicta,2,Sí,2023-09-25,Autoregalo,Instagram
-1312,41,Caracas,Grasosa,Café,Rímel,Fenty Beauty,23.45,Efectivo,Adicta,8,Sí,2023-09-29,,TikTok
-1313,69,Táchira,Grasosa,Canela Oscuro,Rímel,Natura,17.05,Binance,Ocasional,1,Sí,2023-11-13,Prueba nueva marca,WhatsApp
-1314,28,Caracas,Grasa,Café,Labial Mate,Belcorp,18.99,Efectivo,Primera vez,6,No,2023-08-07,Regalo,Facebook
-1315,66,Anzoátegui,Grasa,Miel Claro,Paleta Sombras,Fenty Beauty,26.38,Transferencia,,8,No,2022-06-01,Regalo,WhatsApp
-1316,25,Anzoátegui,Grasosa,Ébano,Labial Mate,Belcorp,18.0,Binance,Primera vez,3,Si,2023-12-21,Autoregalo,TikTok
-1317,53,Zulia,Sensible,Canela,Base Líquida,Belcorp,72.26,Zelle,Ocasional,8,Si,2022-02-18,Autoregalo,WhatsApp
-1318,55,Bolívar,Seca,Canela Oscuro,Labial Mate,Kryolan,11.02,Transferencia,Frecuente,1,No,2022-06-03,Autoregalo,Facebook
-1319,57,Lara,Mixta,Trigo,Base Líquida,Belcorp,44.34,Efectivo,Frecuente,9,Sí,2022-10-20,,TikTok
-1320,37,Lara,Sensible,Ébano,Paleta Sombras,Belcorp,35.78,Transferencia,Frecuente,9,Sí,2023-08-03,Autoregalo,Facebook
-1321,52,Bolívar,Mixta,Ébano,Rímel,Chanel,78.68,Efectivo,Primera vez,5,Sí,2022-02-19,Reemplazo,WhatsApp
-1322,65,Miranda,Grasa,Canela,Paleta Sombras,Natura,13.4,Transferencia,Adicta,10,Sí,2023-10-26,Regalo,WhatsApp
-1323,42,Anzoátegui,Grasosa,Café,Rímel,Belcorp,34.84,Transferencia,Ocasional,4,Sí,2023-06-15,Regalo,Instagram
-1324,52,Zulia,Grasa,Ébano,Rímel,,77.71,Transferencia,Primera vez,6,Sí,2023-09-04,Prueba nueva marca,WhatsApp
-1325,42,Táchira,Seca,Trigo,Rímel,Chanel,69.91,Binance,Frecuente,7,Sí,2022-03-01,Autoregalo,TikTok
-1326,46,Caracas,Grasa,Trigo,Base Líquida,Belcorp,66.28,Efectivo,Ocasional,5,Sí,2022-06-16,Autoregalo,Instagram
-1327,35,Bolívar,Sensible,Canela Oscuro,Labial Mate,Belcorp,24.34,Binance,Adicta,10,No,2022-07-21,Regalo,Facebook
-1328,63,Caracas,Grasa,Café,Rímel,Belcorp,17.82,Efectivo,Ocasional,9,Sí,2022-05-26,Reemplazo,WhatsApp
-1329,35,Zulia,Mixta,Miel Claro,Labial Mate,Natura,55.15,Transferencia,,3,No,2023-11-07,Regalo,Facebook
-1330,19,Zulia,Grasa,Trigo,Paleta Sombras,Natura,74.7,Binance,Primera vez,7,Sí,2023-03-15,,TikTok
-1331,52,Miranda,Grasa,Ébano,Rímel,Chanel,46.76,Zelle,,10,Sí,2022-08-30,,WhatsApp
-1332,33,Zulia,Grasa,Miel Claro,Base Líquida,Belcorp,47.87,Efectivo,Adicta,10,Sí,2023-08-04,Autoregalo,WhatsApp
-1333,58,Lara,Grasa,Ébano,Rímel,Fenty Beauty,26.0,Transferencia,,5,No,2023-11-18,Prueba nueva marca,WhatsApp
-1334,53,Zulia,Grasosa,Ébano,Rubor en Crema,Kryolan,62.71,Zelle,Adicta,7,Sí,2023-07-15,Regalo,WhatsApp
-1335,50,Miranda,Seca,Miel Claro,Rubor en Crema,Natura,19.03,ZELLE,Adicta,2,Sí,2023-04-28,Autoregalo,Facebook
-1336,21,Táchira,Mixta,Café,Labial Mate,Belcorp,29.28,Efectivo,Ocasional,4,Sí,2022-04-18,Auto-regalo,Instagram
-1337,50,Anzoátegui,Seca,Café,Paleta Sombras,Chanel,36.91,Zelle,,2,Sí,2022-08-14,Autoregalo,Instagram
-1338,31,Miranda,Grasa,Canela,Paleta Sombras,Kryolan,43.07,Efectivo,,7,Sí,2023-11-04,Reemplazo,Facebook
-1339,38,Táchira,Seca,Trigo,Rubor en Crema,Belcorp,23.18,Transferencia,Frecuente,2,Sí,2023-09-23,Regalo,Instagram
-1340,65,Anzoátegui,Grasa,Ébano,Rímel,,13.61,Zelle,Primera vez,1,No,2023-10-23,Autoregalo,WhatsApp
-1341,37,Miranda,Seca,Miel Claro,Paleta Sombras,Natura,50.8,Zelle,Frecuente,9,Sí,2023-10-24,Reemplazo,Facebook
-1342,25,Zulia,Sensible,Ébano,Labial Mate,Natura,26.65,Binance,Ocasional,1,Si,2023-03-08,Regalo,TikTok
-1343,24,Miranda,Seca,Canela Oscuro,Paleta Sombras,Natura,48.59,Efectivo,Primera vez,8,No,2023-10-17,Reemplazo,TikTok
-1344,20,Bolívar,Mixta,Miel Claro,Rubor en Crema,Natura,16.58,Zelle,Ocasional,2,Sí,2023-02-23,Regalo,TikTok
-1345,34,Lara,Grasa,Trigo,Paleta Sombras,Belcorp,41.09,Binance,Adicta,8,Sí,2023-03-31,Prueba nueva marca,WhatsApp
-1346,50,Caracas,Grasosa,Ébano,Rubor en Crema,Kryolan,44.94,Efectivo,Primera vez,3,No,2022-06-09,Auto-regalo,WhatsApp
-1347,65,Miranda,Grasosa,Café,Paleta Sombras,Belcorp,8.89,Transferencia,,6,Sí,2023-06-07,Prueba nueva marca,WhatsApp
-1348,29,Bolívar,Seca,Ébano,Rubor en Crema,Natura,30.25,Binance,Primera vez,3,Sí,2023-10-12,Regalo,TikTok
-1349,68,Bolívar,Seca,Trigo,Labial Mate,Belcorp,15.08,ZELLE,Frecuente,7,No,2023-08-13,Regalo,WhatsApp
-1350,39,Caracas,Seca,Trigo,Paleta Sombras,Belcorp,9.75,Binance,Adicta,10,No,2022-03-18,Prueba nueva marca,Instagram
-1351,39,Caracas,Grasa,Canela,Rímel,Natura,79.25,Binance,Frecuente,9,Sí,2023-05-24,Regalo,Instagram
-1352,63,Anzoátegui,Grasosa,Canela,Labial Mate,Belcorp,29.18,Zelle,Ocasional,2,Sí,2023-03-17,Autoregalo,WhatsApp
-1353,47,Caracas,Seca,Café,Rubor en Crema,Natura,65.74,Binance,Primera vez,5,No,2022-09-11,Auto-regalo,Instagram
-1354,55,Bolívar,Grasa,Canela,Labial Mate,Fenty Beauty,24.1,ZELLE,Frecuente,6,No,2024-02-09,Autoregalo,Facebook
-1355,55,Anzoátegui,Grasosa,Café,Rímel,Fenty Beauty,56.11,Zelle,Ocasional,4,Sí,2022-11-16,,WhatsApp
-1356,62,Caracas,Grasosa,Canela Oscuro,Base Líquida,Belcorp,62.02,Efectivo,Adicta,4,No,2022-09-20,,WhatsApp
-1357,68,Bolívar,Grasa,Café,Labial Mate,Belcorp,49.67,Binance,,4,Sí,2023-08-20,Auto-regalo,Facebook
-1358,25,Miranda,Grasa,Canela,Labial Mate,Natura,40.37,ZELLE,Primera vez,2,Si,2023-10-20,Prueba nueva marca,TikTok
-1359,44,Táchira,Grasa,Trigo,Rubor en Crema,Natura,35.89,Zelle,Frecuente,4,No,2023-07-08,,Facebook
-1360,44,Zulia,Mixta,Miel Claro,Labial Mate,Belcorp,31.17,Zelle,Primera vez,1,Sí,2023-01-09,Regalo,Facebook
-1361,51,Zulia,Sensible,Trigo,Rímel,Belcorp,74.71,Binance,,6,No,2023-09-29,Regalo,WhatsApp
-1362,38,Caracass,Grasosa,Miel Claro,Rímel,Belcorp,67.3,Transferencia,Primera vez,1,No,2022-06-16,Auto-regalo,Instagram
-1363,47,Lara,Seca,Canela Oscuro,Labial Mate,Natura,77.38,Efectivo,Adicta,10,Si,2024-01-23,Reemplazo,Instagram
-1364,50,Zulia,Grasa,Canela Oscuro,Labial Mate,Fenty Beauty,14.32,Efectivo,Ocasional,6,Sí,2023-04-04,Autoregalo,Facebook
-1365,45,Táchira,Grasosa,Canela Oscuro,Rubor en Crema,Kryolan,59.82,Binance,Primera vez,1,No,2022-10-07,Regalo,WhatsApp
-1366,64,Bolívar,Sensible,Miel Claro,Rubor en Crema,Kryolan,75.38,Binance,Ocasional,6,Sí,2023-12-01,Regalo,Facebook
-1367,50,Táchira,Sensible,Trigo,Base Líquida,Natura,18.59,Binance,Primera vez,10,No,2022-10-29,Prueba nueva marca,WhatsApp
-1368,22,Zulia,Seca,Miel Claro,Rubor en Crema,Natura,9.99,Binance,Ocasional,8,Sí,2023-06-15,Regalo,TikTok
-1369,65,Bolívar,Sensible,Canela,Rubor en Crema,Kryolan,60.58,Transferencia,Adicta,2,Sí,2023-08-03,Auto-regalo,WhatsApp
-1370,36,Bolívar,Seca,Ébano,Rímel,Belcorp,48.09,Binance,Frecuente,2,Sí,2022-08-06,,TikTok
-1371,21,Táchira,Grasosa,Miel Claro,Base Líquida,Natura,68.14,Efectivo,Frecuente,4,Sí,2022-04-12,Regalo,Instagram
-1372,52,Miranda,Seca,Canela Oscuro,Labial Mate,Natura,15.48,Transferencia,Frecuente,3,No,2023-07-08,Reemplazo,WhatsApp
-1373,66,Bolívar,Seca,Miel Claro,Rímel,Natura,64.65,ZELLE,Adicta,4,Sí,2022-10-15,Autoregalo,WhatsApp
-1374,34,Miranda,Grasosa,Canela Oscuro,Base Líquida,Fenty Beauty,20.12,Binance,Adicta,7,No,2022-06-16,Prueba nueva marca,Facebook
-1375,61,Lara,Grasa,Trigo,Rubor en Crema,Fenty Beauty,17.27,Transferencia,Frecuente,1,No,2023-09-13,Regalo,Instagram
-1376,45,Lara,Seca,Café,Labial Mate,Belcorp,17.32,Efectivo,Ocasional,6,Si,2022-02-05,Autoregalo,Instagram
-1377,47,Anzoátegui,Grasa,Canela,Rímel,Natura,66.09,Zelle,Primera vez,3,Sí,2024-01-14,Regalo,Facebook
-1378,46,Anzoátegui,Sensible,Trigo,Paleta Sombras,Kryolan,54.89,Efectivo,Adicta,10,No,2024-01-11,Reemplazo,Facebook
-1379,63,Miranda,Mixta,Ébano,Rubor en Crema,Natura,44.23,Transferencia,,7,Sí,2022-12-19,Regalo,WhatsApp
-1380,23,Táchira,Grasa,Café,Paleta Sombras,Fenty Beauty,31.91,Transferencia,Ocasional,10,No,2023-11-07,Autoregalo,Instagram
-1381,52,Anzoátegui,Grasa,Café,Base Líquida,Chanel,70.79,Binance,Primera vez,2,No,2022-03-14,Auto-regalo,WhatsApp
-1382,58,Lara,Seca,Trigo,Labial Mate,Natura,34.43,Binance,,2,Sí,2023-10-10,Prueba nueva marca,Facebook
-1383,54,Anzoátegui,Seca,Canela Oscuro,Base Líquida,Fenty Beauty,66.24,Transferencia,Primera vez,4,No,2022-12-19,Reemplazo,TikTok
-1384,41,Táchira,Sensible,Miel Claro,Rubor en Crema,Natura,37.94,Binance,Primera vez,1,No,2022-03-11,,Facebook
-1385,46,Caracas,Mixta,Café,Rímel,Fenty Beauty,33.27,Efectivo,Frecuente,3,Sí,2023-03-01,,Instagram
-1386,66,Táchira,Sensible,Canela Oscuro,Rímel,Natura,39.7,Efectivo,Adicta,9,No,2023-12-09,Regalo,WhatsApp
-1387,63,Caracas,Mixta,Canela Oscuro,Base Líquida,Belcorp,27.6,Transferencia,Primera vez,7,No,2024-02-20,Reemplazo,Facebook
-1388,48,Miranda,Grasa,Canela Oscuro,Rímel,Belcorp,61.07,Transferencia,Primera vez,7,No,2023-07-15,Regalo,Instagram
-1389,52,Zulia,Grasa,Canela,Rímel,Kryolan,42.7,ZELLE,Adicta,4,No,2023-10-04,,WhatsApp
-1390,50,Anzoátegui,Sensible,Ébano,Rubor en Crema,Belcorp,22.42,Zelle,Frecuente,2,Si,2023-06-01,Regalo,Instagram
-1391,69,Lara,Sensible,Café,Rímel,Kryolan,72.47,Transferencia,Frecuente,4,No,2023-03-04,Regalo,WhatsApp
-1392,38,Zulia,Sensible,Miel Claro,Labial Mate,Natura,33.79,Zelle,Frecuente,6,No,2023-06-23,Regalo,WhatsApp
-1393,49,Bolívar,Grasa,Canela Oscuro,Labial Mate,Natura,45.77,Binance,Adicta,3,Sí,2022-06-09,Autoregalo,Instagram
-1394,40,Caracas,Grasa,Café,Paleta Sombras,Natura,72.99,Transferencia,Primera vez,1,No,2022-05-29,,Facebook
-1395,50,Bolívar,Grasosa,Canela,Paleta Sombras,Natura,51.82,Zelle,Ocasional,8,No,2024-02-15,Autoregalo,Instagram
-1396,20,Zulia,Grasosa,Miel Claro,Base Líquida,Belcorp,13.77,ZELLE,Adicta,5,Sí,2022-08-18,Regalo,Instagram
-1397,35,Táchira,Seca,Trigo,Labial Mate,Natura,75.49,Zelle,Frecuente,5,No,2023-12-13,Autoregalo,Facebook
-1398,42,Caracas,Seca,Trigo,Labial Mate,Belcorp,52.08,Binance,Frecuente,4,No,2023-07-16,Autoregalo,WhatsApp
-1399,59,Táchira,Seca,Canela Oscuro,Base Líquida,Fenty Beauty,30.12,Binance,Adicta,6,No,2022-03-08,Autoregalo,Instagram
-1400,48,Caracas,Grasa,Trigo,Rímel,,15.45,Transferencia,Adicta,3,Sí,2023-01-16,Autoregalo,Facebook
-1401,20,Zulia,Grasa,Trigo,Paleta Sombras,Fenty Beauty,64.55,ZELLE,,9,Sí,2022-02-27,Autoregalo,WhatsApp
-1402,57,Miranda,Mixta,Café,Rubor en Crema,Belcorp,51.51,ZELLE,,5,Sí,2022-09-16,Autoregalo,WhatsApp
-1403,63,Lara,Grasosa,Miel Claro,Base Líquida,Natura,45.01,ZELLE,,3,No,2022-12-08,Regalo,WhatsApp
-1404,41,Zulia,Mixta,Canela Oscuro,Labial Mate,Kryolan,72.04,ZELLE,,1,No,2022-05-10,Autoregalo,Facebook
-1405,67,Caracass,Mixta,Canela,Rímel,Belcorp,64.14,Efectivo,,10,Sí,2023-12-28,Regalo,Facebook
-1406,49,Lara,Seca,Canela,Rímel,Kryolan,16.38,Efectivo,Primera vez,6,No,2022-06-21,Regalo,Instagram
-1407,64,Caracas,Seca,Canela Oscuro,Paleta Sombras,Belcorp,28.38,ZELLE,Ocasional,2,Si,2024-02-09,,WhatsApp
-1408,39,Zulia,Grasa,Ébano,Paleta Sombras,Fenty Beauty,23.64,Binance,Ocasional,3,No,2023-09-06,Reemplazo,Facebook
-1409,40,Anzoátegui,Seca,Miel Claro,Rubor en Crema,Belcorp,60.8,Binance,Primera vez,1,Sí,2022-07-28,Regalo,Instagram
-1410,19,Lara,Grasosa,Ébano,Rímel,Natura,7.51,Zelle,Frecuente,9,Sí,2022-12-20,,TikTok
-1411,44,Zuila,Grasosa,Miel Claro,Rubor en Crema,Kryolan,47.74,Zelle,Adicta,8,Si,2023-04-16,Prueba nueva marca,WhatsApp
-1412,59,Anzoátegui,Grasosa,Ébano,Rímel,Belcorp,62.18,Binance,Ocasional,2,Sí,2024-03-08,Regalo,Facebook
-1413,19,Anzoátegui,Sensible,Canela,Labial Mate,Kryolan,70.76,Zelle,Adicta,8,Sí,2022-04-26,Prueba nueva marca,TikTok
-1414,43,Lara,Seca,Canela Oscuro,Rubor en Crema,Belcorp,30.66,Zelle,Adicta,9,No,2022-09-21,Autoregalo,TikTok
-1415,34,Zulia,Seca,Miel Claro,Paleta Sombras,Kryolan,66.59,Binance,Primera vez,1,Si,2023-10-24,Reemplazo,Facebook
-1416,57,Miranda,Grasosa,Trigo,Rímel,Natura,13.3,ZELLE,Adicta,5,No,2023-03-18,Regalo,TikTok
-1417,50,Bolívar,Seca,Miel Claro,Paleta Sombras,Belcorp,68.48,Transferencia,Primera vez,8,Sí,2023-07-02,,Instagram
-1418,26,Zulia,Sensible,Canela,Rímel,Kryolan,14.56,Transferencia,Adicta,2,Sí,2023-03-29,,Instagram
-1419,60,Zulia,Seca,Miel Claro,Rubor en Crema,Belcorp,34.8,Binance,Primera vez,4,Sí,2023-04-22,,WhatsApp
-1420,65,Caracas,Mixta,Canela,Rímel,Belcorp,64.8,ZELLE,Primera vez,7,No,2022-10-14,Autoregalo,Facebook
-1421,56,Táchira,Grasosa,Canela,Rubor en Crema,Belcorp,16.24,Zelle,Frecuente,3,Sí,2022-10-30,Autoregalo,WhatsApp
-1422,46,Táchira,Grasa,Canela,Base Líquida,Belcorp,22.19,ZELLE,Ocasional,5,Sí,2022-11-07,Regalo,Facebook
-1423,59,Zuila,Seca,Canela Oscuro,Rubor en Crema,Belcorp,59.17,Binance,,8,Sí,2022-07-27,Regalo,WhatsApp
-1424,43,Caracas,Grasosa,Café,Paleta Sombras,Natura,59.0,Efectivo,Ocasional,10,Si,2023-09-10,Regalo,Instagram
-1425,52,Zulia,Grasosa,Canela Oscuro,Base Líquida,Natura,53.09,ZELLE,Ocasional,3,Sí,2023-03-22,Prueba nueva marca,WhatsApp
-1426,67,Bolívar,Mixta,Ébano,Rímel,Chanel,57.05,Binance,Adicta,4,Sí,2023-11-01,Prueba nueva marca,Facebook
-1427,42,Táchira,Seca,Trigo,Rímel,Natura,45.7,Transferencia,Ocasional,9,Sí,2023-09-25,Regalo,WhatsApp
-1428,41,Caracas,Seca,Miel Claro,Rímel,Natura,23.88,Transferencia,Primera vez,7,Sí,2022-02-24,Regalo,Facebook
-1429,30,Miranda,Sensible,Canela Oscuro,Labial Mate,Belcorp,30.93,Zelle,,1,No,2022-01-12,Reemplazo,Instagram
-1430,24,Caracas,Grasa,Café,Rubor en Crema,Belcorp,18.62,ZELLE,Frecuente,4,No,2023-10-19,Reemplazo,TikTok
-1431,53,Caracas,Grasa,Trigo,Rímel,Natura,73.13,Efectivo,Frecuente,4,Si,2023-02-04,Regalo,Facebook
-1432,62,Zulia,Seca,Café,Base Líquida,Fenty Beauty,48.75,ZELLE,Primera vez,9,Sí,2023-10-10,Reemplazo,Facebook
-1433,37,Caracas,Sensible,Trigo,Rímel,Belcorp,35.06,Transferencia,,6,No,2023-05-30,Reemplazo,Instagram
-1434,18,Anzoátegui,Mixta,Miel Claro,Labial Mate,Belcorp,39.65,Binance,Ocasional,9,Sí,2023-10-18,Reemplazo,Instagram
-1435,25,Caracas,Grasosa,Canela Oscuro,Labial Mate,Natura,76.05,Zelle,Adicta,6,Sí,2023-06-26,Prueba nueva marca,TikTok
-1436,63,Táchira,Grasosa,Canela,Rímel,Natura,16.5,Efectivo,,6,Sí,2022-08-25,Regalo,WhatsApp
-1437,33,Miranda,Sensible,Canela,Labial Mate,Belcorp,48.97,Zelle,Frecuente,5,No,2022-10-06,Reemplazo,WhatsApp
-1438,31,Lara,Mixta,Canela,Paleta Sombras,Natura,42.94,Zelle,Ocasional,5,Sí,2022-12-14,,Facebook
-1439,29,Caracas,Grasa,Miel Claro,Rubor en Crema,,50.86,Zelle,Frecuente,2,No,2023-09-19,Reemplazo,TikTok
-1440,68,Bolívar,Mixta,Ébano,Paleta Sombras,,6.36,ZELLE,Frecuente,8,No,2022-04-14,Regalo,WhatsApp
-1441,40,Bolívar,Grasosa,Canela,Rímel,,70.41,Efectivo,Frecuente,8,Sí,2023-09-22,Autoregalo,WhatsApp
-1442,32,Bolívar,Grasosa,Canela,Base Líquida,Natura,74.91,ZELLE,Adicta,1,No,2023-06-01,Reemplazo,Facebook
-1443,45,Anzoátegui,Grasa,Miel Claro,Base Líquida,Belcorp,47.38,Binance,,8,No,2022-09-05,Regalo,Facebook
-1444,51,Anzoátegui,Grasosa,Canela Oscuro,Rímel,Belcorp,57.25,Efectivo,Primera vez,5,No,2022-12-30,,Facebook
-1445,19,Lara,Seca,Ébano,Paleta Sombras,Natura,74.19,Zelle,Ocasional,2,Sí,2022-11-17,Regalo,Instagram
-1446,49,Bolívar,Grasa,Canela,Base Líquida,Fenty Beauty,58.04,Transferencia,,2,No,2023-09-25,,Facebook
-1447,40,Anzoátegui,Mixta,Café,Rímel,Belcorp,16.44,Zelle,Ocasional,6,Sí,2022-10-13,Autoregalo,Facebook
-1448,39,Zulia,Mixta,Trigo,Rubor en Crema,Belcorp,48.22,ZELLE,Ocasional,9,No,2022-05-29,Reemplazo,Facebook
-1449,68,Miranda,Sensible,Canela Oscuro,Base Líquida,Natura,50.5,Zelle,Ocasional,1,Si,2022-03-25,Regalo,WhatsApp
-1450,42,Bolívar,Sensible,Ébano,Labial Mate,Kryolan,36.81,Efectivo,Primera vez,6,No,2023-02-10,,Facebook
-1451,39,Miranda,Grasosa,Miel Claro,Base Líquida,Belcorp,60.23,Zelle,Ocasional,9,Sí,2023-04-01,Autoregalo,Instagram
-1452,39,Zulia,Mixta,Café,Rímel,Belcorp,75.08,Transferencia,,8,Sí,2024-01-13,Autoregalo,Instagram
-1453,66,Táchira,Sensible,Ébano,Rímel,Belcorp,74.42,Binance,,6,Sí,2024-03-10,Prueba nueva marca,WhatsApp
-1454,69,Lara,Grasosa,Canela,Base Líquida,Belcorp,38.81,ZELLE,Primera vez,3,Sí,2022-06-10,,WhatsApp
-1455,59,Táchira,Grasosa,Canela Oscuro,Labial Mate,Belcorp,13.49,Binance,Adicta,8,No,2024-02-23,,Facebook
-1456,23,Bolívar,Grasa,Ébano,Rímel,Natura,78.86,Zelle,Ocasional,9,No,2023-04-05,Autoregalo,TikTok
-1457,32,Bolívar,Grasa,Café,Rubor en Crema,Fenty Beauty,67.92,Transferencia,Ocasional,1,No,2023-07-04,Autoregalo,TikTok
-1458,60,Caracas,Grasa,Café,Base Líquida,Natura,14.35,Transferencia,,9,No,2023-05-15,Prueba nueva marca,WhatsApp
-1459,54,Miranda,Mixta,Canela,Labial Mate,Kryolan,74.06,Transferencia,Ocasional,6,No,2024-01-08,Regalo,WhatsApp
-1460,50,Caracas,Sensible,Café,Paleta Sombras,Belcorp,70.24,Zelle,Adicta,6,No,2023-05-24,Regalo,Instagram
-1461,25,Táchira,Grasosa,Trigo,Labial Mate,Belcorp,43.91,Zelle,Adicta,4,Sí,2023-10-16,,TikTok
-1462,61,Bolívar,Seca,Miel Claro,Rímel,Natura,49.35,Transferencia,Frecuente,1,No,2023-04-26,Reemplazo,WhatsApp
-1463,61,Lara,Mixta,Ébano,Rubor en Crema,Belcorp,34.93,ZELLE,Frecuente,10,No,2023-10-25,Prueba nueva marca,WhatsApp
-1464,22,Táchira,Seca,Trigo,Rímel,Belcorp,9.11,Efectivo,,8,No,2022-04-24,Autoregalo,TikTok
-1465,56,Miranda,Seca,Café,Paleta Sombras,Chanel,30.14,Efectivo,Primera vez,2,Sí,2024-01-19,Autoregalo,Facebook
-1466,21,Táchira,Mixta,Café,Labial Mate,Natura,65.21,Transferencia,,1,Sí,2023-08-01,Autoregalo,TikTok
-1467,23,Caracas,Grasa,Trigo,Labial Mate,,5.35,ZELLE,,2,Sí,2022-12-27,Prueba nueva marca,Instagram
-1468,62,Caracas,Sensible,Canela,Base Líquida,Belcorp,30.01,Efectivo,,1,No,2022-12-07,Autoregalo,WhatsApp
-1469,49,Táchira,Sensible,Canela,Base Líquida,Belcorp,34.86,Binance,Adicta,1,Sí,2024-02-09,Regalo,Instagram
-1470,69,Miranda,Grasosa,Trigo,Base Líquida,Natura,45.3,Transferencia,,9,Sí,2024-01-31,Regalo,WhatsApp
-1471,47,Bolívar,Grasa,Trigo,Base Líquida,Chanel,73.99,ZELLE,Adicta,1,No,2023-03-25,Autoregalo,Instagram
-1472,64,Anzoátegui,Sensible,Canela Oscuro,Rímel,Belcorp,30.98,Efectivo,Ocasional,4,Si,2022-06-29,Reemplazo,WhatsApp
-1473,52,Zulia,Sensible,Ébano,Labial Mate,Natura,31.02,ZELLE,Adicta,10,Sí,2023-12-03,Autoregalo,WhatsApp
-1474,57,Zulia,Mixta,Café,Rubor en Crema,Belcorp,60.31,Binance,,6,Si,2023-02-11,Reemplazo,WhatsApp
-1475,69,Bolívar,Grasa,Canela Oscuro,Labial Mate,Belcorp,38.92,ZELLE,Adicta,7,Si,2023-10-28,Autoregalo,WhatsApp
-1476,33,Caracass,Mixta,Canela,Paleta Sombras,Kryolan,21.85,ZELLE,Frecuente,2,Si,2022-07-15,Reemplazo,Instagram
-1477,30,Anzoátegui,Grasa,Café,Rímel,,38.93,Transferencia,,6,Sí,2023-04-11,Autoregalo,Facebook
-1478,67,Lara,Sensible,Miel Claro,Base Líquida,,15.56,Binance,Adicta,7,Sí,2022-11-07,Auto-regalo,Facebook
-1479,59,Bolívar,Grasosa,Miel Claro,Labial Mate,Belcorp,18.23,Efectivo,,10,Sí,2022-09-19,Regalo,Facebook
-1480,47,Zulia,Grasosa,Canela,Rímel,Belcorp,42.38,Zelle,Adicta,10,Sí,2023-02-23,Regalo,Instagram
-1481,36,Anzoátegui,Grasa,Ébano,Rímel,Chanel,36.42,Binance,Adicta,2,No,2023-02-10,Auto-regalo,Instagram
-1482,34,Anzoátegui,Mixta,Canela,Rubor en Crema,Fenty Beauty,73.61,Transferencia,Primera vez,2,No,2022-05-23,Autoregalo,Facebook
-1483,36,Lara,Mixta,Miel Claro,Rímel,Fenty Beauty,32.18,Transferencia,Primera vez,10,No,2022-12-08,Prueba nueva marca,WhatsApp
-1484,45,Zuila,Seca,Canela,Labial Mate,Natura,48.54,Zelle,Frecuente,7,No,2022-11-12,Reemplazo,Instagram
-1485,43,Bolívar,Grasa,Canela,Rubor en Crema,Kryolan,52.42,Efectivo,Frecuente,1,Si,2022-04-11,Autoregalo,Instagram
-1486,54,Lara,Mixta,Canela Oscuro,Rubor en Crema,Natura,5.98,Transferencia,Frecuente,8,No,2022-09-01,Prueba nueva marca,WhatsApp
-1487,43,Caracas,Seca,Canela Oscuro,Labial Mate,Belcorp,54.77,Efectivo,Ocasional,3,No,2023-05-05,Regalo,Facebook
-1488,40,Bolívar,Sensible,Miel Claro,Rímel,Natura,18.35,Binance,Ocasional,6,No,2022-01-12,Reemplazo,Facebook
-1489,26,Miranda,Grasosa,Ébano,Labial Mate,Belcorp,77.08,Binance,,9,Sí,2022-08-27,Autoregalo,Instagram
-1490,29,Zulia,Mixta,Café,Rímel,Belcorp,16.15,Efectivo,Adicta,6,Sí,2023-07-15,Autoregalo,TikTok
-1491,18,Caracas,Grasa,Canela,Rubor en Crema,Belcorp,36.1,ZELLE,Frecuente,9,Sí,2022-02-11,Reemplazo,TikTok
-1492,18,Zulia,Grasosa,Canela Oscuro,Labial Mate,Belcorp,11.4,Binance,Primera vez,7,Sí,2023-11-09,Autoregalo,WhatsApp
-1493,64,Bolívar,Sensible,Café,Rímel,Fenty Beauty,79.77,Efectivo,Adicta,9,Sí,2023-08-17,Prueba nueva marca,WhatsApp
-1494,51,Lara,Grasa,Ébano,Base Líquida,Belcorp,42.66,ZELLE,Frecuente,2,Si,2023-03-05,Regalo,WhatsApp
-1495,49,Táchira,Grasa,Trigo,Labial Mate,Natura,49.65,Zelle,Primera vez,8,Sí,2022-06-07,Regalo,Facebook
-1496,65,Miranda,Mixta,Canela Oscuro,Paleta Sombras,Kryolan,10.03,Binance,Frecuente,8,Sí,2022-08-04,Regalo,Facebook
-1497,42,Lara,Sensible,Miel Claro,Rímel,Belcorp,61.25,Zelle,Primera vez,2,Sí,2023-11-01,Regalo,WhatsApp
-1498,57,Bolívar,Seca,Canela,Rubor en Crema,Fenty Beauty,20.74,Transferencia,,4,No,2023-04-07,Regalo,WhatsApp
-1499,62,Bolívar,Grasa,Ébano,Paleta Sombras,Natura,72.35,ZELLE,Adicta,7,No,2022-05-14,,Facebook
-1500,18,Zulia,Sensible,Canela,Rímel,Belcorp,20.39,Transferencia,Primera vez,4,Sí,2022-03-08,,TikTok
-1501,33,Zulia,Seca,Canela Oscuro,Labial Mate,Natura,19.3,Binance,Adicta,4,No,2022-01-07,,WhatsApp
-1502,56,Bolívar,Grasosa,Café,Paleta Sombras,Belcorp,7.74,ZELLE,Adicta,6,Si,2023-06-10,Autoregalo,Facebook
-1503,22,Bolívar,Mixta,Ébano,Base Líquida,Belcorp,40.41,ZELLE,Adicta,10,Sí,2022-03-14,Regalo,Instagram
-1504,39,Táchira,Seca,Café,Rubor en Crema,Belcorp,47.36,ZELLE,Frecuente,6,Sí,2023-02-03,Regalo,Facebook
-1505,46,Táchira,Seca,Café,Rímel,Belcorp,9.93,Transferencia,Primera vez,10,Sí,2023-02-09,Regalo,TikTok
-1506,20,Bolívar,Grasa,Trigo,Labial Mate,Belcorp,63.16,Zelle,Frecuente,3,Sí,2023-11-06,,Instagram
-1507,29,Miranda,Seca,Trigo,Base Líquida,Fenty Beauty,39.0,Transferencia,Frecuente,9,No,2023-08-01,Reemplazo,TikTok
-1508,43,Caracas,Grasosa,Miel Claro,Labial Mate,Belcorp,44.33,Zelle,,10,Sí,2022-05-10,Autoregalo,WhatsApp
-1509,33,Anzoátegui,Seca,Trigo,Rímel,Natura,38.06,Zelle,Frecuente,2,No,2023-04-11,,Facebook
-1510,68,Caracass,Grasosa,Ébano,Rímel,Belcorp,35.06,ZELLE,Frecuente,6,No,2022-07-25,Autoregalo,Facebook
-1511,54,Zulia,Mixta,Trigo,Rímel,Natura,46.97,Efectivo,Ocasional,7,Sí,2024-02-27,,WhatsApp
-1512,39,Táchira,Mixta,Canela Oscuro,Paleta Sombras,Belcorp,16.64,Binance,,9,No,2024-02-07,Reemplazo,Instagram
-1513,46,Caracas,Seca,Canela Oscuro,Rímel,Belcorp,18.64,Zelle,,3,Sí,2022-09-23,Autoregalo,Instagram
-1514,31,Anzoátegui,Sensible,Trigo,Labial Mate,Belcorp,69.63,ZELLE,Frecuente,10,Sí,2023-06-21,Reemplazo,Facebook
-1515,45,Anzoátegui,Grasa,Café,Rímel,Belcorp,75.96,Transferencia,Primera vez,3,Si,2024-03-03,Autoregalo,Facebook
-1516,22,Caracas,Mixta,Miel Claro,Base Líquida,Belcorp,33.0,Binance,Ocasional,7,Si,2022-09-10,Auto-regalo,TikTok
-1517,64,Miranda,Seca,Canela,Labial Mate,Belcorp,25.31,Zelle,Frecuente,4,No,2022-10-16,Regalo,WhatsApp
-1518,66,Caracas,Seca,Ébano,Labial Mate,Natura,53.3,ZELLE,Primera vez,8,Si,2022-06-13,Regalo,WhatsApp
-1519,47,Caracas,Grasa,Miel Claro,Paleta Sombras,Belcorp,35.66,ZELLE,Adicta,7,No,2022-04-05,Autoregalo,Instagram
-1520,63,Lara,Seca,Trigo,Labial Mate,Kryolan,6.9,Efectivo,Primera vez,5,No,2024-02-21,Regalo,WhatsApp
-1521,69,Miranda,Mixta,Café,Base Líquida,Natura,16.71,Binance,Adicta,7,Si,2022-04-20,Prueba nueva marca,WhatsApp
-1522,22,Lara,Grasosa,Canela Oscuro,Base Líquida,Natura,58.7,Binance,,3,No,2022-12-02,Reemplazo,Instagram
-1523,29,Anzoátegui,Seca,Ébano,Rubor en Crema,Fenty Beauty,54.42,ZELLE,Frecuente,2,Sí,2022-08-26,Regalo,TikTok
-1524,33,Bolívar,Grasosa,Trigo,Base Líquida,Belcorp,7.03,Transferencia,Primera vez,6,Sí,2023-01-16,Regalo,WhatsApp
-1525,43,Anzoátegui,Mixta,Ébano,Rímel,Belcorp,21.65,Efectivo,Adicta,2,Sí,2023-03-12,Regalo,WhatsApp
-1526,43,Lara,Seca,Ébano,Base Líquida,,22.33,Zelle,Frecuente,3,Sí,2023-04-28,Reemplazo,Instagram
-1527,65,Miranda,Sensible,Ébano,Base Líquida,Belcorp,55.39,Binance,Frecuente,6,Sí,2022-01-25,Reemplazo,WhatsApp
-1528,38,Zulia,Sensible,Café,Rubor en Crema,Natura,6.48,Zelle,,5,Si,2023-10-15,Reemplazo,WhatsApp
-1529,56,Anzoátegui,Grasa,Trigo,Base Líquida,Belcorp,12.81,Transferencia,Adicta,8,Sí,2022-04-27,Reemplazo,WhatsApp
-1530,53,Anzoátegui,Grasosa,Miel Claro,Rímel,,64.99,ZELLE,Primera vez,9,Sí,2023-04-27,Autoregalo,WhatsApp
-1531,50,Zulia,Seca,Canela Oscuro,Base Líquida,Natura,18.39,Efectivo,Ocasional,3,Sí,2023-01-27,Autoregalo,Facebook
-1532,47,Caracas,Sensible,Canela Oscuro,Base Líquida,Natura,53.96,Zelle,Ocasional,10,Sí,2023-06-21,Regalo,Instagram
-1533,54,Anzoátegui,Grasa,Canela,Paleta Sombras,Fenty Beauty,22.86,Efectivo,,3,No,2022-03-20,Reemplazo,WhatsApp
-1534,40,Miranda,Mixta,Canela Oscuro,Base Líquida,Natura,12.46,Binance,Ocasional,3,Sí,2023-08-03,Regalo,Instagram
-1535,27,Bolívar,Sensible,Ébano,Paleta Sombras,Fenty Beauty,23.24,ZELLE,Adicta,6,Sí,2022-06-22,Reemplazo,WhatsApp
-1536,22,Zulia,Mixta,Trigo,Paleta Sombras,Kryolan,59.17,Zelle,Ocasional,1,Sí,2022-01-12,Autoregalo,Instagram
-1537,53,Anzoátegui,Seca,Canela Oscuro,Base Líquida,Natura,69.18,Binance,Frecuente,7,Sí,2024-03-10,Autoregalo,WhatsApp
-1538,51,Zulia,Grasosa,Canela Oscuro,Paleta Sombras,Natura,67.27,Transferencia,,1,No,2022-05-08,,WhatsApp
-1539,69,Anzoátegui,Mixta,Canela Oscuro,Paleta Sombras,Fenty Beauty,34.79,Transferencia,Frecuente,5,Sí,2023-08-31,,Facebook
-1540,48,Caracas,Mixta,Ébano,Rímel,Chanel,55.11,ZELLE,Primera vez,10,Si,2022-04-02,Prueba nueva marca,Instagram
-1541,27,Táchira,Sensible,Trigo,Base Líquida,Belcorp,20.37,Transferencia,,8,Sí,2023-10-15,,TikTok
-1542,36,Caracas,Seca,Trigo,Rubor en Crema,Chanel,26.99,Binance,Adicta,4,No,2023-06-27,Reemplazo,Facebook
-1543,49,Caracas,Grasa,Canela Oscuro,Base Líquida,Natura,72.23,Binance,Ocasional,5,No,2023-06-16,Regalo,WhatsApp
-1544,18,Zulia,Mixta,Café,Rímel,Kryolan,5.98,Transferencia,Primera vez,4,Sí,2023-10-20,Prueba nueva marca,Instagram
-1545,22,Zulia,Mixta,Trigo,Rubor en Crema,Fenty Beauty,11.41,Binance,Adicta,4,No,2023-03-23,Autoregalo,Instagram
-1546,62,Miranda,Sensible,Canela Oscuro,Rubor en Crema,Natura,20.59,Efectivo,,8,Sí,2023-01-25,,Facebook
-1547,21,Anzoátegui,Mixta,Ébano,Labial Mate,Natura,6.99,Transferencia,Ocasional,2,No,2023-11-03,Regalo,TikTok
-1548,33,Miranda,Mixta,Trigo,Paleta Sombras,Natura,18.61,Binance,,1,No,2022-02-12,Regalo,Instagram
-1549,41,Miranda,Grasosa,Canela Oscuro,Rubor en Crema,Natura,48.73,Zelle,Frecuente,3,No,2022-09-11,Reemplazo,Facebook
-1550,33,Táchira,Mixta,Trigo,Base Líquida,Belcorp,36.61,Binance,Frecuente,9,Sí,2022-05-10,,Facebook
-1021,61,Bolívar,Sensible,Ébano,Base Líquida,Belcorp,28.92,Transferencia,,8,No,2022-01-21,Reemplazo,Wspp
-1541,27,Táchira,Sensible,Trigo,Base Líquida,Belcorp,20.37,Transferencia,,8,Sí,2023-10-15,,TikTok
-1238,19,Zulia,Sensible,Café,Base Líquida,Natura,18.64,Transferencia,Frecuente,7,Si,2022-11-22,,TikTok
-1140,52,Táchira,Sensible,Canela Oscuro,Rubor en Crema,Belcorp,39.78,ZELLE,,7,Sí,2022-12-18,Prueba nueva marca,Facebook
-1510,68,Caracass,Grasosa,Ébano,Rímel,Belcorp,35.06,ZELLE,Frecuente,6,No,2022-07-25,Autoregalo,Facebook
-1150,44,Anzoátegui,Seca,Miel Claro,Rímel,,56.35,Zelle,Adicta,10,Si,2023-03-03,Prueba nueva marca,WhatsApp
-1445,19,Lara,Seca,Ébano,Paleta Sombras,Natura,74.19,Zelle,Ocasional,2,Sí,2022-11-17,Regalo,Instagram
-1243,49,Zuila,Grasa,Trigo,Paleta Sombras,Belcorp,17.92,Efectivo,Frecuente,6,No,2023-02-11,Reemplazo,Facebook
-1433,37,Caracas,Sensible,Trigo,Rímel,Belcorp,35.06,Transferencia,,6,No,2023-05-30,Reemplazo,Instagram
-1194,18,Lara,Grasosa,Trigo,Rubor en Crema,Belcorp,44.02,Binance,Frecuente,7,No,2023-02-01,Reemplazo,Instagram
+1001,56,Zulia,Mixta,Café,Paleta Sombras,Belcorp,53.18,Zelle,Adicta,2,No,2023-02-24,Auto-regalo,WhatsApp
+1002,69,Lara,Grasa,Canela,Paleta Sombras,Belcorp,6.99,Transferencia,Ocasional,1,No,2022-09-07,Prueba nueva marca,WhatsApp
+1003,46,Zulia,Grasosa,Café,Paleta Sombras,Belcorp,48.93,Transferencia,Adicta,5,No,2022-04-27,Reemplazo,Facebook
+1004,32,Anzoátegui,Grasa,Trigo,Labial Mate,Belcorp,75.52,Binance,Frecuente,4,Si,2023-05-27,Regalo,Instagram
+1005,60,Anzoátegui,Mixta,Café,Rubor en Crema,Fenty Beauty,48.16,Transferencia,,10,No,2024-01-10,Regalo,WhatsApp
+1006,25,Bolívar,Grasosa,Trigo,Base Líquida,Belcorp,34.11,Binance,Frecuente,2,Sí,2023-08-01,Regalo,TikTok
+1007,38,Zulia,Sensible,Canela,Paleta Sombras,Belcorp,53.25,Binance,,3,Si,2022-12-01,Prueba nueva marca,TikTok
+1008,56,Zulia,Sensible,Miel Claro,Rímel,Natura,39.37,Transferencia,Ocasional,7,Sí,2023-02-22,Auto-regalo,WhatsApp
+1009,36,Miranda,Grasa,Café,Rímel,Natura,45.92,Transferencia,Ocasional,7,Si,2024-02-13,Autoregalo,Instagram
+1010,40,Bolívar,Seca,Ébano,Rímel,Kryolan,75.61,Transferencia,,4,Sí,2022-10-22,Prueba nueva marca,TikTok
+1011,28,Miranda,Grasosa,Canela,Paleta Sombras,Natura,33.96,Efectivo Bs,Ocasional,5,Si,2024-01-25,Auto-regalo,TikTok
+1012,28,Lara,Grasa,Canela Oscuro,Rímel,Fenty Beauty,77.09,Transferencia,Frecuente,5,Sí,2023-01-06,Auto-regalo,TikTok
+1013,41,Zuila,Grasosa,Café,Rubor en Crema,Belcorp,72.9,Zelle,,6,No,2022-07-05,Auto-regalo,Facebook
+1014,53,Lara,Mixta,Canela Oscuro,Base Líquida,Belcorp,19.68,Efectivo Bs,Frecuente,9,No,2022-09-03,Auto-regalo,WhatsApp
+1015,57,Anzoátegui,Seca,Trigo,Base Líquida,Belcorp,10.2,Zelle,,2,No,2023-09-29,,WhatsApp
+1016,41,Bolívar,Sensible,Miel Claro,Rubor en Crema,Chanel,12.56,Efectivo Bs,,5,No,2022-09-25,Auto-regalo,Instagram
+1017,20,Caracas,Mixta,Café,Rubor en Crema,,6.37,ZELLE,Adicta,3,Sí,2023-10-05,Regalo,TikTok
+1018,39,Caracas,Grasa,Trigo,Paleta Sombras,Belcorp,12.08,Zelle,Adicta,4,Sí,2022-08-25,Prueba nueva marca,Instagram
+1019,19,Bolívar,Seca,Canela,Paleta Sombras,Belcorp,56.23,Transferencia,Primera vez,10,No,2023-06-14,Regalo,WhatsApp
+1020,41,Lara,Seca,Ébano,Base Líquida,Belcorp,10.34,Efectivo Bs,Frecuente,6,No,2023-07-06,Regalo,WhatsApp
+1021,61,Lara,Sensible,Canela,Rubor en Crema,Natura,28.92,Efectivo Bs,Primera vez,8,Sí,2022-01-21,Reemplazo,FB
+1022,47,Lara,Grasosa,Canela Oscuro,Labial Mate,Belcorp,68.37,Efectivo Bs,Adicta,1,No,2024-01-07,Regalo,IG
+1023,55,Caracas,Sensible,Canela,Rímel,Belcorp,6.75,Transferencia,Primera vez,10,No,2024-03-04,Reemplazo,FB
+1024,19,Bolívar,Sensible,Canela Oscuro,Base Líquida,Natura,66.09,Transferencia,Frecuente,8,Sí,2023-06-04,Prueba nueva marca,IG
+1025,38,Anzoátegui,Mixta,Trigo,Base Líquida,Belcorp,26.14,Efectivo Bs,Ocasional,7,Sí,2022-04-10,Regalo,Wspp
+1026,50,Táchira,Grasosa,Ébano,Base Líquida,Belcorp,13.86,Binance,Ocasional,1,Sí,2024-01-22,Regalo,Wspp
+1027,29,Zulia,Grasosa,Canela Oscuro,Base Líquida,Fenty Beauty,57.26,Binance,Ocasional,2,Si,2023-04-23,Autoregalo,Instagram
+1028,39,Caracas,Seca,Canela Oscuro,Paleta Sombras,Belcorp,52.17,Efectivo Bs,,3,Sí,2023-08-22,Regalo,Facebook
+1029,61,Zulia,Seca,Canela Oscuro,Labial Mate,Belcorp,70.81,Efectivo Bs,Primera vez,1,Sí,2022-10-25,Reemplazo,WhatsApp
+1030,42,Táchira,Mixta,Canela Oscuro,Base Líquida,Chanel,60.13,Zelle,Ocasional,9,No,2023-06-10,Autoregalo,Facebook
+1031,66,Caracas,Seca,Café,Labial Mate,Belcorp,65.26,ZELLE,Primera vez,8,No,2022-11-30,Reemplazo,WhatsApp
+1032,44,Bolívar,Mixta,Trigo,Rímel,,26.15,Transferencia,Adicta,2,Sí,2022-01-02,Reemplazo,WhatsApp
+1033,59,Lara,Grasa,Café,Labial Mate,Belcorp,18.31,Zelle,Primera vez,9,No,2023-01-10,,Facebook
+1034,45,Bolívar,Grasosa,Canela,Base Líquida,Belcorp,61.3,Efectivo Bs,,7,Sí,2022-10-20,Autoregalo,Instagram
+1035,33,Miranda,Mixta,Ébano,Rímel,Natura,65.51,Efectivo Bs,Ocasional,9,Si,2023-07-07,Regalo,Facebook
+1036,32,Táchira,Mixta,Canela Oscuro,Rímel,Belcorp,79.29,Transferencia,Adicta,6,No,2022-11-14,Autoregalo,Facebook
+1037,64,Lara,Sensible,Canela,Rímel,Belcorp,35.95,ZELLE,,6,Sí,2023-05-17,Regalo,WhatsApp
+1038,68,Miranda,Mixta,Canela,Base Líquida,Fenty Beauty,32.9,ZELLE,,4,Si,2023-01-16,Regalo,WhatsApp
+1039,61,Miranda,Mixta,Ébano,Rubor en Crema,Belcorp,63.23,Zelle,Ocasional,10,No,2023-09-15,Reemplazo,WhatsApp
+1040,69,Caracas,Mixta,Canela,Paleta Sombras,Natura,30.56,Transferencia,Adicta,10,No,2022-01-14,,Facebook
+1041,20,Caracas,Grasa,Miel Claro,Paleta Sombras,Belcorp,74.81,Efectivo Bs,Frecuente,2,No,2023-05-19,Reemplazo,TikTok
+1042,54,Caracas,Grasa,Trigo,Labial Mate,Kryolan,69.38,Efectivo Bs,Primera vez,7,Si,2022-08-19,Regalo,WhatsApp
+1043,68,Zulia,Seca,Canela,Rubor en Crema,Fenty Beauty,37.17,Transferencia,Frecuente,5,Sí,2022-03-25,Regalo,WhatsApp
+1044,24,Táchira,Sensible,Trigo,Paleta Sombras,Belcorp,61.32,ZELLE,Ocasional,6,Sí,2022-05-10,Regalo,TikTok
+1045,38,Caracas,Grasa,Trigo,Rímel,Belcorp,61.59,ZELLE,Adicta,2,No,2024-01-13,Autoregalo,Facebook
+1046,26,Anzoátegui,Seca,Trigo,Rímel,Belcorp,12.73,Zelle,Adicta,5,No,2022-05-25,Regalo,WhatsApp
+1047,56,Miranda,Grasosa,Canela,Rímel,Natura,72.69,Zelle,,10,No,2022-01-28,Reemplazo,Facebook
+1048,35,Zulia,Mixta,Canela,Rubor en Crema,Natura,42.89,Efectivo Bs,Adicta,4,No,2022-03-07,Autoregalo,TikTok
+1049,21,Bolívar,Grasa,Ébano,Rímel,Fenty Beauty,66.98,Efectivo Bs,Adicta,9,Sí,2022-06-12,Regalo,TikTok
+1050,42,Bolívar,Grasa,Miel Claro,Rímel,Belcorp,29.0,Binance,Frecuente,6,Sí,2022-08-17,Regalo,Facebook
+1051,31,Anzoátegui,Grasosa,Ébano,Paleta Sombras,Belcorp,72.16,Zelle,Primera vez,2,Sí,2022-09-18,Regalo,Instagram
+1052,67,Lara,Grasosa,Canela Oscuro,Base Líquida,Natura,34.19,Transferencia,Frecuente,1,Sí,2023-03-25,Regalo,WhatsApp
+1053,26,Zulia,Mixta,Miel Claro,Paleta Sombras,Belcorp,5.81,Transferencia,Primera vez,5,Sí,2023-02-28,Autoregalo,Instagram
+1054,43,Anzoátegui,Grasosa,Miel Claro,Base Líquida,Kryolan,72.9,Efectivo Bs,Frecuente,9,Sí,2023-04-05,Auto-regalo,Facebook
+1055,19,Bolívar,Seca,Canela,Rímel,Kryolan,11.85,Efectivo Bs,,6,No,2023-11-07,Reemplazo,TikTok
+1056,37,Zulia,Grasa,Trigo,Paleta Sombras,Belcorp,28.95,ZELLE,Adicta,10,Si,2022-10-28,Autoregalo,Facebook
+1057,45,Miranda,Grasosa,Café,Labial Mate,Kryolan,76.25,Transferencia,Ocasional,7,Si,2022-10-30,Prueba nueva marca,Facebook
+1058,64,Miranda,Sensible,Canela Oscuro,Rímel,,76.3,Transferencia,,5,No,2022-10-14,,Facebook
+1059,24,Anzoátegui,Sensible,Canela Oscuro,Rímel,Natura,48.01,Transferencia,Frecuente,10,Si,2023-01-30,Reemplazo,TikTok
+1060,61,Lara,Sensible,Miel Claro,Labial Mate,,52.39,ZELLE,Ocasional,6,No,2022-01-10,,WhatsApp
+1061,25,Bolívar,Seca,Café,Rubor en Crema,Fenty Beauty,38.63,Efectivo Bs,,5,Sí,2023-12-08,Regalo,TikTok
+1062,64,Anzoátegui,Mixta,Café,Rubor en Crema,Fenty Beauty,26.99,ZELLE,Frecuente,9,No,2023-09-22,Autoregalo,WhatsApp
+1063,52,Caracas,Mixta,Café,Rubor en Crema,Belcorp,29.65,Efectivo Bs,Frecuente,6,Sí,2022-09-27,Autoregalo,Facebook
+1064,31,Táchira,Grasosa,Café,Paleta Sombras,Fenty Beauty,55.44,Efectivo Bs,Frecuente,8,Sí,2023-08-15,Regalo,WhatsApp
+1065,34,Lara,Grasa,Canela,Paleta Sombras,Belcorp,61.43,Efectivo Bs,Ocasional,2,Si,2023-08-28,Prueba nueva marca,TikTok
+1066,53,Zulia,Grasosa,Trigo,Rubor en Crema,Belcorp,64.37,Transferencia,Primera vez,9,No,2024-02-17,Regalo,Facebook
+1067,67,Caracas,Grasa,Canela,Rubor en Crema,Natura,64.22,Zelle,Primera vez,5,Sí,2022-12-27,Auto-regalo,WhatsApp
+1068,57,Táchira,Mixta,Ébano,Paleta Sombras,Natura,11.84,Transferencia,Adicta,7,Sí,2022-09-14,Autoregalo,WhatsApp
+1069,21,Anzoátegui,Grasa,Ébano,Paleta Sombras,Belcorp,42.08,ZELLE,,10,No,2022-05-13,Reemplazo,TikTok
+1070,19,Miranda,Seca,Trigo,Rubor en Crema,Belcorp,9.32,Binance,Frecuente,1,Sí,2022-10-03,Autoregalo,TikTok
+1071,23,Caracas,Grasa,Trigo,Rubor en Crema,Kryolan,46.21,Transferencia,Primera vez,10,Sí,2024-02-15,Regalo,Instagram
+1072,59,Caracas,Grasa,Ébano,Rímel,Natura,38.11,ZELLE,Primera vez,5,No,2023-11-14,Autoregalo,WhatsApp
+1073,21,Táchira,Sensible,Miel Claro,Labial Mate,Kryolan,71.58,Efectivo Bs,Adicta,10,Si,2023-05-28,Autoregalo,Facebook
+1074,46,Bolívar,Sensible,Canela Oscuro,Paleta Sombras,Natura,31.32,ZELLE,Frecuente,2,No,2022-11-09,Reemplazo,Facebook
+1075,35,Bolívar,Grasa,Café,Labial Mate,Kryolan,13.78,Zelle,Primera vez,6,No,2023-07-30,Prueba nueva marca,Instagram
+1076,43,Zulia,Grasosa,Canela Oscuro,Base Líquida,Fenty Beauty,15.72,Zelle,Ocasional,1,Si,2022-10-11,Autoregalo,Instagram
+1077,61,Miranda,Grasa,Miel Claro,Paleta Sombras,Belcorp,62.11,Efectivo Bs,Ocasional,3,No,2022-05-01,Autoregalo,Facebook
+1078,51,Caracas,Mixta,Miel Claro,Base Líquida,Belcorp,51.37,ZELLE,Ocasional,5,Si,2022-04-17,Autoregalo,WhatsApp
+1079,27,Miranda,Sensible,Ébano,Paleta Sombras,Natura,12.58,Efectivo Bs,Adicta,4,No,2023-11-18,Regalo,Instagram
+1080,53,Zulia,Mixta,Trigo,Labial Mate,Kryolan,11.31,Transferencia,,3,No,2022-07-23,,WhatsApp
+1081,31,Táchira,Grasa,Canela Oscuro,Paleta Sombras,Belcorp,57.57,Efectivo Bs,Primera vez,10,No,2022-06-14,Reemplazo,Instagram
+1082,48,Anzoátegui,Sensible,Miel Claro,Paleta Sombras,Natura,10.46,Transferencia,,5,No,2022-11-01,Autoregalo,Facebook
+1083,65,Zulia,Mixta,Ébano,Labial Mate,Belcorp,66.64,Binance,Adicta,8,No,2023-05-12,Regalo,Facebook
+1084,32,Táchira,Grasa,Trigo,Base Líquida,Chanel,57.97,Efectivo Bs,Ocasional,4,Sí,2023-09-24,Autoregalo,Instagram
+1085,25,Lara,Seca,Canela Oscuro,Paleta Sombras,Belcorp,11.1,Efectivo Bs,Frecuente,1,Sí,2023-07-10,,Instagram
+1086,31,Táchira,Mixta,Trigo,Labial Mate,Belcorp,11.36,ZELLE,Primera vez,7,Si,2022-06-05,Autoregalo,Facebook
+1087,40,Lara,Seca,Canela,Paleta Sombras,Natura,79.0,Binance,Frecuente,8,No,2023-01-02,Regalo,Facebook
+1088,57,Anzoátegui,Seca,Canela,Labial Mate,Belcorp,33.07,Efectivo Bs,Frecuente,3,No,2023-12-20,Regalo,Facebook
+1089,38,Caracas,Mixta,Canela Oscuro,Rímel,Kryolan,32.8,Efectivo Bs,Frecuente,6,Sí,2023-09-12,Autoregalo,Facebook
+1090,33,Bolívar,Seca,Ébano,Labial Mate,Natura,65.96,Transferencia,Ocasional,2,No,2022-09-08,Autoregalo,Facebook
+1091,62,Caracas,Mixta,Canela,Base Líquida,Natura,76.04,ZELLE,Adicta,7,No,2022-11-30,Autoregalo,WhatsApp
+1092,35,Zulia,Grasa,Canela,Labial Mate,Natura,78.95,Transferencia,Primera vez,8,No,2023-10-04,Regalo,TikTok
+1093,64,Lara,Sensible,Trigo,Rubor en Crema,Belcorp,61.5,Efectivo Bs,Ocasional,6,No,2023-05-26,Autoregalo,Facebook
+1094,41,Caracas,Mixta,Trigo,Labial Mate,,33.22,Efectivo Bs,,6,Sí,2022-10-20,,Facebook
+1095,43,Zulia,Mixta,Trigo,Base Líquida,Kryolan,11.26,ZELLE,Adicta,5,Sí,2022-01-20,,Facebook
+1096,42,Anzoátegui,Mixta,Miel Claro,Paleta Sombras,,63.29,Zelle,Adicta,8,Sí,2022-10-09,Autoregalo,Facebook
+1097,62,Zulia,Seca,Trigo,Rubor en Crema,Natura,46.88,Transferencia,,1,Sí,2024-03-07,,Facebook
+1098,58,Lara,Seca,Café,Paleta Sombras,,36.82,Efectivo Bs,,10,Sí,2022-01-01,,WhatsApp
+1099,46,Anzoátegui,Seca,Canela,Labial Mate,Chanel,72.98,ZELLE,Frecuente,4,No,2022-04-29,Reemplazo,Facebook
+1100,32,Bolívar,Seca,Trigo,Labial Mate,Natura,13.34,Efectivo Bs,Ocasional,4,Si,2022-02-04,Autoregalo,Facebook
+1101,62,Zulia,Grasosa,Café,Labial Mate,Kryolan,41.95,Zelle,Adicta,3,Si,2022-07-17,Regalo,WhatsApp
+1102,18,Caracas,Grasosa,Café,Rímel,Natura,5.85,Efectivo Bs,Frecuente,3,No,2023-04-30,Reemplazo,Instagram
+1103,42,Miranda,Grasa,Trigo,Paleta Sombras,Belcorp,40.15,Efectivo Bs,Primera vez,4,Sí,2024-01-27,Prueba nueva marca,Instagram
+1104,24,Lara,Seca,Canela,Paleta Sombras,Belcorp,9.22,Transferencia,,1,No,2022-02-28,Regalo,TikTok
+1105,26,Miranda,Sensible,Canela Oscuro,Labial Mate,Kryolan,13.91,Binance,Frecuente,2,No,2022-06-10,Autoregalo,TikTok
+1106,41,Miranda,Sensible,Canela,Labial Mate,Fenty Beauty,13.81,Transferencia,,9,No,2023-11-22,Regalo,Facebook
+1107,18,Táchira,Sensible,Canela,Paleta Sombras,,53.69,ZELLE,Primera vez,10,No,2022-07-25,,WhatsApp
+1108,61,Bolívar,Sensible,Canela Oscuro,Base Líquida,Natura,60.95,Efectivo Bs,Primera vez,2,No,2022-01-12,Regalo,WhatsApp
+1109,25,Miranda,Mixta,Café,Rímel,Belcorp,48.75,Efectivo Bs,Frecuente,5,Sí,2023-05-05,Reemplazo,Instagram
+1110,41,Bolívar,Sensible,Café,Rímel,Natura,77.16,Efectivo Bs,Primera vez,9,Si,2022-10-03,,Instagram
+1111,28,Bolívar,Grasosa,Ébano,Rímel,Belcorp,33.12,Efectivo Bs,Primera vez,9,Sí,2023-11-24,Autoregalo,TikTok
+1112,68,Miranda,Grasosa,Canela,Base Líquida,Belcorp,26.43,ZELLE,Primera vez,8,No,2022-08-30,Prueba nueva marca,WhatsApp
+1113,34,Caracas,Seca,Café,Paleta Sombras,Chanel,70.14,Efectivo Bs,,1,Sí,2022-08-04,Reemplazo,Facebook
+1114,25,Lara,Seca,Café,Rubor en Crema,Belcorp,21.77,Efectivo Bs,Adicta,1,Sí,2022-09-08,Reemplazo,Instagram
+1115,52,Zulia,Sensible,Canela Oscuro,Labial Mate,,77.24,Efectivo Bs,Adicta,9,Si,2022-05-06,Reemplazo,Facebook
+1116,52,Zulia,Sensible,Café,Rímel,Belcorp,5.91,Zelle,Primera vez,8,Sí,2022-08-05,Autoregalo,WhatsApp
+1117,50,Zulia,Grasosa,Canela Oscuro,Base Líquida,Belcorp,77.74,ZELLE,,10,No,2022-11-02,Autoregalo,Instagram
+1118,22,Bolívar,Mixta,Café,Rubor en Crema,Fenty Beauty,8.24,ZELLE,Primera vez,9,No,2024-03-07,Regalo,TikTok
+1119,59,Táchira,Grasosa,Ébano,Paleta Sombras,Belcorp,71.84,Zelle,Ocasional,7,No,2022-07-04,Reemplazo,TikTok
+1120,56,Zulia,Grasa,Canela,Rubor en Crema,Natura,44.58,Transferencia,Adicta,3,No,2022-02-08,Prueba nueva marca,Facebook
+1121,58,Táchira,Sensible,Canela Oscuro,Labial Mate,Belcorp,79.47,Transferencia,Primera vez,3,No,2022-08-11,Regalo,WhatsApp
+1122,45,Lara,Sensible,Ébano,Rubor en Crema,Belcorp,10.53,Transferencia,Frecuente,2,Si,2022-07-03,Regalo,TikTok
+1123,24,Bolívar,Mixta,Ébano,Paleta Sombras,Belcorp,46.54,Binance,Frecuente,5,Sí,2023-05-10,Regalo,Instagram
+1124,26,Miranda,Grasosa,Miel Claro,Rubor en Crema,Belcorp,77.7,Efectivo Bs,Primera vez,3,Si,2023-03-03,Regalo,TikTok
+1125,25,Caracas,Mixta,Café,Base Líquida,Natura,44.23,Transferencia,Primera vez,6,No,2022-06-27,Regalo,Instagram
+1126,29,Táchira,Seca,Canela,Rubor en Crema,Natura,52.2,Efectivo Bs,Adicta,2,Sí,2023-03-04,Autoregalo,Instagram
+1127,51,Lara,Seca,Trigo,Labial Mate,Chanel,57.18,ZELLE,Adicta,3,Sí,2022-10-21,Reemplazo,WhatsApp
+1128,50,Zulia,Seca,Café,Rubor en Crema,Fenty Beauty,39.09,Efectivo Bs,,5,Sí,2022-05-31,Autoregalo,Facebook
+1129,65,Zulia,Mixta,Canela Oscuro,Base Líquida,Belcorp,52.07,Efectivo Bs,Ocasional,1,Si,2023-01-19,,WhatsApp
+1130,40,Miranda,Mixta,Miel Claro,Rubor en Crema,Natura,48.82,Binance,Adicta,1,Si,2023-09-30,Regalo,WhatsApp
+1131,41,Lara,Grasa,Canela Oscuro,Base Líquida,Belcorp,72.59,Transferencia,Adicta,10,No,2022-11-04,,Facebook
+1132,54,Táchira,Grasa,Canela Oscuro,Labial Mate,Natura,8.41,Transferencia,Ocasional,9,Sí,2022-12-02,,WhatsApp
+1133,52,Anzoátegui,Grasa,Canela,Rubor en Crema,Belcorp,26.07,Efectivo Bs,Ocasional,7,Sí,2024-01-16,,WhatsApp
+1134,61,Lara,Grasa,Canela,Base Líquida,Kryolan,76.28,Efectivo Bs,,1,Si,2023-01-10,Autoregalo,WhatsApp
+1135,57,Bolívar,Grasosa,Miel Claro,Rímel,Natura,71.77,Binance,Ocasional,8,Sí,2022-01-08,Auto-regalo,WhatsApp
+1136,39,Bolívar,Grasosa,Café,Rubor en Crema,Belcorp,39.17,Transferencia,Adicta,3,Sí,2022-12-07,Auto-regalo,WhatsApp
+1137,44,Miranda,Grasa,Café,Rímel,Kryolan,51.51,Efectivo Bs,,8,No,2022-05-09,Regalo,Facebook
+1138,52,Caracas,Grasosa,Miel Claro,Labial Mate,,25.8,Binance,Ocasional,5,No,2024-02-15,Autoregalo,WhatsApp
+1139,18,Caracas,Seca,Trigo,Rímel,Belcorp,19.11,Transferencia,Primera vez,1,No,2023-10-31,Autoregalo,TikTok
+1140,52,Lara,Mixta,Miel Claro,Rímel,Belcorp,39.78,Efectivo Bs,,7,No,2022-12-18,Autoregalo,Facebook
+1141,54,Lara,Sensible,Miel Claro,Labial Mate,Natura,31.5,Efectivo Bs,,5,Sí,2022-12-24,Reemplazo,WhatsApp
+1142,64,Zulia,Grasosa,Café,Rubor en Crema,Natura,48.77,Efectivo Bs,,6,No,2023-06-01,Regalo,WhatsApp
+1143,31,Miranda,Seca,Café,Paleta Sombras,,10.83,Efectivo Bs,Primera vez,6,Sí,2023-05-10,Reemplazo,WhatsApp
+1144,20,Lara,Grasosa,Café,Rímel,Kryolan,78.08,Binance,,8,Sí,2022-03-27,Regalo,Instagram
+1145,18,Lara,Sensible,Trigo,Labial Mate,Belcorp,78.97,Transferencia,Ocasional,9,Si,2022-06-24,Regalo,Instagram
+1146,22,Miranda,Mixta,Canela,Base Líquida,Chanel,57.36,Binance,Adicta,2,Sí,2022-07-12,Prueba nueva marca,Facebook
+1147,43,Miranda,Grasa,Miel Claro,Labial Mate,Kryolan,45.21,Binance,Adicta,9,No,2022-11-07,Reemplazo,Facebook
+1148,31,Táchira,Grasosa,Canela Oscuro,Base Líquida,,28.21,Binance,,10,No,2022-04-29,Autoregalo,Instagram
+1149,56,Anzoátegui,Grasa,Canela Oscuro,Paleta Sombras,Natura,66.03,Binance,Ocasional,9,No,2022-08-06,Regalo,WhatsApp
+1150,44,Lara,Mixta,Canela,Rímel,Natura,56.35,Efectivo Bs,Ocasional,10,No,2023-03-03,Regalo,WhatsApp
+1151,26,Zulia,Mixta,Canela Oscuro,Rímel,Kryolan,17.2,Transferencia,Ocasional,10,Si,2023-02-18,Reemplazo,Instagram
+1152,32,Zulia,Grasa,Ébano,Rubor en Crema,Belcorp,73.32,Binance,Primera vez,7,No,2022-04-24,Autoregalo,Instagram
+1153,32,Caracas,Mixta,Ébano,Rímel,Fenty Beauty,66.69,Binance,Primera vez,1,Sí,2022-05-25,Autoregalo,Instagram
+1154,43,Lara,Seca,Trigo,Rímel,Belcorp,76.23,Efectivo Bs,Ocasional,7,Si,2023-06-22,Regalo,Facebook
+1155,59,Miranda,Grasosa,Canela Oscuro,Rubor en Crema,Natura,59.43,Transferencia,Primera vez,10,Sí,2023-10-10,Prueba nueva marca,WhatsApp
+1156,30,Caracas,Sensible,Canela Oscuro,Labial Mate,Belcorp,51.01,ZELLE,Primera vez,5,No,2022-10-30,Reemplazo,WhatsApp
+1157,68,Caracas,Grasa,Café,Base Líquida,Belcorp,36.37,Transferencia,Primera vez,6,Sí,2024-01-14,Prueba nueva marca,Instagram
+1158,49,Anzoátegui,Grasa,Canela Oscuro,Rubor en Crema,Fenty Beauty,74.95,Transferencia,,10,Sí,2023-08-11,Regalo,Facebook
+1159,56,Caracas,Grasosa,Canela,Base Líquida,Belcorp,69.95,ZELLE,Adicta,7,No,2022-12-11,Regalo,WhatsApp
+1160,66,Anzoátegui,Sensible,Canela,Base Líquida,Belcorp,8.39,ZELLE,Frecuente,5,No,2022-01-01,Prueba nueva marca,WhatsApp
+1161,69,Bolívar,Seca,Café,Paleta Sombras,Kryolan,6.98,Zelle,,7,Sí,2022-05-27,Regalo,Facebook
+1162,49,Miranda,Mixta,Ébano,Base Líquida,Kryolan,33.23,Binance,Primera vez,9,No,2022-10-14,Reemplazo,WhatsApp
+1163,21,Lara,Mixta,Trigo,Rubor en Crema,Natura,65.79,Efectivo Bs,Adicta,3,Sí,2023-10-16,Autoregalo,TikTok
+1164,47,Táchira,Mixta,Miel Claro,Base Líquida,Belcorp,79.05,Binance,Frecuente,8,No,2022-02-22,Regalo,Instagram
+1165,54,Lara,Grasosa,Café,Labial Mate,Belcorp,16.28,Binance,Primera vez,2,Sí,2022-10-31,Prueba nueva marca,Facebook
+1166,40,Caracas,Mixta,Miel Claro,Labial Mate,Natura,49.56,Transferencia,,7,Sí,2022-03-10,Auto-regalo,Instagram
+1167,56,Zulia,Sensible,Canela,Rímel,Belcorp,33.57,ZELLE,,2,Sí,2022-12-27,Reemplazo,WhatsApp
+1168,62,Lara,Grasa,Café,Base Líquida,Belcorp,77.74,Efectivo Bs,Primera vez,4,No,2023-08-25,Reemplazo,WhatsApp
+1169,32,Caracas,Mixta,Miel Claro,Base Líquida,Natura,68.16,Zelle,Frecuente,7,Sí,2022-08-08,Reemplazo,Instagram
+1170,60,Lara,Grasosa,Canela Oscuro,Rubor en Crema,Belcorp,67.87,Efectivo Bs,,3,No,2023-12-05,Regalo,WhatsApp
+1171,46,Lara,Sensible,Trigo,Rímel,Natura,40.15,Efectivo Bs,Adicta,2,No,2023-07-29,Regalo,Instagram
+1172,53,Zulia,Grasa,Canela Oscuro,Rubor en Crema,Fenty Beauty,36.11,Binance,Adicta,10,No,2023-08-08,Prueba nueva marca,WhatsApp
+1173,30,Caracas,Grasosa,Ébano,Base Líquida,Belcorp,25.51,Binance,Primera vez,7,Sí,2022-06-10,Autoregalo,Instagram
+1174,49,Lara,Grasa,Miel Claro,Rímel,Belcorp,9.23,Binance,Frecuente,1,No,2023-11-12,Regalo,Instagram
+1175,24,Lara,Grasosa,Canela Oscuro,Rubor en Crema,Belcorp,69.85,Transferencia,,8,No,2022-03-30,Reemplazo,Instagram
+1176,68,Táchira,Sensible,Miel Claro,Paleta Sombras,Belcorp,65.97,ZELLE,Primera vez,3,Sí,2023-11-19,Autoregalo,WhatsApp
+1177,39,Anzoátegui,Seca,Canela Oscuro,Rímel,Natura,79.98,Binance,Frecuente,2,Sí,2024-02-20,Autoregalo,Facebook
+1178,45,Miranda,Seca,Trigo,Labial Mate,Natura,79.75,Binance,Frecuente,3,Sí,2023-08-08,,Facebook
+1179,19,Zulia,Seca,Café,Base Líquida,Belcorp,46.66,Transferencia,Primera vez,5,Sí,2024-01-27,Prueba nueva marca,TikTok
+1180,59,Zulia,Seca,Canela Oscuro,Rímel,Belcorp,62.67,Efectivo Bs,Primera vez,8,Sí,2023-08-12,,Facebook
+1181,62,Anzoátegui,Grasa,Café,Base Líquida,Belcorp,75.86,Efectivo Bs,Primera vez,10,No,2022-06-08,Autoregalo,TikTok
+1182,23,Lara,Grasosa,Canela Oscuro,Labial Mate,Fenty Beauty,68.72,Efectivo Bs,Primera vez,7,Sí,2023-05-04,Regalo,TikTok
+1183,45,Zulia,Sensible,Ébano,Rímel,Natura,23.55,Efectivo Bs,Ocasional,7,Sí,2022-11-20,Regalo,Facebook
+1184,45,Zuila,Sensible,Trigo,Labial Mate,Belcorp,38.79,Efectivo Bs,Frecuente,7,No,2023-09-02,Reemplazo,WhatsApp
+1185,61,Táchira,Sensible,Canela,Rímel,Fenty Beauty,14.69,Transferencia,Ocasional,8,Sí,2023-01-16,Regalo,WhatsApp
+1186,61,Caracas,Mixta,Canela,Base Líquida,Natura,76.55,Efectivo Bs,Frecuente,1,No,2022-04-12,,WhatsApp
+1187,37,Lara,Sensible,Canela,Base Líquida,Fenty Beauty,50.46,Efectivo Bs,Ocasional,4,Sí,2023-05-09,Autoregalo,Instagram
+1188,47,Anzoátegui,Mixta,Miel Claro,Paleta Sombras,Fenty Beauty,22.15,Binance,Frecuente,6,No,2023-10-06,Regalo,Instagram
+1189,28,Zulia,Seca,Canela,Labial Mate,,55.38,Zelle,,9,Sí,2023-09-06,Reemplazo,TikTok
+1190,45,Anzoátegui,Sensible,Trigo,Base Líquida,Kryolan,51.36,ZELLE,Primera vez,2,Si,2022-01-19,Auto-regalo,Facebook
+1191,42,Táchira,Seca,Trigo,Rubor en Crema,Kryolan,31.86,Efectivo Bs,Adicta,1,Sí,2023-03-30,,Instagram
+1192,56,Miranda,Sensible,Miel Claro,Base Líquida,Belcorp,13.52,Zelle,,10,Sí,2023-04-27,Regalo,WhatsApp
+1193,50,Anzoátegui,Grasosa,Canela,Rímel,Belcorp,55.37,ZELLE,Primera vez,2,Sí,2023-08-17,Autoregalo,Facebook
+1194,18,Anzoátegui,Grasosa,Ébano,Base Líquida,Belcorp,44.02,Efectivo Bs,Primera vez,7,Si,2023-02-01,Reemplazo,Instagram
+1195,44,Bolívar,Mixta,Café,Base Líquida,Belcorp,62.92,Zelle,,3,Si,2022-10-06,Auto-regalo,Facebook
+1196,69,Caracas,Grasosa,Canela Oscuro,Rubor en Crema,,44.01,Binance,Primera vez,10,Sí,2022-12-31,Autoregalo,Facebook
+1197,30,Anzoátegui,Sensible,Trigo,Rímel,Belcorp,68.91,ZELLE,Frecuente,2,Sí,2022-11-27,Regalo,TikTok
+1198,58,Zulia,Seca,Ébano,Rímel,Natura,46.39,Efectivo Bs,Adicta,7,No,2023-10-03,Reemplazo,TikTok
+1199,20,Zulia,Mixta,Canela Oscuro,Base Líquida,Natura,47.07,Transferencia,Frecuente,2,Sí,2022-12-10,Regalo,TikTok
+1200,56,Bolívar,Grasosa,Canela Oscuro,Rímel,Belcorp,70.75,Efectivo Bs,Frecuente,3,Sí,2023-03-31,,WhatsApp
+1201,23,Caracas,Grasosa,Miel Claro,Rubor en Crema,Kryolan,35.26,ZELLE,Frecuente,7,Sí,2023-08-24,Regalo,TikTok
+1202,25,Lara,Sensible,Miel Claro,Rubor en Crema,Natura,15.05,Transferencia,Ocasional,4,No,2023-12-26,Autoregalo,TikTok
+1203,44,Lara,Grasa,Miel Claro,Paleta Sombras,Natura,7.16,Transferencia,,1,Sí,2023-10-17,Autoregalo,WhatsApp
+1204,26,Zulia,Sensible,Ébano,Rubor en Crema,Belcorp,61.64,Efectivo Bs,Frecuente,5,Sí,2022-03-06,Regalo,WhatsApp
+1205,54,Anzoátegui,Mixta,Canela Oscuro,Rímel,Belcorp,51.52,Efectivo Bs,Adicta,9,No,2022-03-17,Reemplazo,WhatsApp
+1206,50,Miranda,Grasa,Canela Oscuro,Rímel,Belcorp,57.81,Transferencia,Ocasional,8,No,2023-12-12,Auto-regalo,Facebook
+1207,68,Miranda,Grasosa,Trigo,Base Líquida,Natura,20.97,Zelle,Adicta,9,Sí,2022-05-23,Regalo,Facebook
+1208,59,Táchira,Mixta,Canela,Labial Mate,Natura,15.23,Efectivo Bs,Adicta,10,No,2023-08-28,Reemplazo,Facebook
+1209,61,Táchira,Grasa,Canela Oscuro,Base Líquida,,6.09,Efectivo Bs,,9,Si,2023-04-18,Prueba nueva marca,WhatsApp
+1210,41,Táchira,Seca,Miel Claro,Base Líquida,,31.29,Efectivo Bs,Primera vez,7,No,2023-02-21,Regalo,Facebook
+1211,32,Bolívar,Grasa,Canela,Base Líquida,Natura,49.24,Binance,Ocasional,4,Sí,2022-11-01,Autoregalo,Facebook
+1212,49,Caracas,Mixta,Canela Oscuro,Paleta Sombras,,34.42,Binance,Frecuente,5,Sí,2024-01-06,Autoregalo,Instagram
+1213,49,Miranda,Mixta,Canela Oscuro,Rímel,Belcorp,37.81,Zelle,,1,Sí,2023-05-12,Reemplazo,Facebook
+1214,41,Caracas,Grasosa,Café,Labial Mate,,72.81,Binance,,1,Sí,2022-10-18,Regalo,Instagram
+1215,58,Bolívar,Grasosa,Ébano,Paleta Sombras,Belcorp,31.12,Efectivo Bs,Frecuente,3,No,2022-04-12,Prueba nueva marca,WhatsApp
+1216,69,Miranda,Grasosa,Miel Claro,Paleta Sombras,Kryolan,43.55,Binance,Adicta,8,No,2022-09-24,Prueba nueva marca,Facebook
+1217,66,Lara,Grasa,Miel Claro,Rímel,,63.77,Efectivo Bs,Primera vez,2,Sí,2023-09-14,Regalo,WhatsApp
+1218,66,Lara,Grasosa,Canela,Base Líquida,Natura,34.74,Transferencia,Frecuente,4,Sí,2024-02-16,,WhatsApp
+1219,69,Miranda,Grasa,Canela,Paleta Sombras,Belcorp,51.66,Transferencia,,2,No,2022-01-03,,WhatsApp
+1220,29,Zulia,Sensible,Trigo,Rubor en Crema,Natura,69.68,Efectivo Bs,Ocasional,5,No,2022-03-26,Autoregalo,Instagram
+1221,56,Anzoátegui,Sensible,Café,Paleta Sombras,,76.21,Efectivo Bs,Primera vez,9,Sí,2024-03-04,Autoregalo,WhatsApp
+1222,19,Anzoátegui,Grasa,Trigo,Base Líquida,Natura,16.03,Efectivo Bs,Primera vez,1,No,2022-11-24,Reemplazo,TikTok
+1223,20,Táchira,Grasa,Café,Base Líquida,Natura,74.49,Binance,,5,Sí,2023-03-26,Reemplazo,TikTok
+1224,66,Caracas,Seca,Trigo,Labial Mate,Belcorp,41.91,Zelle,Ocasional,9,No,2023-03-30,Autoregalo,WhatsApp
+1225,54,Anzoátegui,Grasa,Trigo,Base Líquida,Natura,24.37,Zelle,Frecuente,1,No,2023-09-21,Regalo,WhatsApp
+1226,66,Anzoátegui,Seca,Canela Oscuro,Labial Mate,Fenty Beauty,39.44,Transferencia,Primera vez,9,Sí,2022-08-09,,WhatsApp
+1227,34,Zulia,Grasa,Canela,Base Líquida,Chanel,78.5,ZELLE,Frecuente,8,No,2022-06-03,Autoregalo,WhatsApp
+1228,66,Caracas,Mixta,Café,Paleta Sombras,Natura,41.95,Binance,,4,No,2023-10-27,Autoregalo,WhatsApp
+1229,19,Zulia,Mixta,Trigo,Rímel,Kryolan,29.66,Transferencia,Primera vez,10,No,2022-01-12,,Instagram
+1230,19,Caracas,Mixta,Miel Claro,Paleta Sombras,Fenty Beauty,52.51,Efectivo Bs,Ocasional,5,Sí,2022-05-13,Regalo,TikTok
+1231,45,Táchira,Sensible,Café,Base Líquida,Belcorp,23.01,Zelle,Ocasional,5,Si,2022-10-31,Autoregalo,Facebook
+1232,40,Anzoátegui,Seca,Miel Claro,Rímel,Belcorp,10.69,Transferencia,Frecuente,6,Sí,2022-10-20,Reemplazo,Facebook
+1233,54,Bolívar,Grasosa,Trigo,Labial Mate,,14.67,Efectivo Bs,Adicta,7,Sí,2022-10-27,Reemplazo,WhatsApp
+1234,49,Zulia,Sensible,Miel Claro,Labial Mate,,14.6,Zelle,Adicta,8,Si,2024-01-10,Autoregalo,Instagram
+1235,50,Táchira,Sensible,Canela,Paleta Sombras,Natura,16.39,Efectivo Bs,Frecuente,8,Sí,2024-02-22,Prueba nueva marca,Instagram
+1236,18,Táchira,Mixta,Miel Claro,Base Líquida,Chanel,15.41,Efectivo Bs,Adicta,2,No,2022-02-12,Reemplazo,Instagram
+1237,36,Miranda,Mixta,Canela Oscuro,Rímel,Natura,53.07,Efectivo Bs,Primera vez,9,No,2022-12-09,Autoregalo,Instagram
+1238,19,Lara,Seca,Ébano,Paleta Sombras,Chanel,18.64,ZELLE,,7,Sí,2022-11-22,Autoregalo,TikTok
+1239,61,Caracas,Seca,Miel Claro,Paleta Sombras,Natura,30.93,ZELLE,Frecuente,4,Sí,2023-05-13,Regalo,WhatsApp
+1240,43,Miranda,Sensible,Miel Claro,Paleta Sombras,Belcorp,72.26,Efectivo Bs,,4,Sí,2022-12-30,Autoregalo,Facebook
+1241,49,Anzoátegui,Grasosa,Canela Oscuro,Labial Mate,Natura,40.55,Binance,Frecuente,8,Si,2023-03-03,Reemplazo,Facebook
+1242,23,Caracas,Grasa,Miel Claro,Paleta Sombras,Belcorp,55.07,Binance,Primera vez,4,No,2022-01-21,Autoregalo,TikTok
+1243,49,Miranda,Grasosa,Trigo,Base Líquida,Belcorp,17.92,Zelle,Primera vez,6,No,2023-02-11,Prueba nueva marca,Facebook
+1244,21,Miranda,Sensible,Trigo,Rímel,Kryolan,19.42,Efectivo Bs,Primera vez,5,No,2023-09-11,,TikTok
+1245,28,Zulia,Mixta,Miel Claro,Paleta Sombras,Natura,8.07,Binance,Ocasional,3,No,2022-12-02,Regalo,Instagram
+1246,34,Caracass,Seca,Ébano,Base Líquida,Belcorp,17.67,Efectivo Bs,Ocasional,10,Sí,2022-04-27,Reemplazo,TikTok
+1247,55,Zulia,Grasa,Canela Oscuro,Paleta Sombras,Kryolan,25.89,Efectivo Bs,Frecuente,2,Sí,2022-05-04,Prueba nueva marca,Instagram
+1248,41,Táchira,Sensible,Canela Oscuro,Rubor en Crema,Natura,18.28,ZELLE,Frecuente,9,No,2023-02-03,Regalo,Instagram
+1249,22,Anzoátegui,Seca,Trigo,Labial Mate,Belcorp,11.65,Efectivo Bs,Ocasional,10,Si,2024-03-03,Regalo,TikTok
+1250,69,Bolívar,Mixta,Trigo,Base Líquida,Chanel,14.05,Efectivo Bs,Primera vez,9,Sí,2023-12-16,Regalo,WhatsApp
+1251,51,Lara,Grasa,Trigo,Rubor en Crema,Natura,39.56,ZELLE,Frecuente,1,No,2022-02-20,Autoregalo,Facebook
+1252,23,Zulia,Grasosa,Trigo,Rubor en Crema,Kryolan,20.48,ZELLE,Ocasional,10,Sí,2024-02-22,Auto-regalo,TikTok
+1253,39,Bolívar,Sensible,Café,Labial Mate,Belcorp,32.32,Efectivo Bs,Frecuente,3,No,2022-11-20,Prueba nueva marca,Facebook
+1254,28,Bolívar,Mixta,Canela,Paleta Sombras,Belcorp,42.76,Efectivo Bs,Frecuente,8,No,2024-02-28,Reemplazo,Instagram
+1255,65,Anzoátegui,Mixta,Café,Rímel,Natura,56.78,Binance,Frecuente,6,No,2022-05-21,Regalo,WhatsApp
+1256,33,Anzoátegui,Sensible,Trigo,Base Líquida,Chanel,7.95,ZELLE,,5,Sí,2023-04-15,Autoregalo,Instagram
+1257,50,Táchira,Mixta,Café,Rubor en Crema,Natura,64.96,Zelle,Primera vez,5,Sí,2024-02-26,,Instagram
+1258,26,Anzoátegui,Seca,Canela,Rímel,Natura,52.09,Zelle,Ocasional,6,Sí,2022-11-30,Autoregalo,TikTok
+1259,23,Anzoátegui,Grasosa,Ébano,Base Líquida,Fenty Beauty,11.13,ZELLE,Ocasional,7,No,2023-01-08,Autoregalo,TikTok
+1260,33,Miranda,Grasosa,Café,Rubor en Crema,Belcorp,70.52,Zelle,Primera vez,1,No,2023-07-18,Auto-regalo,Facebook
+1261,46,Caracas,Seca,Ébano,Labial Mate,Fenty Beauty,74.07,Zelle,Adicta,9,Sí,2023-05-09,Auto-regalo,Facebook
+1262,20,Caracas,Seca,Canela,Base Líquida,Belcorp,9.58,Transferencia,,3,No,2023-06-23,Prueba nueva marca,TikTok
+1263,37,Miranda,Grasa,Canela Oscuro,Labial Mate,Belcorp,25.77,ZELLE,Ocasional,4,Si,2023-10-31,Regalo,WhatsApp
+1264,53,Táchira,Seca,Canela Oscuro,Base Líquida,Belcorp,65.47,ZELLE,Adicta,10,Sí,2024-01-21,Regalo,WhatsApp
+1265,36,Anzoátegui,Seca,Café,Rubor en Crema,Chanel,61.12,ZELLE,Frecuente,1,No,2022-06-05,Reemplazo,Instagram
+1266,43,Anzoátegui,Seca,Canela Oscuro,Rubor en Crema,,18.84,Transferencia,Frecuente,10,No,2022-10-18,Reemplazo,Facebook
+1267,20,Anzoátegui,Sensible,Canela Oscuro,Rubor en Crema,Natura,20.7,Efectivo Bs,Adicta,3,Sí,2023-10-10,Regalo,Facebook
+1268,36,Zulia,Mixta,Canela Oscuro,Base Líquida,Belcorp,32.79,Efectivo Bs,,2,No,2022-05-24,Prueba nueva marca,Facebook
+1269,37,Caracas,Grasa,Trigo,Rímel,Natura,41.34,Efectivo Bs,Frecuente,2,Sí,2022-04-16,,Facebook
+1270,49,Zulia,Mixta,Café,Base Líquida,Natura,51.37,Zelle,,1,Sí,2023-02-24,Autoregalo,WhatsApp
+1271,24,Anzoátegui,Sensible,Café,Rubor en Crema,Kryolan,32.67,Efectivo Bs,,8,No,2023-11-01,Prueba nueva marca,Instagram
+1272,69,Anzoátegui,Seca,Trigo,Paleta Sombras,Natura,39.69,Binance,Adicta,3,Sí,2023-10-20,,WhatsApp
+1273,58,Bolívar,Sensible,Café,Paleta Sombras,Belcorp,61.06,Efectivo Bs,,3,Sí,2022-01-02,Prueba nueva marca,Facebook
+1274,50,Miranda,Grasosa,Trigo,Base Líquida,Belcorp,7.75,Binance,Adicta,6,Sí,2023-08-12,Prueba nueva marca,Facebook
+1275,57,Táchira,Mixta,Canela,Base Líquida,Belcorp,23.93,Efectivo Bs,Adicta,8,Si,2023-10-06,Regalo,WhatsApp
+1276,56,Bolívar,Grasa,Canela,Rímel,Belcorp,58.5,Efectivo Bs,Frecuente,9,No,2022-03-31,Autoregalo,WhatsApp
+1277,35,Lara,Sensible,Café,Labial Mate,Belcorp,72.14,Efectivo Bs,Primera vez,9,Si,2022-12-11,,Facebook
+1278,57,Anzoátegui,Grasa,Ébano,Labial Mate,Belcorp,43.38,Transferencia,Frecuente,4,No,2022-12-16,Regalo,Facebook
+1279,18,Anzoátegui,Grasa,Café,Rímel,Fenty Beauty,44.91,Efectivo Bs,Frecuente,5,No,2023-04-04,Regalo,TikTok
+1280,28,Bolívar,Seca,Ébano,Rímel,Natura,13.04,Transferencia,Primera vez,2,No,2022-09-20,Reemplazo,TikTok
+1281,45,Táchira,Seca,Ébano,Base Líquida,Fenty Beauty,38.56,ZELLE,Primera vez,9,No,2022-12-17,Prueba nueva marca,Instagram
+1282,42,Táchira,Grasa,Canela,Paleta Sombras,,44.95,ZELLE,Adicta,8,Sí,2022-04-18,Autoregalo,Instagram
+1283,67,Bolívar,Mixta,Miel Claro,Labial Mate,Natura,23.19,ZELLE,Adicta,3,No,2023-08-09,Regalo,WhatsApp
+1284,40,Zulia,Grasosa,Miel Claro,Paleta Sombras,Belcorp,25.19,ZELLE,,9,Sí,2022-02-08,Reemplazo,Instagram
+1285,48,Táchira,Grasa,Trigo,Rímel,Belcorp,33.3,Transferencia,Primera vez,3,No,2022-06-08,Regalo,Facebook
+1286,47,Bolívar,Grasosa,Canela,Base Líquida,Kryolan,6.51,Transferencia,,9,No,2023-08-06,,Instagram
+1287,59,Anzoátegui,Seca,Canela Oscuro,Base Líquida,Natura,29.16,Efectivo Bs,Primera vez,2,Sí,2022-11-08,Regalo,WhatsApp
+1288,52,Anzoátegui,Mixta,Café,Rubor en Crema,Natura,20.86,Efectivo Bs,Ocasional,10,Sí,2022-08-29,Regalo,TikTok
+1289,24,Anzoátegui,Seca,Café,Base Líquida,Belcorp,29.56,Efectivo Bs,Frecuente,9,Sí,2023-03-21,Reemplazo,TikTok
+1290,33,Bolívar,Grasa,Miel Claro,Paleta Sombras,Natura,13.98,Binance,Frecuente,8,Sí,2022-10-25,,Facebook
+1291,43,Táchira,Grasosa,Ébano,Rímel,Natura,71.79,Zelle,Adicta,9,Sí,2022-02-05,Regalo,Facebook
+1292,65,Lara,Seca,Miel Claro,Rímel,Belcorp,49.52,Binance,Frecuente,5,Si,2022-03-25,Reemplazo,WhatsApp
+1293,69,Zulia,Grasa,Ébano,Rímel,Natura,55.93,Efectivo Bs,Primera vez,2,No,2023-03-28,,WhatsApp
+1294,66,Táchira,Grasosa,Canela Oscuro,Rubor en Crema,Belcorp,64.19,ZELLE,Frecuente,8,No,2024-02-14,Prueba nueva marca,Instagram
+1295,19,Lara,Grasa,Canela Oscuro,Labial Mate,Natura,42.38,Efectivo Bs,,6,No,2023-01-20,Autoregalo,TikTok
+1296,18,Bolívar,Seca,Canela,Base Líquida,Natura,11.52,ZELLE,Adicta,8,Si,2022-06-21,Regalo,TikTok
+1297,65,Anzoátegui,Grasosa,Miel Claro,Labial Mate,,45.28,Transferencia,,5,Sí,2023-01-11,Regalo,Facebook
+1298,29,Caracas,Grasosa,Café,Labial Mate,Belcorp,49.01,Zelle,Adicta,10,Sí,2023-11-16,Autoregalo,TikTok
+1299,22,Anzoátegui,Mixta,Trigo,Labial Mate,Kryolan,60.91,Transferencia,Adicta,2,Sí,2022-12-28,Regalo,Instagram
+1300,54,Caracas,Mixta,Trigo,Base Líquida,Belcorp,37.37,Zelle,,6,No,2023-07-13,Prueba nueva marca,WhatsApp
+1301,49,Zulia,Grasa,Miel Claro,Base Líquida,Natura,14.57,Zelle,Adicta,5,Sí,2022-05-21,Autoregalo,Facebook
+1302,26,Lara,Seca,Ébano,Paleta Sombras,Belcorp,26.28,Binance,Primera vez,5,Si,2022-04-28,Autoregalo,TikTok
+1303,58,Miranda,Grasosa,Ébano,Paleta Sombras,Belcorp,32.23,Binance,,1,Si,2022-10-04,Reemplazo,WhatsApp
+1304,52,Zulia,Mixta,Miel Claro,Rímel,Belcorp,53.44,Transferencia,,2,No,2023-12-27,Reemplazo,Instagram
+1305,36,Anzoátegui,Grasosa,Miel Claro,Base Líquida,Natura,47.81,Zelle,,8,Sí,2022-08-08,Prueba nueva marca,Facebook
+1306,65,Zulia,Seca,Canela,Rubor en Crema,Kryolan,31.71,ZELLE,Primera vez,3,Sí,2022-01-26,Regalo,WhatsApp
+1307,33,Caracas,Seca,Trigo,Rubor en Crema,Belcorp,78.99,Binance,Primera vez,10,No,2023-06-05,,Facebook
+1308,20,Miranda,Mixta,Café,Rímel,Belcorp,50.43,Efectivo Bs,Ocasional,3,Sí,2024-02-22,Prueba nueva marca,TikTok
+1309,37,Zulia,Grasa,Canela Oscuro,Rímel,Kryolan,22.79,Efectivo Bs,Frecuente,8,Sí,2022-01-10,Regalo,WhatsApp
+1310,41,Zulia,Grasa,Trigo,Labial Mate,Belcorp,12.63,Binance,Adicta,8,Si,2023-01-13,Autoregalo,Facebook
+1311,50,Lara,Seca,Ébano,Rubor en Crema,,16.46,Zelle,Frecuente,2,Sí,2023-09-25,Prueba nueva marca,Instagram
+1312,41,Anzoátegui,Seca,Canela,Labial Mate,Belcorp,23.45,Efectivo Bs,,8,Si,2023-09-29,,TikTok
+1313,69,Caracas,Sensible,Café,Labial Mate,Chanel,17.05,Efectivo Bs,Adicta,1,No,2023-11-13,Prueba nueva marca,WhatsApp
+1314,28,Zulia,Mixta,Trigo,Base Líquida,,18.99,Efectivo Bs,Primera vez,6,Si,2023-08-07,Reemplazo,Facebook
+1315,66,Anzoátegui,Mixta,Miel Claro,Rímel,Belcorp,26.38,Zelle,Ocasional,8,No,2022-06-01,Regalo,WhatsApp
+1316,25,Bolívar,Mixta,Trigo,Paleta Sombras,Kryolan,18.0,ZELLE,Primera vez,3,Si,2023-12-21,Autoregalo,TikTok
+1317,53,Zulia,Mixta,Canela Oscuro,Rímel,Fenty Beauty,72.26,ZELLE,Primera vez,8,No,2022-02-18,Auto-regalo,WhatsApp
+1318,55,Táchira,Mixta,Trigo,Rubor en Crema,Fenty Beauty,11.02,Transferencia,Adicta,1,Sí,2022-06-03,Prueba nueva marca,Facebook
+1319,57,Miranda,Seca,Trigo,Base Líquida,Natura,44.34,Efectivo Bs,,9,Sí,2022-10-20,,TikTok
+1320,37,Miranda,Mixta,Ébano,Labial Mate,Belcorp,35.78,ZELLE,Ocasional,9,Sí,2023-08-03,Autoregalo,Facebook
+1321,52,Caracas,Grasa,Trigo,Paleta Sombras,Fenty Beauty,78.68,Transferencia,Frecuente,5,Sí,2022-02-19,Autoregalo,WhatsApp
+1322,65,Miranda,Mixta,Ébano,Rubor en Crema,Belcorp,13.4,Zelle,,10,No,2023-10-26,Reemplazo,WhatsApp
+1323,42,Caracas,Seca,Café,Rímel,Belcorp,34.84,ZELLE,Primera vez,4,Sí,2023-06-15,Regalo,Instagram
+1324,52,Miranda,Sensible,Miel Claro,Base Líquida,Natura,77.71,Efectivo Bs,Ocasional,6,No,2023-09-04,Autoregalo,WhatsApp
+1325,42,Bolívar,Grasa,Canela,Rímel,Natura,69.91,Zelle,,7,Sí,2022-03-01,Autoregalo,TikTok
+1326,46,Caracas,Seca,Ébano,Rímel,Natura,66.28,Binance,Ocasional,5,Sí,2022-06-16,Regalo,Instagram
+1327,35,Táchira,Grasa,Café,Rubor en Crema,,24.34,ZELLE,Primera vez,10,Sí,2022-07-21,Autoregalo,Facebook
+1328,63,Bolívar,Sensible,Canela,Labial Mate,Belcorp,17.82,Efectivo Bs,Frecuente,9,Sí,2022-05-26,Autoregalo,WhatsApp
+1329,35,Caracas,Grasa,Trigo,Rubor en Crema,Kryolan,55.15,Efectivo Bs,Ocasional,3,No,2023-11-07,Autoregalo,Facebook
+1330,19,Zulia,Grasa,Ébano,Rímel,Natura,74.7,Transferencia,Ocasional,7,No,2023-03-15,,TikTok
+1331,52,Zulia,Grasosa,Café,Rubor en Crema,Belcorp,46.76,Efectivo Bs,,10,Sí,2022-08-30,Autoregalo,WhatsApp
+1332,33,Anzoátegui,Grasosa,Ébano,Labial Mate,Natura,47.87,Transferencia,Primera vez,10,Sí,2023-08-04,Auto-regalo,WhatsApp
+1333,58,Lara,Sensible,Ébano,Rímel,Fenty Beauty,26.0,ZELLE,Primera vez,5,No,2023-11-18,Auto-regalo,WhatsApp
+1334,53,Miranda,Sensible,Canela,Base Líquida,Belcorp,62.71,Zelle,,7,Si,2023-07-15,Prueba nueva marca,WhatsApp
+1335,50,Bolívar,Seca,Ébano,Base Líquida,Kryolan,19.03,Efectivo Bs,Primera vez,2,No,2023-04-28,Reemplazo,Facebook
+1336,21,Lara,Seca,Canela,Rubor en Crema,Kryolan,29.28,ZELLE,Ocasional,4,Sí,2022-04-18,Autoregalo,Instagram
+1337,50,Caracas,Sensible,Miel Claro,Rímel,Natura,36.91,Zelle,Primera vez,2,No,2022-08-14,Prueba nueva marca,Instagram
+1338,31,Anzoátegui,Seca,Café,Rubor en Crema,Belcorp,43.07,Zelle,Primera vez,7,No,2023-11-04,Prueba nueva marca,Facebook
+1339,38,Miranda,Grasosa,Canela,Rubor en Crema,Belcorp,23.18,ZELLE,Frecuente,2,No,2023-09-23,Auto-regalo,Instagram
+1340,65,Caracas,Mixta,Miel Claro,Base Líquida,Belcorp,13.61,Efectivo Bs,Ocasional,1,No,2023-10-23,Regalo,WhatsApp
+1341,37,Táchira,Grasosa,Canela Oscuro,Labial Mate,Fenty Beauty,50.8,Efectivo Bs,Frecuente,9,No,2023-10-24,Regalo,Facebook
+1342,25,Miranda,Sensible,Ébano,Rímel,Belcorp,26.65,Binance,Ocasional,1,Sí,2023-03-08,Autoregalo,TikTok
+1343,24,Caracas,Grasa,Trigo,Rubor en Crema,Belcorp,48.59,Binance,Adicta,8,No,2023-10-17,Reemplazo,TikTok
+1344,20,Caracas,Sensible,Miel Claro,Paleta Sombras,Natura,16.58,Efectivo Bs,Frecuente,2,No,2023-02-23,Regalo,TikTok
+1345,34,Miranda,Grasosa,Ébano,Rímel,,41.09,Zelle,Frecuente,8,No,2023-03-31,Autoregalo,WhatsApp
+1346,50,Bolívar,Sensible,Ébano,Rímel,Belcorp,44.94,ZELLE,Frecuente,3,Sí,2022-06-09,Regalo,WhatsApp
+1347,65,Caracas,Sensible,Canela Oscuro,Rímel,Natura,8.89,Efectivo Bs,Frecuente,6,No,2023-06-07,Regalo,WhatsApp
+1348,29,Zuila,Grasosa,Trigo,Rubor en Crema,Kryolan,30.25,Binance,,3,No,2023-10-12,Reemplazo,TikTok
+1349,68,Bolívar,Mixta,Canela Oscuro,Base Líquida,Belcorp,15.08,Efectivo Bs,,7,Sí,2023-08-13,Reemplazo,WhatsApp
+1350,39,Lara,Seca,Ébano,Paleta Sombras,Belcorp,9.75,Binance,,10,No,2022-03-18,Regalo,Instagram
+1351,39,Zulia,Grasa,Canela,Paleta Sombras,Belcorp,79.25,Efectivo Bs,,9,Sí,2023-05-24,Regalo,Instagram
+1352,63,Bolívar,Mixta,Ébano,Labial Mate,Natura,29.18,Efectivo Bs,,2,No,2023-03-17,Reemplazo,WhatsApp
+1353,47,Táchira,Grasosa,Café,Rímel,,65.74,Binance,Ocasional,5,No,2022-09-11,,Instagram
+1354,55,Bolívar,Sensible,Canela Oscuro,Rubor en Crema,Fenty Beauty,24.1,Efectivo Bs,Primera vez,6,No,2024-02-09,Autoregalo,Facebook
+1355,55,Zulia,Sensible,Ébano,Labial Mate,Natura,56.11,Zelle,,4,Sí,2022-11-16,,WhatsApp
+1356,62,Anzoátegui,Seca,Miel Claro,Base Líquida,Natura,62.02,Efectivo Bs,Frecuente,4,No,2022-09-20,,WhatsApp
+1357,68,Miranda,Grasa,Canela,Rímel,Belcorp,49.67,Efectivo Bs,Adicta,4,Sí,2023-08-20,Auto-regalo,Facebook
+1358,25,Lara,Grasosa,Café,Rímel,,40.37,Efectivo Bs,Adicta,2,Sí,2023-10-20,Reemplazo,TikTok
+1359,44,Caracas,Seca,Café,Rubor en Crema,Belcorp,35.89,Transferencia,,4,No,2023-07-08,,Facebook
+1360,44,Zulia,Sensible,Miel Claro,Paleta Sombras,Belcorp,31.17,Efectivo Bs,Ocasional,1,No,2023-01-09,Regalo,Facebook
+1361,51,Bolívar,Sensible,Café,Labial Mate,Belcorp,74.71,Efectivo Bs,Adicta,6,No,2023-09-29,Prueba nueva marca,WhatsApp
+1362,38,Lara,Mixta,Café,Paleta Sombras,Fenty Beauty,67.3,Transferencia,Ocasional,1,Sí,2022-06-16,Autoregalo,Instagram
+1363,47,Caracas,Seca,Canela Oscuro,Paleta Sombras,Kryolan,77.38,Efectivo Bs,,10,No,2024-01-23,Reemplazo,Instagram
+1364,50,Bolívar,Grasosa,Trigo,Base Líquida,Natura,14.32,ZELLE,,6,Sí,2023-04-04,,Facebook
+1365,45,Zulia,Sensible,Ébano,Rímel,Natura,59.82,Efectivo Bs,Adicta,1,Sí,2022-10-07,Regalo,WhatsApp
+1366,64,Anzoátegui,Seca,Trigo,Paleta Sombras,Chanel,75.38,Efectivo Bs,Ocasional,6,No,2023-12-01,,Facebook
+1367,50,Zulia,Grasosa,Ébano,Paleta Sombras,Belcorp,18.59,Transferencia,,10,No,2022-10-29,Reemplazo,WhatsApp
+1368,22,Zulia,Grasa,Trigo,Rubor en Crema,Natura,9.99,ZELLE,Adicta,8,No,2023-06-15,Regalo,TikTok
+1369,65,Caracas,Sensible,Trigo,Base Líquida,Natura,60.58,Binance,Frecuente,2,No,2023-08-03,Autoregalo,WhatsApp
+1370,36,Anzoátegui,Grasa,Trigo,Rímel,Belcorp,48.09,Efectivo Bs,Primera vez,2,No,2022-08-06,,TikTok
+1371,21,Bolívar,Sensible,Canela Oscuro,Paleta Sombras,,68.14,ZELLE,Adicta,4,No,2022-04-12,Autoregalo,Instagram
+1372,52,Miranda,Seca,Trigo,Rímel,Fenty Beauty,15.48,ZELLE,Primera vez,3,No,2023-07-08,Auto-regalo,WhatsApp
+1373,66,Caracas,Sensible,Canela,Rubor en Crema,Natura,64.65,Binance,Frecuente,4,No,2022-10-15,Autoregalo,WhatsApp
+1374,34,Bolívar,Mixta,Ébano,Labial Mate,Belcorp,20.12,Zelle,Ocasional,7,Sí,2022-06-16,Autoregalo,Facebook
+1375,61,Bolívar,Mixta,Miel Claro,Rímel,Natura,17.27,Transferencia,Frecuente,1,Sí,2023-09-13,Autoregalo,Instagram
+1376,45,Lara,Grasa,Ébano,Rubor en Crema,Fenty Beauty,17.32,Efectivo Bs,Ocasional,6,Sí,2022-02-05,Autoregalo,Instagram
+1377,47,Anzoátegui,Sensible,Canela Oscuro,Paleta Sombras,,66.09,Efectivo Bs,Frecuente,3,No,2024-01-14,Autoregalo,Facebook
+1378,46,Táchira,Grasa,Café,Rímel,,54.89,ZELLE,Primera vez,10,Si,2024-01-11,Reemplazo,Facebook
+1379,63,Bolívar,Grasa,Café,Base Líquida,Belcorp,44.23,Efectivo Bs,Primera vez,7,Sí,2022-12-19,Autoregalo,WhatsApp
+1380,23,Caracas,Grasa,Canela,Rímel,Natura,31.91,Efectivo Bs,Adicta,10,No,2023-11-07,,Instagram
+1381,52,Zulia,Sensible,Ébano,Rímel,Natura,70.79,ZELLE,Adicta,2,No,2022-03-14,Autoregalo,WhatsApp
+1382,58,Lara,Sensible,Ébano,Base Líquida,Fenty Beauty,34.43,Efectivo Bs,Ocasional,2,Sí,2023-10-10,Reemplazo,Facebook
+1383,54,Lara,Seca,Ébano,Rubor en Crema,Kryolan,66.24,Zelle,Primera vez,4,Sí,2022-12-19,Regalo,TikTok
+1384,41,Anzoátegui,Sensible,Canela,Rímel,Chanel,37.94,Efectivo Bs,,1,No,2022-03-11,,Facebook
+1385,46,Caracas,Sensible,Café,Paleta Sombras,Belcorp,33.27,ZELLE,Frecuente,3,Si,2023-03-01,,Instagram
+1386,66,Miranda,Grasosa,Trigo,Rímel,Fenty Beauty,39.7,Binance,Adicta,9,No,2023-12-09,Autoregalo,WhatsApp
+1387,63,Anzoátegui,Sensible,Miel Claro,Base Líquida,Natura,27.6,Transferencia,Primera vez,7,Sí,2024-02-20,Autoregalo,Facebook
+1388,48,Zulia,Grasosa,Ébano,Rubor en Crema,Belcorp,61.07,Binance,Ocasional,7,Sí,2023-07-15,Regalo,Instagram
+1389,52,Miranda,Seca,Miel Claro,Base Líquida,,42.7,Efectivo Bs,Primera vez,4,Sí,2023-10-04,Reemplazo,WhatsApp
+1390,50,Bolívar,Seca,Trigo,Rímel,Belcorp,22.42,Transferencia,,2,No,2023-06-01,Regalo,Instagram
+1391,69,Zulia,Seca,Canela Oscuro,Base Líquida,Belcorp,72.47,Efectivo Bs,Frecuente,4,Sí,2023-03-04,Regalo,WhatsApp
+1392,38,Anzoátegui,Grasa,Canela Oscuro,Rímel,Belcorp,33.79,Transferencia,Frecuente,6,Sí,2023-06-23,Regalo,WhatsApp
+1393,49,Zuila,Mixta,Miel Claro,Rubor en Crema,Belcorp,45.77,ZELLE,,3,Si,2022-06-09,Autoregalo,Instagram
+1394,40,Miranda,Seca,Trigo,Rubor en Crema,Belcorp,72.99,Efectivo Bs,,1,Sí,2022-05-29,,Facebook
+1395,50,Táchira,Seca,Trigo,Base Líquida,Natura,51.82,Efectivo Bs,Primera vez,8,Sí,2024-02-15,Regalo,Instagram
+1396,20,Táchira,Grasa,Café,Rímel,Belcorp,13.77,Zelle,,5,Si,2022-08-18,Reemplazo,Instagram
+1397,35,Lara,Seca,Miel Claro,Rubor en Crema,Natura,75.49,Binance,Frecuente,5,Sí,2023-12-13,Regalo,Facebook
+1398,42,Táchira,Seca,Café,Rubor en Crema,Chanel,52.08,ZELLE,Adicta,4,Sí,2023-07-16,Regalo,WhatsApp
+1399,59,Bolívar,Seca,Canela,Base Líquida,Belcorp,30.12,Transferencia,,6,Sí,2022-03-08,Prueba nueva marca,Instagram
+1400,48,Bolívar,Grasa,Café,Paleta Sombras,Natura,15.45,Efectivo Bs,Adicta,3,No,2023-01-16,Autoregalo,Facebook
+1401,20,Bolívar,Grasosa,Café,Base Líquida,Natura,64.55,Efectivo Bs,Primera vez,9,No,2022-02-27,Auto-regalo,WhatsApp
+1402,57,Lara,Seca,Ébano,Paleta Sombras,Natura,51.51,Transferencia,Ocasional,5,No,2022-09-16,Prueba nueva marca,WhatsApp
+1403,63,Lara,Seca,Café,Labial Mate,Fenty Beauty,45.01,Binance,,3,Si,2022-12-08,Prueba nueva marca,WhatsApp
+1404,41,Lara,Grasosa,Trigo,Rubor en Crema,Fenty Beauty,72.04,ZELLE,Frecuente,1,No,2022-05-10,Reemplazo,Facebook
+1405,67,Miranda,Grasosa,Café,Base Líquida,Belcorp,64.14,Transferencia,Primera vez,10,No,2023-12-28,Autoregalo,Facebook
+1406,49,Lara,Seca,Canela,Paleta Sombras,Belcorp,16.38,Binance,Frecuente,6,Sí,2022-06-21,Auto-regalo,Instagram
+1407,64,Anzoátegui,Grasa,Trigo,Paleta Sombras,Natura,28.38,Efectivo Bs,Ocasional,2,No,2024-02-09,,WhatsApp
+1408,39,Anzoátegui,Grasosa,Ébano,Labial Mate,Kryolan,23.64,Efectivo Bs,,3,Si,2023-09-06,Reemplazo,Facebook
+1409,40,Táchira,Sensible,Café,Rubor en Crema,Kryolan,60.8,ZELLE,Adicta,1,Sí,2022-07-28,Reemplazo,Instagram
+1410,19,Bolívar,Grasa,Canela,Paleta Sombras,Belcorp,7.51,Efectivo Bs,Frecuente,9,No,2022-12-20,,TikTok
+1411,44,Anzoátegui,Grasosa,Ébano,Rímel,Fenty Beauty,47.74,Transferencia,Frecuente,8,No,2023-04-16,Autoregalo,WhatsApp
+1412,59,Anzoátegui,Sensible,Ébano,Base Líquida,Kryolan,62.18,Zelle,,2,No,2024-03-08,Reemplazo,Facebook
+1413,19,Miranda,Seca,Ébano,Paleta Sombras,Belcorp,70.76,Binance,Primera vez,8,No,2022-04-26,Autoregalo,TikTok
+1414,43,Anzoátegui,Mixta,Café,Base Líquida,Belcorp,30.66,Zelle,,9,No,2022-09-21,Regalo,TikTok
+1415,34,Zulia,Seca,Canela Oscuro,Labial Mate,Fenty Beauty,66.59,ZELLE,Adicta,1,No,2023-10-24,Reemplazo,Facebook
+1416,57,Caracas,Sensible,Trigo,Labial Mate,Belcorp,13.3,Zelle,,5,Sí,2023-03-18,Autoregalo,TikTok
+1417,50,Zulia,Grasa,Canela Oscuro,Labial Mate,Belcorp,68.48,Transferencia,Frecuente,8,No,2023-07-02,Prueba nueva marca,Instagram
+1418,26,Lara,Sensible,Café,Labial Mate,Belcorp,14.56,Transferencia,Adicta,2,Sí,2023-03-29,,Instagram
+1419,60,Caracas,Seca,Café,Labial Mate,Natura,34.8,Efectivo Bs,Frecuente,4,No,2023-04-22,,WhatsApp
+1420,65,Miranda,Mixta,Café,Base Líquida,Natura,64.8,Binance,Frecuente,7,No,2022-10-14,Autoregalo,Facebook
+1421,56,Bolívar,Seca,Canela,Paleta Sombras,,16.24,Efectivo Bs,Ocasional,3,Si,2022-10-30,Autoregalo,WhatsApp
+1422,46,Caracas,Seca,Ébano,Rímel,Belcorp,22.19,ZELLE,Adicta,5,No,2022-11-07,Autoregalo,Facebook
+1423,59,Bolívar,Sensible,Café,Labial Mate,Belcorp,59.17,ZELLE,Primera vez,8,Si,2022-07-27,Autoregalo,WhatsApp
+1424,43,Zulia,Grasa,Canela,Rímel,Natura,59.0,Efectivo Bs,,10,No,2023-09-10,Autoregalo,Instagram
+1425,52,Táchira,Seca,Canela,Rímel,Natura,53.09,Efectivo Bs,Ocasional,3,Sí,2023-03-22,Autoregalo,WhatsApp
+1426,67,Caracas,Seca,Trigo,Rubor en Crema,Natura,57.05,Efectivo Bs,Primera vez,4,Sí,2023-11-01,Auto-regalo,Facebook
+1427,42,Bolívar,Sensible,Trigo,Paleta Sombras,Belcorp,45.7,Zelle,Primera vez,9,No,2023-09-25,Auto-regalo,WhatsApp
+1428,41,Lara,Grasosa,Ébano,Labial Mate,Natura,23.88,Binance,Ocasional,7,Sí,2022-02-24,Regalo,Facebook
+1429,30,Táchira,Sensible,Canela Oscuro,Paleta Sombras,Belcorp,30.93,Transferencia,Primera vez,1,Si,2022-01-12,Autoregalo,Instagram
+1430,24,Bolívar,Sensible,Trigo,Rímel,Natura,18.62,Zelle,,4,Si,2023-10-19,Autoregalo,TikTok
+1431,53,Bolívar,Grasosa,Trigo,Paleta Sombras,Fenty Beauty,73.13,ZELLE,Primera vez,4,No,2023-02-04,Regalo,Facebook
+1432,62,Lara,Seca,Café,Base Líquida,Chanel,48.75,Efectivo Bs,Adicta,9,No,2023-10-10,Regalo,Facebook
+1433,37,Zulia,Mixta,Miel Claro,Rubor en Crema,Belcorp,35.06,Efectivo Bs,Primera vez,6,Sí,2023-05-30,Reemplazo,Instagram
+1434,18,Lara,Seca,Canela Oscuro,Rímel,Natura,39.65,ZELLE,Ocasional,9,No,2023-10-18,Prueba nueva marca,Instagram
+1435,25,Bolívar,Mixta,Miel Claro,Labial Mate,Fenty Beauty,76.05,Binance,Ocasional,6,No,2023-06-26,Regalo,TikTok
+1436,63,Caracas,Seca,Miel Claro,Base Líquida,Belcorp,16.5,Binance,Ocasional,6,No,2022-08-25,Reemplazo,WhatsApp
+1437,33,Anzoátegui,Grasa,Canela,Paleta Sombras,Natura,48.97,Transferencia,,5,No,2022-10-06,Autoregalo,WhatsApp
+1438,31,Táchira,Seca,Ébano,Rímel,Kryolan,42.94,ZELLE,Primera vez,5,Si,2022-12-14,,Facebook
+1439,29,Bolívar,Grasosa,Miel Claro,Labial Mate,Kryolan,50.86,Zelle,Ocasional,2,No,2023-09-19,Reemplazo,TikTok
+1440,68,Táchira,Sensible,Café,Rubor en Crema,Belcorp,6.36,Zelle,Primera vez,8,No,2022-04-14,Regalo,WhatsApp
+1441,40,Miranda,Sensible,Miel Claro,Labial Mate,Natura,70.41,Efectivo Bs,,8,No,2023-09-22,Autoregalo,WhatsApp
+1442,32,Lara,Grasa,Ébano,Paleta Sombras,Belcorp,74.91,Efectivo Bs,Primera vez,1,Sí,2023-06-01,,Facebook
+1443,45,Caracas,Mixta,Miel Claro,Labial Mate,Natura,47.38,Transferencia,Ocasional,8,No,2022-09-05,Reemplazo,Facebook
+1444,51,Anzoátegui,Seca,Miel Claro,Labial Mate,Belcorp,57.25,ZELLE,Frecuente,5,No,2022-12-30,,Facebook
+1445,19,Táchira,Mixta,Café,Labial Mate,Natura,74.19,Zelle,Primera vez,2,No,2022-11-17,Regalo,Instagram
+1446,49,Miranda,Seca,Café,Rubor en Crema,Belcorp,58.04,Efectivo Bs,Adicta,2,Sí,2023-09-25,,Facebook
+1447,40,Bolívar,Grasa,Miel Claro,Paleta Sombras,Belcorp,16.44,Zelle,Primera vez,6,No,2022-10-13,Autoregalo,Facebook
+1448,39,Caracas,Grasa,Canela,Rímel,Kryolan,48.22,ZELLE,Primera vez,9,Sí,2022-05-29,Reemplazo,Facebook
+1449,68,Zulia,Grasosa,Café,Rubor en Crema,Belcorp,50.5,Zelle,Adicta,1,Sí,2022-03-25,Regalo,WhatsApp
+1450,42,Miranda,Grasa,Miel Claro,Rubor en Crema,Natura,36.81,Efectivo Bs,Primera vez,6,Si,2023-02-10,,Facebook
+1451,39,Anzoátegui,Grasosa,Trigo,Paleta Sombras,Natura,60.23,Zelle,Primera vez,9,Sí,2023-04-01,,Instagram
+1452,39,Bolívar,Sensible,Miel Claro,Rímel,Chanel,75.08,Binance,Ocasional,8,Sí,2024-01-13,Reemplazo,Instagram
+1453,66,Caracas,Mixta,Canela,Labial Mate,Natura,74.42,Efectivo Bs,,6,No,2024-03-10,Reemplazo,WhatsApp
+1454,69,Anzoátegui,Mixta,Canela Oscuro,Base Líquida,Kryolan,38.81,Binance,Frecuente,3,No,2022-06-10,,WhatsApp
+1455,59,Bolívar,Sensible,Canela Oscuro,Rímel,Belcorp,13.49,Efectivo Bs,Adicta,8,Sí,2024-02-23,Prueba nueva marca,Facebook
+1456,23,Anzoátegui,Grasa,Café,Labial Mate,Belcorp,78.86,Transferencia,,9,No,2023-04-05,Reemplazo,TikTok
+1457,32,Bolívar,Grasosa,Miel Claro,Base Líquida,Kryolan,67.92,Transferencia,Adicta,1,No,2023-07-04,Reemplazo,TikTok
+1458,60,Miranda,Grasosa,Café,Paleta Sombras,Belcorp,14.35,Efectivo Bs,Ocasional,9,Sí,2023-05-15,Autoregalo,WhatsApp
+1459,54,Caracas,Seca,Café,Rubor en Crema,Kryolan,74.06,ZELLE,Ocasional,6,Si,2024-01-08,Reemplazo,WhatsApp
+1460,50,Miranda,Grasosa,Miel Claro,Rímel,,70.24,Efectivo Bs,Adicta,6,Si,2023-05-24,Regalo,Instagram
+1461,25,Miranda,Seca,Trigo,Rubor en Crema,Belcorp,43.91,Binance,Frecuente,4,No,2023-10-16,,TikTok
+1462,61,Anzoátegui,Grasa,Canela Oscuro,Base Líquida,Belcorp,49.35,Transferencia,Ocasional,1,No,2023-04-26,Autoregalo,WhatsApp
+1463,61,Anzoátegui,Grasosa,Miel Claro,Rímel,Belcorp,34.93,ZELLE,Frecuente,10,Sí,2023-10-25,Reemplazo,WhatsApp
+1464,22,Anzoátegui,Seca,Ébano,Labial Mate,Belcorp,9.11,Transferencia,,8,No,2022-04-24,Reemplazo,TikTok
+1465,56,Lara,Grasa,Ébano,Rubor en Crema,Kryolan,30.14,Transferencia,Adicta,2,No,2024-01-19,Autoregalo,Facebook
+1466,21,Lara,Grasosa,Trigo,Rubor en Crema,Fenty Beauty,65.21,Efectivo Bs,,1,Sí,2023-08-01,Auto-regalo,TikTok
+1467,23,Caracas,Sensible,Café,Labial Mate,Kryolan,5.35,Binance,,2,No,2022-12-27,Reemplazo,Instagram
+1468,62,Bolívar,Grasa,Ébano,Rubor en Crema,Natura,30.01,Zelle,Adicta,1,Sí,2022-12-07,Regalo,WhatsApp
+1469,49,Miranda,Seca,Canela,Paleta Sombras,Fenty Beauty,34.86,ZELLE,Primera vez,1,Si,2024-02-09,Autoregalo,Instagram
+1470,69,Bolívar,Sensible,Trigo,Base Líquida,Belcorp,45.3,Efectivo Bs,Adicta,9,Sí,2024-01-31,Reemplazo,WhatsApp
+1471,47,Caracas,Grasosa,Canela,Base Líquida,Natura,73.99,Binance,Primera vez,1,Si,2023-03-25,Regalo,Instagram
+1472,64,Táchira,Grasa,Café,Base Líquida,Kryolan,30.98,ZELLE,Frecuente,4,Sí,2022-06-29,Prueba nueva marca,WhatsApp
+1473,52,Bolívar,Seca,Trigo,Rímel,Belcorp,31.02,ZELLE,Adicta,10,No,2023-12-03,,WhatsApp
+1474,57,Miranda,Mixta,Canela Oscuro,Labial Mate,Belcorp,60.31,ZELLE,Adicta,6,Si,2023-02-11,Prueba nueva marca,WhatsApp
+1475,69,Bolívar,Seca,Trigo,Rubor en Crema,Belcorp,38.92,Zelle,Adicta,7,No,2023-10-28,Reemplazo,WhatsApp
+1476,33,Táchira,Grasa,Miel Claro,Rubor en Crema,Belcorp,21.85,Transferencia,Frecuente,2,Sí,2022-07-15,Autoregalo,Instagram
+1477,30,Lara,Seca,Ébano,Paleta Sombras,Belcorp,38.93,Efectivo Bs,Adicta,6,Sí,2023-04-11,,Facebook
+1478,67,Bolívar,Mixta,Café,Paleta Sombras,Belcorp,15.56,ZELLE,Ocasional,7,No,2022-11-07,Autoregalo,Facebook
+1479,59,Miranda,Grasosa,Miel Claro,Rímel,Fenty Beauty,18.23,Zelle,Primera vez,10,No,2022-09-19,Regalo,Facebook
+1480,47,Miranda,Mixta,Trigo,Base Líquida,Belcorp,42.38,Transferencia,Adicta,10,No,2023-02-23,Autoregalo,Instagram
+1481,36,Caracas,Seca,Trigo,Base Líquida,Fenty Beauty,36.42,Zelle,Ocasional,2,Sí,2023-02-10,Reemplazo,Instagram
+1482,34,Miranda,Mixta,Miel Claro,Paleta Sombras,Chanel,73.61,ZELLE,Adicta,2,No,2022-05-23,Prueba nueva marca,Facebook
+1483,36,Miranda,Mixta,Ébano,Rímel,Belcorp,32.18,Binance,Primera vez,10,No,2022-12-08,Regalo,WhatsApp
+1484,45,Lara,Grasosa,Canela,Base Líquida,Natura,48.54,Efectivo Bs,Primera vez,7,Sí,2022-11-12,Autoregalo,Instagram
+1485,43,Zulia,Sensible,Ébano,Rímel,Chanel,52.42,Efectivo Bs,Adicta,1,Sí,2022-04-11,Regalo,Instagram
+1486,54,Bolívar,Grasa,Trigo,Rímel,Kryolan,5.98,Transferencia,Adicta,8,No,2022-09-01,Regalo,WhatsApp
+1487,43,Táchira,Sensible,Ébano,Paleta Sombras,Belcorp,54.77,ZELLE,Primera vez,3,No,2023-05-05,Regalo,Facebook
+1488,40,Miranda,Grasa,Trigo,Paleta Sombras,Kryolan,18.35,Efectivo Bs,Primera vez,6,No,2022-01-12,Reemplazo,Facebook
+1489,26,Zulia,Mixta,Canela Oscuro,Base Líquida,,77.08,Efectivo Bs,Primera vez,9,No,2022-08-27,Autoregalo,Instagram
+1490,29,Caracas,Seca,Canela,Rímel,Natura,16.15,Efectivo Bs,,6,No,2023-07-15,Prueba nueva marca,TikTok
+1491,18,Miranda,Grasa,Ébano,Rímel,Natura,36.1,Zelle,Primera vez,9,No,2022-02-11,Reemplazo,TikTok
+1492,18,Táchira,Mixta,Ébano,Rímel,Kryolan,11.4,ZELLE,,7,Sí,2023-11-09,Prueba nueva marca,WhatsApp
+1493,64,Táchira,Sensible,Ébano,Rímel,Belcorp,79.77,ZELLE,,9,Si,2023-08-17,Regalo,WhatsApp
+1494,51,Lara,Sensible,Trigo,Rubor en Crema,,42.66,Efectivo Bs,Ocasional,2,No,2023-03-05,,WhatsApp
+1495,49,Miranda,Seca,Ébano,Paleta Sombras,Chanel,49.65,Efectivo Bs,Adicta,8,Sí,2022-06-07,Autoregalo,Facebook
+1496,65,Zuila,Mixta,Trigo,Rubor en Crema,Belcorp,10.03,Binance,Frecuente,8,Sí,2022-08-04,,Facebook
+1497,42,Miranda,Seca,Miel Claro,Paleta Sombras,Belcorp,61.25,Transferencia,Ocasional,2,Sí,2023-11-01,Regalo,WhatsApp
+1498,57,Zulia,Grasosa,Miel Claro,Rubor en Crema,Belcorp,20.74,ZELLE,Primera vez,4,Si,2023-04-07,Regalo,WhatsApp
+1499,62,Bolívar,Sensible,Ébano,Base Líquida,Belcorp,72.35,Binance,Adicta,7,Si,2022-05-14,,Facebook
+1500,18,Miranda,Seca,Ébano,Labial Mate,Kryolan,20.39,Efectivo Bs,Frecuente,4,Sí,2022-03-08,,TikTok
+1501,33,Zulia,Seca,Trigo,Rubor en Crema,Belcorp,19.3,Efectivo Bs,Frecuente,4,Sí,2022-01-07,,WhatsApp
+1502,56,Lara,Mixta,Canela,Base Líquida,Belcorp,7.74,Transferencia,,6,Si,2023-06-10,Regalo,Facebook
+1503,22,Caracas,Seca,Miel Claro,Rímel,Belcorp,40.41,Zelle,Frecuente,10,Sí,2022-03-14,Reemplazo,Instagram
+1504,39,Anzoátegui,Grasosa,Canela,Paleta Sombras,Kryolan,47.36,Binance,Frecuente,6,Sí,2023-02-03,Regalo,Facebook
+1505,46,Lara,Mixta,Miel Claro,Paleta Sombras,Belcorp,9.93,ZELLE,,10,Sí,2023-02-09,Regalo,TikTok
+1506,20,Caracas,Grasosa,Ébano,Paleta Sombras,Kryolan,63.16,Transferencia,Ocasional,3,No,2023-11-06,,Instagram
+1507,29,Caracas,Mixta,Trigo,Labial Mate,Belcorp,39.0,Binance,Frecuente,9,Sí,2023-08-01,Auto-regalo,TikTok
+1508,43,Anzoátegui,Seca,Canela,Paleta Sombras,Fenty Beauty,44.33,Efectivo Bs,Ocasional,10,No,2022-05-10,Regalo,WhatsApp
+1509,33,Zulia,Seca,Trigo,Base Líquida,Belcorp,38.06,ZELLE,Ocasional,2,Sí,2023-04-11,,Facebook
+1510,68,Miranda,Sensible,Ébano,Paleta Sombras,Chanel,35.06,Zelle,Primera vez,6,Sí,2022-07-25,Autoregalo,Facebook
+1511,54,Lara,Grasa,Café,Base Líquida,Chanel,46.97,Transferencia,Ocasional,7,No,2024-02-27,,WhatsApp
+1512,39,Táchira,Seca,Canela Oscuro,Paleta Sombras,Belcorp,16.64,Efectivo Bs,Adicta,9,Sí,2024-02-07,Prueba nueva marca,Instagram
+1513,46,Miranda,Grasa,Canela Oscuro,Labial Mate,Natura,18.64,Binance,Primera vez,3,Si,2022-09-23,Auto-regalo,Instagram
+1514,31,Bolívar,Grasosa,Canela Oscuro,Base Líquida,Belcorp,69.63,Transferencia,Ocasional,10,No,2023-06-21,Autoregalo,Facebook
+1515,45,Bolívar,Mixta,Café,Paleta Sombras,Natura,75.96,Efectivo Bs,Ocasional,3,No,2024-03-03,Regalo,Facebook
+1516,22,Miranda,Grasa,Trigo,Labial Mate,Natura,33.0,Zelle,Frecuente,7,Sí,2022-09-10,Regalo,TikTok
+1517,64,Caracas,Mixta,Miel Claro,Paleta Sombras,Natura,25.31,Transferencia,Ocasional,4,Sí,2022-10-16,Autoregalo,WhatsApp
+1518,66,Zulia,Grasosa,Canela,Paleta Sombras,Belcorp,53.3,Zelle,Adicta,8,No,2022-06-13,Autoregalo,WhatsApp
+1519,47,Miranda,Grasa,Ébano,Rímel,Belcorp,35.66,Binance,Primera vez,7,Sí,2022-04-05,Autoregalo,Instagram
+1520,63,Bolívar,Seca,Miel Claro,Rubor en Crema,Natura,6.9,Transferencia,Primera vez,5,No,2024-02-21,Prueba nueva marca,WhatsApp
+1521,69,Táchira,Mixta,Ébano,Paleta Sombras,Belcorp,16.71,Efectivo Bs,Ocasional,7,Sí,2022-04-20,,WhatsApp
+1522,22,Zulia,Mixta,Trigo,Base Líquida,Kryolan,58.7,ZELLE,Frecuente,3,No,2022-12-02,Autoregalo,Instagram
+1523,29,Miranda,Seca,Canela,Labial Mate,Natura,54.42,Zelle,Ocasional,2,Sí,2022-08-26,,TikTok
+1524,33,Zulia,Grasosa,Miel Claro,Rubor en Crema,Belcorp,7.03,Binance,Adicta,6,Sí,2023-01-16,Regalo,WhatsApp
+1525,43,Caracas,Sensible,Canela,Base Líquida,Chanel,21.65,Efectivo Bs,Adicta,2,No,2023-03-12,Autoregalo,WhatsApp
+1526,43,Bolívar,Grasa,Canela,Labial Mate,Natura,22.33,Transferencia,Ocasional,3,No,2023-04-28,Autoregalo,Instagram
+1527,65,Miranda,Grasosa,Miel Claro,Labial Mate,Belcorp,55.39,ZELLE,Frecuente,6,No,2022-01-25,Auto-regalo,WhatsApp
+1528,38,Miranda,Mixta,Café,Rímel,Natura,6.48,Efectivo Bs,,5,Sí,2023-10-15,Regalo,WhatsApp
+1529,56,Anzoátegui,Seca,Ébano,Rubor en Crema,Belcorp,12.81,Efectivo Bs,Adicta,8,Si,2022-04-27,,WhatsApp
+1530,53,Zulia,Seca,Miel Claro,Paleta Sombras,Natura,64.99,Efectivo Bs,,9,No,2023-04-27,Autoregalo,WhatsApp
+1531,50,Táchira,Grasosa,Café,Rubor en Crema,Kryolan,18.39,Efectivo Bs,Adicta,3,Sí,2023-01-27,Autoregalo,Facebook
+1532,47,Anzoátegui,Grasosa,Ébano,Base Líquida,Belcorp,53.96,Efectivo Bs,Primera vez,10,No,2023-06-21,Prueba nueva marca,Instagram
+1533,54,Táchira,Mixta,Canela,Labial Mate,Belcorp,22.86,Efectivo Bs,Ocasional,3,Sí,2022-03-20,Autoregalo,WhatsApp
+1534,40,Anzoátegui,Mixta,Canela Oscuro,Rímel,Belcorp,12.46,Efectivo Bs,Primera vez,3,Si,2023-08-03,Autoregalo,Instagram
+1535,27,Anzoátegui,Mixta,Trigo,Rubor en Crema,Belcorp,23.24,Zelle,Adicta,6,Sí,2022-06-22,Autoregalo,WhatsApp
+1536,22,Caracass,Seca,Café,Base Líquida,Kryolan,59.17,Efectivo Bs,,1,No,2022-01-12,Regalo,Instagram
+1537,53,Zulia,Seca,Ébano,Rímel,Chanel,69.18,ZELLE,Adicta,7,No,2024-03-10,Regalo,WhatsApp
+1538,51,Miranda,Mixta,Miel Claro,Paleta Sombras,Natura,67.27,Transferencia,,1,No,2022-05-08,,WhatsApp
+1539,69,Zulia,Mixta,Ébano,Labial Mate,Belcorp,34.79,Efectivo Bs,Ocasional,5,No,2023-08-31,Autoregalo,Facebook
+1540,48,Zulia,Sensible,Trigo,Base Líquida,Belcorp,55.11,Transferencia,Primera vez,10,No,2022-04-02,Prueba nueva marca,Instagram
+1541,27,Miranda,Grasa,Trigo,Labial Mate,Belcorp,20.37,Binance,Ocasional,8,Sí,2023-10-15,,TikTok
+1542,36,Caracas,Seca,Café,Base Líquida,Belcorp,26.99,Zelle,Frecuente,4,Sí,2023-06-27,Autoregalo,Facebook
+1543,49,Lara,Grasosa,Canela,Base Líquida,Natura,72.23,Transferencia,Adicta,5,No,2023-06-16,,WhatsApp
+1544,18,Anzoátegui,Grasa,Canela Oscuro,Rubor en Crema,Belcorp,5.98,Efectivo Bs,Primera vez,4,No,2023-10-20,Reemplazo,Instagram
+1545,22,Anzoátegui,Mixta,Trigo,Rímel,Natura,11.41,Binance,Adicta,4,Sí,2023-03-23,Reemplazo,Instagram
+1546,62,Zuila,Mixta,Miel Claro,Rubor en Crema,Fenty Beauty,20.59,ZELLE,,8,Sí,2023-01-25,,Facebook
+1547,21,Miranda,Grasa,Ébano,Base Líquida,Belcorp,6.99,Transferencia,Adicta,2,Sí,2023-11-03,Regalo,TikTok
+1548,33,Zulia,Grasa,Canela Oscuro,Paleta Sombras,Natura,18.61,Zelle,Primera vez,1,No,2022-02-12,Regalo,Instagram
+1549,41,Bolívar,Seca,Café,Rubor en Crema,Natura,48.73,ZELLE,Frecuente,3,No,2022-09-11,Reemplazo,Facebook
+1550,33,Bolívar,Seca,Canela,Rubor en Crema,Natura,36.61,Transferencia,Primera vez,9,Sí,2022-05-10,Reemplazo,Facebook
+1021,61,Lara,Sensible,Canela,Rubor en Crema,Natura,28.92,Efectivo Bs,Primera vez,8,Sí,2022-01-21,Reemplazo,FB
+1541,27,Miranda,Grasa,Trigo,Labial Mate,Belcorp,20.37,Binance,Ocasional,8,Sí,2023-10-15,,TikTok
+1238,19,Lara,Seca,Ébano,Paleta Sombras,Chanel,18.64,ZELLE,,7,Sí,2022-11-22,Autoregalo,TikTok
+1140,52,Lara,Mixta,Miel Claro,Rímel,Belcorp,39.78,Efectivo Bs,,7,No,2022-12-18,Autoregalo,Facebook
+1510,68,Miranda,Sensible,Ébano,Paleta Sombras,Chanel,35.06,Zelle,Primera vez,6,Sí,2022-07-25,Autoregalo,Facebook
+1150,44,Lara,Mixta,Canela,Rímel,Natura,56.35,Efectivo Bs,Ocasional,10,No,2023-03-03,Regalo,WhatsApp
+1445,19,Táchira,Mixta,Café,Labial Mate,Natura,74.19,Zelle,Primera vez,2,No,2022-11-17,Regalo,Instagram
+1243,49,Miranda,Grasosa,Trigo,Base Líquida,Belcorp,17.92,Zelle,Primera vez,6,No,2023-02-11,Prueba nueva marca,Facebook
+1433,37,Zulia,Mixta,Miel Claro,Rubor en Crema,Belcorp,35.06,Efectivo Bs,Primera vez,6,Sí,2023-05-30,Reemplazo,Instagram
+1194,18,Anzoátegui,Grasosa,Ébano,Base Líquida,Belcorp,44.02,Efectivo Bs,Primera vez,7,Si,2023-02-01,Reemplazo,Instagram
