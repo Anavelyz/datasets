@@ -1,0 +1,556 @@
+﻿ID_Venta,Producto,Material,Color,Categoría,Precio (USD),Cantidad,Cliente,Método_Pago,Fecha_Venta,Descuento (%),Calidad,Total_Venta (USD)
+1,Diadema,Mostacilla,Rosa,Fiesta,45.02,1,Marisela Camacho Rocha,Divisas,2023-11-19,0,Baja,45.02
+2,Aretes,Plástico,Verde,Fiesta,30.55,3,Teófila Miguel Calatayud,Divisas,2023-03-04,0,Alta,91.65
+3,Tobillera,Acero inoxidable,Multicolor,Formal,31.6,2,Eliana Franch-Peiró,Divisas,2023-08-30,0,Alta,63.2
+4,Diadema,Plástico,Plateado,Fiesta,31.42,4,Lucía Sanabria Piquer,Tarjeta,2023-07-01,0,Alta,125.68
+5,Anillo,Cristal,Verde,Infantil,16.34,2,León Salvador Pareja,Pago móvil,2023-01-24,0,Media,32.68
+6,Tobillera,Cristal,Plateado,Casual,46.89,3,Ruth Franch-Lucas,Pago móvil,2023-07-10,10,Media,126.6
+7,Tobillera,Acero inoxidable,Rosa,Infantil,47.47,3,Poncio Cabo,Tarjeta,2023-06-28,0,Premium,142.41
+8,Diadema,Plástico,Rosa,Fiesta,32.01,1,Hector Giménez Amador,Transferencia,2023-10-01,0,Media,32.01
+9,Pulsera,Cristal,Verde,Bohemio,39.6,4,Alba Navas,Transferencia,2023-09-22,10,Media,142.56
+10,Anillo,Tela,Verde,Casual,31.39,1,Berta Cabezas Correa,Divisas,2023-04-21,0,Alta,31.39
+11,Diadema,Oro,Plateado,Casual,25.25,3,Reyes Olivares-Tamarit,Efectivo,2023-06-05,0,Alta,75.75
+12,Anillo,Plata925,Azul,Formal,33.72,2,Constanza Carrión Agustí,Transferencia,2023-03-21,0,Media,67.44
+13,Anillo,Acero,Plateado,Formal,28.54,1,Ruth Codina Bello,Efectivo,2023-04-23,5,Alta,27.11
+14,Tobillera,Cristales,Verde,Bohemio,30.68,1,Amaya Estrella Alegre Aguado,Pago móvil,2023-01-16,0,Alta,30.68
+15,Aretes,Tela ,Negro,Casual,39.62,2,Juliana Pineda-Ripoll,Efectivo,2023-05-13,0,Baja,79.24
+16,Anillo,plastico,Verde,Bohemio,25.08,1,Florentina Miriam Jaume Cáceres,Pago móvil,2023-05-25,10,Alta,22.57
+17,Broche,Oro laminado,Negro,Formal,3.96,2,Lalo Royo-Jiménez,Tarjeta,2023-06-13,0,Baja,7.92
+18,Tobillera,Cobre,Dorado,Formal,9.87,4,Severo Acosta Figueroa,Tarjeta,2023-08-28,0,Media,39.48
+19,Pulsera,Plata,Verde,Casual,23.05,2,María Cristina Armengol Prada,Divisas,2023-09-02,0,Baja,46.1
+20,Aretes,Plástico,Dorado,Infantil,36.79,4,Eli Contreras Padilla,Transferencia,2023-08-04,0,Baja,147.16
+21,Broche,Oro laminado,dorado,Fiesta,30.48,2,Clementina del Real,Divisas,2023-03-07,0,Alta,60.96
+22,Broche,Cristal,PLATEADO,Formal,33.21,3,Fermín Castelló-Perea,Pago móvil,2023-12-19,0,Media,99.63
+23,Pulsera,Mostacilla,rosado,Formal,25.01,3,Andrea Carreras Rius,Divisas,2023-03-23,10,Media,67.53
+24,Aretes,Acero inoxidable,azull,Infantil,31.56,4,Rosalinda Patiño Cañas,Efectivo,2023-12-30,0,Media,126.24
+25,Tobillera,Cristal,verde,Infantil,17.79,4,Abraham Mariscal,Pago móvil,2023-09-04,0,Media,71.16
+26,Collar,Mostacilla,Negro ,Bohemio,24.57,3,Arsenio Vall Poza,Tarjeta,2023-09-12,0,Media,73.71
+27,Aretes,Cobre,Plateado,Bohemio,37.73,4,Julia de Romero,Transferencia,2023-08-12,0,Media,150.92
+28,Pulsera,Cristal,Verde,Fiesta,43.85,2,Gala Nadia Arnaiz Díaz,Pago móvil,2023-01-09,0,Media,87.7
+29,Broche,Tela,Rosa,Fiesta,22.82,2,Nerea Soler Elías,Pago móvil,2023-09-13,5,Alta,43.36
+30,Tobillera,Acero inoxidable,Dorado,Casual,4.1,3,Jordán Tirado Espejo,Efectivo,2023-02-21,0,Media,12.3
+31,Aretes,Mostacilla,Plateado,Bohemio,9.76,1,Rosa Garriga Luján,efectivo,2023-07-31,5,Media,9.27
+32,Collar,Mostacilla,Dorado,Formal,3.0,2,Concha Marín-Guardiola,tarjeta,2023-11-21,10,Media,5.4
+33,Collar,Mostacilla,Rojo,Bohemio,33.36,4,Eloy Herrero Piñeiro,Pago Movil,2023-06-09,0,Alta,133.44
+34,Anillo,Cobre,Dorado,Formal,17.95,1,Marisela Bravo Arce,Transferncia,2023-10-01,10,Media,16.16
+35,Anillo,Cristal,Negro,Infantil,28.04,1,Nazario Gomez Pol,Efectivo,2023-03-12,0,Media,28.04
+36,Diadema,Cobre,Rojo,Bohemio,25.68,2,Virginia Castell Robles,Tarjeta,2023-11-30,0,Media,51.36
+37,Pulsera,Plástico,Multicolor,Infantil,5.91,2,Felicidad del Escudero,Tarjeta,2023-12-09,0,Premium,11.82
+38,Aretes,Plata,Negro,Fiesta,21.36,1,Itziar Bosch Gilabert,Transferencia,2023-05-28,0,Media,21.36
+39,Aretes,Plata,Rosa,Fiesta,12.59,1,Luisina Cases Donaire,Pago móvil,2023-04-30,0,Alta,12.59
+40,Diadema,Plástico,Rojo,Casual,22.08,3,Juan Barceló Marquez,Pago móvil,2023-09-06,0,Media,66.24
+41,Broche,Cristal,Multicolor,Bohemio,0.0,4,Paola Rozas Lillo,Tarjeta,2023-12-14,0,Media,47.08
+42,Broche,Tela,Verde,Infantil,100.0,3,Chus Elías,Divisas,2023-06-09,0,Alta,127.02
+43,Diadema,Cobre,Dorado,Formal,200.0,2,Rogelio Guardia Enríquez,Pago móvil,2023-08-05,0,Media,20.72
+44,Broche,Acero inoxidable,Plateado,Fiesta,-5.0,3,Reyes de Chamorro,Tarjeta,2023-10-29,15,Alta,122.71
+45,Anillo,Mostacilla,Azul,Fiesta,1.0,3,Aurelio Nico Villegas Castells,Efectivo,2023-04-17,5,Alta,62.59
+46,Aretes,Mostacilla,Dorado,Formal,500.0,3,Dionisio Castell Llobet,Divisas,2023-11-15,0,Alta,127.86
+47,Diadema,Cristal,Multicolor,Infantil,32.18,3,Sebastian Raya Calzada,Transferencia,2023-05-08,0,Baja,96.54
+48,Aretes,Tela,Dorado,Infantil,37.3,4,Atilio Guardia Reig,Pago móvil,2023-05-13,10,Alta,134.28
+49,Collar,Plata,Rosa,Bohemio,38.85,4,Elías Guillén Sanchez,Tarjeta,2023-07-17,10,Media,139.86
+50,Anillo,Plata,Verde,Bohemio,26.23,1,María Cristina de Oliver,Efectivo,2023-09-06,5,Alta,24.92
+51,Tobillera,Mostacilla,Azul,Casual,28.08,2,Juan José Navarrete Navas,Transferencia,2023-12-13,0,Media,56.16
+52,Anillo,Cristal,Rojo,Fiesta,26.67,3,Lola Mateo Peralta,Tarjeta,2023-11-03,0,Alta,80.01
+53,Diadema,Cobre,Rojo,Bohemio,30.23,1,Gerardo Reynaldo Granados Puga,Tarjeta,2023-08-02,0,Media,30.23
+54,Tobillera,Plata,Rojo,Infantil,3.41,1,Nazaret Ortiz-Contreras,Transferencia,2023-05-07,0,Media,3.41
+55,Collar,Cobre,Multicolor,Formal,20.98,1,Jose Miguel Fiol Carro,Efectivo,2023-09-09,5,Baja,19.93
+56,Diadema,Tela,Negro,Infantil,31.1,4,Ignacia del Mateo,Efectivo,2023-03-15,5,Alta,118.18
+57,Pulsera,Plata,Negro,Fiesta,30.69,3,Anastasio Pou Caro,Divisas,2023-09-17,0,Media,92.07
+58,Aretes,Plata,Plateado,Infantil,40.06,3,Néstor Carnero Sánchez,Pago móvil,2023-12-29,10,Media,108.16
+59,Collar,Oro laminado,Azul,Casual,33.44,2,Balduino Murillo-Gonzalo,Transferencia,2023-05-23,0,Alta,66.88
+60,Aretes,Plata,Rojo,Fiesta,49.62,3,Marcia Egea Cuenca,Transferencia,2023-02-06,0,Media,148.86
+61,Broche,Plástico,Negro,Formal,15.63,3,Margarita Solsona Franch,Transferencia,2023-03-19,0,Media,46.89
+62,Pulsera,Acero inoxidable,Multicolor,Casual,19.24,1,Yésica Daza Estevez,Efectivo,2023-01-30,15,Media,16.35
+63,Pulsera,Plástico,Plateado,Fiesta,20.42,2,Natalio de Cáceres,Pago móvil,2023-11-02,0,Media,40.84
+64,Collar,Cristal,Verde,Formal,24.36,3,Alexandra Miró Tamarit,Divisas,2023-06-17,15,Media,62.12
+65,Pulsera,Cristal,Plateado,Casual,42.13,4,Cecilio Teruel,Tarjeta,2023-02-05,10,Baja,151.67
+66,Tobillera,Cobre,Negro,Casual,13.32,3,Emilia Escobar Velasco,Tarjeta,2023-12-06,0,Media,39.96
+67,Pulsera,Plástico,Rosa,Fiesta,39.25,1,Leandro Múgica-Lastra,Transferencia,2023-08-26,0,Media,39.25
+68,Aretes,Plástico,Multicolor,Bohemio,21.45,4,Telmo de Varela,Pago móvil,2023-01-07,10,Alta,77.22
+69,Aretes,Plástico,Rosa,Casual,30.89,1,Toño Guerra Caballero,Efectivo,2023-06-24,0,Baja,30.89
+70,Diadema,Tela,Rojo,Casual,32.36,3,Hector Carbonell Aguilera,Pago móvil,2023-12-10,15,Media,82.52
+71,Aretes,Plata,Rosa,Formal,19.9,4,Rodrigo Lucena Hernando,Pago móvil,2023-06-26,15,Alta,67.66
+72,Diadema,Acero inoxidable,Rojo,Infantil,26.61,2,Angelina Expósito Saavedra,Efectivo,2023-04-08,0,Baja,53.22
+73,Aretes,Cobre,Rojo,Fiesta,21.83,2,Teo Vallejo-Gomez,Transferencia,2023-02-13,0,Media,43.66
+74,Tobillera,Plástico,Negro,Fiesta,5.32,4,Prudencia Ainoa Barragán Azorin,Pago móvil,2023-01-31,15,Alta,18.09
+75,Diadema,Plástico,Rosa,Bohemio,22.98,4,Fabián Garcia Cerro,Tarjeta,2023-12-17,0,Alta,91.92
+76,Anillo,Oro laminado,Rojo,Bohemio,6.67,1,Che Nilo Urrutia Fuente,Efectivo,2023-10-28,0,Alta,6.67
+77,Broche,Cobre,Azul,Fiesta,21.44,4,Priscila Sanchez Porcel,Divisas,2023-02-14,0,Alta,85.76
+78,Collar,Plástico,Verde,Bohemio,30.46,1,Maricela Delgado Amor,Transferencia,2023-04-25,0,Alta,30.46
+79,Aretes,Cobre,Plateado,Formal,29.81,3,Nadia Crespo-Coca,Efectivo,2023-06-21,15,Media,76.02
+80,Pulsera,Plata,Plateado,Fiesta,33.81,1,Román Jáuregui-Roselló,Divisas,2023-11-02,10,Alta,30.43
+81,Aretes,Oro laminado,Negro,Bohemio,6.57,4,Rosalva Cortes Castell,Divisas,2023-05-31,0,Baja,26.28
+82,Pulsera,Cobre,Rosa,Fiesta,33.3,4,Adelia Chelo Valcárcel Ferrando,Pago móvil,2023-12-15,0,Alta,133.2
+83,Broche,Acero inoxidable,Rosa,Infantil,16.98,3,Ambrosio Cornelio Calatayud Berrocal,Pago móvil,2023-07-25,0,Media,50.94
+84,Broche,Acero inoxidable,Rojo,Casual,21.15,4,Eliana Vallejo-Cuevas,Pago móvil,2023-02-02,10,Media,76.14
+85,Broche,Cristal,Multicolor,Fiesta,43.18,4,Anselmo del Pereira,Efectivo,2023-09-27,0,Media,172.72
+86,Pulsera,Oro laminado,Dorado,Casual,2.43,2,Chus Núñez,Efectivo,2023-05-19,0,Alta,4.86
+87,Aretes,Oro laminado,Rojo,Bohemio,30.24,2,Adán Maestre Alvarado,Transferencia,2023-04-14,0,Baja,60.48
+88,Broche,Cristal,Verde,Casual,30.74,3,Purificación Tovar Nevado,Pago móvil,2023-07-12,0,Alta,92.22
+89,Tobillera,Cobre,Azul,Fiesta,21.04,1,Sara Nicolau Alcaraz,Divisas,2023-09-13,15,Alta,17.88
+90,Diadema,Oro laminado,Plateado,Infantil,13.38,2,Mariano Alcalá Martí,Tarjeta,2023-11-14,0,Media,26.76
+91,Pulsera,Acero inoxidable,Rojo,Bohemio,13.26,1,Isaías Alberola Pagès,Transferencia,2023-03-24,0,Alta,13.26
+92,Pulsera,Acero inoxidable,Dorado,Fiesta,44.42,4,Rodolfo Lamas Plaza,Efectivo,2023-04-23,0,Alta,177.68
+93,Aretes,Plástico,Dorado,Bohemio,23.22,2,Palmira Villegas,Transferencia,2023-03-01,20,Media,37.15
+94,Pulsera,Plata,Rojo,Formal,17.88,3,Santiago Angulo,Transferencia,2023-10-09,0,Media,53.64
+95,Pulsera,Oro laminado,Negro,Casual,23.54,3,Danilo Mateos-Giménez,Transferencia,2023-12-09,0,Media,70.62
+96,Broche,Cobre,Plateado,Formal,34.13,3,Mayte Peña Valera,Transferencia,2023-07-22,0,Media,102.39
+97,Aretes,Cristal,Negro,Fiesta,9.0,2,Emigdio Mateos Arranz,Tarjeta,2023-12-24,10,Media,16.2
+98,Broche,Cristal,Azul,Infantil,23.57,1,María Bayona Coll,Pago móvil,2023-01-05,0,Alta,23.57
+99,Diadema,Cobre,Dorado,Bohemio,30.22,4,Bernardo de Amor,Divisas,2023-07-02,0,Baja,120.88
+100,Diadema,Tela,Dorado,Casual,47.53,1,Nazaret Ester Quintana Tur,Transferencia,2023-09-16,0,Alta,47.53
+101,Broche,Mostacilla,Verde,Bohemio,14.12,1,Petrona Castilla Pastor,Transferencia,2023-12-12,5,Media,13.41
+102,Diadema,Plata,Azul,Fiesta,19.24,4,Cándida Flora Garcés Peralta,Transferencia,2023-01-01,0,Media,76.96
+103,Aretes,Cristal,Dorado,Bohemio,20.21,4,Ángel Sala Montesinos,Pago móvil,2023-02-07,10,Alta,72.76
+104,Collar,Oro laminado,Azul,Casual,31.07,2,Asdrubal Barbero Novoa,Efectivo,2023-04-27,0,Alta,62.14
+105,Broche,Plata,Plateado,Fiesta,19.12,2,Rómulo Vargas Vilar,Efectivo,2023-07-30,0,Media,38.24
+106,Tobillera,Oro laminado,Rosa,Bohemio,27.61,2,Jovita Sánchez,Tarjeta,2023-05-02,0,Media,55.22
+107,Tobillera,Tela,Dorado,Infantil,39.53,2,María Carmen Pizarro-Roldán,Efectivo,2023-09-12,5,Media,75.11
+108,Pulsera,Acero inoxidable,Verde,Fiesta,35.86,2,Fulgencio Lillo Quevedo,Transferencia,2023-04-29,0,Baja,71.72
+109,Diadema,Plata,Plateado,Fiesta,23.43,4,Lalo del Carro,Transferencia,2023-06-19,10,Media,84.35
+110,Tobillera,Plástico,Rojo,Infantil,43.48,1,Fidela Arcos Vives,Transferencia,2023-09-06,5,Media,41.31
+111,Pulsera,Cristal,Azul,Formal,28.79,2,Simón Jara Maldonado,Tarjeta,2023-10-10,0,Media,57.58
+112,Collar,Plata,Rojo,Casual,27.92,2,Amparo Herrero Armengol,Transferencia,2023-07-19,5,Alta,53.05
+113,Aretes,Plata,Negro,Formal,3.64,1,Angélica de Albero,Efectivo,2023-01-23,5,Media,3.46
+114,Aretes,Plata,Plateado,Bohemio,49.36,2,Florencio Estévez-Castro,Pago móvil,2023-11-06,0,Media,98.72
+115,Aretes,Mostacilla,Rojo,Infantil,7.9,1,Cecilia Guerra Casas,Pago móvil,2023-03-25,0,Media,7.9
+116,Tobillera,Plata,Multicolor,Formal,13.09,1,Amador Badía Gordillo,Divisas,2023-08-11,15,Alta,11.13
+117,Collar,Oro laminado,Multicolor,Fiesta,4.48,4,Hernán Abella-Pastor,Efectivo,2023-07-31,0,Alta,17.92
+118,Tobillera,Acero inoxidable,Dorado,Bohemio,32.72,3,Sancho Valenciano Gallart,Transferencia,2023-02-17,5,Media,93.25
+119,Diadema,Tela,Azul,Bohemio,12.79,4,Griselda Gallart,Pago móvil,2023-06-08,20,Alta,40.93
+120,Tobillera,Cobre,Rosa,Formal,10.64,3,Vera Brígida Sosa Vergara,Efectivo,2023-08-30,0,Media,31.92
+121,Collar,Plata,Plateado,Formal,6.25,3,Sandalio Boada,Pago móvil,2023-11-19,0,Media,18.75
+122,Collar,Cristal,Dorado,Infantil,6.96,3,Azeneth Sáenz Polo,Transferencia,2023-09-16,0,Media,20.88
+123,Diadema,Plata,Verde,Casual,30.06,2,Jose Miguel Barberá Bautista,Pago móvil,2023-06-18,0,Media,60.12
+124,Collar,Cristal,Negro,Formal,35.03,4,Noé Vallejo Redondo,Divisas,2023-05-22,0,Alta,140.12
+125,Collar,Oro laminado,Azul,Formal,21.07,3,Roque Benitez,Divisas,2023-08-04,0,Alta,63.21
+126,Aretes,Cristal,Plateado,Fiesta,25.04,1,Adolfo Jorge Ferrera Pizarro,Pago móvil,2023-02-25,0,Baja,25.04
+127,Diadema,Plástico,Multicolor,Bohemio,34.93,2,Damián Belmonte Varela,Efectivo,2023-06-11,10,Media,62.87
+128,Anillo,Cobre,Plateado,Casual,2.83,4,Ema Porcel Lobo,Efectivo,2023-01-10,5,Media,10.75
+129,Anillo,Acero inoxidable,Rosa,Fiesta,17.51,3,Georgina Larrea-Company,Efectivo,2023-03-24,0,Baja,52.53
+130,Collar,Cristal,Multicolor,Infantil,48.71,1,Cayetana España Castro,Pago móvil,2023-09-17,0,Media,48.71
+131,Anillo,Cristal,Rosa,Infantil,29.85,4,Cándido Galán Adadia,Efectivo,2023-11-17,0,Media,119.4
+132,Anillo,Acero inoxidable,Verde,Formal,14.2,4,Crescencia Carpio,Transferencia,2023-02-04,0,Media,56.8
+133,Collar,Cobre,Negro,Formal,27.04,2,Victor Manuel Prado Herrera,Divisas,2023-02-19,15,Media,45.97
+134,Anillo,Plata,Verde,Infantil,18.45,4,Celia Barragán Ureña,Transferencia,2023-03-27,10,Media,66.42
+135,Tobillera,Cristal,Dorado,Formal,27.55,2,Lope Tapia,Efectivo,2023-09-27,5,Media,52.34
+136,Pulsera,Acero inoxidable,Dorado,Casual,8.04,3,Fátima Marquez Villegas,Transferencia,2023-01-02,15,Alta,20.5
+137,Diadema,Plástico,Verde,Formal,8.37,2,Onofre Ibarra,Efectivo,2023-05-30,0,Media,16.74
+138,Pulsera,Plástico,Negro,Bohemio,8.89,1,Ciro Juan Antonio Alcaraz Montaña,Pago móvil,2023-11-27,5,Premium,8.45
+139,Collar,Oro laminado,Verde,Formal,47.11,2,Bibiana Santamaria Fajardo,Transferencia,2023-04-23,0,Media,94.22
+140,Aretes,Acero inoxidable,Negro,Fiesta,37.18,1,Albano Villalonga,Pago móvil,2023-02-17,15,Alta,31.6
+141,Diadema,Oro laminado,Negro,Casual,9.79,2,Emiliana Barranco Vega,Pago móvil,2023-07-06,0,Alta,19.58
+142,Collar,Plástico,Rojo,Fiesta,11.04,4,Basilio Ayala Escamilla,Tarjeta,2023-03-28,5,Alta,41.95
+143,Aretes,Cobre,Multicolor,Fiesta,37.08,3,Silvestre de Casas,Efectivo,2023-10-27,10,Media,100.12
+144,Pulsera,Plata,Azul,Bohemio,9.5,1,Rogelio Cervera Sandoval,Divisas,2023-03-27,0,Alta,9.5
+145,Collar,Acero inoxidable,Negro,Casual,13.26,2,María Belén de Pizarro,Efectivo,2023-03-10,0,Media,26.52
+146,Diadema,Tela,Rosa,Casual,48.24,2,Azeneth de Campoy,Divisas,2023-10-06,5,Media,91.66
+147,Diadema,Plástico,Negro,Casual,14.25,2,Buenaventura Cabo Chaves,Efectivo,2023-07-23,0,Media,28.5
+148,Broche,Plástico,Negro,Casual,33.76,4,Corona Amaya Olmo,Pago móvil,2023-05-18,0,Media,135.04
+149,Tobillera,Tela,Negro,Casual,48.97,4,América de Cuadrado,Transferencia,2023-04-20,0,Baja,195.88
+150,Anillo,Mostacilla,Rojo,Bohemio,19.97,1,Paco Carballo Muro,Transferencia,2023-01-12,0,Alta,19.97
+151,Aretes,Plástico,Multicolor,Formal,2.84,1,Pacífica Barrio Pacheco,Tarjeta,2023-11-01,10,Alta,2.56
+152,Broche,Cristal,Rojo,Fiesta,13.72,4,Martin Aparicio Soria,Divisas,2023-03-23,0,Media,54.88
+153,Anillo,Cobre,Dorado,Casual,41.88,1,José Luis Moll Estevez,Divisas,2023-09-27,0,Alta,41.88
+154,Anillo,Acero inoxidable,Rojo,Formal,43.5,3,Lucila Sandoval Silva,Divisas,2023-11-10,0,Media,130.5
+155,Collar,Tela,Rosa,Formal,38.89,3,Hermenegildo Albano Solano Zapata,Pago móvil,2023-07-04,0,Premium,116.67
+156,Anillo,Cristal,Rosa,Fiesta,7.43,4,Florina Córdoba-Leiva,Divisas,2023-02-08,0,Media,29.72
+157,Tobillera,Tela,Rojo,Bohemio,40.18,1,Gema Sofía Muñoz Bernad,Transferencia,2023-09-13,0,Baja,40.18
+158,Diadema,Acero inoxidable,Multicolor,Infantil,46.1,2,Melania Almansa Baquero,Pago móvil,2023-07-21,0,Alta,92.2
+159,Broche,Oro laminado,Verde,Infantil,30.83,3,Martín Aguilera Palomar,Efectivo,2023-06-08,0,Alta,92.49
+160,Anillo,Acero inoxidable,Azul,Formal,47.16,4,Amaya Cardona Agustín,Divisas,2023-08-17,5,Alta,179.21
+161,Collar,Mostacilla,Multicolor,Fiesta,41.69,1,Rosa María Daza Querol,Divisas,2023-05-03,0,Premium,41.69
+162,Tobillera,Acero inoxidable,Rojo,Infantil,34.01,4,Ovidio Agustín Pizarro,Efectivo,2023-09-09,0,Alta,136.04
+163,Pulsera,Acero inoxidable,Negro,Formal,29.7,2,Modesta Hidalgo Vila,Divisas,2023-07-25,0,Media,59.4
+164,Diadema,Mostacilla,Plateado,Bohemio,18.73,3,Georgina Vallés Álvarez,Efectivo,2023-05-12,0,Alta,56.19
+165,Diadema,Cobre,Azul,Infantil,9.65,4,Caridad Landa Abad,Pago móvil,2023-12-27,0,Alta,38.6
+166,Broche,Plástico,Azul,Formal,31.04,4,Jacobo Valenzuela Rivas,Transferencia,2023-01-20,0,Media,124.16
+167,Diadema,Acero inoxidable,Rosa,Formal,17.27,4,Gloria Lucía Ferrer Muñoz,Efectivo,2023-10-29,10,Alta,62.17
+168,Anillo,Mostacilla,Azul,Casual,43.59,2,Celestina Solé Llopis,Tarjeta,2023-04-07,0,Media,87.18
+169,Collar,Cristal,Rojo,Bohemio,49.68,4,Camila Cisneros Frutos,Efectivo,2023-08-07,0,Alta,198.72
+170,Diadema,Oro laminado,Negro,Casual,38.12,2,Úrsula Real,Divisas,2023-11-03,10,Alta,68.62
+171,Diadema,Oro laminado,Negro,Fiesta,6.34,2,Loreto Calixta Millán Uriarte,Pago móvil,2023-02-07,0,Alta,12.68
+172,Pulsera,Acero inoxidable,Dorado,Casual,15.86,2,Angelino Mir Bayón,Pago móvil,2023-05-03,0,Alta,31.72
+173,Pulsera,Cobre,Negro,Casual,7.24,3,Juanita Duque-Pelayo,Efectivo,2023-01-27,0,Alta,21.72
+174,Aretes,Cobre,Multicolor,Infantil,33.22,3,Ana Belén Nieves Blanco Baquero,Transferencia,2023-04-18,0,Media,99.66
+175,Tobillera,Cristal,Negro,Formal,38.73,4,Cristóbal Llorens,Tarjeta,2023-09-07,10,Alta,139.43
+176,Anillo,Acero inoxidable,Rosa,Bohemio,46.43,4,Marita América Cuesta López,Pago móvil,2023-12-23,5,Media,176.43
+177,Diadema,Oro laminado,Negro,Casual,23.03,3,Natalia Valenciano Ledesma,Divisas,2023-08-27,15,Baja,58.73
+178,Diadema,Cobre,Dorado,Bohemio,45.27,1,Tadeo Benavente Llanos,Divisas,2023-03-21,0,Media,45.27
+179,Collar,Acero inoxidable,Plateado,Casual,44.14,3,Bonifacio Coello Botella,Transferencia,2023-08-16,0,Media,132.42
+180,Aretes,Tela,Rojo,Fiesta,17.23,2,Jose Ramón Lladó-Godoy,Pago móvil,2023-06-10,0,Media,34.46
+181,Tobillera,Cobre,Rosa,Casual,43.71,3,Lucho Luque Alvarez,Efectivo,2023-06-19,0,Alta,131.13
+182,Aretes,Mostacilla,Multicolor,Infantil,20.03,2,Teodora Olivera-Arco,Divisas,2023-12-10,0,Media,40.06
+183,Broche,Tela,Plateado,Formal,16.25,4,José Manuel Pacheco Bru,Transferencia,2023-11-09,20,Media,52.0
+184,Tobillera,Plástico,Rosa,Fiesta,33.16,1,Valentín Canet Benavides,Pago móvil,2023-07-05,0,Baja,33.16
+185,Diadema,Cobre,Verde,Casual,17.76,4,Lilia Mosquera,Pago móvil,2023-07-08,0,Media,71.04
+186,Diadema,Oro laminado,Azul,Bohemio,32.25,2,Daniela Coronado Carreras,Pago móvil,2023-10-28,0,Media,64.5
+187,Tobillera,Plata,Verde,Fiesta,31.27,2,Patricio Nogués Noguera,Pago móvil,2023-02-14,0,Baja,62.54
+188,Diadema,Tela,Negro,Fiesta,29.05,2,Diego Andrés Amores,Pago móvil,2023-02-14,0,Media,58.1
+189,Anillo,Plástico,Plateado,Casual,20.26,1,Natalia Pintor Monreal,Divisas,2023-08-10,5,Media,19.25
+190,Tobillera,Cristal,Negro,Fiesta,28.33,3,Pilar Escolano Montoya,Transferencia,2023-10-31,0,Baja,84.99
+191,Aretes,Cristal,Azul,Bohemio,30.63,4,Roberta Miralles-Vaquero,Pago móvil,2023-05-15,5,Media,116.39
+192,Tobillera,Oro laminado,Rosa,Fiesta,28.19,4,Fermín Cózar Colomer,Tarjeta,2023-08-06,0,Media,112.76
+193,Diadema,Cobre,Azul,Bohemio,23.33,3,Godofredo Guijarro Haro,Tarjeta,2023-08-20,10,Alta,62.99
+194,Anillo,Acero inoxidable,Dorado,Casual,2.7,4,Celestina Castañeda-Acero,Transferencia,2023-02-06,10,Alta,9.72
+195,Anillo,Cobre,Azul,Formal,30.18,1,Tristán Ros Marí,Efectivo,2023-02-11,0,Media,30.18
+196,Broche,Oro laminado,Dorado,Fiesta,10.09,4,Josefa Oliveras,Efectivo,2023-12-04,0,Premium,40.36
+197,Aretes,Cristal,Azul,Formal,32.84,2,Fortunata Sabater Paredes,Efectivo,2023-09-08,20,Media,52.54
+198,Pulsera,Cobre,Rojo,Bohemio,38.45,3,Jose Menéndez Madrigal,Tarjeta,2023-03-31,0,Media,115.35
+199,Pulsera,Cristal,Dorado,Fiesta,26.02,1,Piedad Cantero Matas,Efectivo,2023-01-19,15,Premium,22.12
+200,Tobillera,Tela,Plateado,Infantil,28.03,3,Ángel Luciano Abad Bertrán,Divisas,2023-11-09,0,Media,84.09
+201,Broche,Plástico,Negro,Formal,47.67,1,Estela Rosselló Cerro,Pago móvil,2023-10-22,0,Alta,47.67
+202,Collar,Acero inoxidable,Multicolor,Fiesta,42.66,2,Andrés Felipe Cepeda Royo,Tarjeta,2023-11-27,10,Baja,76.79
+203,Tobillera,Tela,Negro,Formal,45.88,3,Mario Ramis Serna,Transferencia,2023-04-17,15,Media,116.99
+204,Broche,Cristal,Verde,Fiesta,41.06,4,Calisto Clavero Castelló,Transferencia,2023-05-04,0,Baja,164.24
+205,Aretes,Cristal,Negro,Casual,7.23,1,Anacleto de Español,Pago móvil,2023-09-18,5,Alta,6.87
+206,Aretes,Plata,Rosa,Formal,9.15,3,Vicenta Martorell Artigas,Tarjeta,2023-09-25,0,Media,27.45
+207,Aretes,Plata,Rojo,Infantil,27.28,4,Custodia Delgado Pastor,Efectivo,2023-11-28,0,Alta,109.12
+208,Aretes,Tela,Azul,Infantil,13.81,3,Lucía Perales,Efectivo,2023-05-07,0,Media,41.43
+209,Aretes,Mostacilla,Verde,Bohemio,24.88,3,Martina Molins Sevilla,Divisas,2023-12-20,0,Media,74.64
+210,Broche,Tela,Rosa,Fiesta,20.93,3,Trinidad Ana Sofía Fajardo Ramón,Divisas,2023-03-21,15,Baja,53.37
+211,Broche,Plata,Rosa,Formal,28.37,1,Agustín del Diéguez,Efectivo,2023-08-30,0,Media,28.37
+212,Anillo,Cristal,Dorado,Bohemio,37.85,4,Anacleto Crespi Paz,Transferencia,2023-09-16,0,Alta,151.4
+213,Pulsera,Oro laminado,Negro,Formal,36.34,2,Mateo Guerrero Sobrino,Transferencia,2023-09-06,0,Media,72.68
+214,Diadema,Tela,Plateado,Fiesta,27.02,1,Sebastian Méndez-Armengol,Divisas,2023-06-23,0,Alta,27.02
+215,Aretes,Cristal,Multicolor,Infantil,41.47,1,Álvaro Bermudez Clavero,Pago móvil,2023-05-22,0,Alta,41.47
+216,Collar,Oro laminado,Plateado,Casual,22.68,1,María Carmen Mosquera Borja,Efectivo,2023-04-05,5,Media,21.55
+217,Diadema,Oro laminado,Verde,Infantil,45.04,2,Marc Vázquez Barco,Divisas,2023-08-30,0,Media,90.08
+218,Broche,Plata,Rojo,Bohemio,5.42,4,Genoveva Costa Valero,Divisas,2023-11-21,15,Baja,18.43
+219,Collar,Tela,Plateado,Casual,47.82,4,Jose Ignacio Sarabia-Piña,Efectivo,2023-02-20,20,Baja,153.02
+220,Collar,Cobre,Azul,Bohemio,33.43,4,Maite Sureda Barón,Efectivo,2023-12-23,0,Baja,133.72
+221,Collar,Acero inoxidable,Plateado,Fiesta,20.24,3,Manu Vergara Uría,Transferencia,2023-09-14,15,Media,51.61
+222,Anillo,Plata,Verde,Casual,11.46,3,Luís Flores Landa,Pago móvil,2023-12-15,5,Media,32.66
+223,Broche,Plata,Multicolor,Bohemio,25.0,3,Eufemia Larrañaga Ariño,Pago móvil,2023-02-04,0,Media,75.0
+224,Collar,Cobre,Plateado,Fiesta,11.34,2,Joel Vallés Santamaria,Efectivo,2023-09-26,0,Media,22.68
+225,Aretes,Acero inoxidable,Azul,Infantil,9.98,3,Celia Barragán Iborra,Tarjeta,2023-08-06,0,Media,29.94
+226,Tobillera,Cristal,Dorado,Fiesta,31.63,2,Gracia Muñoz Olmedo,Divisas,2023-05-21,0,Alta,63.26
+227,Collar,Mostacilla,Rojo,Formal,27.11,4,Mauricio Carbonell Mayol,Divisas,2023-05-06,10,Alta,97.6
+228,Anillo,Tela,Verde,Fiesta,34.16,3,Glauco Muñoz Viana,Efectivo,2023-08-26,0,Baja,102.48
+229,Diadema,Mostacilla,Dorado,Fiesta,46.62,3,Desiderio Anguita,Tarjeta,2023-01-31,10,Media,125.87
+230,Broche,Cristal,Dorado,Formal,27.55,1,Victor Manuel Ramos Frías,Transferencia,2023-12-19,0,Alta,27.55
+231,Anillo,Plástico,Dorado,Bohemio,29.88,2,Inés Ruiz Abascal,Efectivo,2023-01-23,0,Media,59.76
+232,Collar,Plata,Rosa,Bohemio,6.3,4,Ofelia Azorin Valls,Efectivo,2023-09-07,20,Alta,20.16
+233,Broche,Acero inoxidable,Rojo,Fiesta,36.45,1,Eusebia Mir Batalla,Divisas,2023-05-01,0,Media,36.45
+234,Tobillera,Plata,Multicolor,Formal,21.2,1,Guadalupe Molina Batalla,Efectivo,2023-05-14,0,Media,21.2
+235,Collar,Oro laminado,Negro,Formal,48.88,4,Gastón Cáceres Ledesma,Efectivo,2023-11-07,0,Media,195.52
+236,Anillo,Plata,Rojo,Infantil,41.51,1,Teófila Gutiérrez,Efectivo,2023-09-25,0,Media,41.51
+237,Pulsera,Plata,Rosa,Bohemio,27.08,2,Ibán Valera Corbacho,Divisas,2023-08-31,0,Media,54.16
+238,Aretes,Cristal,Negro,Casual,7.91,2,Francisco Jose Fuster,Transferencia,2023-08-13,0,Media,15.82
+239,Diadema,Cristal,Rojo,Bohemio,43.25,3,Javi Vicens Gimenez,Transferencia,2023-08-06,0,Alta,129.75
+240,Anillo,Cristal,Dorado,Bohemio,40.39,1,Irma Osuna Menéndez,Efectivo,2023-02-15,20,Alta,32.31
+241,Broche,Mostacilla,Verde,Infantil,10.86,3,Luís Agustín-Galindo,Divisas,2023-10-21,0,Media,32.58
+242,Collar,Oro laminado,Negro,Casual,16.17,1,Begoña Carbonell Julián,Transferencia,2023-06-13,0,Alta,16.17
+243,Aretes,Plástico,Azul,Infantil,40.08,2,Emiliana Bernad Vilaplana,Transferencia,2023-05-11,0,Media,80.16
+244,Collar,Plástico,Azul,Casual,10.89,2,Aura Torrent Pedro,Transferencia,2023-12-22,15,Media,18.51
+245,Broche,Cristal,Plateado,Fiesta,46.05,2,Gala del Juárez,Divisas,2023-09-28,0,Alta,92.1
+246,Collar,Acero inoxidable,Negro,Casual,22.38,1,Eleuterio Echevarría Valencia,Divisas,2023-07-29,0,Media,22.38
+247,Pulsera,Mostacilla,Verde,Infantil,6.18,2,Calixto Gisbert Mayol,Efectivo,2023-06-29,0,Media,12.36
+248,Aretes,Cobre,Multicolor,Bohemio,41.16,1,Federico Cepeda Aguirre,Pago móvil,2023-06-24,0,Media,41.16
+249,Aretes,Acero inoxidable,Rosa,Casual,19.93,3,Primitiva Falcón Moraleda,Transferencia,2023-05-20,10,Media,53.81
+250,Broche,Tela,Dorado,Casual,27.27,1,Nidia Ocaña-Blanch,Pago móvil,2023-12-01,5,Alta,25.91
+251,Diadema,Tela,Plateado,Formal,7.39,3,Armida Juana Silva Aguado,Divisas,2023-01-28,0,Alta,22.17
+252,Pulsera,Acero inoxidable,Azul,Bohemio,2.12,1,Xiomara Ávila Díez,Divisas,2023-03-17,0,Alta,2.12
+253,Anillo,Cristal,Rosa,Fiesta,32.62,3,Delia Pazos Vargas,Divisas,2023-04-11,0,Alta,97.86
+254,Collar,Cobre,Rosa,Infantil,26.73,2,Cosme del Marin,Pago móvil,2023-07-12,20,Media,42.77
+255,Tobillera,Cobre,Dorado,Fiesta,30.49,3,Calixto Casanova-Angulo,Divisas,2023-03-13,20,Media,73.18
+256,Collar,Mostacilla,Multicolor,Bohemio,40.1,2,Caridad Vall Amaya,Efectivo,2023-06-22,0,Baja,80.2
+257,Collar,Cobre,Multicolor,Casual,33.04,2,Lisandro de Cuadrado,Divisas,2023-07-09,10,Media,59.47
+258,Anillo,Tela,Negro,Casual,10.39,3,Bernardita Tenorio Gaya,Tarjeta,2023-07-31,5,Media,29.61
+259,Collar,Oro laminado,Azul,Bohemio,19.32,1,Vicenta Benavente,Pago móvil,2023-01-19,0,Premium,19.32
+260,Pulsera,Cristal,Multicolor,Casual,45.48,1,Liliana de Villanueva,Tarjeta,2023-06-27,0,Media,45.48
+261,Pulsera,Cobre,Verde,Casual,38.96,4,Emiliana de Saldaña,Divisas,2023-03-27,0,Media,155.84
+262,Aretes,Mostacilla,Multicolor,Casual,28.72,1,Galo de Girón,Efectivo,2023-04-02,5,Media,27.28
+263,Broche,Tela,Rosa,Infantil,14.27,4,Ciriaco del Gomez,Transferencia,2023-07-27,20,Media,45.66
+264,Diadema,Oro laminado,Dorado,Infantil,16.5,1,Andrea Anaya Grande,Divisas,2023-09-28,5,Alta,15.68
+265,Tobillera,Plata,Verde,Formal,37.13,1,Lina Baena Hierro,Efectivo,2023-08-27,10,Media,33.42
+266,Collar,Plata,Negro,Fiesta,42.86,2,Sara Carbonell Piñeiro,Pago móvil,2023-11-26,0,Media,85.72
+267,Collar,Oro laminado,Azul,Bohemio,34.23,4,Adora Leocadia Pont Campos,Tarjeta,2023-05-06,10,Alta,123.23
+268,Anillo,Tela,Negro,Bohemio,40.86,1,Vicenta Zamorano Bayón,Tarjeta,2023-03-25,5,Media,38.82
+269,Broche,Mostacilla,Rosa,Bohemio,38.8,4,Vanesa Llamas Godoy,Tarjeta,2023-01-04,0,Media,155.2
+270,Pulsera,Oro laminado,Verde,Formal,9.19,2,Vito Quevedo Estévez,Pago móvil,2023-06-03,0,Alta,18.38
+271,Tobillera,Cristal,Verde,Infantil,22.35,2,Candela Beltran Moya,Efectivo,2023-02-24,10,Alta,40.23
+272,Aretes,Cristal,Verde,Formal,9.34,4,Fortunata Gelabert Vallejo,Pago móvil,2023-10-10,0,Baja,37.36
+273,Pulsera,Plata,Rosa,Bohemio,13.29,2,Jacinto Cerdá Zamora,Tarjeta,2023-06-05,10,Alta,23.92
+274,Broche,Cobre,Rosa,Fiesta,43.72,3,Blanca España Villanueva,Divisas,2023-10-20,0,Alta,131.16
+275,Diadema,Mostacilla,Negro,Casual,24.7,3,María Cristina Zorrilla Ribas,Transferencia,2023-09-05,0,Media,74.1
+276,Aretes,Plata,Plateado,Infantil,27.7,2,Elvira Chacón Olivera,Pago móvil,2023-10-12,10,Premium,49.86
+277,Diadema,Cobre,Negro,Infantil,10.57,3,América Campos Contreras,Pago móvil,2023-02-04,0,Alta,31.71
+278,Anillo,Cobre,Azul,Formal,16.99,1,Calisto Ríos,Efectivo,2023-12-14,0,Alta,16.99
+279,Anillo,Plástico,Dorado,Infantil,13.05,4,Catalina Pérez-Rubio,Efectivo,2023-09-26,0,Alta,52.2
+280,Collar,Cristal,Verde,Bohemio,11.9,1,Guiomar Lago Varela,Pago móvil,2023-03-10,10,Media,10.71
+281,Diadema,Tela,Plateado,Bohemio,32.62,4,Edmundo Vila Antúnez,Tarjeta,2023-04-11,0,Media,130.48
+282,Broche,Acero inoxidable,Dorado,Formal,14.33,2,Teodora Salinas Guillen,Transferencia,2023-10-21,15,Media,24.36
+283,Tobillera,Tela,Plateado,Bohemio,32.34,1,Santos Caballero,Efectivo,2023-10-15,0,Media,32.34
+284,Aretes,Acero inoxidable,Multicolor,Fiesta,4.81,2,Rufina de Sanz,Tarjeta,2023-09-17,20,Media,7.7
+285,Pulsera,Oro laminado,Multicolor,Formal,8.81,2,Teresita Noriega Cuervo,Divisas,2023-11-25,20,Alta,14.1
+286,Broche,Cristal,Rojo,Fiesta,15.18,4,Fito Uribe,Efectivo,2023-04-14,0,Alta,60.72
+287,Broche,Cobre,Multicolor,Casual,30.66,4,Marciano Haro,Tarjeta,2023-12-15,0,Media,122.64
+288,Anillo,Mostacilla,Negro,Fiesta,34.44,4,Nando Julio Pombo Vilanova,Tarjeta,2023-03-06,0,Alta,137.76
+289,Diadema,Acero inoxidable,Multicolor,Casual,23.25,1,Viviana Orozco Gilabert,Transferencia,2023-05-22,0,Alta,23.25
+290,Collar,Tela,Rosa,Casual,23.4,3,Cristian Orozco Acosta,Transferencia,2023-02-17,0,Media,70.2
+291,Collar,Cobre,Verde,Fiesta,36.78,4,Ximena Torrents Nebot,Divisas,2023-05-17,0,Media,147.12
+292,Aretes,Acero inoxidable,Negro,Formal,2.76,4,Araceli Polo Torrijos,Tarjeta,2023-04-10,0,Media,11.04
+293,Anillo,Acero inoxidable,Dorado,Bohemio,18.37,1,María Diez Carretero,Tarjeta,2023-10-21,0,Alta,18.37
+294,Broche,Plástico,Rojo,Bohemio,41.3,4,Carolina Ponce Garcés,Transferencia,2023-01-12,0,Media,165.2
+295,Tobillera,Acero inoxidable,Rojo,Casual,30.95,1,Graciela Torres,Efectivo,2023-04-06,0,Alta,30.95
+296,Anillo,Mostacilla,Rojo,Casual,18.19,2,Cintia Alcalde Canet,Efectivo,2023-01-28,20,Baja,29.1
+297,Aretes,Cristal,Dorado,Formal,45.47,4,Amado Aurelio Alberdi Narváez,Pago móvil,2023-09-08,0,Alta,181.88
+298,Aretes,Mostacilla,Dorado,Infantil,39.09,4,Emma Amada Menendez Morante,Transferencia,2023-10-07,0,Alta,156.36
+299,Anillo,Plata,Dorado,Fiesta,14.71,2,Valeria Marqués,Pago móvil,2023-08-29,0,Alta,29.42
+300,Aretes,Cobre,Dorado,Casual,32.97,2,Bruno Reyes Esteve,Transferencia,2023-02-23,10,Premium,59.35
+301,Anillo,Cristal,Rojo,Bohemio,30.6,2,Alicia Revilla Saura,Divisas,2023-10-18,15,Alta,52.02
+302,Pulsera,Plástico,Rojo,Formal,21.26,4,Juan Bautista Vall,Tarjeta,2023-06-17,10,Alta,76.54
+303,Anillo,Cristal,Plateado,Fiesta,19.61,3,Teodora Rosell Sanz,Divisas,2023-03-28,20,Alta,47.06
+304,Diadema,Cristal,Negro,Formal,18.49,3,Pelayo Mosquera-Torre,Transferencia,2023-12-23,0,Alta,55.47
+305,Anillo,Tela,Verde,Fiesta,31.62,3,Lupe Botella,Tarjeta,2023-04-06,10,Alta,85.37
+306,Aretes,Cristal,Multicolor,Fiesta,23.24,4,Paco Saez Diego,Efectivo,2023-09-11,5,Baja,88.31
+307,Diadema,Plástico,Multicolor,Casual,41.93,2,Flora Chus Donaire Jiménez,Efectivo,2023-12-08,0,Media,83.86
+308,Aretes,Mostacilla,Rosa,Formal,34.14,4,Celia Vazquez,Pago móvil,2023-11-11,20,Media,109.25
+309,Collar,Cristal,Rojo,Formal,5.36,2,Martirio Carrera Menendez,Transferencia,2023-05-24,0,Media,10.72
+310,Collar,Oro laminado,Rosa,Bohemio,32.73,4,Amaro Aarón Ayala Batlle,Transferencia,2023-09-02,0,Media,130.92
+311,Diadema,Cobre,Negro,Bohemio,15.02,4,Florencio Peiró Riera,Efectivo,2023-01-24,0,Premium,60.08
+312,Pulsera,Cristal,Negro,Casual,30.45,2,Chus de Álvarez,Divisas,2023-12-17,0,Alta,60.9
+313,Collar,Cobre,Rosa,Casual,34.65,3,Rafael Pou Carrión,Tarjeta,2023-09-19,5,Alta,98.75
+314,Anillo,Oro laminado,Rojo,Infantil,13.08,2,Soledad Guerrero-Carrillo,Divisas,2023-04-25,0,Media,26.16
+315,Aretes,Oro laminado,Rosa,Bohemio,23.93,1,Calixto Pedrero Barranco,Divisas,2023-10-19,0,Baja,23.93
+316,Collar,Cobre,Multicolor,Fiesta,11.14,1,Narciso Cánovas Delgado,Efectivo,2023-04-11,0,Baja,11.14
+317,Collar,Acero inoxidable,Plateado,Formal,4.51,2,Ulises Saura,Efectivo,2023-08-14,10,Media,8.12
+318,Pulsera,Plata,Multicolor,Casual,20.17,4,Augusto Carlos Mate,Efectivo,2023-10-08,0,Baja,80.68
+319,Diadema,Tela,Azul,Formal,19.42,1,Bernabé Bayona Nuñez,Pago móvil,2023-08-12,0,Baja,19.42
+320,Diadema,Acero inoxidable,Rojo,Formal,49.78,1,Lope de Cuéllar,Divisas,2023-04-06,15,Alta,42.31
+321,Broche,Acero inoxidable,Rojo,Infantil,23.42,4,Celia Márquez Urrutia,Transferencia,2023-10-10,10,Alta,84.31
+322,Pulsera,Mostacilla,Verde,Bohemio,18.01,4,Ángeles Benet Sastre,Tarjeta,2023-08-11,0,Media,72.04
+323,Anillo,Tela,Dorado,Casual,29.86,3,Jordi Franco Gomila,Pago móvil,2023-08-19,5,Baja,85.1
+324,Diadema,Tela,Azul,Formal,6.26,4,Calista Morán Oliva,Transferencia,2023-02-06,10,Media,22.54
+325,Aretes,Acero inoxidable,Negro,Casual,48.16,2,Aurelia Miralles Lago,Divisas,2023-02-20,10,Baja,86.69
+326,Pulsera,Cristal,Rojo,Fiesta,32.48,2,Ruth Bertrán Carrera,Efectivo,2023-07-20,0,Alta,64.96
+327,Collar,Mostacilla,Rosa,Infantil,38.23,3,Jaime de Gómez,Divisas,2023-11-16,0,Media,114.69
+328,Aretes,Mostacilla,Azul,Fiesta,10.18,1,Estefanía Lluch-Garmendia,Tarjeta,2023-05-28,0,Media,10.18
+329,Aretes,Oro laminado,Verde,Casual,21.65,1,Angélica Vélez Esteve,Pago móvil,2023-05-30,0,Media,21.65
+330,Collar,Plástico,Negro,Casual,22.29,4,Gervasio de Vigil,Pago móvil,2023-12-02,0,Baja,89.16
+331,Pulsera,Tela,Dorado,Bohemio,41.45,2,Tamara Lorenzo,Tarjeta,2023-08-02,0,Media,82.9
+332,Collar,Acero inoxidable,Dorado,Formal,2.06,1,Lorena Pastor Barreda,Transferencia,2023-12-04,0,Alta,2.06
+333,Broche,Oro laminado,Verde,Formal,16.44,3,Mar Cid-Comas,Transferencia,2023-06-22,0,Alta,49.32
+334,Aretes,Cobre,Verde,Fiesta,49.1,3,Haydée Ropero Cervera,Pago móvil,2023-06-20,0,Baja,147.3
+335,Tobillera,Plata,Rosa,Infantil,24.79,2,Eloísa Coloma Catalán,Pago móvil,2023-06-04,10,Media,44.62
+336,Tobillera,Plástico,Rojo,Formal,20.36,3,Gabino Núñez Quesada,Efectivo,2023-10-23,0,Media,61.08
+337,Anillo,Plástico,Dorado,Bohemio,7.75,3,Omar Vidal Recio,Transferencia,2023-02-24,0,Alta,23.25
+338,Diadema,Plástico,Negro,Fiesta,48.76,2,Renato Hervás-Martinez,Tarjeta,2023-09-19,10,Media,87.77
+339,Collar,Mostacilla,Azul,Fiesta,2.96,4,Lorenza Santos Tena,Transferencia,2023-12-14,0,Media,11.84
+340,Collar,Cobre,Negro,Bohemio,37.38,4,Guillermo Taboada-Marin,Efectivo,2023-04-04,5,Media,142.04
+341,Anillo,Plástico,Plateado,Infantil,38.89,3,Cristina Pacheco Bayona,Pago móvil,2023-04-10,5,Media,110.84
+342,Anillo,Cobre,Plateado,Bohemio,13.7,4,Gala Bosch Balaguer,Pago móvil,2023-10-30,0,Media,54.8
+343,Anillo,Cristal,Verde,Infantil,34.23,4,Kike Carlos Soriano,Efectivo,2023-03-31,10,Media,123.23
+344,Aretes,Plástico,Rosa,Bohemio,6.46,3,Dominga Requena-Torrijos,Tarjeta,2023-12-26,0,Media,19.38
+345,Broche,Plata,Plateado,Bohemio,14.34,4,Vanesa Jimenez Chico,Pago móvil,2023-11-18,0,Alta,57.36
+346,Collar,Cobre,Dorado,Casual,39.82,3,Angelina Artigas Goñi,Divisas,2023-02-28,0,Media,119.46
+347,Aretes,Cobre,Negro,Fiesta,43.5,1,Heraclio Puga Amaya,Pago móvil,2023-10-26,0,Alta,43.5
+348,Anillo,Plata,Negro,Bohemio,31.21,2,Sarita Cervantes Espinosa,Divisas,2023-01-27,15,Media,53.06
+349,Collar,Plástico,Verde,Bohemio,26.33,2,Flavio Rius Camacho,Efectivo,2023-09-25,0,Alta,52.66
+350,Aretes,Plata,Rojo,Formal,9.65,4,África Benavent Briones,Efectivo,2023-08-01,0,Alta,38.6
+351,Broche,Cobre,Rojo,Fiesta,5.03,4,Priscila Velasco Andrés,Pago móvil,2023-06-02,0,Media,20.12
+352,Aretes,Plata,Azul,Formal,7.65,4,Toribio Morell,Transferencia,2023-11-06,0,Alta,30.6
+353,Broche,Cobre,Verde,Fiesta,12.91,2,Angelino Ramos-Mendizábal,Divisas,2023-06-20,0,Baja,25.82
+354,Anillo,Cobre,Multicolor,Formal,18.4,1,Hilda Guillén Jódar,Tarjeta,2023-10-01,0,Alta,18.4
+355,Broche,Cristal,Azul,Bohemio,20.28,1,Melisa Milla,Pago móvil,2023-03-08,5,Media,19.27
+356,Collar,Acero inoxidable,Multicolor,Bohemio,18.62,2,Alondra Rosado Real,Tarjeta,2023-07-10,0,Baja,37.24
+357,Anillo,Cobre,Rojo,Casual,13.47,1,Loreto Gámez Pinedo,Pago móvil,2023-10-14,0,Media,13.47
+358,Collar,Plástico,Verde,Formal,26.47,2,Purificación Boada-Llanos,Transferencia,2023-06-21,0,Premium,52.94
+359,Tobillera,Oro laminado,Multicolor,Infantil,41.61,1,Gil Garcés Palomo,Transferencia,2023-05-09,0,Baja,41.61
+360,Pulsera,Mostacilla,Verde,Casual,15.43,3,Candela Pellicer Vendrell,Transferencia,2023-04-05,10,Media,41.66
+361,Broche,Tela,Verde,Formal,47.23,3,Silvestre Naranjo Chaparro,Transferencia,2023-02-28,0,Alta,141.69
+362,Pulsera,Acero inoxidable,Rojo,Formal,43.92,2,Régulo Bru Martinez,Efectivo,2023-11-11,0,Alta,87.84
+363,Pulsera,Acero inoxidable,Azul,Casual,9.76,1,Imelda Carmina Barranco Torralba,Efectivo,2023-12-24,0,Media,9.76
+364,Broche,Acero inoxidable,Azul,Bohemio,39.74,4,Jennifer Haro,Divisas,2023-05-09,5,Media,151.01
+365,Anillo,Cristal,Verde,Formal,29.58,1,Águeda Eva María Alemán Heredia,Tarjeta,2023-12-28,0,Baja,29.58
+366,Tobillera,Cobre,Plateado,Bohemio,29.2,3,Josefa Prieto Heras,Pago móvil,2023-05-20,0,Media,87.6
+367,Collar,Cristal,Rosa,Casual,20.77,3,Isaura Elvira Bolaños Urrutia,Pago móvil,2023-03-04,5,Media,59.19
+368,Aretes,Cobre,Rojo,Bohemio,26.06,1,Heraclio Gómez,Efectivo,2023-05-09,0,Alta,26.06
+369,Collar,Plástico,Rosa,Fiesta,21.06,1,Norberto Mariscal Canales,Pago móvil,2023-07-12,10,Baja,18.95
+370,Aretes,Cristal,Rosa,Infantil,27.91,4,Jeremías Vazquez-Corominas,Efectivo,2023-11-27,10,Alta,100.48
+371,Collar,Cristal,Azul,Formal,32.14,4,Adelina Pozuelo-Bilbao,Divisas,2023-05-24,0,Baja,128.56
+372,Broche,Mostacilla,Azul,Infantil,34.37,1,América Arellano Mas,Tarjeta,2023-12-20,0,Media,34.37
+373,Tobillera,Oro laminado,Plateado,Bohemio,27.56,1,Armida Rius,Divisas,2023-10-15,0,Media,27.56
+374,Aretes,Cristal,Rosa,Formal,36.63,1,Flor Palomar Gallo,Transferencia,2023-02-13,0,Media,36.63
+375,Diadema,Mostacilla,Rosa,Bohemio,8.78,1,Jacobo Sarabia Pardo,Transferencia,2023-08-02,20,Alta,7.02
+376,Anillo,Plata,Verde,Fiesta,12.18,2,Prudencia Matas Cabo,Transferencia,2023-01-10,0,Alta,24.36
+377,Collar,Oro laminado,Azul,Casual,41.3,1,Fulgencio Julio César Iglesia Barreda,Divisas,2023-12-07,0,Media,41.3
+378,Collar,Plástico,Rosa,Formal,17.48,4,Carolina Asensio,Pago móvil,2023-09-24,5,Premium,66.42
+379,Aretes,Cristal,Negro,Fiesta,3.1,3,Luis Pinto Viana,Tarjeta,2023-11-17,0,Alta,9.3
+380,Anillo,Tela,Plateado,Fiesta,9.38,2,Flor del Zamora,Transferencia,2023-06-24,0,Media,18.76
+381,Anillo,Acero inoxidable,Multicolor,Formal,12.73,1,Plinio Soria Guzmán,Transferencia,2023-06-17,0,Alta,12.73
+382,Broche,Plata,Negro,Bohemio,47.95,3,Ale Ángel Bermúdez,Transferencia,2023-12-09,0,Media,143.85
+383,Diadema,Plata,Negro,Fiesta,29.51,2,Gema Briones,Tarjeta,2023-11-24,5,Baja,56.07
+384,Broche,Plástico,Multicolor,Infantil,46.77,3,Ana Belén Marco Escolano,Transferencia,2023-07-29,0,Alta,140.31
+385,Broche,Mostacilla,Rojo,Fiesta,29.61,1,Victoria Moya Mir,Tarjeta,2023-09-28,0,Baja,29.61
+386,Broche,Plata,Rojo,Bohemio,25.01,1,Severo Jódar Priego,Transferencia,2023-04-29,0,Media,25.01
+387,Broche,Oro laminado,Plateado,Bohemio,17.06,4,Arsenio Aguiló Casado,Divisas,2023-03-15,0,Alta,68.24
+388,Broche,Cristal,Negro,Infantil,31.11,1,Nico Diéguez Madrid,Divisas,2023-09-25,0,Baja,31.11
+389,Tobillera,Cristal,Rosa,Fiesta,8.68,1,Azahar Tormo,Tarjeta,2023-07-27,0,Media,8.68
+390,Anillo,Tela,Azul,Bohemio,45.12,2,Verónica Santana Palomino,Divisas,2023-12-15,0,Alta,90.24
+391,Broche,Plástico,Plateado,Formal,41.81,4,Victorino Garzón Tamarit,Tarjeta,2023-10-02,15,Media,142.15
+392,Anillo,Acero inoxidable,Verde,Casual,17.24,2,Cesar Nogués Cobos,Divisas,2023-10-08,0,Media,34.48
+393,Anillo,Mostacilla,Multicolor,Casual,47.73,3,Valeria Nogués Estrada,Divisas,2023-07-11,0,Alta,143.19
+394,Pulsera,Acero inoxidable,Negro,Casual,41.61,1,Nilda Leticia Dueñas Heras,Tarjeta,2023-05-25,0,Media,41.61
+395,Tobillera,Plata,Plateado,Fiesta,33.98,3,Mireia Ibañez Pascual,Pago móvil,2023-09-03,5,Media,96.84
+396,Broche,Plástico,Dorado,Infantil,7.84,2,Édgar Chaves-Zaragoza,Divisas,2023-01-16,5,Premium,14.9
+397,Collar,Tela,Dorado,Bohemio,24.96,1,Vilma Arjona Rico,Transferencia,2023-02-01,0,Alta,24.96
+398,Aretes,Acero inoxidable,Rojo,Formal,26.29,1,Zaida Baquero Valle,Pago móvil,2023-11-16,20,Media,21.03
+399,Diadema,Oro laminado,Multicolor,Formal,13.16,2,Irene de Alcalde,Tarjeta,2023-09-06,0,Alta,26.32
+400,Collar,Cristal,Azul,Fiesta,5.84,2,Kike Garay-Sotelo,Pago móvil,2023-11-13,0,Alta,11.68
+401,Tobillera,Plata,Rosa,Casual,39.28,2,León Noriega,Efectivo,2023-04-22,0,Baja,78.56
+402,Aretes,Tela,Azul,Fiesta,7.86,2,Juan Luis Fuentes Pinedo,Efectivo,2023-01-05,0,Media,15.72
+403,Tobillera,Acero inoxidable,Azul,Infantil,30.53,2,Herberto Gracia-Aparicio,Divisas,2023-09-15,10,Media,54.95
+404,Anillo,Mostacilla,Azul,Infantil,46.95,1,Gervasio Ponce Guzman,Divisas,2023-08-24,0,Alta,46.95
+405,Aretes,Oro laminado,Multicolor,Bohemio,44.05,2,Ramón Aguado Ayala,Transferencia,2023-10-28,0,Media,88.1
+406,Anillo,Oro laminado,Azul,Bohemio,15.33,1,Noelia Colomer Alegria,Pago móvil,2023-08-28,10,Media,13.8
+407,Collar,Acero inoxidable,Verde,Infantil,42.87,1,Carmela Recio Alcántara,Efectivo,2023-09-13,0,Alta,42.87
+408,Collar,Cristal,Multicolor,Infantil,2.02,2,Celso Calatayud Piquer,Divisas,2023-06-11,0,Alta,4.04
+409,Aretes,Acero inoxidable,Verde,Infantil,2.85,2,Eladio Marí Arteaga,Pago móvil,2023-10-19,0,Baja,5.7
+410,Aretes,Plata,Multicolor,Fiesta,30.92,4,Maite Gonzalez Rozas,Divisas,2023-06-11,0,Media,123.68
+411,Broche,Acero inoxidable,Rojo,Infantil,19.51,1,Amada Pellicer Nogueira,Divisas,2023-10-16,0,Media,19.51
+412,Tobillera,Oro laminado,Plateado,Formal,20.55,2,Samanta de Escolano,Efectivo,2023-01-01,0,Media,41.1
+413,Broche,Tela,Dorado,Casual,29.09,2,Angelita Blanch Quintero,Efectivo,2023-04-27,0,Alta,58.18
+414,Tobillera,Acero inoxidable,Azul,Infantil,11.21,2,Sosimo Serna Valle,Divisas,2023-11-21,0,Alta,22.42
+415,Broche,Cristal,Rojo,Casual,12.16,4,Abel Sacristán Girón,Tarjeta,2023-01-13,5,Media,46.21
+416,Anillo,Plástico,Plateado,Fiesta,25.26,4,Albino Ros-Sierra,Divisas,2023-02-25,0,Media,101.04
+417,Aretes,Tela,Dorado,Casual,38.2,3,Marita Casals,Divisas,2023-10-03,0,Alta,114.6
+418,Collar,Mostacilla,Negro,Fiesta,31.74,1,Luciana Cuevas Bilbao,Transferencia,2023-05-23,0,Media,31.74
+419,Tobillera,Cobre,Rosa,Formal,16.27,3,Irma Alba Gámez,Transferencia,2023-02-14,0,Media,48.81
+420,Tobillera,Acero inoxidable,Verde,Fiesta,22.66,2,Esther de Gomila,Transferencia,2023-04-27,0,Media,45.32
+421,Collar,Cristal,Negro,Fiesta,10.19,4,Blanca Barros Quevedo,Tarjeta,2023-12-15,0,Baja,40.76
+422,Broche,Tela,Multicolor,Bohemio,5.58,4,Crescencia Riba Maestre,Tarjeta,2023-04-18,0,Alta,22.32
+423,Tobillera,Cristal,Dorado,Infantil,39.57,3,Amada Jove Lastra,Divisas,2023-05-22,15,Baja,100.9
+424,Diadema,Mostacilla,Negro,Infantil,14.74,4,Lisandro Torrent Almazán,Transferencia,2023-08-07,0,Media,58.96
+425,Anillo,Oro laminado,Rosa,Formal,10.53,2,Custodia Evelia Casals Sebastián,Tarjeta,2023-09-28,5,Media,20.01
+426,Aretes,Cristal,Rojo,Formal,35.2,4,Fulgencio Bou,Efectivo,2023-05-27,0,Premium,140.8
+427,Collar,Tela,Dorado,Infantil,31.67,3,Eulalia Boix Manso,Divisas,2023-05-20,5,Media,90.26
+428,Aretes,Cristal,Negro,Bohemio,32.39,2,Alfonso Beltran Serra,Pago móvil,2023-06-11,0,Baja,64.78
+429,Diadema,Cristal,Verde,Infantil,12.99,3,Casemiro de Infante,Divisas,2023-10-25,10,Baja,35.07
+430,Tobillera,Cristal,Verde,Bohemio,13.17,4,Pilar Torralba Ferrán,Pago móvil,2023-03-31,0,Media,52.68
+431,Tobillera,Plata,Plateado,Formal,12.6,3,Lucho Alberola Oliver,Transferencia,2023-09-13,0,Media,37.8
+432,Diadema,Plata,Negro,Casual,10.34,3,Felisa Octavia Marquez Calderon,Pago móvil,2023-10-27,0,Media,31.02
+433,Collar,Oro laminado,Azul,Formal,33.47,1,Andrés Felipe Jara,Transferencia,2023-04-16,5,Media,31.8
+434,Anillo,Acero inoxidable,Negro,Formal,42.7,4,Teo Haro Pacheco,Efectivo,2023-09-30,0,Baja,170.8
+435,Pulsera,Cristal,Rojo,Fiesta,36.77,4,Ruperto Leal Lastra,Pago móvil,2023-05-28,0,Alta,147.08
+436,Collar,Mostacilla,Dorado,Fiesta,40.02,3,Gil del Sales,Divisas,2023-11-28,0,Media,120.06
+437,Pulsera,Acero inoxidable,Dorado,Fiesta,21.43,1,Ani Barberá Coloma,Transferencia,2023-07-04,0,Media,21.43
+438,Diadema,Mostacilla,Rojo,Fiesta,33.4,4,Adelardo Luz Arnaiz,Divisas,2023-03-29,0,Media,133.6
+439,Broche,Acero inoxidable,Negro,Bohemio,19.0,2,Martín del Pons,Tarjeta,2023-02-08,0,Premium,38.0
+440,Pulsera,Oro laminado,Rojo,Infantil,27.22,3,Ester Alcaraz Espinosa,Transferencia,2023-12-08,20,Media,65.33
+441,Anillo,Cristal,Rosa,Casual,25.12,4,Aroa Herranz Alberto,Pago móvil,2023-01-12,5,Alta,95.46
+442,Broche,Cristal,Multicolor,Formal,10.49,2,Ernesto Tena Saavedra,Transferencia,2023-03-19,20,Alta,16.78
+443,Pulsera,Cobre,Rojo,Bohemio,20.58,4,Raimundo Viñas Flor,Divisas,2023-06-20,0,Baja,82.32
+444,Diadema,Mostacilla,Verde,Casual,48.26,2,Duilio Escalona Cantero,Efectivo,2023-07-21,10,Premium,86.87
+445,Broche,Acero inoxidable,Rojo,Bohemio,13.93,3,Vinicio Milla Gallego,Transferencia,2023-08-31,10,Media,37.61
+446,Diadema,Acero inoxidable,Dorado,Bohemio,8.42,4,Cruz Requena-Arteaga,Pago móvil,2023-01-07,0,Baja,33.68
+447,Pulsera,Plástico,Verde,Formal,22.09,4,Teresita Reyes Bayona,Tarjeta,2023-08-31,0,Alta,88.36
+448,Diadema,Plástico,Dorado,Infantil,39.94,1,Cosme Ramos,Efectivo,2023-09-11,0,Alta,39.94
+449,Anillo,Plata,Plateado,Fiesta,29.94,3,Jacinto Antón Ledesma,Tarjeta,2023-05-12,10,Media,80.84
+450,Pulsera,Cobre,Azul,Infantil,34.69,2,Encarnacion Solano Galiano,Transferencia,2023-06-16,0,Media,69.38
+451,Pulsera,Tela,Dorado,Formal,11.11,4,Itziar Antonia Narváez Nebot,Divisas,2023-02-15,0,Media,44.44
+452,Pulsera,Plástico,Verde,Formal,31.71,4,Florentina Castellanos Castelló,Divisas,2023-08-07,0,Alta,126.84
+453,Collar,Tela,Plateado,Formal,17.53,2,Wálter Riquelme Monreal,Pago móvil,2023-10-21,15,Media,29.8
+454,Collar,Plata,Dorado,Casual,42.05,3,Miriam Dalmau-Frías,Divisas,2023-07-26,10,Media,113.54
+455,Collar,Plata,Rosa,Infantil,32.21,1,Elba Raquel Posada Ugarte,Efectivo,2023-11-08,20,Baja,25.77
+456,Anillo,Plata,Rojo,Infantil,11.55,1,Cecilio Codina-Gil,Divisas,2023-11-24,0,Media,11.55
+457,Broche,Mostacilla,Azul,Bohemio,5.1,4,Haroldo Toledo Doménech,Pago móvil,2023-03-04,0,Alta,20.4
+458,Diadema,Mostacilla,Dorado,Bohemio,4.05,2,Santos Teruel Menendez,Transferencia,2023-10-25,0,Media,8.1
+459,Tobillera,Oro laminado,Plateado,Bohemio,19.83,4,Violeta Calatayud Martinez,Transferencia,2023-03-30,0,Premium,79.32
+460,Pulsera,Oro laminado,Rosa,Formal,14.76,2,Purificación Cortés,Divisas,2023-05-19,0,Media,29.52
+461,Diadema,Plata,Negro,Infantil,33.01,1,Ruth Casado Solana,Tarjeta,2023-02-09,0,Alta,33.01
+462,Pulsera,Cobre,Plateado,Formal,25.97,3,Haroldo Nieto Oliver,Transferencia,2023-12-30,0,Media,77.91
+463,Anillo,Acero inoxidable,Rojo,Casual,14.77,2,Dora Espejo España,Divisas,2023-03-07,0,Media,29.54
+464,Pulsera,Mostacilla,Plateado,Bohemio,9.16,1,Nieves Mármol,Pago móvil,2023-05-22,15,Media,7.79
+465,Collar,Cobre,Rosa,Formal,8.11,4,Carmen Roca Vaquero,Divisas,2023-12-09,0,Media,32.44
+466,Tobillera,Cristal,Plateado,Formal,43.5,2,Goyo Borja Mora,Transferencia,2023-05-18,10,Media,78.3
+467,Aretes,Mostacilla,Rosa,Casual,13.69,3,Aurelio Lledó-Beltran,Pago móvil,2023-03-17,0,Premium,41.07
+468,Pulsera,Mostacilla,Dorado,Fiesta,33.28,4,Amador del Castro,Divisas,2023-05-14,0,Alta,133.12
+469,Diadema,Oro laminado,Multicolor,Infantil,40.91,4,Carmina Corominas Cueto,Efectivo,2023-04-30,0,Media,163.64
+470,Collar,Acero inoxidable,Rosa,Fiesta,31.48,1,Maricela Villalonga,Pago móvil,2023-03-07,0,Baja,31.48
+471,Aretes,Acero inoxidable,Rosa,Bohemio,43.26,2,Telmo Salinas Parra,Efectivo,2023-04-16,0,Baja,86.52
+472,Tobillera,Plástico,Azul,Formal,20.83,4,Lisandro Vazquez Costa,Tarjeta,2023-02-10,0,Media,83.32
+473,Aretes,Tela,Rosa,Casual,47.9,3,Judith Morante Rivera,Pago móvil,2023-01-03,0,Alta,143.7
+474,Collar,Tela,Rosa,Casual,8.39,2,Candelaria Aparicio Morell,Efectivo,2023-12-08,0,Alta,16.78
+475,Broche,Tela,Negro,Infantil,6.9,3,Francisco Prat Sancho,Transferencia,2023-05-23,0,Baja,20.7
+476,Broche,Tela,Multicolor,Fiesta,33.62,4,Custodio Cerdá Fonseca,Transferencia,2023-03-14,20,Media,107.58
+477,Aretes,Cristal,Dorado,Infantil,47.26,3,Carla Bernat Soler,Tarjeta,2023-03-12,5,Media,134.69
+478,Anillo,Cristal,Rojo,Formal,40.83,1,Mercedes Sales,Pago móvil,2023-06-29,5,Alta,38.79
+479,Diadema,Mostacilla,Azul,Infantil,5.67,3,Amado Ureña Tormo,Pago móvil,2023-03-03,0,Media,17.01
+480,Diadema,Plata,Negro,Casual,15.41,2,Isidro Rozas Portillo,Pago móvil,2023-12-18,5,Alta,29.28
+481,Aretes,Oro laminado,Verde,Casual,46.66,3,Luís Estévez Solsona,Tarjeta,2023-09-10,5,Alta,132.98
+482,Pulsera,Oro laminado,Multicolor,Bohemio,14.15,3,Moisés de Corral,Pago móvil,2023-09-20,0,Baja,42.45
+483,Pulsera,Tela,Dorado,Bohemio,39.5,1,Cristóbal Donaire Herrero,Transferencia,2023-10-26,20,Alta,31.6
+484,Diadema,Mostacilla,Dorado,Formal,41.61,3,Francisco Jose Kike Girón Baró,Efectivo,2023-12-10,0,Baja,124.83
+485,Diadema,Plástico,Verde,Fiesta,25.78,3,Luz Piquer Verdejo,Transferencia,2023-06-23,15,Alta,65.74
+486,Broche,Cobre,Rojo,Infantil,20.54,4,Saturnino del Urrutia,Transferencia,2023-07-08,15,Media,69.84
+487,Anillo,Plata,Rosa,Formal,23.61,4,Iris Bosch Mendoza,Efectivo,2023-12-06,0,Media,94.44
+488,Collar,Mostacilla,Negro,Bohemio,12.89,2,Raúl Benet-Noguera,Transferencia,2023-04-08,0,Alta,25.78
+489,Pulsera,Plata,Plateado,Infantil,44.69,4,Domitila Requena Gallart,Tarjeta,2023-02-18,20,Alta,143.01
+490,Diadema,Plata,Azul,Bohemio,23.63,4,Florencia Lledó Badía,Efectivo,2023-02-05,0,Alta,94.52
+491,Broche,Plata,Plateado,Infantil,44.36,4,Mercedes Julia Posada Fernandez,Transferencia,2023-03-04,0,Media,177.44
+492,Tobillera,Mostacilla,Verde,Fiesta,7.07,4,Dimas Alfaro Rincón,Divisas,2023-10-22,20,Alta,22.62
+493,Broche,Tela,Dorado,Formal,49.44,1,Balduino Francisco Jose Amaya Pareja,Transferencia,2023-11-10,0,Media,49.44
+494,Pulsera,Oro laminado,Rojo,Infantil,23.28,4,Nando Lozano Cabanillas,Tarjeta,2023-08-31,0,Alta,93.12
+495,Pulsera,Oro laminado,Dorado,Casual,4.3,1,Visitación Sanmiguel Castro,Pago móvil,2023-10-16,0,Media,4.3
+496,Broche,Tela,Azul,Casual,3.83,1,Belen Laguna Téllez,Transferencia,2023-01-26,0,Premium,3.83
+497,Collar,Plata,Dorado,Infantil,37.82,4,Fausto Salvà Ramis,Pago móvil,2023-07-30,0,Alta,151.28
+498,Aretes,Cobre,Dorado,Infantil,33.63,3,Gregorio Segarra Peñalver,Divisas,2023-07-06,0,Alta,100.89
+499,Pulsera,Acero inoxidable,Azul,Infantil,40.5,1,Miguela Amparo Vall Morera,Transferencia,2023-03-16,0,Media,40.5
+500,Broche,Mostacilla,Negro,Casual,7.06,3,Carolina Carballo Ochoa,Efectivo,2023-03-10,0,Baja,21.18
+501,Diadema,Acero inoxidable,Negro,Casual,3.71,3,María Jesús Perales Villena,Pago móvil,2023-09-08,5,Alta,10.57
+502,Broche,Plástico,Azul,Infantil,26.41,4,Candela Domingo Valera,Divisas,2023-05-26,0,Media,105.64
+503,Anillo,Tela,Rojo,Bohemio,20.6,2,Cornelio Armando Roman Narváez,Efectivo,2023-09-24,0,Alta,41.2
+504,Aretes,Cobre,Verde,Bohemio,24.17,4,Pastora Juárez-Palmer,Efectivo,2023-03-21,0,Media,96.68
+505,Tobillera,Mostacilla,Multicolor,Fiesta,49.6,2,Anita Bienvenida Jara Querol,Efectivo,2023-04-18,0,Media,99.2
+506,Collar,Tela,Dorado,Formal,48.6,2,Román Jerez,Efectivo,2023-03-02,0,Alta,97.2
+507,Tobillera,Plata,Rojo,Bohemio,47.23,4,Leandro Sandoval-Alemán,Transferencia,2023-11-14,0,Media,188.92
+508,Aretes,Oro laminado,Dorado,Casual,39.62,4,Áurea Teruel Martín,Transferencia,2023-10-25,15,Media,134.71
+509,Aretes,Acero inoxidable,Multicolor,Bohemio,19.03,2,Custodia Aragonés,Transferencia,2023-09-03,0,Media,38.06
+510,Aretes,Cristal,Verde,Fiesta,21.78,4,Rogelio Renato Lozano Gracia,Divisas,2023-11-05,0,Media,87.12
+511,Tobillera,Cristal,Negro,Fiesta,28.38,2,Olegario Llorente Sáez,Divisas,2023-02-13,0,Alta,56.76
+512,Diadema,Cobre,Rojo,Formal,41.87,3,Rosaura Merche Armas Ródenas,Divisas,2023-01-20,0,Media,125.61
+513,Aretes,Plata,Rosa,Bohemio,5.3,4,Pastora Millán Planas,Tarjeta,2023-11-26,0,Alta,21.2
+514,Broche,Plástico,Rosa,Casual,22.37,3,Feliciano Escribano,Divisas,2023-02-17,0,Alta,67.11
+515,Tobillera,Acero inoxidable,Multicolor,Casual,5.97,1,Javiera Baena Lopez,Transferencia,2023-02-11,0,Media,5.97
+516,Aretes,Plata,Rosa,Infantil,26.7,3,Cecilia Aguado-Alberola,Transferencia,2023-12-12,5,Alta,76.09
+517,Broche,Acero inoxidable,Negro,Casual,45.15,3,Priscila de Piñol,Tarjeta,2023-10-17,0,Media,135.45
+518,Diadema,Cobre,Multicolor,Formal,39.56,2,Águeda Romero-Aguilera,Tarjeta,2023-02-12,0,Media,79.12
+519,Anillo,Cobre,Negro,Formal,12.94,3,Delfina Bertrán-Zabala,Divisas,2023-07-03,0,Premium,38.82
+520,Diadema,Plástico,Verde,Casual,48.85,4,Emilia Armas Trujillo,Pago móvil,2023-06-22,0,Baja,195.4
+521,Aretes,Cristal,Dorado,Casual,34.03,2,Nazario Durán Chaves,Tarjeta,2023-06-20,0,Media,68.06
+522,Tobillera,Plata,Verde,Infantil,2.5,1,Lucio Ferrando Benavides,Efectivo,2023-04-01,0,Media,2.5
+523,Pulsera,Mostacilla,Verde,Casual,14.26,4,Jacobo Valle Soler,Transferencia,2023-07-15,0,Media,57.04
+524,Aretes,Cristal,Negro,Infantil,14.51,1,Pilar de Palomar,Efectivo,2023-02-18,0,Media,14.51
+525,Pulsera,Plata,Multicolor,Infantil,5.32,3,Máximo Arteaga,Transferencia,2023-11-11,0,Alta,15.96
+526,Broche,Cristal,Multicolor,Casual,48.07,4,Zacarías Gisbert Boada,Transferencia,2023-11-06,0,Media,192.28
+527,Anillo,Mostacilla,Rosa,Fiesta,24.96,4,Lilia Nebot Valentín,Tarjeta,2023-03-30,0,Media,99.84
+528,Collar,Oro laminado,Plateado,Fiesta,45.0,1,Nydia Vall Sacristán,Tarjeta,2023-07-10,0,Baja,45.0
+529,Diadema,Oro laminado,Dorado,Infantil,17.47,4,Jordán Echevarría Larrañaga,Efectivo,2023-07-03,0,Media,69.88
+530,Anillo,Plástico,Negro,Casual,8.01,4,Benjamín Muro Oller,Transferencia,2023-10-25,15,Media,27.23
+531,Aretes,Oro laminado,Rosa,Fiesta,24.77,4,Jaime Pelayo Martínez,Efectivo,2023-02-11,0,Media,99.08
+532,Pulsera,Oro laminado,Rojo,Casual,7.47,3,Noé Tirado Aller,Pago móvil,2023-03-22,5,Media,21.29
+533,Diadema,Tela,Plateado,Casual,25.33,1,Jose Angel Andreu Saldaña,Efectivo,2023-09-23,0,Media,25.33
+534,Pulsera,Acero inoxidable,Plateado,Casual,46.17,4,Anita Castrillo Lobo,Divisas,2023-11-18,0,Media,184.68
+535,Tobillera,Tela,Negro,Bohemio,27.0,2,Hugo Torre Nevado,Efectivo,2023-07-18,0,Media,54.0
+536,Pulsera,Tela,Azul,Casual,31.59,2,Ismael Vicens Burgos,Divisas,2023-10-20,0,Alta,63.18
+537,Tobillera,Plástico,Dorado,Bohemio,9.52,2,Constanza Sacristán,Divisas,2023-08-03,0,Alta,19.04
+538,Broche,Tela,Plateado,Infantil,4.1,2,Natalia Alfonso Pedrosa,Divisas,2023-03-23,15,Media,6.97
+539,Diadema,Oro laminado,Negro,Fiesta,7.32,3,Ariadna Benitez Segura,Pago móvil,2023-11-21,0,Alta,21.96
+540,Diadema,Mostacilla,Negro,Fiesta,30.73,4,Miguel Ángel Roselló Llanos,Efectivo,2023-06-29,15,Alta,104.48
+541,Collar,Plástico,Rosa,Fiesta,6.56,1,Custodio Saldaña-Palomino,Efectivo,2023-04-15,0,Media,6.56
+542,Aretes,Plástico,Rojo,Fiesta,20.05,4,Ovidio Nicodemo Español Marti,Pago móvil,2023-08-03,5,Baja,76.19
+543,Tobillera,Cobre,Azul,Fiesta,28.4,3,Laura Campo,Transferencia,2023-09-29,0,Alta,85.2
+544,Collar,Plástico,Dorado,Fiesta,20.66,2,Joaquín Camps Cortes,Tarjeta,2023-03-24,5,Alta,39.25
+545,Pulsera,Cobre,Multicolor,Fiesta,9.86,3,Gabriela del Larrañaga,Efectivo,2023-04-29,0,Media,29.58
+546,Pulsera,Plástico,Verde,Infantil,15.14,4,Mateo Blazquez Morante,Tarjeta,2023-02-11,0,Alta,60.56
+547,Collar,Acero inoxidable,Rojo,Casual,46.56,1,Violeta Niño Diego,Pago móvil,2023-10-17,0,Media,46.56
+548,Diadema,Oro laminado,Rojo,Formal,34.45,3,Eva María Carmona-Arenas,Transferencia,2023-02-06,5,Alta,98.18
+549,Pulsera,Plástico,Rosa,Bohemio,25.81,1,Manolo Marcos Galván,Transferencia,2023-11-13,0,Alta,25.81
+550,Broche,Oro laminado,Multicolor,Formal,2.61,3,Susanita Esparza Gomila,Transferencia,2023-07-24,10,Media,7.05
+196,Broche,Oro laminado,Dorado,Fiesta,10.09,4,Josefa Oliveras,Efectivo,2023-12-04,0,Premium,40.36
+80,Pulsera,Plata,Plateado,Fiesta,33.81,1,Román Jáuregui-Roselló,Divisas,2023-11-02,10,Alta,30.43
+481,Aretes,Oro laminado,Verde,Casual,46.66,3,Luís Estévez Solsona,Tarjeta,2023-09-10,5,Alta,132.98
+110,Tobillera,Plástico,Rojo,Infantil,43.48,1,Fidela Arcos Vives,Transferencia,2023-09-06,5,Media,41.31
+523,Pulsera,Mostacilla,Verde,Casual,14.26,4,Jacobo Valle Soler,Transferencia,2023-07-15,0,Media,57.04
