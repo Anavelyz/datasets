@@ -1,0 +1,556 @@
+﻿ID_Venta,Marca,Modelo,Color,Material,Género,Precio (USD),Cantidad,Cliente,Método_Pago,Fecha_Venta,Descuento (%),Total_Venta (USD),Talla
+1,Jump,Mocasín,Beige,Cuero,Femenino,36.92,2,Tecla Adán Diéguez,Divisas,2023-03-01,5,70.15,34
+2,Sifrinitas,Formal,Verde,Lona,Masculino,44.14,3,José Antonio Urbano Mata Calvo,Pago móvil,2023-04-28,15,112.56,43
+3,Sifrinitas,Formal,Blanco,Sintético,Femenino,55.66,3,Dan Loreto Castilla Amador,Pago móvil,2023-10-08,0,166.98,36
+4,Calzados Rossi,Sandalia,Azul,Gamuza,Niño,76.54,1,Yaiza Lucena Montesinos,Divisas,2023-03-06,5,72.71,32
+5,Converse,Sandalia,Gris,Plástico,Femenino,52.05,2,Tadeo Baena-Bustamante,Transferencia,2023-09-27,0,104.1,35
+6,Calzados Inglese,Deportivo,Rojo,Sintético,Masculino,62.05,2,Gabriela Gibert Montesinos,Efectivo,2023-05-13,0,124.1,41
+7,RS,Formal,Azul,Gamuza,Unisex,45.44,3,Aarón de Torrens,Divisas,2023-10-11,5,129.5,40
+8,Apolo,Formal,Beige,Plástico,Niña,54.39,3,Leonardo Juárez,Divisas,2023-05-02,0,163.17,29
+9,Sifrinitas,Bota,Azul,Plástico,Niño,14.97,2,Lina Cañizares,Divisas,2023-10-20,0,29.94,31
+10,RS,Sandalia,Rojo,Sintético,Masculino,27.81,1,Vilma Dalmau Cepeda,Pago móvil,2023-03-08,0,27.81,42
+11,Calzados Andino,Formal,Marrón,Textil,Niño,35.33,3,Carina Jordá,Tarjeta,2023-08-16,0,105.99,24
+12,Zapateria El Paso,Zapatilla,Beige,Textil,Masculino,43.07,1,Gabino Camps Coll,Efectivo,2023-04-12,0,43.07,38
+13,Calzados Merida,Deportivo,Marrón,Plástico,Masculino,13.2,1,Amor Ileana Hurtado Salinas,Transferencia,2023-01-23,5,12.54,43
+14,Pies Felices,Zapatilla,Negro,Textil,Femenino,19.8,3,Adalberto Tejada Cózar,Transferencia,2023-11-09,0,59.4,39
+15,Zapato Lara,Zapatilla,Marrón,Cuero,Niña,29.38,1,Wálter de Alcalá,Tarjeta,2023-11-18,0,29.38,34
+16,Calzados caracas,Mocasín,Negro,Plástico,Masculino,78.01,1,Rosalva del Villanueva,Divisas,2023-04-03,0,78.01,44
+17,Jump,Mocasín,Negro,Plástico,Femenino,33.19,2,María Luisa del Bermúdez,Efectivo,2023-05-13,10,59.74,40
+18,Yston,Deportivo,Marrón,Gamuza,Masculino,43.74,1,María Belén Sierra Castañeda,Transferencia,2023-02-04,15,37.18,43
+19,Jump,Zapatilla,Beige,Textil,Masculino,23.73,2,Lope Cleto Jordán Pastor,Transferencia,2023-11-18,20,37.97,43
+20,Sifrinitas,Formal,Verde,Plástico,Niña,52.75,3,América Llobet,Divisas,2023-11-13,5,150.34,24
+21,Calzados Rossi,Sandalia,negro,Cuero,Niño,29.65,3,Fito Girona Bermejo,Tarjeta,2023-07-03,5,84.5,28
+22,Yston,Deportivo,MARRÓN,Gamuza,Niña,24.49,2,Adoración Jove Vazquez,Efectivo,2023-01-01,0,48.98,24
+23,Apolo,Bota,beige,Sintético,Femenino,46.16,3,Calixto Castilla Carro,Tarjeta,2023-10-27,0,138.48,41
+24,Apolo,Zapatilla,azull,Plástico,Masculino,10.39,1,Bernardita Pozuelo Ballester,Tarjeta,2023-05-12,0,10.39,37
+25,Feveco,Deportivo,verde,Cuero,Masculino,10.54,1,Yéssica Sevillano Palomares,Efectivo,2023-10-26,5,10.01,42
+26,Converse,Casual,Gris ,Lona,Femenino,25.33,1,Amalia de Codina,Efectivo,2023-10-05,15,21.53,37
+27,Calzados Inglese,Casual,Negro,Cuero,Femenino,12.57,3,Leonardo Martinez-Alberdi,Transferencia,2023-05-26,0,37.71,41
+28,Jump,Mocasín,Negro,Cuero,Niña,17.56,1,Marcos Matías Rebollo Quintana,Transferencia,2023-06-26,15,14.93,32
+29,Jump,Sandalia,Beige,Gamuza,Femenino,33.72,3,Azeneth Bueno Carbonell,Efectivo,2023-08-22,0,101.16,42
+30,Converse,Formal,Blanco,Sintético,Masculino,66.18,1,Liliana del Vendrell,Pago móvil,2023-08-05,0,66.18,43
+31,Loblan,Sandalia,Marrón,Lona,Femenino,50.04,2,Anastasio Sarmiento Castejón,efectivo,2023-11-09,0,100.08,37
+32,Skyros,Sandalia,Negro,Textil,Femenino,45.89,3,Lourdes Julián Benavent,tarjeta,2023-05-28,0,137.67,34
+33,Yston,Sandalia,Azul,Textil,Femenino,30.54,3,Paca Paredes Abascal,Pago Movil,2023-08-18,0,91.62,36
+34,Muttsion,Sandalia,Beige,Cuero,Unisex,75.22,1,Marcelo de Córdoba,Transferncia,2023-06-25,0,75.22,42
+35,Jump,Bota,Marrón,Gamuza,Niña,37.79,3,Ana Tapia Ocaña,Efectivo,2023-09-03,0,113.37,25
+36,Calzados Inglese,Bota,Beige,Gamuza,Unisex,16.1,3,Armida Fernandez Cabo,Tarjeta,2023-04-10,0,48.3,38
+37,Feveco,Mocasín,Marrón,Textil,Masculino,53.19,2,Florencio Lucena Melero,Divisas,2023-07-28,10,95.74,40
+38,Apolo,Deportivo,Marrón,Lona,Femenino,17.97,2,Reynaldo Ariel Carretero Cruz,Pago móvil,2023-04-25,10,32.35,38
+39,Jump,Casual,Rojo,Sintético,Masculino,34.17,1,Florina Chico Figuerola,Efectivo,2023-11-06,15,29.04,37
+40,Feveco,Sandalia,Negro,Lona,Masculino,45.52,2,Sarita de Seguí,Efectivo,2023-09-15,0,91.04,35
+41,Sifrinitas,Mocasín,Verde,Plástico,Niña,0.0,1,María Del Carmen Pol Calleja,Transferencia,2023-09-04,0,71.2,24
+42,Sifrinitas,Deportivo,Beige,Plástico,Femenino,100.0,1,María Carmen Cañete Llanos,Transferencia,2023-03-09,5,42.32,37
+43,Skyros,Casual,Verde,Sintético,Masculino,200.0,1,Jose Miguel Vives,Transferencia,2023-12-26,0,59.16,43
+44,Calzados Rossi,Zapatilla,Beige,Textil,Femenino,-5.0,3,Joaquín Amador Cazorla,Divisas,2023-07-13,0,238.5,43
+45,Muttsion,Formal,Rojo,Sintético,Masculino,1.0,2,Luis Ángel Orozco Espinosa,Transferencia,2023-01-25,0,38.4,42
+46,Loblan,Bota,Azul,Gamuza,Niño,500.0,1,Angelino Ricart Ribera,Efectivo,2023-10-30,0,29.23,27
+47,Skyros,Zapatilla,Verde,Plástico,Masculino,37.62,2,Tadeo Chacón,Transferencia,2023-09-13,0,75.24,36
+48,RS,Casual,Azul,Cuero,Masculino,39.53,1,Samuel Roura-Montserrat,Tarjeta,2023-09-03,0,39.53,42
+49,Loblan,Zapatilla,Gris,Cuero,Masculino,38.77,2,Luisa Pellicer Crespi,Transferencia,2023-02-23,0,77.54,38
+50,Yston,Formal,Negro,Textil,Masculino,73.53,2,Germán Lorenzo Nevado Cervera,Divisas,2023-04-12,0,147.06,44
+51,Calzados Inglese,Mocasín,Negro,Gamuza,Niña,59.98,1,Quique Escudero Manjón,Tarjeta,2023-12-02,0,59.98,34
+52,RS,Casual,Blanco,Lona,Niña,52.55,3,Matilde Cánovas Rey,Efectivo,2023-06-07,0,157.65,25
+53,RS,Zapatilla,Rojo,Gamuza,Unisex,31.66,2,Araceli Castilla-Mosquera,Efectivo,2023-06-24,0,63.32,43
+54,Skyros,Bota,Azul,Cuero,Niña,67.67,3,Aristides Cañellas Jover,Pago móvil,2023-08-05,0,203.01,33
+55,Converse,Bota,Marrón,Cuero,Masculino,76.85,3,Ismael Casado Lloret,Tarjeta,2023-04-05,0,230.55,41
+56,Calzados Rossi,Deportivo,Beige,Plástico,Niño,67.48,1,Gabriel Bustos Malo,Pago móvil,2023-06-29,0,67.48,27
+57,Converse,Zapatilla,Negro,Gamuza,Masculino,10.11,1,Alberto Cuenca Casares,Tarjeta,2023-08-14,0,10.11,43
+58,Skyros,Sandalia,Verde,Gamuza,Femenino,54.55,1,Obdulia Blazquez Pol,Tarjeta,2023-05-18,0,54.55,41
+59,Yston,Zapatilla,Beige,Cuero,Niña,13.58,2,Javi Jiménez Bartolomé,Divisas,2023-06-28,0,27.16,24
+60,Apolo,Mocasín,Beige,Lona,Femenino,28.03,1,Jerónimo Carlos Arce,Pago móvil,2023-10-14,15,23.83,37
+61,Jump,Casual,Blanco,Textil,Unisex,14.17,1,Angélica Natalia Ruano Morante,Divisas,2023-09-18,0,14.17,40
+62,Jump,Casual,Azul,Textil,Masculino,52.27,2,José Luis Fabregat Solera,Tarjeta,2023-12-02,0,104.54,35
+63,Calzados Rossi,Mocasín,Negro,Gamuza,Niño,58.06,2,Gertrudis Ródenas Cruz,Efectivo,2023-02-20,0,116.12,29
+64,Yston,Zapatilla,Beige,Textil,Niño,18.01,1,Pelayo Montenegro Jimenez,Tarjeta,2023-02-08,0,18.01,30
+65,Calzados Rossi,Mocasín,Negro,Cuero,Niña,36.87,1,Cecilia Vázquez Prat,Divisas,2023-07-21,0,36.87,34
+66,Feveco,Formal,Marrón,Cuero,Niño,41.94,1,Sergio Galván-Barranco,Pago móvil,2023-03-05,0,41.94,30
+67,Converse,Mocasín,Blanco,Gamuza,Niño,35.83,1,Baldomero Quesada,Pago móvil,2023-12-02,5,34.04,34
+68,Jump,Bota,Marrón,Gamuza,Femenino,18.47,3,Domingo de Aragonés,Divisas,2023-05-08,0,55.41,40
+69,RS,Mocasín,Negro,Plástico,Masculino,39.33,3,Severino Hoyos Machado,Pago móvil,2023-12-03,0,117.99,38
+70,Converse,Casual,Gris,Gamuza,Femenino,62.58,1,Salomé Milagros Suárez Saura,Transferencia,2023-06-10,0,62.58,40
+71,Muttsion,Bota,Verde,Lona,Niño,14.97,3,Benigna Barriga Izaguirre,Efectivo,2023-12-26,10,40.42,25
+72,Calzados Inglese,Casual,Negro,Textil,Masculino,15.61,2,Atilio Toni Salmerón Velázquez,Efectivo,2023-07-06,0,31.22,36
+73,Yston,Deportivo,Azul,Gamuza,Niño,34.83,3,Asdrubal Barbero Rozas,Efectivo,2023-08-19,20,83.59,25
+74,Loblan,Sandalia,Beige,Sintético,Femenino,75.92,3,Juliana Sainz Pardo,Pago móvil,2023-09-01,0,227.76,40
+75,Calzados Rossi,Casual,Beige,Plástico,Femenino,56.8,1,Merche Acosta Casanova,Pago móvil,2023-05-13,20,45.44,42
+76,Converse,Bota,Marrón,Sintético,Niño,57.51,3,Matilde Matas Otero,Tarjeta,2023-06-11,15,146.65,28
+77,Calzados Inglese,Deportivo,Verde,Cuero,Femenino,35.33,3,Marcia Alemany Arteaga,Tarjeta,2023-12-13,0,105.99,37
+78,Converse,Casual,Blanco,Textil,Femenino,51.56,3,Graciana Escudero Gárate,Efectivo,2023-11-08,0,154.68,40
+79,Loblan,Formal,Gris,Gamuza,Femenino,10.71,3,Feliciano Gutierrez González,Transferencia,2023-07-24,0,32.13,34
+80,Calzados Inglese,Mocasín,Rojo,Sintético,Unisex,54.53,2,Rodolfo Neira Isern,Tarjeta,2023-08-19,0,109.06,35
+81,Muttsion,Sandalia,Verde,Textil,Niño,73.93,1,Gerónimo Andrés Cámara,Tarjeta,2023-10-31,5,70.23,30
+82,Loblan,Casual,Beige,Cuero,Masculino,52.88,1,Sancho Dalmau-Ríos,Pago móvil,2023-03-05,0,52.88,43
+83,Skyros,Deportivo,Azul,Lona,Femenino,71.16,2,Visitación Sevilla,Transferencia,2023-01-15,0,142.32,40
+84,Sifrinitas,Formal,Verde,Plástico,Masculino,60.68,3,Soledad Andrade Arellano,Efectivo,2023-05-13,0,182.04,43
+85,Skyros,Zapatilla,Marrón,Textil,Niña,18.44,2,Pacífica de Márquez,Tarjeta,2023-03-23,15,31.35,23
+86,Jump,Deportivo,Marrón,Textil,Niño,73.17,3,Leticia Tomás Frías,Transferencia,2023-09-17,0,219.51,33
+87,Converse,Mocasín,Rojo,Lona,Femenino,14.65,2,Jose Manuel Cabo Arévalo,Transferencia,2023-06-12,0,29.3,36
+88,Sifrinitas,Deportivo,Azul,Textil,Femenino,47.38,1,Íñigo Cortina Acero,Efectivo,2023-06-08,0,47.38,43
+89,Skyros,Formal,Blanco,Cuero,Femenino,19.95,1,Melchor Jose Manuel Salinas Cardona,Transferencia,2023-11-17,15,16.96,36
+90,Sifrinitas,Deportivo,Verde,Cuero,Niño,10.82,1,Evita Torrijos Moya,Transferencia,2023-01-03,0,10.82,30
+91,Apolo,Formal,Azul,Lona,Niña,39.54,3,Raúl Jose Manuel Salas Arteaga,Transferencia,2023-03-21,0,118.62,27
+92,Converse,Casual,Blanco,Plástico,Femenino,30.65,3,Luna Valls Catalán,Tarjeta,2023-05-27,0,91.95,39
+93,Sifrinitas,Formal,Azul,Gamuza,Femenino,44.02,2,Celso de Ros,Efectivo,2023-05-27,0,88.04,37
+94,RS,Formal,Azul,Sintético,Femenino,50.4,2,Fabio Cánovas Blanco,Transferencia,2023-06-22,0,100.8,38
+95,Calzados Rossi,Sandalia,Negro,Gamuza,Unisex,13.06,1,Filomena Fuster-Mendez,Transferencia,2023-02-12,15,11.1,36
+96,Calzados Rossi,Formal,Marrón,Textil,Femenino,18.61,3,Ani Felipa Nicolás Ferrero,Tarjeta,2023-04-09,5,53.04,39
+97,RS,Formal,Verde,Sintético,Niña,49.1,2,Teodora Cervera Salas,Efectivo,2023-03-02,0,98.2,33
+98,Calzados Inglese,Zapatilla,Azul,Lona,Niño,34.02,3,Fermín Carnero Salcedo,Pago móvil,2023-05-16,10,91.85,22
+99,Feveco,Casual,Verde,Lona,Masculino,61.04,3,Emelina Estrella Guerra Granados,Tarjeta,2023-08-20,0,183.12,41
+100,Calzados Inglese,Mocasín,Rojo,Plástico,Femenino,55.66,1,Estefanía Oller Vallejo,Efectivo,2023-11-18,5,52.88,42
+101,Loblan,Sandalia,Azul,Sintético,Femenino,69.19,1,Severiano Ramiro Cerdá Cazorla,Transferencia,2023-01-07,10,62.27,37
+102,Loblan,Zapatilla,Beige,Cuero,Niño,58.47,3,Venceslás Torrents,Efectivo,2023-10-11,0,175.41,34
+103,Sifrinitas,Bota,Marrón,Sintético,Niña,40.1,3,Cayetano España-Luján,Efectivo,2023-11-11,5,114.29,29
+104,Skyros,Casual,Beige,Textil,Niño,57.11,3,Américo Rubio Infante,Efectivo,2023-08-26,0,171.33,30
+105,Skyros,Casual,Verde,Cuero,Masculino,29.28,3,Calixta Ferrándiz Miró,Pago móvil,2023-12-05,0,87.84,40
+106,Calzados Rossi,Bota,Verde,Lona,Femenino,31.44,1,Heriberto Amado Iriarte Cervantes,Efectivo,2023-09-15,0,31.44,34
+107,Yston,Mocasín,Marrón,Sintético,Unisex,65.23,2,Manuela Noriega,Pago móvil,2023-05-12,0,130.46,36
+108,Calzados Inglese,Formal,Verde,Gamuza,Niña,41.25,1,Lucho Sainz Borrego,Transferencia,2023-07-24,5,39.19,32
+109,Apolo,Zapatilla,Beige,Plástico,Femenino,65.89,2,Cayetana Calixta Paz Verdejo,Pago móvil,2023-04-11,15,112.01,37
+110,Converse,Deportivo,Azul,Gamuza,Unisex,67.57,3,Iris Piña Verdú,Transferencia,2023-12-01,0,202.71,40
+111,Jump,Sandalia,Azul,Plástico,Niño,70.03,2,Elisabet Collado Palomares,Transferencia,2023-01-07,10,126.05,25
+112,Muttsion,Deportivo,Negro,Textil,Masculino,74.16,1,Aurelio Matas Canales,Pago móvil,2023-08-11,10,66.74,34
+113,Skyros,Bota,Rojo,Gamuza,Niño,40.17,1,Natalia de Porcel,Tarjeta,2023-02-19,0,40.17,27
+114,Converse,Casual,Verde,Sintético,Niña,32.32,3,Pánfilo Segarra-Nadal,Divisas,2023-10-19,0,96.96,28
+115,Muttsion,Mocasín,Beige,Sintético,Niño,50.75,1,Jimena de Garrido,Efectivo,2023-01-08,0,50.75,30
+116,Converse,Casual,Verde,Gamuza,Femenino,35.98,3,Gabriela Raya Cabañas,Divisas,2023-03-13,0,107.94,36
+117,Sifrinitas,Sandalia,Verde,Sintético,Masculino,52.08,1,Severiano Castro Baró,Efectivo,2023-05-03,15,44.27,41
+118,Muttsion,Casual,Blanco,Textil,Unisex,59.39,1,Clemente Montero Franco,Efectivo,2023-10-01,0,59.39,35
+119,Jump,Casual,Negro,Cuero,Femenino,58.19,3,Ariel del Jódar,Transferencia,2023-08-15,5,165.84,37
+120,Converse,Sandalia,Beige,Textil,Masculino,36.22,2,Anabel Villegas Arnaiz,Efectivo,2023-10-29,0,72.44,36
+121,RS,Zapatilla,Beige,Plástico,Masculino,21.68,1,Dora Gallo-Coloma,Efectivo,2023-04-11,0,21.68,43
+122,Jump,Zapatilla,Verde,Textil,Masculino,40.14,2,Priscila Gallo Arcos,Pago móvil,2023-03-11,0,80.28,34
+123,Muttsion,Sandalia,Negro,Plástico,Niño,19.98,1,Valentín del Estévez,Divisas,2023-04-27,0,19.98,31
+124,Jump,Mocasín,Azul,Sintético,Unisex,72.31,1,Viviana Company,Pago móvil,2023-06-08,0,72.31,44
+125,Converse,Bota,Beige,Cuero,Femenino,34.21,1,Soledad del Roselló,Efectivo,2023-08-08,0,34.21,43
+126,Feveco,Casual,Azul,Sintético,Femenino,20.81,1,Erasmo Poza Valls,Transferencia,2023-08-24,0,20.81,35
+127,Converse,Mocasín,Negro,Lona,Femenino,11.78,2,Vasco del Jordán,Pago móvil,2023-02-16,0,23.56,37
+128,Converse,Casual,Azul,Sintético,Niña,55.21,2,Alexandra Lorenzo Soria,Pago móvil,2023-08-21,0,110.42,23
+129,Sifrinitas,Bota,Marrón,Plástico,Niño,54.58,1,Olegario de Vilar,Tarjeta,2023-07-16,10,49.12,27
+130,Calzados Inglese,Zapatilla,Blanco,Sintético,Femenino,33.84,1,Bárbara Bustos Hoyos,Efectivo,2023-11-26,0,33.84,41
+131,RS,Mocasín,Gris,Sintético,Niña,15.02,2,Jacobo Sevilla Toledo,Transferencia,2023-01-04,0,30.04,25
+132,Apolo,Formal,Beige,Cuero,Niña,38.67,3,Modesta del Ortega,Pago móvil,2023-05-02,0,116.01,22
+133,Skyros,Formal,Rojo,Sintético,Niña,31.79,3,Prudencia Varela Bello,Pago móvil,2023-08-07,0,95.37,22
+134,Loblan,Formal,Blanco,Cuero,Unisex,57.4,2,Pascual Guillén Pujol,Transferencia,2023-02-20,15,97.58,42
+135,Calzados Inglese,Zapatilla,Gris,Gamuza,Femenino,52.4,1,Ismael Llobet Palau,Efectivo,2023-04-15,0,52.4,40
+136,Loblan,Zapatilla,Azul,Lona,Niña,35.52,1,Macaria Gárate-Navarro,Tarjeta,2023-06-28,0,35.52,33
+137,Sifrinitas,Bota,Beige,Cuero,Masculino,25.25,3,Albino Salom Talavera,Pago móvil,2023-09-11,5,71.96,41
+138,RS,Casual,Azul,Plástico,Niña,79.16,3,Benito Boada-Ruano,Tarjeta,2023-08-11,0,237.48,25
+139,Converse,Bota,Marrón,Gamuza,Niño,41.78,2,Inocencio Patiño Mora,Divisas,2023-07-29,0,83.56,22
+140,Calzados Rossi,Bota,Negro,Cuero,Niña,58.18,3,Néstor del Guzman,Efectivo,2023-12-08,0,174.54,25
+141,Skyros,Zapatilla,Beige,Cuero,Niño,19.84,2,Amparo Perea Camino,Divisas,2023-02-25,0,39.68,32
+142,Feveco,Formal,Gris,Lona,Femenino,43.99,3,Roque Juan Parra,Divisas,2023-03-24,0,131.97,36
+143,Calzados Rossi,Deportivo,Gris,Plástico,Masculino,11.93,3,María Carmen Montes Llamas,Divisas,2023-05-27,0,35.79,44
+144,Sifrinitas,Casual,Marrón,Textil,Unisex,45.38,3,Edgardo Garcia Noriega,Efectivo,2023-11-08,10,122.53,39
+145,Calzados Inglese,Zapatilla,Marrón,Textil,Unisex,77.48,1,Fortunata Granados Borrell,Efectivo,2023-09-27,5,73.61,36
+146,Feveco,Formal,Verde,Cuero,Femenino,36.89,1,Tristán Bayona Ledesma,Transferencia,2023-10-23,0,36.89,43
+147,Jump,Mocasín,Beige,Sintético,Femenino,12.73,1,Elisabet Palomo Saavedra,Tarjeta,2023-12-17,0,12.73,38
+148,Muttsion,Deportivo,Azul,Plástico,Femenino,12.17,3,Margarita Blanco Peñalver,Tarjeta,2023-05-01,10,32.86,39
+149,Feveco,Deportivo,Rojo,Gamuza,Niño,37.16,2,Luis de Pardo,Transferencia,2023-01-29,0,74.32,34
+150,Apolo,Zapatilla,Gris,Sintético,Niña,21.2,2,Francisca Abella Mendez,Transferencia,2023-06-29,10,38.16,24
+151,Sifrinitas,Sandalia,Gris,Sintético,Femenino,11.63,2,Román Seguí Puig,Divisas,2023-04-14,5,22.1,44
+152,Yston,Casual,Marrón,Plástico,Masculino,62.93,2,Quirino de Botella,Transferencia,2023-02-10,5,119.57,41
+153,Muttsion,Deportivo,Blanco,Cuero,Niña,42.1,1,Román Peñalver Salmerón,Pago móvil,2023-11-12,0,42.1,29
+154,Loblan,Zapatilla,Marrón,Cuero,Niño,30.25,1,Francisco Jose Prado Jurado,Tarjeta,2023-11-13,0,30.25,24
+155,Skyros,Zapatilla,Rojo,Cuero,Masculino,73.01,3,Flavia Rico,Transferencia,2023-06-13,0,219.03,39
+156,Loblan,Formal,Azul,Cuero,Masculino,18.13,3,Raimundo Rodriguez Pedrero,Pago móvil,2023-04-28,5,51.67,44
+157,Feveco,Mocasín,Azul,Textil,Masculino,76.91,2,Eladio Losa-Font,Pago móvil,2023-12-30,0,153.82,40
+158,Loblan,Sandalia,Blanco,Cuero,Femenino,31.98,1,Paola Marí,Pago móvil,2023-01-30,5,30.38,42
+159,Apolo,Casual,Gris,Textil,Masculino,72.19,2,Azucena Beltran Maestre,Pago móvil,2023-10-19,0,144.38,34
+160,Sifrinitas,Bota,Marrón,Textil,Niño,52.21,3,Aristides Catalá Velasco,Divisas,2023-02-20,0,156.63,32
+161,Jump,Mocasín,Verde,Cuero,Niña,67.87,3,Concepción Rocha Bernat,Pago móvil,2023-05-11,0,203.61,30
+162,Calzados Inglese,Mocasín,Azul,Lona,Niño,78.88,2,Elisabet Puga,Divisas,2023-05-16,0,157.76,23
+163,Skyros,Formal,Rojo,Gamuza,Niña,30.19,3,Íngrid Salinas,Divisas,2023-07-07,0,90.57,33
+164,Apolo,Deportivo,Beige,Sintético,Femenino,77.28,2,Jennifer Colom-Solano,Pago móvil,2023-07-20,0,154.56,36
+165,Apolo,Deportivo,Negro,Textil,Masculino,37.26,1,Gustavo Nevado Segura,Tarjeta,2023-03-29,20,29.81,44
+166,Loblan,Formal,Negro,Plástico,Femenino,36.99,2,Emperatriz Cantón Vazquez,Pago móvil,2023-02-02,0,73.98,36
+167,Loblan,Zapatilla,Negro,Plástico,Femenino,33.83,1,Gisela Barceló Morcillo,Pago móvil,2023-08-19,0,33.83,39
+168,Feveco,Deportivo,Verde,Gamuza,Niño,47.9,1,María Pilar Somoza Isern,Pago móvil,2023-11-26,0,47.9,32
+169,Calzados Inglese,Sandalia,Gris,Plástico,Unisex,20.79,3,Julieta Botella Coloma,Tarjeta,2023-05-06,10,56.13,40
+170,Calzados Rossi,Casual,Marrón,Lona,Femenino,48.76,3,Marcia Dueñas Villalba,Efectivo,2023-02-11,5,138.97,44
+171,Loblan,Mocasín,Blanco,Plástico,Masculino,47.92,3,Chus Oller Cepeda,Efectivo,2023-06-27,0,143.76,34
+172,Sifrinitas,Mocasín,Verde,Sintético,Niña,63.33,2,Zaira del Paz,Divisas,2023-02-26,10,113.99,28
+173,Yston,Sandalia,Verde,Sintético,Femenino,68.36,2,Buenaventura Expósito-Abellán,Divisas,2023-06-17,5,129.88,39
+174,Skyros,Deportivo,Azul,Textil,Masculino,40.83,3,Noemí Berenguer,Tarjeta,2023-07-03,0,122.49,40
+175,Converse,Mocasín,Beige,Cuero,Niño,31.16,2,Nico Galán Donoso,Transferencia,2023-02-19,0,62.32,30
+176,Loblan,Bota,Verde,Lona,Niño,28.15,3,Benigna Luján Moliner,Efectivo,2023-02-15,0,84.45,25
+177,Sifrinitas,Casual,Rojo,Textil,Femenino,23.62,2,Rosendo Morell Lago,Divisas,2023-09-14,0,47.24,44
+178,Sifrinitas,Casual,Beige,Lona,Masculino,14.04,1,Juan Pablo de Elías,Efectivo,2023-05-03,10,12.64,44
+179,Skyros,Mocasín,Rojo,Cuero,Niña,33.97,1,Duilio Ayuso Amaya,Tarjeta,2023-05-13,0,33.97,23
+180,Calzados Rossi,Formal,Gris,Plástico,Masculino,28.92,3,María Cristina Salmerón,Tarjeta,2023-03-06,15,73.75,38
+181,Sifrinitas,Mocasín,Marrón,Plástico,Femenino,77.65,2,Pío Cortés Sales,Transferencia,2023-10-30,0,155.3,34
+182,Yston,Formal,Negro,Cuero,Niña,49.04,2,Fabiana Llorens Moll,Transferencia,2023-05-16,0,98.08,25
+183,Sifrinitas,Mocasín,Verde,Textil,Femenino,34.31,1,Ani Bermúdez Fabregat,Tarjeta,2023-08-07,0,34.31,37
+184,Sifrinitas,Bota,Marrón,Cuero,Niño,50.63,1,Edu Jerónimo Rebollo Godoy,Divisas,2023-01-17,0,50.63,31
+185,Sifrinitas,Zapatilla,Gris,Gamuza,Femenino,19.74,3,Sergio Múñiz-Cazorla,Efectivo,2023-12-21,5,56.26,42
+186,Jump,Casual,Blanco,Sintético,Unisex,41.08,1,Pepito Torres Vives,Pago móvil,2023-03-28,5,39.03,44
+187,Jump,Mocasín,Blanco,Textil,Masculino,53.84,3,Teresita Ricarda Lara Asensio,Transferencia,2023-08-31,0,161.52,34
+188,Calzados Rossi,Bota,Gris,Lona,Masculino,44.22,1,Manu de Sierra,Pago móvil,2023-11-05,0,44.22,36
+189,Loblan,Formal,Rojo,Gamuza,Femenino,38.12,1,Abel Coll Vélez,Divisas,2023-05-18,0,38.12,38
+190,Sifrinitas,Formal,Azul,Textil,Masculino,79.57,2,Lino Roma Diez,Transferencia,2023-09-13,0,159.14,36
+191,Calzados Inglese,Casual,Azul,Cuero,Niña,71.62,1,Hernán Jeremías Sosa Corral,Pago móvil,2023-12-12,0,71.62,28
+192,Loblan,Sandalia,Rojo,Cuero,Unisex,53.64,1,Brunilda Abad Martín,Divisas,2023-12-06,0,53.64,36
+193,Calzados Rossi,Mocasín,Blanco,Cuero,Masculino,49.86,3,Clemente Tamayo-Miró,Efectivo,2023-12-09,0,149.58,37
+194,RS,Deportivo,Blanco,Cuero,Masculino,53.45,1,Marc Luciano Agullo Gracia,Divisas,2023-03-15,15,45.43,34
+195,Loblan,Formal,Verde,Lona,Niño,24.09,3,Carlos Pareja Batalla,Transferencia,2023-07-14,0,72.27,27
+196,Loblan,Zapatilla,Blanco,Gamuza,Niña,37.66,1,Ariel Francisco Jose Mur Fábregas,Tarjeta,2023-01-27,0,37.66,33
+197,Muttsion,Zapatilla,Marrón,Plástico,Masculino,12.76,1,Gilberto Asenjo-Urrutia,Efectivo,2023-01-29,0,12.76,40
+198,Feveco,Formal,Blanco,Sintético,Masculino,43.29,3,Anastasio Palomo Alemany,Pago móvil,2023-09-19,0,129.87,35
+199,Converse,Sandalia,Beige,Lona,Masculino,48.01,2,Nando Piñeiro,Transferencia,2023-04-20,0,96.02,35
+200,Muttsion,Sandalia,Verde,Lona,Niño,25.94,3,Pánfilo Cuenca-Cuéllar,Tarjeta,2023-09-11,15,66.15,24
+201,Yston,Bota,Negro,Plástico,Femenino,77.48,3,Leonel Palomino Mesa,Divisas,2023-11-03,10,209.2,35
+202,Jump,Zapatilla,Blanco,Plástico,Niño,73.66,3,Ceferino Fabra Santamaria,Tarjeta,2023-10-02,0,220.98,23
+203,Jump,Bota,Rojo,Sintético,Masculino,60.55,2,Mohamed Polo Recio,Transferencia,2023-06-10,0,121.1,44
+204,Feveco,Zapatilla,Negro,Sintético,Niña,47.34,1,Danilo Noguera,Transferencia,2023-10-24,0,47.34,30
+205,Skyros,Mocasín,Marrón,Plástico,Femenino,70.9,3,Priscila Ricart,Tarjeta,2023-06-02,5,202.06,37
+206,Skyros,Mocasín,Rojo,Cuero,Masculino,19.15,3,Juan Manuel Jimenez Cabeza,Divisas,2023-06-08,0,57.45,40
+207,Calzados Rossi,Deportivo,Negro,Lona,Masculino,65.34,2,Porfirio Menéndez-Valencia,Tarjeta,2023-10-27,0,130.68,41
+208,Apolo,Mocasín,Rojo,Textil,Niño,18.74,3,Raquel Sanjuan Valbuena,Transferencia,2023-07-30,0,56.22,26
+209,Feveco,Deportivo,Marrón,Sintético,Femenino,65.59,1,Nayara Barros Fuente,Transferencia,2023-04-03,0,65.59,42
+210,Converse,Mocasín,Verde,Sintético,Masculino,29.3,2,Rico Cerdán,Pago móvil,2023-01-09,0,58.6,35
+211,Loblan,Casual,Beige,Plástico,Masculino,71.4,1,Piedad de Cal,Pago móvil,2023-03-16,15,60.69,41
+212,Skyros,Mocasín,Marrón,Gamuza,Masculino,76.08,1,Nieves Méndez Cortés,Efectivo,2023-12-07,0,76.08,41
+213,Converse,Bota,Marrón,Textil,Niño,20.42,2,Carlota Villanueva Vilanova,Transferencia,2023-04-20,0,40.84,30
+214,Sifrinitas,Formal,Rojo,Textil,Niño,42.39,3,Erasmo Sanchez Llobet,Pago móvil,2023-02-06,0,127.17,27
+215,Apolo,Bota,Verde,Sintético,Niña,78.67,1,Luis Olmedo Cantón,Tarjeta,2023-08-07,10,70.8,26
+216,Calzados Inglese,Formal,Gris,Cuero,Femenino,43.84,1,Daniel Padilla Fortuny,Divisas,2023-07-12,20,35.07,35
+217,Loblan,Sandalia,Azul,Gamuza,Niña,70.45,1,Felipe Román Campos Andrade,Tarjeta,2023-06-09,0,70.45,28
+218,Yston,Bota,Blanco,Textil,Masculino,51.21,1,Consuelo Agudo Agustí,Divisas,2023-01-18,5,48.65,35
+219,Sifrinitas,Sandalia,Blanco,Sintético,Femenino,36.27,2,Abel Plana Escribano,Pago móvil,2023-09-15,0,72.54,35
+220,Sifrinitas,Deportivo,Beige,Textil,Femenino,30.0,2,Emma Ledesma Berrocal,Efectivo,2023-07-11,0,60.0,39
+221,Feveco,Deportivo,Beige,Gamuza,Masculino,24.23,1,Conrado del Salcedo,Tarjeta,2023-02-15,0,24.23,40
+222,Apolo,Casual,Blanco,Gamuza,Niña,63.33,3,Santos Lastra,Tarjeta,2023-02-21,0,189.99,23
+223,Calzados Rossi,Mocasín,Azul,Lona,Niño,37.06,1,Maricela Martirio Quirós Ruiz,Tarjeta,2023-03-15,0,37.06,25
+224,Yston,Bota,Blanco,Plástico,Niña,45.79,3,Aurora Ramón Solana,Divisas,2023-10-02,0,137.37,28
+225,Skyros,Sandalia,Gris,Plástico,Masculino,44.46,1,Eloísa Bastida Burgos,Pago móvil,2023-11-10,0,44.46,41
+226,Converse,Formal,Azul,Sintético,Masculino,50.41,3,Mirta Colom Santiago,Tarjeta,2023-01-28,15,128.55,44
+227,Feveco,Deportivo,Beige,Gamuza,Femenino,70.59,1,Jafet Pedraza-Gilabert,Tarjeta,2023-05-20,0,70.59,39
+228,Skyros,Mocasín,Negro,Lona,Masculino,78.65,3,Ciriaco Osuna-Flores,Efectivo,2023-06-04,0,235.95,35
+229,Feveco,Deportivo,Rojo,Lona,Masculino,38.53,1,Pastora Juan Aguirre,Efectivo,2023-01-12,0,38.53,34
+230,Feveco,Formal,Gris,Textil,Femenino,67.93,1,Hortensia Robledo Portillo,Pago móvil,2023-03-03,5,64.53,38
+231,Feveco,Mocasín,Gris,Textil,Femenino,63.52,3,Hugo Sosimo Castells Alegre,Pago móvil,2023-02-09,0,190.56,42
+232,Apolo,Mocasín,Verde,Lona,Masculino,50.15,2,Jennifer Rius Fabregat,Transferencia,2023-08-02,0,100.3,41
+233,Calzados Rossi,Sandalia,Beige,Textil,Niño,76.92,3,Angelita Piña,Efectivo,2023-06-12,20,184.61,33
+234,Feveco,Sandalia,Beige,Gamuza,Unisex,24.03,2,Clara Páez-Moya,Transferencia,2023-11-13,0,48.06,38
+235,RS,Bota,Marrón,Cuero,Unisex,17.65,1,Roberta Abril Silva Muñoz,Divisas,2023-07-04,0,17.65,38
+236,Calzados Inglese,Bota,Gris,Gamuza,Niño,69.78,3,Noé Escolano Riquelme,Transferencia,2023-06-21,10,188.41,31
+237,Skyros,Zapatilla,Marrón,Lona,Masculino,40.74,3,Adalberto Gil Aller,Tarjeta,2023-10-29,0,122.22,36
+238,Loblan,Zapatilla,Marrón,Lona,Niño,69.29,3,Régulo Saavedra Pont,Transferencia,2023-04-05,0,207.87,33
+239,Muttsion,Casual,Rojo,Gamuza,Niña,72.52,2,Anselmo Bautista Torrecilla Porcel,Pago móvil,2023-09-30,0,145.04,32
+240,Converse,Deportivo,Marrón,Textil,Femenino,14.37,2,Tadeo Montesinos,Divisas,2023-10-30,0,28.74,43
+241,Yston,Bota,Azul,Textil,Masculino,71.84,1,Inocencio Bou Rosado,Tarjeta,2023-12-29,0,71.84,34
+242,Jump,Sandalia,Blanco,Plástico,Niña,41.38,2,Mariano Medina Ricart,Transferencia,2023-09-20,0,82.76,25
+243,Calzados Rossi,Formal,Negro,Lona,Masculino,45.73,2,Ariel Oller Gordillo,Divisas,2023-03-20,0,91.46,34
+244,Loblan,Sandalia,Beige,Sintético,Masculino,53.86,1,Fortunato del Carballo,Divisas,2023-12-12,0,53.86,43
+245,Sifrinitas,Deportivo,Azul,Plástico,Masculino,74.85,3,Olga Lasa Acuña,Tarjeta,2023-08-21,5,213.32,40
+246,RS,Zapatilla,Negro,Textil,Femenino,11.34,3,Rufina Aller Rodrigo,Transferencia,2023-11-10,0,34.02,35
+247,Jump,Sandalia,Gris,Gamuza,Masculino,43.38,1,Plinio del Lozano,Divisas,2023-02-02,0,43.38,37
+248,Muttsion,Casual,Gris,Textil,Masculino,58.14,3,Roberta del Rosselló,Divisas,2023-02-20,10,156.98,38
+249,Loblan,Deportivo,Gris,Gamuza,Femenino,60.59,2,Marcelo del Tapia,Efectivo,2023-10-05,0,121.18,40
+250,Jump,Zapatilla,Azul,Plástico,Femenino,58.48,1,Andrés Guerra,Divisas,2023-08-31,0,58.48,35
+251,Loblan,Formal,Azul,Lona,Niña,19.41,1,María Teresa Oliva Castell,Efectivo,2023-11-19,15,16.5,23
+252,Converse,Zapatilla,Beige,Textil,Femenino,30.96,1,Caridad Villanueva-Coca,Transferencia,2023-10-13,0,30.96,34
+253,RS,Mocasín,Blanco,Gamuza,Masculino,35.11,3,Bienvenida Alvarado Aragonés,Transferencia,2023-02-11,0,105.33,40
+254,Muttsion,Casual,Verde,Lona,Femenino,66.31,1,Andrés Felipe Pomares,Transferencia,2023-10-07,5,62.99,42
+255,Sifrinitas,Deportivo,Marrón,Sintético,Unisex,29.51,1,Sosimo Alberto Santiago,Pago móvil,2023-07-13,0,29.51,38
+256,Feveco,Formal,Gris,Gamuza,Femenino,24.75,1,Eufemia Quintanilla Colom,Transferencia,2023-01-16,0,24.75,38
+257,Skyros,Casual,Rojo,Plástico,Masculino,77.02,3,Feliciana Bernat Torrecilla,Divisas,2023-01-13,0,231.06,37
+258,Sifrinitas,Zapatilla,Blanco,Sintético,Niña,10.62,2,Juan Carlos Bautista-Peña,Tarjeta,2023-02-07,0,21.24,26
+259,Feveco,Casual,Rojo,Sintético,Niña,79.85,1,Ciriaco Carranza-Morcillo,Efectivo,2023-05-17,0,79.85,28
+260,Apolo,Deportivo,Beige,Cuero,Femenino,57.38,2,Quique Carrasco-Garcia,Pago móvil,2023-06-27,15,97.55,38
+261,Apolo,Bota,Beige,Textil,Niña,67.99,3,Raúl Viña Miró,Transferencia,2023-11-04,0,203.97,28
+262,Apolo,Casual,Beige,Gamuza,Masculino,30.62,3,Leonor Pont Cuadrado,Transferencia,2023-10-26,10,82.67,42
+263,Calzados Rossi,Mocasín,Negro,Sintético,Masculino,11.0,3,Martin Valentín Martín,Tarjeta,2023-07-27,0,33.0,38
+264,Calzados Inglese,Casual,Rojo,Cuero,Femenino,61.65,3,Lalo del Ferrán,Tarjeta,2023-11-10,10,166.46,43
+265,Yston,Zapatilla,Blanco,Plástico,Femenino,68.39,2,Rosario Vila,Pago móvil,2023-07-01,5,129.94,42
+266,Yston,Zapatilla,Verde,Lona,Niño,61.83,1,Ignacio Mario Amorós Ochoa,Efectivo,2023-11-28,0,61.83,22
+267,Apolo,Formal,Blanco,Gamuza,Masculino,20.0,3,Wilfredo Bermejo Santana,Transferencia,2023-04-09,0,60.0,42
+268,Skyros,Zapatilla,Azul,Sintético,Masculino,62.74,3,Pepe Núñez,Pago móvil,2023-04-10,0,188.22,44
+269,Muttsion,Sandalia,Azul,Textil,Niño,63.82,2,León Cañas Alemán,Divisas,2023-02-01,0,127.64,34
+270,RS,Deportivo,Gris,Cuero,Niña,56.1,2,Tristán Izaguirre Iborra,Divisas,2023-12-17,10,100.98,27
+271,Muttsion,Deportivo,Verde,Sintético,Femenino,63.63,3,Enrique Casares-Poza,Pago móvil,2023-01-19,10,171.8,39
+272,RS,Bota,Azul,Textil,Niño,69.21,1,Plácido Carballo Vilalta,Transferencia,2023-11-07,0,69.21,28
+273,Muttsion,Bota,Beige,Sintético,Femenino,52.95,1,Begoña de Peral,Pago móvil,2023-02-19,0,52.95,35
+274,Calzados Inglese,Deportivo,Blanco,Gamuza,Niña,16.2,3,Alba Sarabia Uría,Transferencia,2023-09-28,0,48.6,31
+275,Calzados Rossi,Mocasín,Rojo,Gamuza,Niño,44.13,2,Adán Tormo Cases,Tarjeta,2023-01-17,0,88.26,26
+276,Calzados Rossi,Bota,Beige,Gamuza,Unisex,15.44,3,Hernando Bravo Andres,Pago móvil,2023-07-23,0,46.32,44
+277,Apolo,Formal,Negro,Plástico,Femenino,38.53,3,Régulo Echevarría,Transferencia,2023-09-13,5,109.81,34
+278,Feveco,Zapatilla,Azul,Plástico,Femenino,38.5,2,Jenaro Bruno Caro Marin,Pago móvil,2023-06-17,20,61.6,35
+279,Jump,Deportivo,Beige,Cuero,Femenino,14.62,3,Maricela del Borrás,Pago móvil,2023-09-11,0,43.86,40
+280,Calzados Rossi,Bota,Beige,Gamuza,Femenino,34.42,3,Marita de Gimenez,Transferencia,2023-10-06,0,103.26,34
+281,Calzados Rossi,Deportivo,Negro,Textil,Femenino,17.77,3,Maristela Pagès Escrivá,Transferencia,2023-11-09,0,53.31,34
+282,Sifrinitas,Sandalia,Marrón,Sintético,Unisex,66.58,2,Demetrio Gonzalez,Efectivo,2023-11-06,0,133.16,34
+283,Sifrinitas,Casual,Blanco,Lona,Femenino,76.34,1,César Llanos Miralles,Pago móvil,2023-01-10,0,76.34,41
+284,Feveco,Zapatilla,Rojo,Textil,Femenino,15.06,1,Luisina Garrido,Divisas,2023-12-05,0,15.06,37
+285,Converse,Deportivo,Gris,Plástico,Niña,76.86,2,Daniela Bernad-Tirado,Pago móvil,2023-08-22,10,138.35,24
+286,Jump,Casual,Marrón,Plástico,Masculino,46.58,1,María Luisa Castillo Carvajal,Pago móvil,2023-06-29,0,46.58,35
+287,Skyros,Bota,Azul,Textil,Niña,30.97,3,Sigfrido Cuéllar-Castell,Transferencia,2023-02-02,0,92.91,33
+288,Sifrinitas,Casual,Beige,Plástico,Femenino,15.38,1,Cándida de Álvarez,Pago móvil,2023-01-25,15,13.07,44
+289,Skyros,Zapatilla,Verde,Gamuza,Masculino,45.04,3,Perlita Viana Navarrete,Pago móvil,2023-02-26,5,128.36,44
+290,Loblan,Deportivo,Negro,Cuero,Femenino,65.62,1,Zaira Palomo Pacheco,Divisas,2023-02-06,0,65.62,34
+291,Sifrinitas,Sandalia,Negro,Sintético,Femenino,59.5,2,Fabiola Salamanca Frías,Transferencia,2023-06-20,0,119.0,43
+292,Calzados Inglese,Mocasín,Verde,Cuero,Unisex,13.52,1,Juan Francisco Santiago Dalmau,Pago móvil,2023-08-22,0,13.52,42
+293,Converse,Bota,Blanco,Sintético,Femenino,15.1,1,Juan Pablo Cepeda Lerma,Tarjeta,2023-07-11,5,14.34,40
+294,Jump,Deportivo,Marrón,Sintético,Masculino,38.2,1,Édgar Murillo Orozco,Efectivo,2023-11-30,5,36.29,37
+295,Feveco,Zapatilla,Gris,Cuero,Masculino,30.67,2,Concha de Rivera,Divisas,2023-11-18,0,61.34,39
+296,Loblan,Bota,Blanco,Textil,Masculino,26.27,1,Isidoro Sandoval Delgado,Pago móvil,2023-08-17,0,26.27,35
+297,Jump,Formal,Verde,Sintético,Niña,29.67,2,Ruy Girón Segarra,Tarjeta,2023-02-17,10,53.41,29
+298,Apolo,Casual,Beige,Cuero,Femenino,66.24,3,Ligia Castañeda Baena,Pago móvil,2023-03-20,0,198.72,35
+299,Calzados Inglese,Mocasín,Verde,Sintético,Niño,75.05,1,Macaria del Ferrán,Pago móvil,2023-10-01,0,75.05,28
+300,Jump,Zapatilla,Blanco,Lona,Unisex,38.36,2,Ximena Valderrama,Transferencia,2023-12-22,0,76.72,41
+301,Calzados Inglese,Formal,Rojo,Textil,Masculino,73.43,2,Isaac del Duque,Transferencia,2023-03-13,0,146.86,41
+302,Calzados Inglese,Deportivo,Negro,Gamuza,Unisex,32.5,1,Marta Chamorro Nogués,Transferencia,2023-04-09,0,32.5,34
+303,Skyros,Sandalia,Negro,Sintético,Femenino,43.35,3,Guadalupe Porras Segovia,Tarjeta,2023-07-10,10,117.05,41
+304,Muttsion,Bota,Azul,Lona,Masculino,25.82,2,Etelvina Infante Mariño,Pago móvil,2023-07-12,15,43.89,35
+305,Apolo,Casual,Azul,Gamuza,Femenino,54.83,1,Graciano Cordero Franco,Efectivo,2023-12-10,0,54.83,39
+306,Loblan,Bota,Verde,Gamuza,Niño,78.53,3,Renato Fuster Roig,Divisas,2023-08-23,0,235.59,34
+307,Jump,Mocasín,Gris,Sintético,Unisex,52.24,2,Edu Cueto Jódar,Transferencia,2023-02-04,0,104.48,38
+308,RS,Deportivo,Beige,Cuero,Femenino,35.05,2,Raimundo Alvarado Garrido,Transferencia,2023-08-21,0,70.1,44
+309,Loblan,Bota,Rojo,Sintético,Niño,55.35,3,Trinidad Nacio Gonzalez Díez,Pago móvil,2023-04-21,0,166.05,34
+310,Muttsion,Casual,Marrón,Lona,Femenino,18.6,3,Angélica Carbonell Arranz,Pago móvil,2023-05-27,15,47.43,43
+311,Loblan,Deportivo,Blanco,Gamuza,Masculino,72.21,1,Berta Barberá Pastor,Tarjeta,2023-10-09,0,72.21,34
+312,Calzados Rossi,Bota,Gris,Sintético,Masculino,45.22,1,Marina del Corbacho,Tarjeta,2023-10-27,0,45.22,35
+313,RS,Sandalia,Beige,Cuero,Unisex,41.45,2,Yago Vizcaíno-Bernal,Transferencia,2023-10-12,0,82.9,40
+314,Muttsion,Zapatilla,Azul,Sintético,Niño,51.01,3,Concha Álamo Priego,Pago móvil,2023-12-17,10,137.73,26
+315,Skyros,Deportivo,Verde,Textil,Masculino,53.73,3,Raimundo Batlle Acevedo,Efectivo,2023-03-03,5,153.13,36
+316,Jump,Zapatilla,Blanco,Cuero,Femenino,15.02,3,Natividad Hierro Ferreras,Divisas,2023-12-09,15,38.3,43
+317,Converse,Deportivo,Azul,Lona,Femenino,57.78,2,Teo Castellanos Casanova,Pago móvil,2023-04-25,5,109.78,35
+318,Yston,Sandalia,Verde,Gamuza,Femenino,26.94,3,Edgardo Pou Solera,Pago móvil,2023-10-21,0,80.82,43
+319,Muttsion,Zapatilla,Blanco,Sintético,Femenino,59.98,3,Vasco Pujadas-Burgos,Tarjeta,2023-08-23,0,179.94,37
+320,Feveco,Formal,Marrón,Cuero,Niña,67.58,2,Marita Arcelia Capdevila Mata,Divisas,2023-12-10,0,135.16,30
+321,Jump,Casual,Beige,Textil,Masculino,66.28,1,Yolanda Martinez Pinilla,Transferencia,2023-09-23,0,66.28,40
+322,Apolo,Formal,Blanco,Cuero,Masculino,48.68,1,Sol Ponce-Arnau,Pago móvil,2023-08-13,0,48.68,41
+323,Muttsion,Bota,Rojo,Plástico,Femenino,46.41,2,Griselda Castañeda Esteban,Transferencia,2023-10-05,0,92.82,35
+324,Calzados Rossi,Sandalia,Gris,Textil,Niña,20.0,3,Roberto del Rojas,Pago móvil,2023-01-28,0,60.0,26
+325,Yston,Formal,Negro,Lona,Niño,64.27,2,Alondra Espinosa Cabezas,Transferencia,2023-08-14,0,128.54,33
+326,Calzados Rossi,Deportivo,Rojo,Gamuza,Femenino,29.0,1,Primitivo Yuste Salvador,Divisas,2023-10-05,0,29.0,41
+327,Yston,Bota,Rojo,Lona,Niño,44.77,1,Samanta Peralta Montserrat,Tarjeta,2023-03-26,5,42.53,31
+328,Apolo,Bota,Gris,Sintético,Masculino,29.9,2,Edelmiro Céspedes,Divisas,2023-05-07,0,59.8,39
+329,Converse,Formal,Negro,Cuero,Femenino,19.37,2,Yéssica Saez-Poza,Efectivo,2023-01-08,0,38.74,43
+330,Feveco,Formal,Rojo,Plástico,Masculino,54.07,1,Seve Font Revilla,Tarjeta,2023-10-06,0,54.07,34
+331,Jump,Sandalia,Blanco,Textil,Masculino,13.8,2,Eloy Salgado Nebot,Divisas,2023-05-22,0,27.6,37
+332,Skyros,Casual,Blanco,Textil,Femenino,62.41,1,Iris Silva Bermudez,Efectivo,2023-10-21,0,62.41,34
+333,Calzados Rossi,Formal,Blanco,Cuero,Unisex,32.23,2,Belen Patiño,Pago móvil,2023-08-18,0,64.46,37
+334,Calzados Rossi,Mocasín,Negro,Plástico,Niña,10.01,2,Brunilda Girón-Pozuelo,Pago móvil,2023-05-22,0,20.02,33
+335,Calzados Inglese,Formal,Rojo,Cuero,Niño,45.78,2,Amarilis Mosquera Rico,Transferencia,2023-07-09,0,91.56,30
+336,Yston,Zapatilla,Verde,Sintético,Masculino,13.28,1,Félix Aguirre Pintor,Tarjeta,2023-10-18,0,13.28,38
+337,Sifrinitas,Deportivo,Negro,Lona,Masculino,29.33,2,Mario Pi Guitart,Pago móvil,2023-04-23,0,58.66,43
+338,Converse,Mocasín,Blanco,Textil,Niño,59.49,1,Fernanda Fernandez,Tarjeta,2023-02-13,0,59.49,31
+339,Jump,Mocasín,Gris,Sintético,Masculino,14.39,1,Dafne de Montes,Pago móvil,2023-01-21,0,14.39,44
+340,Yston,Zapatilla,Rojo,Lona,Femenino,68.75,2,Custodia Bru Saldaña,Transferencia,2023-03-02,0,137.5,43
+341,Calzados Inglese,Zapatilla,Rojo,Sintético,Masculino,10.27,2,Cristina Goñi Cisneros,Divisas,2023-03-19,0,20.54,36
+342,Loblan,Bota,Azul,Plástico,Niña,27.28,1,Manu Machado,Transferencia,2023-05-12,0,27.28,28
+343,Yston,Casual,Azul,Textil,Masculino,61.86,1,María Teresa Morena Gilabert Madrid,Efectivo,2023-04-21,0,61.86,36
+344,Skyros,Deportivo,Marrón,Cuero,Femenino,32.14,3,Tecla Ochoa Manzano,Pago móvil,2023-04-13,0,96.42,39
+345,Jump,Sandalia,Verde,Cuero,Niña,17.13,1,Paola Español Seguí,Efectivo,2023-02-04,0,17.13,26
+346,Converse,Mocasín,Verde,Lona,Femenino,35.22,3,Florentina Haydée Jiménez Ferrándiz,Efectivo,2023-10-27,10,95.09,41
+347,Calzados Inglese,Sandalia,Beige,Gamuza,Femenino,28.93,3,Pascual del Bastida,Tarjeta,2023-08-15,5,82.45,44
+348,Loblan,Formal,Verde,Plástico,Femenino,68.99,3,Fabián de Torralba,Pago móvil,2023-01-18,5,196.62,39
+349,RS,Formal,Azul,Lona,Masculino,31.93,2,Adelia Vallejo Pintor,Efectivo,2023-01-21,0,63.86,41
+350,Calzados Inglese,Sandalia,Negro,Gamuza,Niña,65.23,2,Jorge de Villaverde,Divisas,2023-06-28,0,130.46,32
+351,RS,Formal,Verde,Sintético,Masculino,72.43,1,Mar Bolaños García,Efectivo,2023-11-12,0,72.43,39
+352,Jump,Casual,Azul,Plástico,Femenino,40.37,3,Trinidad Sanz,Divisas,2023-03-05,0,121.11,34
+353,Calzados Rossi,Zapatilla,Marrón,Sintético,Niña,73.7,2,Seve Primitivo Godoy Lucas,Tarjeta,2023-09-09,0,147.4,32
+354,Calzados Inglese,Formal,Rojo,Textil,Niña,36.41,2,Curro Carvajal Criado,Efectivo,2023-01-10,0,72.82,33
+355,Feveco,Bota,Verde,Plástico,Niña,77.49,2,Alex Nico Soriano Bernad,Transferencia,2023-08-02,15,131.73,30
+356,RS,Formal,Marrón,Gamuza,Femenino,16.25,2,Delfina Alejandra Jáuregui Cerdán,Tarjeta,2023-11-18,0,32.5,36
+357,Skyros,Deportivo,Rojo,Textil,Masculino,58.09,2,Pía de Cervera,Divisas,2023-10-26,5,110.37,39
+358,Feveco,Casual,Gris,Cuero,Unisex,44.57,3,Cecilio Augusto Antúnez Diez,Tarjeta,2023-08-07,0,133.71,42
+359,Muttsion,Deportivo,Gris,Gamuza,Niña,37.14,3,Felisa Calzada Gimeno,Efectivo,2023-03-06,0,111.42,32
+360,Muttsion,Deportivo,Rojo,Lona,Femenino,54.29,3,Camilo Hurtado Quevedo,Pago móvil,2023-04-14,0,162.87,36
+361,Loblan,Bota,Verde,Cuero,Femenino,59.27,3,Elena Moliner Ballesteros,Pago móvil,2023-02-22,0,177.81,39
+362,Converse,Casual,Beige,Cuero,Masculino,10.31,1,Adrián Gallardo Calderón,Divisas,2023-04-14,10,9.28,44
+363,Calzados Rossi,Casual,Azul,Lona,Unisex,21.69,3,Nicanor Gimeno Calvo,Divisas,2023-05-26,0,65.07,37
+364,Jump,Casual,Negro,Plástico,Masculino,59.91,2,Dolores de Arnal,Pago móvil,2023-05-30,0,119.82,36
+365,Calzados Inglese,Casual,Negro,Cuero,Masculino,56.65,3,Néstor Amaro Lluch Asensio,Divisas,2023-10-26,10,152.95,42
+366,Sifrinitas,Casual,Blanco,Gamuza,Femenino,77.62,1,Angelita Gimenez Cantero,Tarjeta,2023-11-11,0,77.62,43
+367,Skyros,Bota,Rojo,Textil,Niño,63.27,2,Isidora Olivares Priego,Transferencia,2023-09-04,20,101.23,23
+368,RS,Formal,Negro,Cuero,Niña,76.55,3,Eustaquio Guardiola Sevillano,Transferencia,2023-11-19,0,229.65,24
+369,Jump,Deportivo,Verde,Gamuza,Masculino,59.18,3,Lorena Zabala León,Tarjeta,2023-05-01,0,177.54,35
+370,Feveco,Casual,Beige,Sintético,Niña,30.86,3,Amor Amado Hervás Clavero,Transferencia,2023-08-03,0,92.58,29
+371,Apolo,Mocasín,Rojo,Gamuza,Unisex,17.38,2,Humberto Hipólito Galván Melero,Efectivo,2023-04-02,0,34.76,43
+372,Muttsion,Formal,Beige,Textil,Femenino,64.73,2,Toribio Jove Priego,Tarjeta,2023-01-20,0,129.46,34
+373,Apolo,Formal,Verde,Gamuza,Masculino,55.09,1,Dani Paniagua Ferrán,Divisas,2023-07-28,0,55.09,39
+374,Skyros,Deportivo,Negro,Lona,Femenino,13.37,2,Manu de Jimenez,Tarjeta,2023-06-11,10,24.07,40
+375,Sifrinitas,Bota,Negro,Textil,Niña,35.2,2,Milagros Arana Bayón,Pago móvil,2023-06-26,5,66.88,34
+376,Calzados Inglese,Sandalia,Blanco,Plástico,Masculino,76.98,3,Guadalupe Vergara Ros,Divisas,2023-05-26,0,230.94,41
+377,Loblan,Sandalia,Negro,Sintético,Niño,45.03,2,Brígida Rocamora Pont,Pago móvil,2023-08-31,0,90.06,30
+378,Sifrinitas,Formal,Rojo,Lona,Niña,40.29,3,Marcelo Bello Abril,Divisas,2023-01-19,0,120.87,25
+379,Skyros,Zapatilla,Verde,Plástico,Masculino,42.04,3,Marita Jover Amaya,Transferencia,2023-04-26,0,126.12,41
+380,Sifrinitas,Zapatilla,Gris,Gamuza,Unisex,24.62,2,Filomena Moll-Ferrándiz,Tarjeta,2023-06-01,0,49.24,40
+381,Skyros,Deportivo,Verde,Textil,Masculino,35.81,1,Cintia Pol Mármol,Efectivo,2023-09-04,0,35.81,36
+382,Skyros,Sandalia,Rojo,Sintético,Femenino,35.89,1,Jordi Ródenas Echevarría,Divisas,2023-12-19,0,35.89,42
+383,Yston,Formal,Rojo,Lona,Niño,13.66,2,Mario Heras-Sebastián,Divisas,2023-11-11,0,27.32,31
+384,RS,Bota,Blanco,Plástico,Niña,63.73,1,Lucas Puente Castañeda,Pago móvil,2023-01-26,20,50.98,28
+385,Apolo,Sandalia,Blanco,Plástico,Masculino,39.16,3,Emiliana Pascual Roda,Transferencia,2023-06-03,0,117.48,35
+386,Muttsion,Formal,Negro,Sintético,Niña,67.55,3,Corona Soraya Toledo Armengol,Pago móvil,2023-07-02,0,202.65,23
+387,Yston,Formal,Marrón,Gamuza,Unisex,69.52,2,Odalys Pascual Cerro,Pago móvil,2023-05-19,0,139.04,37
+388,Calzados Inglese,Casual,Verde,Sintético,Femenino,24.84,1,Emigdio Montserrat Armengol,Transferencia,2023-09-24,0,24.84,38
+389,Yston,Bota,Verde,Plástico,Unisex,56.01,1,Benigno Morán-Arrieta,Efectivo,2023-01-13,0,56.01,39
+390,Calzados Rossi,Casual,Marrón,Cuero,Femenino,43.06,3,Nazaret Carnero Menendez,Pago móvil,2023-04-25,0,129.18,38
+391,Calzados Rossi,Deportivo,Blanco,Lona,Femenino,71.61,2,Adelina Pavón Salazar,Pago móvil,2023-10-30,5,136.06,34
+392,Muttsion,Casual,Negro,Sintético,Femenino,25.1,1,Maximino Almansa Tormo,Divisas,2023-11-13,0,25.1,36
+393,Sifrinitas,Mocasín,Marrón,Plástico,Niña,57.45,2,Héctor Arcos Gilabert,Transferencia,2023-08-26,0,114.9,24
+394,RS,Casual,Negro,Gamuza,Niño,52.54,1,Aarón Baños Sarmiento,Tarjeta,2023-11-30,20,42.03,24
+395,Muttsion,Mocasín,Negro,Plástico,Femenino,30.67,3,Clementina Oller Cantón,Efectivo,2023-08-23,5,87.41,38
+396,Skyros,Sandalia,Negro,Gamuza,Masculino,19.56,3,Pedro del Monreal,Efectivo,2023-02-15,0,58.68,38
+397,Feveco,Zapatilla,Azul,Sintético,Niño,55.61,2,Albina Maricela Mayo Santamaría,Transferencia,2023-02-07,0,111.22,31
+398,RS,Formal,Rojo,Gamuza,Femenino,61.7,3,Ovidio Monreal Andres,Divisas,2023-03-28,0,185.1,39
+399,Converse,Mocasín,Negro,Textil,Niña,32.09,1,Donato Valentín Ayuso,Divisas,2023-03-13,0,32.09,34
+400,Apolo,Bota,Azul,Textil,Niña,55.14,3,Lilia Menéndez Baeza,Transferencia,2023-10-09,0,165.42,33
+401,RS,Casual,Blanco,Textil,Masculino,37.66,2,Edelmiro Baena,Divisas,2023-08-08,0,75.32,34
+402,Skyros,Mocasín,Marrón,Cuero,Unisex,59.92,2,Eleuterio Villalobos Tejero,Efectivo,2023-03-08,0,119.84,37
+403,Skyros,Bota,Rojo,Sintético,Masculino,23.95,2,Jeremías Ricart Malo,Efectivo,2023-06-19,0,47.9,43
+404,Loblan,Zapatilla,Gris,Plástico,Unisex,72.32,1,Emigdio Mariño Arana,Tarjeta,2023-05-04,0,72.32,44
+405,Muttsion,Zapatilla,Marrón,Plástico,Niño,30.12,1,Roldán Serrano Fuster,Transferencia,2023-10-26,0,30.12,32
+406,Skyros,Casual,Rojo,Cuero,Niño,35.75,1,Ana Sofía de Seco,Pago móvil,2023-06-13,0,35.75,28
+407,Calzados Rossi,Deportivo,Gris,Gamuza,Femenino,14.07,1,Paca Ayllón Franco,Pago móvil,2023-04-17,0,14.07,44
+408,Calzados Inglese,Casual,Marrón,Cuero,Niña,17.81,1,Dimas Gaya Figueras,Tarjeta,2023-01-25,0,17.81,28
+409,Feveco,Sandalia,Rojo,Gamuza,Masculino,46.11,3,Severiano Nicodemo Ayllón Castro,Tarjeta,2023-12-02,0,138.33,40
+410,Apolo,Mocasín,Marrón,Gamuza,Femenino,28.73,1,Ale Ureña Cardona,Divisas,2023-02-20,0,28.73,38
+411,Muttsion,Formal,Marrón,Lona,Femenino,68.48,1,Agustina Ortuño Pagès,Tarjeta,2023-12-23,0,68.48,40
+412,Jump,Deportivo,Gris,Plástico,Masculino,11.03,3,Lalo Tena Manzano,Tarjeta,2023-12-07,0,33.09,35
+413,Calzados Rossi,Casual,Marrón,Textil,Masculino,36.54,1,Clotilde Tomas Isern,Pago móvil,2023-01-01,0,36.54,37
+414,Converse,Bota,Marrón,Gamuza,Niño,33.61,2,Elisa Vélez Sobrino,Divisas,2023-04-01,5,63.86,28
+415,Sifrinitas,Deportivo,Gris,Lona,Niña,11.35,1,Cristian Oller Ibarra,Tarjeta,2023-03-26,5,10.78,33
+416,Skyros,Mocasín,Blanco,Plástico,Femenino,18.71,1,Nacio Ayllón Bonet,Tarjeta,2023-10-14,0,18.71,35
+417,Jump,Deportivo,Negro,Textil,Niño,38.95,2,Encarnita Albero Sanz,Divisas,2023-06-09,0,77.9,33
+418,Skyros,Mocasín,Verde,Gamuza,Femenino,44.5,2,Reyes Bustamante,Transferencia,2023-11-04,0,89.0,35
+419,RS,Casual,Beige,Gamuza,Niña,38.3,2,Jesusa Batlle Esparza,Divisas,2023-05-19,0,76.6,22
+420,Calzados Rossi,Mocasín,Azul,Cuero,Niña,47.17,2,Santiago de León,Pago móvil,2023-06-11,0,94.34,24
+421,RS,Deportivo,Beige,Cuero,Masculino,51.66,1,Noa Noemí Macías Sanchez,Transferencia,2023-08-08,20,41.33,39
+422,Loblan,Bota,Beige,Plástico,Niño,10.69,2,Javiera Solís-Alonso,Efectivo,2023-03-17,0,21.38,32
+423,RS,Zapatilla,Rojo,Textil,Masculino,42.49,2,Eusebia Teruel Real,Divisas,2023-02-19,0,84.98,42
+424,Loblan,Deportivo,Negro,Gamuza,Masculino,77.44,3,Fausto Sainz Bernal,Pago móvil,2023-10-30,10,209.09,37
+425,Converse,Mocasín,Rojo,Plástico,Niña,46.33,2,Georgina Rico Borrás,Transferencia,2023-01-25,15,78.76,22
+426,Loblan,Zapatilla,Negro,Plástico,Masculino,57.43,2,Marisol Zamorano Segovia,Divisas,2023-11-04,5,109.12,39
+427,Jump,Mocasín,Gris,Sintético,Masculino,31.83,3,Severino Torralba Cueto,Tarjeta,2023-11-02,0,95.49,38
+428,Skyros,Bota,Gris,Cuero,Masculino,64.18,3,Yago Ferreras,Divisas,2023-06-16,0,192.54,43
+429,Sifrinitas,Mocasín,Verde,Textil,Niña,64.1,1,Guillermo del Madrigal,Efectivo,2023-07-25,0,64.1,23
+430,Apolo,Casual,Negro,Gamuza,Masculino,46.49,3,Xavier Carro-Diez,Divisas,2023-09-17,0,139.47,36
+431,RS,Formal,Marrón,Plástico,Femenino,78.32,1,Hipólito Reynaldo Solsona Iglesias,Transferencia,2023-05-16,0,78.32,35
+432,Apolo,Deportivo,Blanco,Gamuza,Niño,18.79,3,Cándida Jordán Ripoll,Transferencia,2023-07-20,0,56.37,27
+433,Calzados Rossi,Formal,Verde,Sintético,Niña,11.19,3,Eleuterio Busquets Juan,Divisas,2023-03-31,15,28.53,34
+434,Loblan,Mocasín,Verde,Textil,Femenino,63.91,1,Obdulia del Pozuelo,Transferencia,2023-05-04,0,63.91,40
+435,Skyros,Bota,Marrón,Plástico,Femenino,66.5,3,Rómulo Coronado Busquets,Tarjeta,2023-12-19,0,199.5,40
+436,Feveco,Deportivo,Blanco,Gamuza,Femenino,18.41,1,Pepita del Mosquera,Divisas,2023-02-19,0,18.41,43
+437,Muttsion,Mocasín,Rojo,Cuero,Masculino,28.59,3,Segismundo Lledó,Tarjeta,2023-09-03,0,85.77,40
+438,Jump,Zapatilla,Blanco,Sintético,Masculino,11.23,2,Nilo Boix Vallejo,Tarjeta,2023-02-24,0,22.46,44
+439,Sifrinitas,Sandalia,Rojo,Textil,Niño,30.53,3,Anunciación de Carrasco,Pago móvil,2023-07-17,0,91.59,24
+440,Yston,Mocasín,Gris,Sintético,Niño,64.12,1,Jose Miguel Azorin Sierra,Divisas,2023-07-06,0,64.12,33
+441,Jump,Formal,Beige,Cuero,Niño,46.26,3,Pepe Aragón,Transferencia,2023-09-14,5,131.84,34
+442,Converse,Deportivo,Gris,Textil,Masculino,34.37,1,Juana Perelló Lopez,Tarjeta,2023-01-07,0,34.37,40
+443,Feveco,Formal,Gris,Sintético,Niña,36.02,1,Anunciación Alfonso,Pago móvil,2023-11-11,20,28.82,33
+444,Muttsion,Deportivo,Beige,Lona,Masculino,10.09,2,Ezequiel Farré-Aroca,Divisas,2023-04-03,0,20.18,42
+445,Feveco,Mocasín,Blanco,Cuero,Unisex,30.99,2,Leoncio Molina Villanueva,Divisas,2023-03-15,0,61.98,38
+446,RS,Casual,Verde,Cuero,Niño,55.25,1,Jorge Meléndez Quintanilla,Efectivo,2023-01-04,0,55.25,27
+447,Loblan,Zapatilla,Blanco,Cuero,Femenino,78.19,3,Emilio Gibert Coronado,Efectivo,2023-06-09,0,234.57,40
+448,Sifrinitas,Mocasín,Rojo,Lona,Niño,69.29,1,Leticia Mulet Verdú,Tarjeta,2023-05-16,0,69.29,31
+449,Calzados Inglese,Formal,Marrón,Lona,Masculino,11.65,1,Marianela Vera,Efectivo,2023-05-09,0,11.65,34
+450,Loblan,Sandalia,Rojo,Gamuza,Niño,72.9,3,Flavia Catalá Abascal,Tarjeta,2023-02-01,10,196.83,26
+451,Calzados Inglese,Sandalia,Marrón,Plástico,Femenino,64.82,3,Leopoldo Barceló Sanabria,Transferencia,2023-04-18,10,175.01,39
+452,Apolo,Bota,Gris,Sintético,Femenino,64.63,3,Sarita de Oller,Tarjeta,2023-07-04,0,193.89,40
+453,Muttsion,Deportivo,Beige,Gamuza,Niña,42.06,3,Encarnita Uriarte Plaza,Efectivo,2023-12-07,5,119.87,22
+454,Skyros,Formal,Gris,Sintético,Femenino,37.86,1,Augusto de Benet,Transferencia,2023-07-02,0,37.86,36
+455,Yston,Bota,Negro,Plástico,Niña,31.2,1,Adelardo José Luis Alsina Benavent,Efectivo,2023-12-11,5,29.64,28
+456,Calzados Rossi,Formal,Blanco,Lona,Femenino,14.6,2,Azahara Espejo Terrón,Tarjeta,2023-01-07,0,29.2,40
+457,Loblan,Deportivo,Marrón,Plástico,Niño,25.98,1,Vidal Aguirre Vaquero,Pago móvil,2023-05-25,0,25.98,28
+458,Sifrinitas,Mocasín,Rojo,Lona,Niño,27.26,3,Raúl Adelardo Palacios Tomás,Divisas,2023-10-08,10,73.6,32
+459,Converse,Mocasín,Beige,Plástico,Masculino,43.89,2,Concepción Iriarte-Codina,Efectivo,2023-08-11,0,87.78,42
+460,Converse,Sandalia,Marrón,Gamuza,Masculino,62.32,3,Ignacio Segarra Roldán,Tarjeta,2023-07-29,10,168.26,42
+461,Feveco,Mocasín,Rojo,Textil,Femenino,43.17,1,Gala Llamas Sacristán,Transferencia,2023-08-20,0,43.17,40
+462,Sifrinitas,Mocasín,Blanco,Gamuza,Femenino,14.05,2,Adelina Hurtado Goñi,Efectivo,2023-07-20,0,28.1,40
+463,Muttsion,Casual,Gris,Sintético,Masculino,77.05,3,Herminia Cloe Coronado Blanch,Efectivo,2023-10-03,0,231.15,36
+464,Apolo,Sandalia,Blanco,Gamuza,Niño,75.99,2,Jose Antonio del Miralles,Divisas,2023-10-10,0,151.98,28
+465,Calzados Inglese,Bota,Azul,Cuero,Unisex,64.96,2,Hugo Ochoa-Vázquez,Tarjeta,2023-01-11,0,129.92,35
+466,Feveco,Zapatilla,Negro,Sintético,Niña,79.39,1,Marcelo Morante-Mayol,Pago móvil,2023-02-16,10,71.45,26
+467,Converse,Casual,Azul,Plástico,Niña,48.11,3,Marina Monreal Caballero,Transferencia,2023-02-08,0,144.33,30
+468,Calzados Rossi,Bota,Beige,Sintético,Niña,77.39,2,Chema del Antúnez,Tarjeta,2023-05-27,10,139.3,28
+469,Calzados Rossi,Deportivo,Marrón,Textil,Niño,15.29,2,Severo Alcalá Avilés,Transferencia,2023-03-15,10,27.52,28
+470,Loblan,Casual,Beige,Lona,Femenino,35.6,3,Gil Carrillo Aparicio,Efectivo,2023-08-07,0,106.8,37
+471,Muttsion,Bota,Gris,Plástico,Unisex,25.78,2,Trini Barranco Blanco,Divisas,2023-02-16,10,46.4,39
+472,Skyros,Deportivo,Rojo,Sintético,Niño,23.71,2,Matías Pazos Llopis,Divisas,2023-04-23,20,37.94,33
+473,Converse,Sandalia,Blanco,Plástico,Masculino,19.86,2,Ciríaco Alfonso Murcia,Pago móvil,2023-06-27,5,37.73,43
+474,Muttsion,Zapatilla,Azul,Plástico,Femenino,53.57,3,Máximo de Terrón,Divisas,2023-02-27,5,152.67,40
+475,Apolo,Deportivo,Verde,Plástico,Masculino,64.69,3,Lucas Barral-Rosales,Efectivo,2023-06-14,20,155.26,43
+476,Calzados Inglese,Mocasín,Azul,Lona,Masculino,50.48,3,Ildefonso Moraleda Fuentes,Pago móvil,2023-01-16,0,151.44,35
+477,Sifrinitas,Formal,Gris,Gamuza,Niña,20.29,3,Blas del Duque,Tarjeta,2023-03-18,0,60.87,24
+478,Converse,Deportivo,Azul,Plástico,Masculino,66.78,1,Aitor Manzanares Seco,Divisas,2023-03-11,10,60.1,38
+479,Calzados Rossi,Deportivo,Gris,Cuero,Masculino,54.52,2,Anselma Echevarría Guijarro,Pago móvil,2023-11-02,0,109.04,34
+480,Sifrinitas,Zapatilla,Verde,Textil,Unisex,37.17,3,Baltasar Cabrera Pla,Efectivo,2023-04-21,0,111.51,34
+481,Sifrinitas,Formal,Beige,Lona,Femenino,57.19,2,Natanael Leopoldo Jurado Cortina,Transferencia,2023-12-02,0,114.38,43
+482,Sifrinitas,Mocasín,Blanco,Sintético,Masculino,28.19,2,Ruperta Dueñas,Transferencia,2023-05-19,5,53.56,36
+483,Calzados Rossi,Bota,Marrón,Lona,Femenino,34.16,1,Arturo Pazos,Efectivo,2023-05-01,0,34.16,43
+484,Apolo,Bota,Rojo,Sintético,Niño,74.22,3,Úrsula Escrivá Torrens,Efectivo,2023-12-22,15,189.26,32
+485,Jump,Deportivo,Marrón,Lona,Unisex,30.34,3,Irma Olivia Valle Bas,Transferencia,2023-12-08,0,91.02,41
+486,RS,Formal,Beige,Sintético,Femenino,42.9,2,Octavia Villalobos Soto,Pago móvil,2023-12-10,0,85.8,42
+487,Calzados Inglese,Formal,Rojo,Plástico,Niña,72.31,3,Desiderio Coca Prada,Transferencia,2023-10-10,0,216.93,34
+488,Jump,Mocasín,Azul,Gamuza,Femenino,59.54,2,Aurelia Guillen Tello,Efectivo,2023-04-05,0,119.08,34
+489,Calzados Inglese,Zapatilla,Verde,Sintético,Unisex,14.35,2,Anabel Ocaña Casals,Divisas,2023-10-17,0,28.7,44
+490,Feveco,Sandalia,Verde,Sintético,Niña,20.31,1,Lara Ferrándiz Fuster,Tarjeta,2023-09-30,15,17.26,31
+491,Muttsion,Bota,Negro,Cuero,Niña,10.55,1,Josefa Inés Galán Prat,Divisas,2023-05-26,10,9.5,29
+492,Muttsion,Zapatilla,Beige,Sintético,Femenino,54.16,1,Haydée Marta Franco Uriarte,Divisas,2023-06-03,0,54.16,35
+493,Yston,Casual,Beige,Cuero,Unisex,41.34,2,Manu Marín Cánovas,Efectivo,2023-07-11,0,82.68,37
+494,Muttsion,Bota,Blanco,Textil,Niño,19.4,3,Albina Hierro,Transferencia,2023-05-28,10,52.38,22
+495,Calzados Rossi,Zapatilla,Marrón,Plástico,Masculino,77.06,1,Bernardino Blanco Niño,Pago móvil,2023-05-25,15,65.5,40
+496,Skyros,Bota,Beige,Cuero,Niña,47.08,3,Jordana Mayol Daza,Divisas,2023-03-19,0,141.24,25
+497,Loblan,Sandalia,Beige,Gamuza,Femenino,26.93,1,Humberto Valls Agustín,Transferencia,2023-06-21,0,26.93,40
+498,Yston,Casual,Azul,Plástico,Niña,45.04,1,Estela Carreño Fonseca,Pago móvil,2023-03-01,0,45.04,27
+499,Loblan,Sandalia,Azul,Cuero,Femenino,57.57,2,Beatriz Juana Camino Guillén,Divisas,2023-03-27,10,103.63,43
+500,Calzados Inglese,Mocasín,Rojo,Plástico,Niño,15.34,1,Mayte Rincón Solano,Pago móvil,2023-09-24,0,15.34,33
+501,Loblan,Casual,Gris,Plástico,Masculino,29.23,1,Oriana Cisneros,Transferencia,2023-07-21,0,29.23,44
+502,Loblan,Deportivo,Gris,Plástico,Femenino,66.49,2,Haroldo Mir,Tarjeta,2023-01-07,0,132.98,43
+503,Yston,Zapatilla,Negro,Textil,Femenino,42.18,3,Osvaldo Galindo-Cabo,Transferencia,2023-07-22,10,113.89,42
+504,Feveco,Casual,Gris,Gamuza,Femenino,48.26,1,Samu Mariño Nuñez,Efectivo,2023-09-21,0,48.26,38
+505,Sifrinitas,Mocasín,Blanco,Lona,Masculino,40.3,2,Margarita Méndez-Parra,Pago móvil,2023-12-24,0,80.6,44
+506,Muttsion,Mocasín,Negro,Lona,Masculino,13.07,1,Remedios del Domingo,Tarjeta,2023-08-08,0,13.07,38
+507,Muttsion,Sandalia,Rojo,Cuero,Masculino,21.6,2,Amando Rodriguez Sarabia,Pago móvil,2023-08-20,0,43.2,39
+508,Calzados Rossi,Bota,Azul,Plástico,Femenino,41.19,3,Hermenegildo Alejo Simó Torres,Pago móvil,2023-12-20,0,123.57,42
+509,Yston,Casual,Gris,Cuero,Femenino,24.64,3,Marisela Abril Peña,Divisas,2023-05-22,10,66.53,41
+510,Calzados Rossi,Zapatilla,Marrón,Textil,Niño,13.5,2,Gilberto Gabaldón Andres,Efectivo,2023-04-06,10,24.3,32
+511,Skyros,Casual,Azul,Textil,Femenino,69.06,2,Bautista Vilanova Peñalver,Pago móvil,2023-07-10,10,124.31,41
+512,Skyros,Formal,Verde,Sintético,Unisex,78.68,2,Gervasio Bermejo Aliaga,Transferencia,2023-04-18,10,141.62,34
+513,Calzados Rossi,Bota,Blanco,Textil,Niña,65.52,3,Bárbara Cruz Bernal,Transferencia,2023-03-27,0,196.56,27
+514,Yston,Zapatilla,Azul,Sintético,Niño,69.76,1,Catalina Benavides-Cervera,Divisas,2023-12-27,10,62.78,27
+515,Calzados Rossi,Zapatilla,Blanco,Gamuza,Masculino,26.94,3,Jafet Dueñas Cárdenas,Efectivo,2023-08-09,0,80.82,38
+516,Muttsion,Deportivo,Blanco,Cuero,Niña,77.24,2,María Teresa Saturnina Ferrando Ocaña,Efectivo,2023-04-16,0,154.48,32
+517,Jump,Sandalia,Blanco,Gamuza,Femenino,23.78,2,Calista del Fuente,Transferencia,2023-07-08,20,38.05,35
+518,RS,Deportivo,Rojo,Textil,Femenino,76.6,3,Aristides Bonilla Barceló,Tarjeta,2023-06-22,0,229.8,42
+519,Loblan,Zapatilla,Blanco,Gamuza,Femenino,79.64,2,Teodora Somoza Galindo,Divisas,2023-04-08,0,159.28,41
+520,RS,Bota,Blanco,Gamuza,Niña,59.82,3,Patricio Figueras Alarcón,Divisas,2023-12-24,0,179.46,28
+521,Yston,Casual,Verde,Gamuza,Femenino,78.68,2,Pepita Amores Castejón,Transferencia,2023-01-27,0,157.36,37
+522,Apolo,Casual,Marrón,Textil,Masculino,49.87,1,Andrés Coll Armengol,Transferencia,2023-07-23,0,49.87,34
+523,RS,Bota,Negro,Plástico,Unisex,28.17,1,Dionisio Fernández Calzada,Tarjeta,2023-01-22,10,25.35,34
+524,Skyros,Zapatilla,Beige,Gamuza,Niña,40.59,2,Anita Barrios Sainz,Tarjeta,2023-11-11,20,64.94,29
+525,Calzados Inglese,Mocasín,Verde,Sintético,Masculino,51.55,3,Florencia del Patiño,Efectivo,2023-10-29,0,154.65,35
+526,Loblan,Casual,Negro,Textil,Femenino,15.12,1,Luis Posada Crespi,Divisas,2023-09-30,0,15.12,41
+527,Sifrinitas,Mocasín,Blanco,Gamuza,Niña,53.56,3,Serafina Hervia Cabello,Divisas,2023-07-13,0,160.68,22
+528,Apolo,Casual,Marrón,Plástico,Masculino,78.68,2,Óscar Aguirre Montes,Transferencia,2023-08-22,10,141.62,44
+529,Yston,Casual,Azul,Textil,Femenino,23.31,3,Juan Manuel Martín Castrillo Feijoo,Efectivo,2023-10-19,0,69.93,38
+530,Loblan,Sandalia,Marrón,Lona,Femenino,65.48,1,Seve Nieto Rosado,Divisas,2023-01-22,0,65.48,38
+531,RS,Sandalia,Verde,Plástico,Unisex,73.55,3,María Castell Bayo,Efectivo,2023-12-21,0,220.65,35
+532,Skyros,Formal,Blanco,Sintético,Niño,76.06,3,Olga Posada Acuña,Efectivo,2023-02-09,0,228.18,24
+533,Feveco,Deportivo,Marrón,Gamuza,Niña,77.21,2,Sofía Angulo,Transferencia,2023-06-04,0,154.42,22
+534,Jump,Bota,Gris,Lona,Niña,46.5,2,Andrea del Artigas,Efectivo,2023-10-22,10,83.7,25
+535,Sifrinitas,Bota,Marrón,Lona,Masculino,78.41,2,Clemente Cózar Alcalde,Tarjeta,2023-05-25,0,156.82,34
+536,Apolo,Bota,Blanco,Textil,Masculino,63.01,1,Ciríaco Vallejo,Tarjeta,2023-06-22,0,63.01,35
+537,Jump,Formal,Rojo,Lona,Masculino,21.32,1,Malena Petrona Velázquez Cardona,Pago móvil,2023-01-12,0,21.32,43
+538,Loblan,Sandalia,Gris,Sintético,Masculino,43.38,2,Juan Bautista de Rovira,Transferencia,2023-05-22,5,82.42,37
+539,Skyros,Zapatilla,Marrón,Sintético,Masculino,60.28,2,Humberto Escudero,Pago móvil,2023-06-23,0,120.56,38
+540,Skyros,Mocasín,Beige,Cuero,Niña,27.31,1,Florencia América Requena Hurtado,Tarjeta,2023-03-21,0,27.31,23
+541,RS,Mocasín,Beige,Sintético,Niño,54.84,1,Maxi Gimenez Campoy,Pago móvil,2023-05-18,0,54.84,30
+542,Muttsion,Zapatilla,Marrón,Plástico,Niña,56.66,1,María Fernanda Nerea Rincón Jordá,Transferencia,2023-02-17,0,56.66,23
+543,RS,Formal,Rojo,Lona,Masculino,21.39,1,Modesto Daniel Jordán Cruz,Transferencia,2023-06-30,10,19.25,34
+544,Muttsion,Zapatilla,Azul,Sintético,Niño,49.56,2,Mercedes de Mesa,Efectivo,2023-06-13,0,99.12,24
+545,Muttsion,Bota,Blanco,Textil,Niño,64.01,1,Nacio del Arranz,Divisas,2023-03-27,20,51.21,28
+546,Sifrinitas,Deportivo,Beige,Cuero,Masculino,44.92,2,Ana Sofía Parejo Bayona,Efectivo,2023-08-09,0,89.84,44
+547,RS,Casual,Azul,Lona,Niño,10.85,3,Eutimio Llabrés Borrás,Transferencia,2023-03-20,5,30.92,30
+548,Converse,Mocasín,Marrón,Cuero,Femenino,10.63,3,Gabriela Álvaro Escribano,Tarjeta,2023-12-25,0,31.89,41
+549,Feveco,Sandalia,Verde,Lona,Masculino,34.99,1,Saturnina Sanabria Galán,Tarjeta,2023-10-14,5,33.24,41
+550,Apolo,Sandalia,Azul,Textil,Femenino,74.83,3,Loida Pérez Nogués,Efectivo,2023-10-16,0,224.49,44
+196,Loblan,Zapatilla,Blanco,Gamuza,Niña,37.66,1,Ariel Francisco Jose Mur Fábregas,Tarjeta,2023-01-27,0,37.66,33
+80,Calzados Inglese,Mocasín,Rojo,Sintético,Unisex,54.53,2,Rodolfo Neira Isern,Tarjeta,2023-08-19,0,109.06,35
+481,Sifrinitas,Formal,Beige,Lona,Femenino,57.19,2,Natanael Leopoldo Jurado Cortina,Transferencia,2023-12-02,0,114.38,43
+110,Converse,Deportivo,Azul,Gamuza,Unisex,67.57,3,Iris Piña Verdú,Transferencia,2023-12-01,0,202.71,40
+523,RS,Bota,Negro,Plástico,Unisex,28.17,1,Dionisio Fernández Calzada,Tarjeta,2023-01-22,10,25.35,34
