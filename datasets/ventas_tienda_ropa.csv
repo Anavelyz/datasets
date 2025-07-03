@@ -1,0 +1,556 @@
+﻿ID_Venta,Marca,Tipo_Ropa,Color,Talla,Material,Género,Precio (USD),Cantidad,Cliente,Método_Pago,Fecha_Venta,Descuento (%),Calidad,Total_Venta (USD)
+1,Nike,Vestido,Negro,M,Seda,Femenino,119.31,1,Javier María Ugarte Aller,Pago móvil,2023-08-17,0,Baja,119.31
+2,Stradivarius,Falda,Morado,S,Lino,Masculino,106.6,2,Lucho Llabrés Salinas,Pago móvil,2023-10-13,0,Media,213.2
+3,H&M,Jogger,Gris,S,Mezclilla,Unisex,77.82,1,Ainara Iborra Girona,Transferencia,2023-05-24,0,Media,77.82
+4,Levi's,Suéter,Gris,M,Poliéster,Femenino,71.77,3,Leonor Talavera Bru,Efectivo,2023-03-07,0,Alta,215.31
+5,Nike,Jeans,Beige,XL,Seda,Femenino,77.51,1,Montserrat Lastra Alarcón,Transferencia,2023-01-11,0,Baja,77.51
+6,Tommy Hilfiger,Vestido,Beige,S,Poliéster,Masculino,30.55,3,Tere Roman Piña,Divisas,2023-10-24,0,Premium,91.65
+7,Pull&Bear,Short,Amarillo,L,Sintético,Masculino,52.26,1,Trini Jove-Amor,Transferencia,2023-10-28,0,Alta,52.26
+8,Nike,Jeans,Morado,S,Lana,Masculino,12.42,2,Amado Alcolea,Tarjeta,2023-08-08,20,Media,19.87
+9,H&M,Mono,Morado,XL,Seda,Femenino,61.26,1,Florencio Zapata,Transferencia,2023-01-24,0,Baja,61.26
+10,Levi's,Pantalón corto,Blanco,XL,Mezclilla,Femenino,68.82,1,Casemiro de Cuesta,Pago móvil,2023-07-13,5,Media,65.38
+11,Stradivarius,Suéter,Beige,L,algodon,Masculino,33.51,1,Trinidad Mesa Agustí,Divisas,2023-07-04,0,Media,33.51
+12,H&M,Short,Morado,S,Poliester,Femenino,115.97,2,Sara Gallego,Tarjeta,2023-07-01,0,Media,231.94
+13,H&M,Short,Amarillo,XL,mezclilla,Masculino,109.86,1,Jose Luis Carrasco-Pastor,Transferencia,2023-08-26,0,Media,109.86
+14,Pull&Bear,Vestido,Marrón,M,LANA,Femenino,88.88,2,Celestina Pedrero Blanca,Divisas,2023-01-17,0,Media,177.76
+15,Adidas,Chaqueta,Rojo,XS,seda,Masculino,67.74,3,Ruperto Millán Berrocal,Divisas,2023-11-20,15,Media,172.74
+16,Levi's,Falda,Rojo,XS,Sintetico,Femenino,105.44,1,Venceslás Arco-Samper,Tarjeta,2023-11-25,0,Premium,105.44
+17,Bershka,Suéter,Marrón,XS,Lino,Masculino,22.63,2,José Antonio Nazaret Santiago Paz,Transferencia,2023-05-28,0,Alta,45.26
+18,H&M,Chaqueta,Verde,S,Seda,Femenino,96.54,2,Godofredo Mariscal Laguna,Divisas,2023-03-20,0,Premium,193.08
+19,Adidas,Vestido,Amarillo,L,Algodón,Masculino,21.98,1,Félix Estrada Gomila,Divisas,2023-02-24,0,Media,21.98
+20,Bershka,Mono,Morado,XL,Sintético,Femenino,96.95,3,Bernabé Santamaría Piñeiro,Efectivo,2023-09-21,0,Media,290.85
+21,Levi's,Blusa,azul,M,Mezclilla,Masculino,38.89,2,Mónica Barba-Seco,Divisas,2023-08-14,10,Media,70.0
+22,Zara,Camisa,NEGRO,M,Lana,Masculino,106.23,1,Leocadia Rosales Mena,Efectivo,2023-12-04,10,Baja,95.61
+23,Tommy Hilfiger,Camisa,gris,S,Algodón,Masculino,113.73,3,Wálter Niño Amigó,Transferencia,2023-04-16,0,Baja,341.19
+24,Adidas,Falda,beige,XS,Mezclilla,Masculino,24.67,2,Vicente Gracia,Transferencia,2023-11-14,0,Alta,49.34
+25,Mango,Mono,blanco,S,Poliéster,Masculino,59.82,2,José Manuel Royo Jove,Transferencia,2023-11-04,0,Alta,119.64
+26,Zara,Falda,Rojo ,L,Mezclilla,Masculino,117.87,3,María Cristina Neira Echeverría,Pago móvil,2023-08-05,0,Media,353.61
+27,Tommy Hilfiger,Suéter,Morado,L,Lana,Femenino,62.14,3,Carmelo Quero Peinado,Transferencia,2023-03-02,0,Media,186.42
+28,Pull&Bear,Suéter,Beige,XL,Mezclilla,Masculino,104.72,1,Modesto Plana Fajardo,Divisas,2023-04-11,0,Media,104.72
+29,Nike,Pantalón de vestir,Beige,XL,Lino,Femenino,73.94,1,Néstor Castelló Gras,Tarjeta,2023-11-01,0,Baja,73.94
+30,Stradivarius,Chaqueta,Blanco,L,Lana,Femenino,50.04,2,Julie Sevillano Leal,Efectivo,2023-08-27,0,Media,100.08
+31,Mango,Camisa,Marrón,L,Seda,Femenino,40.01,3,Moreno Aliaga Rivas,efectivo,2023-06-18,0,Media,120.03
+32,Pull&Bear,Short,Blanco,L,Poliéster,Femenino,30.76,3,Valerio Salgado Quiroga,tarjeta,2023-12-30,0,Baja,92.28
+33,Levi's,Chaqueta,Marrón,S,Lino,Masculino,93.32,3,Pepito Bonet Bermudez,Pago Movil,2023-08-23,0,Premium,279.96
+34,Pull&Bear,Jogger,Amarillo,L,Seda,Masculino,51.29,2,Jimena Segarra Garrido,Transferncia,2023-01-24,0,Media,102.58
+35,Nike,Suéter,Azul,M,Mezclilla,Masculino,65.26,3,Jenaro del Pou,Efectivo,2023-08-11,10,Alta,176.2
+36,Levi's,Pantalón corto,Amarillo,XS,Lana,Masculino,63.14,3,María Jesús María Pilar Sanz Barrera,Tarjeta,2023-08-30,0,Media,189.42
+37,Mango,Mono,Rosado,L,Poliéster,Femenino,72.66,2,Daniel Maldonado-Cañellas,Efectivo,2023-02-04,0,Media,145.32
+38,Nike,Jeans,Rojo,XS,Lino,Femenino,104.94,1,Marciano de Duran,Transferencia,2023-09-29,0,Media,104.94
+39,Bershka,Falda,Gris,S,Seda,Femenino,117.84,1,Amor Boix Vizcaíno,Pago móvil,2023-12-15,10,Baja,106.06
+40,Stradivarius,Suéter,Marrón,XS,Seda,Femenino,53.65,2,Marcos Esteve Sastre,Divisas,2023-10-23,0,Media,107.3
+41,Mango,Chaqueta,Rosado,S,Poliéster,Femenino,0.0,3,Piedad Tomas,Divisas,2023-06-17,0,Alta,302.04
+42,Bershka,Pantalón corto,Rojo,M,Sintético,Femenino,200.0,2,Nicolás del Falcó,Pago móvil,2023-02-17,0,Alta,187.26
+43,Tommy Hilfiger,Chaqueta,Morado,S,Mezclilla,Masculino,300.0,1,Ema Bermejo,Transferencia,2023-01-13,5,Media,68.63
+44,Mango,Jeans,Verde,S,Poliéster,Masculino,-5.0,1,Celso Federico Español Escrivá,Pago móvil,2023-02-21,20,Media,92.06
+45,Tommy Hilfiger,Pantalón corto,Azul,XL,Seda,Unisex,1.0,2,Haydée María Jesús Berenguer Camps,Transferencia,2023-07-15,0,Premium,60.9
+46,Levi's,Jogger,Blanco,L,Algodón,Unisex,500.0,2,Rocío del Corbacho,Tarjeta,2023-04-05,10,Baja,36.43
+47,Bershka,Jeans,Blanco,L,Lino,Masculino,103.64,1,Florina Benavent Palomares,Pago móvil,2023-10-11,15,Media,88.09
+48,Stradivarius,Vestido,Amarillo,M,Poliéster,Femenino,57.18,2,Ignacia Lledó-Capdevila,Transferencia,2023-05-03,15,Media,97.21
+49,Nike,Leggins,Beige,M,Sintético,Masculino,102.86,1,Bienvenida Gomis Cifuentes,Pago móvil,2023-01-18,0,Alta,102.86
+50,H&M,Vestido,Rojo,L,Seda,Masculino,108.03,2,Dalila Larrañaga,Pago móvil,2023-11-12,0,Premium,216.06
+51,Pull&Bear,Camisa,Verde,XL,Mezclilla,Femenino,15.0,2,Carlota Torrents Frutos,Transferencia,2023-12-22,0,Media,30.0
+52,Zara,Chaqueta,Rosado,L,Seda,Femenino,106.95,2,Rodolfo Galvez Pinedo,Transferencia,2023-10-08,5,Alta,203.2
+53,Stradivarius,Suéter,Azul,XL,Mezclilla,Masculino,58.21,1,José Pellicer Gonzalez,Efectivo,2023-12-02,0,Alta,58.21
+54,Bershka,Suéter,Rojo,M,Poliéster,Femenino,65.17,2,Reina Clavero Vergara,Pago móvil,2023-10-29,0,Media,130.34
+55,H&M,Suéter,Verde,XS,Mezclilla,Masculino,78.18,1,Guadalupe Delgado Ribera,Divisas,2023-09-06,0,Media,78.18
+56,Stradivarius,Leggins,Gris,M,Lana,Masculino,111.75,1,Socorro María José Martin Cases,Pago móvil,2023-07-31,5,Media,106.16
+57,Bershka,Vestido,Marrón,M,Lana,Femenino,10.14,2,Marc Marí Pedrero,Pago móvil,2023-04-22,10,Premium,18.25
+58,Adidas,Leggins,Blanco,S,Lana,Femenino,61.41,2,Guadalupe Fabiola Mercader Cruz,Transferencia,2023-07-28,0,Media,122.82
+59,Adidas,Blusa,Rosado,S,Sintético,Femenino,85.02,1,Marisol Mayo Vilanova,Pago móvil,2023-09-15,10,Alta,76.52
+60,Tommy Hilfiger,Chaqueta,Blanco,S,Sintético,Femenino,88.94,1,Vasco Calleja Campos,Pago móvil,2023-09-10,0,Media,88.94
+61,Stradivarius,Leggins,Rosado,S,Algodón,Femenino,85.56,3,Brunilda Oliveras-Pavón,Divisas,2023-11-09,10,Alta,231.01
+62,Adidas,Short,Amarillo,XL,Sintético,Masculino,23.06,1,Danilo Navarro Cifuentes,Transferencia,2023-04-27,0,Media,23.06
+63,Bershka,Falda,Beige,L,Poliéster,Femenino,41.53,3,Osvaldo Novoa Villaverde,Pago móvil,2023-07-28,0,Media,124.59
+64,Tommy Hilfiger,Falda,Rosado,XS,Seda,Masculino,48.18,3,Evita Salas,Tarjeta,2023-11-09,15,Alta,122.86
+65,Bershka,Short,Blanco,M,Seda,Femenino,98.1,3,Socorro Ponce Ramis,Efectivo,2023-10-26,0,Alta,294.3
+66,Tommy Hilfiger,Pantalón corto,Amarillo,XL,Algodón,Unisex,39.22,2,Luz Ruano Revilla,Divisas,2023-04-02,10,Alta,70.6
+67,Stradivarius,Pantalón de vestir,Rosado,XS,Sintético,Femenino,31.6,2,María Carmen Ibáñez Rios,Pago móvil,2023-03-11,0,Baja,63.2
+68,H&M,Pantalón corto,Gris,XL,Mezclilla,Femenino,115.23,1,Darío Botella Benitez,Tarjeta,2023-03-27,0,Alta,115.23
+69,Nike,Jeans,Beige,XL,Algodón,Masculino,8.99,3,Nazaret Valverde,Pago móvil,2023-08-29,0,Media,26.97
+70,Mango,Jeans,Rosado,M,Mezclilla,Masculino,119.76,2,Modesta Alemán,Pago móvil,2023-07-12,0,Media,239.52
+71,H&M,Leggins,Amarillo,L,Mezclilla,Femenino,83.8,2,Amelia Rivera,Transferencia,2023-02-03,0,Media,167.6
+72,Levi's,Vestido,Morado,S,Lino,Masculino,100.79,2,Jose Miguel Arnau Torralba,Transferencia,2023-09-07,0,Media,201.58
+73,Bershka,Vestido,Rojo,L,Seda,Femenino,41.0,2,César Seguí,Transferencia,2023-08-07,0,Media,82.0
+74,Levi's,Falda,Negro,M,Lana,Femenino,9.6,2,Joel del Trillo,Tarjeta,2023-08-19,0,Premium,19.2
+75,H&M,Mono,Verde,M,Sintético,Femenino,90.64,3,Agustina Jódar Piñol,Pago móvil,2023-01-22,20,Media,217.54
+76,Tommy Hilfiger,Pantalón corto,Negro,M,Mezclilla,Femenino,101.42,3,Espiridión Carnero-Osorio,Efectivo,2023-08-25,20,Alta,243.41
+77,Mango,Blusa,Morado,XS,Lino,Masculino,90.93,3,Eugenio Aramburu Pujadas,Divisas,2023-03-05,0,Media,272.79
+78,Mango,Chaqueta,Negro,L,Seda,Femenino,24.0,3,Tomás Jonatan Cordero Alvarado,Transferencia,2023-03-06,5,Media,68.4
+79,Zara,Camisa,Morado,L,Lana,Femenino,92.38,1,Áurea Vendrell,Transferencia,2023-03-18,0,Media,92.38
+80,Mango,Jogger,Azul,XL,Mezclilla,Masculino,94.12,3,Baltasar Aguado-Santana,Pago móvil,2023-03-04,0,Premium,282.36
+81,Nike,Vestido,Morado,XL,Mezclilla,Masculino,81.76,2,Concepción Aguilera Pedraza,Pago móvil,2023-01-02,10,Alta,147.17
+82,Mango,Chaqueta,Morado,XL,Algodón,Femenino,93.8,3,Agustín Jover Iñiguez,Tarjeta,2023-10-26,15,Premium,239.19
+83,H&M,Jogger,Morado,M,Algodón,Masculino,102.74,1,Paulino del Escrivá,Tarjeta,2023-02-10,0,Premium,102.74
+84,Zara,Chaqueta,Gris,L,Seda,Femenino,76.72,2,Aureliano Bayo Español,Transferencia,2023-06-18,5,Media,145.77
+85,H&M,Leggins,Rojo,M,Lana,Masculino,17.92,3,Pelayo Roig Bonet,Pago móvil,2023-06-19,0,Media,53.76
+86,H&M,Jogger,Marrón,XS,Mezclilla,Masculino,62.61,3,Olalla del Alcalá,Efectivo,2023-11-26,20,Alta,150.26
+87,Pull&Bear,Camisa,Rosado,XL,Seda,Unisex,16.7,3,Celestino Manu Ortega Hurtado,Divisas,2023-01-24,0,Media,50.1
+88,Zara,Chaqueta,Verde,M,Seda,Femenino,53.64,2,Agapito Darío Cuervo Valero,Pago móvil,2023-06-18,0,Media,107.28
+89,H&M,Short,Beige,M,Poliéster,Femenino,53.6,2,Luís Muro Melero,Pago móvil,2023-02-09,0,Media,107.2
+90,Pull&Bear,Camisa,Rojo,XS,Sintético,Femenino,15.39,1,José Luis Martin Vilaplana,Tarjeta,2023-11-30,0,Media,15.39
+91,Pull&Bear,Jogger,Blanco,S,Algodón,Femenino,47.07,2,Geraldo Noé Larrea Torrent,Divisas,2023-08-25,0,Media,94.14
+92,Zara,Camisa,Marrón,L,Lana,Femenino,20.43,2,Horacio Azcona Valero,Transferencia,2023-06-23,15,Media,34.73
+93,Levi's,Chaqueta,Azul,S,Mezclilla,Unisex,98.52,3,Natividad Perales Agustí,Pago móvil,2023-10-09,0,Media,295.56
+94,Tommy Hilfiger,Pantalón de vestir,Azul,XL,Seda,Femenino,114.14,2,Pilar Zaira Santamaria Barranco,Transferencia,2023-09-05,0,Media,228.28
+95,Nike,Chaqueta,Morado,M,Mezclilla,Femenino,16.1,3,Jordana Villalobos Gutierrez,Pago móvil,2023-11-05,0,Media,48.3
+96,Tommy Hilfiger,Chaqueta,Rojo,XS,Poliéster,Masculino,114.97,3,Urbano Linares Quirós,Transferencia,2023-02-11,0,Media,344.91
+97,Mango,Leggins,Amarillo,XS,Lana,Femenino,66.53,2,Eliseo Mármol Salas,Divisas,2023-07-05,0,Alta,133.06
+98,Nike,Pantalón corto,Negro,L,Seda,Masculino,41.55,1,Aristides Antón Chamorro,Tarjeta,2023-05-14,0,Baja,41.55
+99,Mango,Short,Blanco,S,Mezclilla,Femenino,16.61,1,Estefanía Vallés,Divisas,2023-11-30,0,Media,16.61
+100,H&M,Blusa,Azul,L,Algodón,Femenino,64.07,2,Dolores Español Domínguez,Efectivo,2023-01-16,0,Alta,128.14
+101,Bershka,Vestido,Verde,M,Sintético,Femenino,96.99,1,Noé Fabra Chaves,Tarjeta,2023-11-18,0,Media,96.99
+102,Zara,Jeans,Azul,L,Poliéster,Femenino,87.19,3,Vilma Cabañas Larrea,Divisas,2023-07-06,5,Media,248.49
+103,Nike,Pantalón corto,Beige,XS,Lana,Unisex,13.63,3,Agustina Galindo Barrena,Efectivo,2023-03-27,10,Alta,36.8
+104,Nike,Jeans,Rosado,XS,Poliéster,Femenino,16.17,2,Tere Cantón Plana,Pago móvil,2023-12-07,0,Media,32.34
+105,H&M,Leggins,Azul,XL,Algodón,Masculino,53.12,1,Jordán Moreno Castellanos,Pago móvil,2023-02-16,0,Alta,53.12
+106,Levi's,Short,Beige,XL,Lana,Femenino,41.07,1,Mariano Figueras Sales,Transferencia,2023-09-20,0,Alta,41.07
+107,Pull&Bear,Suéter,Rojo,M,Poliéster,Femenino,34.03,3,Flor Bayón Sáenz,Tarjeta,2023-09-24,0,Alta,102.09
+108,H&M,Chaqueta,Rojo,S,Lino,Masculino,39.47,2,Baldomero Carro Ferrer,Pago móvil,2023-10-02,0,Media,78.94
+109,Adidas,Suéter,Marrón,L,Algodón,Femenino,97.99,1,Tere de Pomares,Tarjeta,2023-03-02,0,Media,97.99
+110,Pull&Bear,Suéter,Azul,M,Algodón,Masculino,112.07,2,Heriberto Perez Rius,Pago móvil,2023-08-27,0,Media,224.14
+111,Zara,Falda,Verde,XL,Algodón,Unisex,53.37,1,Moreno del Cepeda,Transferencia,2023-11-10,0,Media,53.37
+112,Pull&Bear,Suéter,Azul,L,Lino,Masculino,109.48,3,Oriana Rivas Abad,Divisas,2023-08-10,0,Media,328.44
+113,Levi's,Vestido,Verde,XL,Lino,Unisex,44.01,3,Édgar Acero-Elorza,Transferencia,2023-05-08,10,Media,118.83
+114,Pull&Bear,Pantalón de vestir,Gris,L,Mezclilla,Femenino,61.36,2,Dani Hector Quesada Cabeza,Efectivo,2023-07-23,20,Media,98.18
+115,Zara,Falda,Morado,S,Seda,Femenino,33.32,3,Natalio Barrera-Echeverría,Pago móvil,2023-06-28,0,Baja,99.96
+116,Levi's,Leggins,Marrón,M,Sintético,Femenino,79.73,1,Dan Santamaria Águila,Efectivo,2023-05-14,0,Media,79.73
+117,Tommy Hilfiger,Pantalón corto,Gris,L,Poliéster,Masculino,117.65,3,Bernardo Feliu Juan,Efectivo,2023-04-16,10,Media,317.66
+118,Nike,Pantalón de vestir,Azul,XS,Mezclilla,Unisex,75.59,2,María José Teodora Neira Sancho,Tarjeta,2023-11-28,15,Alta,128.5
+119,Nike,Camisa,Marrón,XS,Poliéster,Femenino,48.08,2,Juan Pablo Valentín-Cabeza,Pago móvil,2023-05-15,0,Baja,96.16
+120,Mango,Jogger,Gris,L,Sintético,Masculino,80.56,2,Hector Pedraza Sedano,Efectivo,2023-10-26,0,Media,161.12
+121,Tommy Hilfiger,Pantalón de vestir,Negro,L,Seda,Femenino,21.77,1,Amaro Haro Arjona,Divisas,2023-10-19,0,Premium,21.77
+122,Tommy Hilfiger,Blusa,Azul,L,Lino,Masculino,107.53,1,Ana Sofía Silva,Efectivo,2023-09-10,0,Media,107.53
+123,Pull&Bear,Suéter,Gris,XS,Seda,Femenino,64.35,1,Almudena Marcos Enríquez,Divisas,2023-07-23,0,Media,64.35
+124,Nike,Leggins,Negro,XS,Lino,Unisex,58.33,1,Juan José Duque Hernández,Tarjeta,2023-08-08,0,Baja,58.33
+125,Zara,Mono,Negro,L,Sintético,Masculino,73.62,1,Bernarda Carreño-Vila,Efectivo,2023-03-18,0,Alta,73.62
+126,Stradivarius,Jogger,Rojo,XL,Seda,Femenino,77.98,3,Tristán Rebollo Baeza,Transferencia,2023-08-11,0,Media,233.94
+127,Stradivarius,Jeans,Azul,XL,Mezclilla,Femenino,16.04,1,Coral Riera-Gaya,Tarjeta,2023-01-11,5,Media,15.24
+128,Levi's,Vestido,Negro,S,Lana,Femenino,84.45,1,Simón Arce Falcón,Divisas,2023-01-19,0,Media,84.45
+129,Nike,Jeans,Rojo,M,Mezclilla,Femenino,35.1,3,Cecilia Roman Villar,Tarjeta,2023-07-07,0,Alta,105.3
+130,Nike,Pantalón de vestir,Gris,XL,Poliéster,Femenino,87.96,1,Joaquina Ayllón Lara,Efectivo,2023-03-12,0,Media,87.96
+131,Stradivarius,Jeans,Beige,XS,Mezclilla,Masculino,100.12,2,Íñigo Domínguez-Vélez,Pago móvil,2023-09-17,0,Baja,200.24
+132,Nike,Blusa,Azul,XL,Sintético,Masculino,98.04,1,Heraclio Mata Hidalgo,Pago móvil,2023-05-03,20,Alta,78.43
+133,Pull&Bear,Leggins,Marrón,S,Algodón,Masculino,69.88,1,Delia Julián Fajardo,Divisas,2023-03-27,0,Media,69.88
+134,Adidas,Camisa,Verde,S,Poliéster,Femenino,66.26,2,Jordán Ordóñez Oliver,Divisas,2023-07-30,0,Alta,132.52
+135,Bershka,Pantalón corto,Verde,M,Seda,Masculino,24.0,2,Constanza Costa,Pago móvil,2023-12-12,5,Media,45.6
+136,Tommy Hilfiger,Vestido,Gris,XL,Poliéster,Masculino,94.84,2,Borja Vargas Arcos,Divisas,2023-05-19,0,Alta,189.68
+137,Mango,Blusa,Amarillo,XS,Lana,Femenino,38.4,2,Adoración de Murillo,Tarjeta,2023-02-19,15,Media,65.28
+138,Levi's,Blusa,Amarillo,XS,Lino,Masculino,63.63,1,Ignacio de Nogueira,Transferencia,2023-01-17,0,Alta,63.63
+139,Adidas,Jeans,Gris,L,Seda,Masculino,39.84,2,Pío Farré Matas,Transferencia,2023-11-04,0,Premium,79.68
+140,Stradivarius,Suéter,Negro,XS,Poliéster,Femenino,22.99,2,Cosme del Barberá,Tarjeta,2023-12-19,0,Media,45.98
+141,Tommy Hilfiger,Jeans,Azul,M,Seda,Femenino,78.51,3,Severo Ávila-Ramírez,Transferencia,2023-06-20,0,Media,235.53
+142,Nike,Pantalón de vestir,Verde,M,Seda,Femenino,14.09,2,Leonardo Adalberto Mas Alcalá,Efectivo,2023-12-24,10,Media,25.36
+143,Mango,Pantalón corto,Verde,XS,Seda,Femenino,91.85,2,Mamen Borja Saura,Tarjeta,2023-08-10,10,Media,165.33
+144,Nike,Falda,Negro,XS,Lino,Unisex,43.57,3,Teodoro Montaña Vallés,Divisas,2023-05-22,0,Media,130.71
+145,Zara,Jeans,Verde,L,Sintético,Masculino,8.02,3,Eugenio de Carrasco,Tarjeta,2023-05-29,0,Media,24.06
+146,Zara,Leggins,Marrón,XS,Mezclilla,Masculino,65.25,1,Eligia Peñalver Berenguer,Pago móvil,2023-06-26,10,Media,58.72
+147,Mango,Mono,Azul,L,Seda,Femenino,13.25,3,Eugenio Álamo Rico,Divisas,2023-10-13,15,Media,33.79
+148,Mango,Vestido,Rosado,L,Algodón,Femenino,38.93,1,Dan Pizarro Valle,Pago móvil,2023-11-11,0,Media,38.93
+149,Stradivarius,Chaqueta,Verde,XS,Sintético,Masculino,87.18,3,Anselma Guardia Llorens,Divisas,2023-04-22,0,Alta,261.54
+150,Mango,Jeans,Gris,S,Lana,Masculino,15.02,3,Ani Patiño Vigil,Transferencia,2023-03-07,0,Baja,45.06
+151,Pull&Bear,Leggins,Marrón,S,Lino,Femenino,102.01,1,Edelmiro Gascón Miralles,Tarjeta,2023-01-08,10,Baja,91.81
+152,Nike,Leggins,Verde,L,Poliéster,Masculino,8.43,3,Julián Villa,Efectivo,2023-07-22,0,Media,25.29
+153,Adidas,Vestido,Morado,XS,Lino,Masculino,35.64,1,Heriberto Porfirio Peinado Aguiló,Divisas,2023-12-24,0,Media,35.64
+154,H&M,Falda,Marrón,S,Poliéster,Femenino,90.98,3,Emiliana Higueras,Divisas,2023-11-16,5,Media,259.29
+155,Mango,Leggins,Rojo,XS,Lino,Femenino,43.42,2,Candela Álvarez Bermudez,Pago móvil,2023-08-15,0,Media,86.84
+156,Levi's,Mono,Rosado,XS,Poliéster,Masculino,19.41,3,Armida Yáñez Santiago,Transferencia,2023-10-26,0,Media,58.23
+157,Zara,Leggins,Blanco,XS,Seda,Femenino,48.35,1,Marta Suarez-Carbó,Pago móvil,2023-04-10,0,Alta,48.35
+158,Pull&Bear,Leggins,Gris,XL,Mezclilla,Femenino,38.28,3,Raimundo González Dueñas,Pago móvil,2023-08-28,0,Baja,114.84
+159,Tommy Hilfiger,Leggins,Gris,XS,Poliéster,Femenino,102.38,1,Roberta Borja Palomar,Transferencia,2023-10-25,0,Alta,102.38
+160,H&M,Camisa,Azul,XL,Poliéster,Femenino,43.09,1,Beatriz Ríos Morata,Efectivo,2023-03-04,0,Alta,43.09
+161,Adidas,Camisa,Marrón,L,Algodón,Masculino,96.36,2,Iker Luis Miguel Abellán Corral,Pago móvil,2023-12-09,0,Alta,192.72
+162,H&M,Falda,Negro,S,Poliéster,Masculino,107.89,2,Jorge Piquer-Asensio,Pago móvil,2023-06-09,0,Premium,215.78
+163,Mango,Jeans,Gris,S,Algodón,Femenino,56.59,1,Víctor Tormo Quintero,Divisas,2023-12-28,10,Baja,50.93
+164,Stradivarius,Leggins,Marrón,S,Lana,Masculino,109.91,3,Eulalia Uriarte Calvet,Transferencia,2023-07-13,5,Media,313.24
+165,Zara,Pantalón corto,Marrón,S,Seda,Masculino,50.26,1,Custodia del Lozano,Tarjeta,2023-11-04,0,Alta,50.26
+166,Zara,Jeans,Morado,S,Algodón,Masculino,115.98,1,Marta Salud Peralta Alvarado,Efectivo,2023-10-28,0,Media,115.98
+167,Tommy Hilfiger,Falda,Beige,S,Mezclilla,Femenino,18.0,3,Cristian Fiol Asenjo,Efectivo,2023-09-07,0,Media,54.0
+168,Stradivarius,Suéter,Beige,S,Sintético,Femenino,84.95,3,Candelas Valencia Agullo,Transferencia,2023-04-18,0,Alta,254.85
+169,Nike,Suéter,Blanco,L,Seda,Unisex,63.31,3,Elvira Daza Cerdá,Divisas,2023-02-04,0,Alta,189.93
+170,Bershka,Short,Rojo,XS,Algodón,Masculino,51.42,3,Natalia Imelda Miralles Espejo,Divisas,2023-11-01,0,Premium,154.26
+171,Pull&Bear,Jeans,Blanco,M,Seda,Femenino,78.86,1,Lino Torrent Aliaga,Transferencia,2023-04-09,0,Premium,78.86
+172,Zara,Jeans,Verde,XL,Seda,Femenino,86.83,1,Juan Manuel Alegria Villaverde,Divisas,2023-01-31,0,Alta,86.83
+173,Levi's,Jogger,Negro,M,Seda,Femenino,8.49,2,Alejandro Barco,Efectivo,2023-05-16,0,Media,16.98
+174,Zara,Pantalón de vestir,Verde,M,Lana,Unisex,26.7,1,Fausto Ruano Arias,Efectivo,2023-07-03,0,Alta,26.7
+175,H&M,Chaqueta,Amarillo,XS,Mezclilla,Masculino,87.86,3,Juan Antonio Ferreras Aguirre,Tarjeta,2023-05-01,0,Baja,263.58
+176,Zara,Jogger,Verde,XS,Lino,Femenino,82.64,2,Jacinto de Arranz,Transferencia,2023-10-24,0,Media,165.28
+177,Zara,Mono,Azul,XS,Lino,Femenino,116.2,3,Martín Sierra,Pago móvil,2023-10-29,0,Alta,348.6
+178,Bershka,Camisa,Verde,S,Algodón,Masculino,93.24,1,Calisto Pombo,Pago móvil,2023-02-17,10,Media,83.92
+179,Bershka,Camisa,Blanco,L,Seda,Masculino,114.49,2,Roxana Salomé Coronado Manrique,Tarjeta,2023-03-24,10,Media,206.08
+180,Adidas,Pantalón de vestir,Gris,S,Algodón,Femenino,86.68,3,Ángel Aroca,Tarjeta,2023-03-27,0,Media,260.04
+181,Nike,Vestido,Gris,L,Lana,Masculino,41.38,2,Serafina Cáceres Jerez,Divisas,2023-05-12,0,Alta,82.76
+182,Levi's,Vestido,Beige,L,Lana,Unisex,19.8,2,Pastor Pascual-Aragón,Tarjeta,2023-05-09,0,Media,39.6
+183,Zara,Falda,Negro,M,Poliéster,Femenino,95.56,1,Alma Galiano Jordá,Tarjeta,2023-08-02,0,Alta,95.56
+184,Zara,Blusa,Negro,M,Lana,Masculino,80.14,3,Ariel Colom Belda,Pago móvil,2023-08-06,0,Media,240.42
+185,Pull&Bear,Pantalón de vestir,Azul,L,Poliéster,Femenino,13.4,2,Isaías Guillen Méndez,Divisas,2023-05-10,10,Alta,24.12
+186,Bershka,Chaqueta,Blanco,L,Mezclilla,Masculino,48.33,2,Belén Gálvez Miguel,Tarjeta,2023-08-09,0,Alta,96.66
+187,Levi's,Jeans,Beige,S,Algodón,Masculino,115.16,3,Mamen Mata-Lastra,Tarjeta,2023-10-22,10,Media,310.93
+188,Tommy Hilfiger,Vestido,Morado,S,Sintético,Masculino,64.04,2,Dafne Marín Pi,Divisas,2023-07-19,0,Media,128.08
+189,Adidas,Chaqueta,Amarillo,M,Mezclilla,Masculino,56.47,2,Esmeralda Cerezo Tolosa,Transferencia,2023-12-20,0,Media,112.94
+190,Nike,Leggins,Negro,XS,Lana,Femenino,59.26,2,Santiago Pujadas Perelló,Divisas,2023-02-20,5,Premium,112.59
+191,Stradivarius,Blusa,Gris,L,Mezclilla,Unisex,31.39,3,Merche Bolaños Azorin,Pago móvil,2023-12-18,0,Alta,94.17
+192,Nike,Pantalón corto,Verde,S,Mezclilla,Masculino,49.3,3,Florentino Fernandez Peinado,Transferencia,2023-08-19,0,Premium,147.9
+193,H&M,Jeans,Verde,M,Mezclilla,Femenino,49.42,3,Bernardita de Raya,Efectivo,2023-08-16,0,Media,148.26
+194,Zara,Mono,Beige,S,Lana,Masculino,13.86,3,Andrea Fajardo-Gimeno,Divisas,2023-09-17,0,Alta,41.58
+195,Adidas,Leggins,Blanco,L,Sintético,Masculino,93.97,1,Juanito del Guillén,Pago móvil,2023-01-13,20,Alta,75.18
+196,H&M,Leggins,Blanco,L,Seda,Femenino,54.65,2,Amelia Sanjuan Zamora,Transferencia,2023-06-09,0,Alta,109.3
+197,Levi's,Pantalón de vestir,Rojo,XL,Mezclilla,Masculino,100.08,3,Consuelo Sedano-Gonzalo,Divisas,2023-12-10,20,Premium,240.19
+198,Stradivarius,Blusa,Rosado,XS,Poliéster,Unisex,103.24,2,Ester Sala-Fábregas,Tarjeta,2023-08-05,20,Media,165.18
+199,Bershka,Falda,Negro,XL,Lana,Femenino,31.74,2,Jordana Morell Ordóñez,Divisas,2023-04-26,5,Media,60.31
+200,Adidas,Mono,Blanco,M,Mezclilla,Unisex,81.62,1,Aristides Escudero Peral,Efectivo,2023-03-05,0,Alta,81.62
+201,Adidas,Vestido,Gris,S,Sintético,Femenino,60.9,3,Nando Escrivá Burgos,Divisas,2023-01-10,0,Alta,182.7
+202,Zara,Chaqueta,Beige,M,Seda,Femenino,106.58,3,Aristides Olmo Galván,Transferencia,2023-12-04,10,Media,287.77
+203,Mango,Pantalón de vestir,Amarillo,L,Lana,Femenino,32.16,2,Ulises Guillén-Morell,Transferencia,2023-05-10,0,Media,64.32
+204,Adidas,Vestido,Rojo,XL,Lino,Masculino,83.92,3,Fabiola Jódar-Asensio,Divisas,2023-08-09,0,Media,251.76
+205,Pull&Bear,Pantalón de vestir,Marrón,XL,Seda,Masculino,76.07,2,Noa Almeida Fuertes,Transferencia,2023-12-20,0,Media,152.14
+206,Stradivarius,Pantalón de vestir,Azul,XL,Poliéster,Femenino,41.07,2,Isabel Úrsula Calatayud Sedano,Tarjeta,2023-04-07,0,Media,82.14
+207,Stradivarius,Pantalón de vestir,Amarillo,M,Mezclilla,Femenino,23.3,1,Conrado Bauzà Jáuregui,Divisas,2023-02-15,0,Alta,23.3
+208,Pull&Bear,Blusa,Marrón,L,Sintético,Masculino,80.98,1,Apolinar Cuervo,Tarjeta,2023-03-12,0,Alta,80.98
+209,Tommy Hilfiger,Falda,Morado,S,Lino,Femenino,90.72,1,Lina Vives Leon,Tarjeta,2023-10-21,0,Media,90.72
+210,Pull&Bear,Pantalón de vestir,Verde,S,Sintético,Masculino,43.35,2,Malena Blanca Vélez Gordillo,Pago móvil,2023-03-14,10,Media,78.03
+211,Pull&Bear,Short,Azul,M,Lino,Masculino,80.22,3,Marino Artigas Rincón,Divisas,2023-04-02,0,Media,240.66
+212,Stradivarius,Pantalón corto,Negro,XL,Lana,Masculino,52.25,1,Andrés Jose Miguel Jiménez Duarte,Transferencia,2023-01-25,15,Media,44.41
+213,Nike,Vestido,Gris,XS,Lino,Unisex,87.88,3,Rufino Uriarte Sotelo,Tarjeta,2023-01-05,0,Alta,263.64
+214,Stradivarius,Jeans,Azul,M,Poliéster,Femenino,30.31,1,Dulce Fernandez,Pago móvil,2023-05-23,10,Premium,27.28
+215,Mango,Jogger,Rosado,M,Poliéster,Unisex,107.7,1,Esperanza del Tormo,Divisas,2023-12-02,0,Media,107.7
+216,Zara,Chaqueta,Marrón,L,Algodón,Masculino,40.19,2,Graciano de Farré,Divisas,2023-06-19,5,Alta,76.36
+217,H&M,Mono,Negro,S,Poliéster,Masculino,49.19,1,Demetrio Solís Gutiérrez,Efectivo,2023-10-26,0,Alta,49.19
+218,Nike,Camisa,Rosado,M,Seda,Femenino,14.51,1,Maricruz Vendrell-Escobar,Efectivo,2023-04-07,10,Alta,13.06
+219,Bershka,Falda,Verde,M,Lino,Masculino,20.49,2,Leoncio Prada-Prada,Tarjeta,2023-10-22,0,Media,40.98
+220,H&M,Jeans,Rosado,XL,Poliéster,Femenino,65.78,3,María Jesús José Rincón Barón,Efectivo,2023-05-31,10,Premium,177.61
+221,Zara,Leggins,Rojo,XL,Lana,Femenino,37.97,1,Flor Badía Lastra,Tarjeta,2023-10-26,20,Media,30.38
+222,Mango,Suéter,Rojo,XS,Sintético,Femenino,101.57,2,Amanda Carbó Vizcaíno,Transferencia,2023-01-01,0,Media,203.14
+223,Mango,Short,Morado,L,Sintético,Masculino,9.65,1,Lázaro de Guerrero,Tarjeta,2023-09-07,0,Baja,9.65
+224,Bershka,Camisa,Beige,XS,Algodón,Masculino,50.46,2,Saturnino Marin Alfaro,Efectivo,2023-09-04,5,Media,95.87
+225,Nike,Jogger,Amarillo,XL,Sintético,Masculino,45.78,3,Florentina Doménech Ponce,Transferencia,2023-12-17,0,Media,137.34
+226,Tommy Hilfiger,Jeans,Amarillo,S,Lino,Masculino,10.16,3,Graciano Mateu González,Efectivo,2023-07-04,10,Media,27.43
+227,Pull&Bear,Camisa,Negro,XL,Algodón,Femenino,21.93,2,Jesús Glauco Almagro Barrio,Tarjeta,2023-04-11,0,Media,43.86
+228,Nike,Jeans,Verde,L,Lino,Masculino,54.33,2,Aarón Calderon Orozco,Pago móvil,2023-04-05,0,Alta,108.66
+229,Tommy Hilfiger,Chaqueta,Blanco,XL,Lana,Femenino,63.2,2,Néstor Trillo Isern,Divisas,2023-06-27,20,Alta,101.12
+230,Mango,Short,Morado,L,Algodón,Masculino,53.28,3,Fabián Valenzuela Reina,Efectivo,2023-06-23,0,Media,159.84
+231,Stradivarius,Jogger,Rojo,L,Mezclilla,Masculino,67.47,1,Malena Casado Pina,Tarjeta,2023-09-06,10,Alta,60.72
+232,Zara,Leggins,Negro,L,Seda,Masculino,74.65,3,René Edgardo Calvo Pont,Transferencia,2023-03-29,0,Alta,223.95
+233,Bershka,Pantalón de vestir,Blanco,L,Seda,Masculino,9.11,2,Herberto del Carvajal,Efectivo,2023-04-26,0,Alta,18.22
+234,Zara,Vestido,Amarillo,L,Lino,Femenino,59.98,2,Abril Barros Lobo,Efectivo,2023-08-09,0,Media,119.96
+235,Levi's,Leggins,Beige,S,Sintético,Femenino,115.91,3,Amanda Calderón Murcia,Divisas,2023-05-15,0,Alta,347.73
+236,Levi's,Pantalón de vestir,Rosado,XS,Mezclilla,Masculino,66.13,2,Belen Arellano Soler,Tarjeta,2023-03-18,0,Premium,132.26
+237,Nike,Suéter,Rojo,M,Algodón,Femenino,83.88,3,Florentino Izquierdo-Almazán,Pago móvil,2023-06-22,0,Alta,251.64
+238,Mango,Blusa,Negro,XS,Mezclilla,Femenino,42.93,2,Rodrigo Rodríguez,Transferencia,2023-03-04,0,Media,85.86
+239,Mango,Blusa,Azul,L,Mezclilla,Femenino,94.69,1,Pepe Alonso Galindo,Tarjeta,2023-06-29,0,Media,94.69
+240,Pull&Bear,Blusa,Blanco,S,Sintético,Masculino,94.57,1,Eloísa Luisa Soria Villanueva,Transferencia,2023-03-03,5,Alta,89.84
+241,Pull&Bear,Falda,Rosado,XL,Algodón,Femenino,66.39,2,Nydia Milla Avilés,Efectivo,2023-06-24,0,Media,132.78
+242,Pull&Bear,Pantalón corto,Rojo,S,Lana,Femenino,117.31,3,Clara de Rojas,Divisas,2023-09-04,0,Media,351.93
+243,Stradivarius,Mono,Amarillo,L,Sintético,Masculino,22.06,1,Rafael Camino Somoza,Divisas,2023-10-23,0,Media,22.06
+244,H&M,Mono,Verde,S,Mezclilla,Masculino,9.9,3,Pilar Vega Roca,Pago móvil,2023-12-19,0,Alta,29.7
+245,Adidas,Blusa,Blanco,S,Mezclilla,Femenino,94.26,2,Ciro Hoz Mariscal,Divisas,2023-02-23,5,Alta,179.09
+246,H&M,Vestido,Amarillo,L,Lana,Femenino,98.4,3,Octavia de Marqués,Efectivo,2023-07-13,0,Media,295.2
+247,Zara,Jogger,Rojo,S,Mezclilla,Femenino,21.46,1,Marco Esteban Porras,Pago móvil,2023-02-18,0,Premium,21.46
+248,H&M,Short,Blanco,M,Mezclilla,Femenino,37.75,3,José Luis Lara,Tarjeta,2023-05-19,0,Media,113.25
+249,Stradivarius,Jogger,Morado,M,Mezclilla,Femenino,9.97,3,Máxima Máxima Somoza Quintero,Divisas,2023-08-31,0,Alta,29.91
+250,Zara,Short,Rosado,S,Seda,Masculino,40.85,2,Benigno Pascual,Pago móvil,2023-03-10,10,Alta,73.53
+251,H&M,Jogger,Rojo,XL,Sintético,Masculino,94.59,2,Cándida Lucena-González,Efectivo,2023-08-15,0,Alta,189.18
+252,Stradivarius,Pantalón corto,Morado,L,Poliéster,Masculino,66.01,2,Ricardo Almazán,Transferencia,2023-02-16,5,Premium,125.42
+253,Adidas,Falda,Marrón,M,Sintético,Femenino,46.99,1,Margarita Almazán Navarro,Transferencia,2023-01-25,0,Media,46.99
+254,H&M,Falda,Negro,XL,Lana,Masculino,49.63,1,Abel Cervantes,Efectivo,2023-08-01,0,Alta,49.63
+255,Stradivarius,Blusa,Rosado,S,Mezclilla,Femenino,8.15,2,Vilma Múgica Barragán,Efectivo,2023-06-12,15,Media,13.86
+256,Pull&Bear,Suéter,Blanco,XL,Sintético,Unisex,41.58,2,Che López Zapata,Transferencia,2023-08-17,0,Alta,83.16
+257,Mango,Pantalón de vestir,Verde,XS,Seda,Masculino,80.4,1,Bernardo Jove Macías,Pago móvil,2023-12-27,0,Alta,80.4
+258,Pull&Bear,Suéter,Amarillo,M,Lana,Femenino,117.11,1,Rosaura Pol-Jáuregui,Transferencia,2023-01-19,0,Alta,117.11
+259,Mango,Camisa,Azul,S,Lino,Masculino,102.87,1,Priscila Vazquez Carpio,Efectivo,2023-04-28,0,Media,102.87
+260,Bershka,Falda,Amarillo,L,Sintético,Femenino,10.64,1,José Mari Álvarez Bautista,Divisas,2023-05-04,0,Alta,10.64
+261,Bershka,Falda,Blanco,S,Lino,Masculino,108.64,2,Anselmo Ariño Peral,Tarjeta,2023-01-18,0,Media,217.28
+262,Bershka,Leggins,Amarillo,L,Mezclilla,Femenino,95.72,1,Joel de Taboada,Divisas,2023-10-13,0,Baja,95.72
+263,Adidas,Leggins,Negro,S,Seda,Femenino,95.4,2,Rosalva Cobo Pujol,Divisas,2023-07-03,0,Alta,190.8
+264,Pull&Bear,Pantalón de vestir,Rojo,XL,Seda,Masculino,59.3,3,Gertrudis Elías Carranza,Efectivo,2023-03-27,0,Media,177.9
+265,Mango,Chaqueta,Morado,XL,Sintético,Femenino,52.58,3,Alcides María Montenegro Moraleda,Transferencia,2023-09-01,0,Alta,157.74
+266,Stradivarius,Camisa,Azul,XL,Lana,Masculino,41.93,1,Jafet Roman Camps,Pago móvil,2023-08-18,0,Media,41.93
+267,Zara,Suéter,Gris,XS,Lana,Femenino,15.36,3,Lina Arteaga Company,Divisas,2023-05-04,0,Media,46.08
+268,Stradivarius,Vestido,Blanco,L,Seda,Masculino,33.56,3,Cristóbal Llanos,Transferencia,2023-05-30,20,Alta,80.54
+269,Zara,Leggins,Beige,XL,Lana,Masculino,35.62,3,Ainoa Peinado Seguí,Pago móvil,2023-03-28,0,Media,106.86
+270,Levi's,Vestido,Gris,XS,Seda,Masculino,62.22,1,Reynaldo Garrido Velasco,Divisas,2023-09-18,10,Media,56.0
+271,Stradivarius,Jeans,Amarillo,L,Sintético,Femenino,91.71,1,Alex Olivares Lasa,Pago móvil,2023-11-05,0,Alta,91.71
+272,H&M,Leggins,Blanco,S,Poliéster,Femenino,61.07,3,Román Carrasco Vera,Transferencia,2023-08-29,0,Media,183.21
+273,H&M,Pantalón corto,Morado,XS,Seda,Femenino,14.48,2,Bernardino Carnero Villena,Tarjeta,2023-10-22,0,Alta,28.96
+274,Nike,Chaqueta,Marrón,M,Lino,Femenino,115.27,3,Reyes Tamayo-Caro,Transferencia,2023-05-24,0,Media,345.81
+275,Pull&Bear,Camisa,Morado,XS,Lana,Masculino,113.59,1,Angelina Alonso Manzano,Efectivo,2023-02-21,0,Alta,113.59
+276,Zara,Pantalón de vestir,Beige,XS,Seda,Unisex,95.94,1,Florencio Cabanillas Manrique,Pago móvil,2023-02-01,0,Alta,95.94
+277,Zara,Jeans,Azul,L,Seda,Masculino,119.03,1,Emperatriz del Albero,Tarjeta,2023-01-09,0,Alta,119.03
+278,Pull&Bear,Camisa,Morado,S,Sintético,Masculino,68.98,3,Juan Francisco Gibert,Pago móvil,2023-11-29,15,Media,175.9
+279,Adidas,Suéter,Verde,M,Lana,Masculino,115.83,2,Martín Ojeda Bello,Pago móvil,2023-12-29,0,Alta,231.66
+280,Nike,Blusa,Marrón,XL,Poliéster,Masculino,16.47,1,Reynaldo Peinado,Divisas,2023-01-19,0,Alta,16.47
+281,Adidas,Pantalón corto,Gris,XL,Sintético,Femenino,48.96,1,Nico Cerro Suárez,Efectivo,2023-09-12,5,Alta,46.51
+282,Adidas,Camisa,Rojo,XS,Poliéster,Unisex,33.24,3,Reyes del Pastor,Pago móvil,2023-06-15,0,Media,99.72
+283,Adidas,Pantalón corto,Negro,L,Sintético,Masculino,29.93,2,José María Barragán,Transferencia,2023-02-12,0,Alta,59.86
+284,Pull&Bear,Pantalón corto,Verde,L,Lana,Masculino,23.77,3,Ainara Alemany Manso,Transferencia,2023-07-27,0,Alta,71.31
+285,Adidas,Vestido,Marrón,XL,Algodón,Femenino,77.71,1,Benito de Hoyos,Divisas,2023-06-27,15,Media,66.05
+286,H&M,Jogger,Rojo,M,Lana,Femenino,95.51,2,Modesta Barragán Fuster,Efectivo,2023-04-12,5,Media,181.47
+287,Bershka,Blusa,Rojo,S,Lana,Femenino,72.77,2,Paulino Vilar-Moraleda,Efectivo,2023-04-19,0,Alta,145.54
+288,Levi's,Suéter,Blanco,M,Poliéster,Masculino,24.46,1,Mayte Pareja Franch,Transferencia,2023-01-16,0,Baja,24.46
+289,Zara,Jeans,Marrón,S,Poliéster,Masculino,98.85,2,Teresa Baeza-Anaya,Tarjeta,2023-01-06,15,Premium,168.04
+290,Zara,Camisa,Azul,XL,Lana,Femenino,79.23,2,Fátima Lucas Garrido,Divisas,2023-05-31,0,Alta,158.46
+291,Levi's,Short,Amarillo,S,Lana,Unisex,51.47,3,Abril Dolores Gras Carlos,Divisas,2023-06-11,0,Alta,154.41
+292,Pull&Bear,Jeans,Beige,L,Lana,Femenino,83.5,1,Casandra Valenzuela Carro,Transferencia,2023-09-23,0,Media,83.5
+293,Stradivarius,Jogger,Beige,XS,Poliéster,Femenino,37.11,1,Dimas Carlito Marcos Amores,Transferencia,2023-10-08,0,Media,37.11
+294,Pull&Bear,Jeans,Gris,XS,Lana,Femenino,46.66,1,María Cristina Gaya Lorenzo,Tarjeta,2023-02-05,0,Premium,46.66
+295,Zara,Falda,Gris,XL,Lana,Masculino,110.76,1,Apolinar Peiró-Vila,Tarjeta,2023-01-28,0,Media,110.76
+296,Zara,Suéter,Beige,L,Mezclilla,Unisex,40.54,1,Roque Falcó Grau,Efectivo,2023-09-30,0,Alta,40.54
+297,Levi's,Short,Morado,M,Algodón,Femenino,60.64,2,Rosalina Tormo-Diez,Divisas,2023-04-05,0,Media,121.28
+298,Adidas,Jogger,Azul,L,Lino,Masculino,107.7,3,Aarón Cano Casas,Divisas,2023-05-04,5,Media,306.94
+299,Pull&Bear,Vestido,Morado,XS,Algodón,Femenino,87.26,1,Amaya Romero Font,Transferencia,2023-10-27,0,Baja,87.26
+300,Mango,Camisa,Morado,XS,Mezclilla,Unisex,14.97,3,Eulalia Lara Gordillo,Efectivo,2023-05-15,0,Media,44.91
+301,Levi's,Chaqueta,Negro,L,Lino,Masculino,24.5,3,Leire España Morell,Divisas,2023-12-05,0,Premium,73.5
+302,H&M,Mono,Rosado,L,Sintético,Masculino,8.88,2,Tomasa Arroyo-Mesa,Efectivo,2023-11-13,0,Media,17.76
+303,Zara,Jogger,Amarillo,XS,Lana,Femenino,78.66,1,Teófilo Chema Arcos Hervia,Efectivo,2023-10-19,0,Media,78.66
+304,Levi's,Pantalón de vestir,Negro,M,Mezclilla,Unisex,58.14,2,Erasmo Geraldo Llopis Blanca,Transferencia,2023-03-04,0,Media,116.28
+305,Pull&Bear,Suéter,Blanco,XL,Sintético,Masculino,23.04,1,José María Vaquero Amaya,Efectivo,2023-06-02,10,Media,20.74
+306,Zara,Camisa,Rosado,XL,Lana,Femenino,115.29,2,María Carmen Gracia,Tarjeta,2023-11-20,15,Media,195.99
+307,Stradivarius,Blusa,Rosado,L,Poliéster,Masculino,67.32,3,Eloísa Tovar,Tarjeta,2023-06-18,0,Alta,201.96
+308,Levi's,Jogger,Marrón,XL,Seda,Femenino,35.09,1,Eloísa Estevez Iglesias,Pago móvil,2023-06-24,0,Media,35.09
+309,Nike,Falda,Azul,XS,Mezclilla,Masculino,64.07,3,Belen Prats Arribas,Transferencia,2023-09-12,0,Media,192.21
+310,Zara,Mono,Azul,XS,Poliéster,Femenino,84.12,3,Olegario Pagès,Pago móvil,2023-03-30,5,Media,239.74
+311,Pull&Bear,Falda,Rosado,L,Mezclilla,Masculino,16.54,2,Severiano Goicoechea Farré,Tarjeta,2023-06-22,5,Premium,31.43
+312,Bershka,Mono,Morado,L,Mezclilla,Masculino,38.77,1,Rosendo Baena-Tapia,Pago móvil,2023-03-25,0,Media,38.77
+313,Mango,Blusa,Marrón,L,Poliéster,Femenino,98.38,3,Ruperta Juan-Reguera,Transferencia,2023-11-07,0,Baja,295.14
+314,Tommy Hilfiger,Chaqueta,Amarillo,M,Lino,Femenino,59.48,2,Celestino Sanmiguel Rodríguez,Transferencia,2023-07-19,5,Alta,113.01
+315,Adidas,Suéter,Rosado,XL,Algodón,Femenino,69.22,1,Óscar Torrijos Pacheco,Efectivo,2023-12-19,0,Media,69.22
+316,Tommy Hilfiger,Pantalón de vestir,Verde,L,Lana,Femenino,56.48,1,Espiridión Sola Lluch,Divisas,2023-08-22,0,Media,56.48
+317,Pull&Bear,Camisa,Gris,S,Mezclilla,Femenino,12.92,3,Cesar Morales Bas,Efectivo,2023-09-08,0,Media,38.76
+318,H&M,Vestido,Gris,S,Lana,Masculino,26.56,1,Carina Cazorla Valcárcel,Transferencia,2023-03-06,0,Alta,26.56
+319,H&M,Falda,Negro,XS,Seda,Femenino,57.9,3,Paloma del Falcón,Tarjeta,2023-02-02,10,Media,156.33
+320,Bershka,Falda,Blanco,XL,Poliéster,Femenino,31.43,1,Otilia Campoy Salgado,Tarjeta,2023-01-22,20,Alta,25.14
+321,Adidas,Pantalón corto,Gris,L,Lana,Masculino,13.6,2,Germán Noguera Velázquez,Efectivo,2023-12-08,0,Alta,27.2
+322,Nike,Mono,Rojo,S,Poliéster,Femenino,102.49,3,Arturo León Guerrero,Transferencia,2023-04-01,0,Media,307.47
+323,Bershka,Leggins,Negro,XL,Lana,Unisex,117.89,3,Matías Fernando Vizcaíno Redondo,Tarjeta,2023-01-06,0,Media,353.67
+324,Tommy Hilfiger,Chaqueta,Gris,XS,Algodón,Masculino,96.83,1,Evita Sarabia Perelló,Transferencia,2023-01-20,0,Media,96.83
+325,Bershka,Camisa,Blanco,M,Algodón,Masculino,103.62,1,Marcio Arnal Martí,Tarjeta,2023-06-14,0,Alta,103.62
+326,Tommy Hilfiger,Mono,Morado,XL,Algodón,Masculino,35.1,3,Amancio Lastra Calzada,Transferencia,2023-03-30,0,Media,105.3
+327,Zara,Pantalón corto,Morado,XL,Algodón,Masculino,115.59,1,Benjamín Aller Merino,Pago móvil,2023-02-27,0,Media,115.59
+328,H&M,Jeans,Azul,M,Algodón,Femenino,30.06,2,Galo Paniagua,Transferencia,2023-11-07,0,Media,60.12
+329,Zara,Mono,Azul,XL,Algodón,Femenino,114.56,1,Lino Corral-Carrera,Transferencia,2023-05-11,0,Premium,114.56
+330,Mango,Vestido,Amarillo,XS,Poliéster,Femenino,119.42,2,Félix del Valderrama,Efectivo,2023-09-08,0,Media,238.84
+331,Adidas,Camisa,Rosado,XS,Mezclilla,Masculino,87.71,2,Andrea Riquelme Río,Pago móvil,2023-01-09,0,Premium,175.42
+332,Nike,Chaqueta,Verde,M,Lana,Femenino,117.89,2,Isa Serrano,Divisas,2023-10-04,0,Media,235.78
+333,Tommy Hilfiger,Pantalón corto,Azul,L,Algodón,Masculino,71.79,2,Judith Torre-Viana,Efectivo,2023-02-22,20,Baja,114.86
+334,Nike,Jeans,Marrón,S,Poliéster,Unisex,37.07,2,Guillermo Pérez Rios,Divisas,2023-06-15,0,Media,74.14
+335,Tommy Hilfiger,Suéter,Gris,L,Poliéster,Masculino,56.94,1,Ariel Valcárcel Badía,Tarjeta,2023-09-13,0,Media,56.94
+336,Pull&Bear,Short,Marrón,XL,Poliéster,Masculino,74.48,2,Melisa Polo Busquets,Divisas,2023-07-12,10,Media,134.06
+337,Bershka,Pantalón corto,Blanco,S,Mezclilla,Femenino,16.19,1,Emperatriz de Morillo,Transferencia,2023-06-15,20,Baja,12.95
+338,Mango,Short,Azul,M,Lana,Masculino,77.7,2,Ani Cobo-Martorell,Divisas,2023-06-09,0,Premium,155.4
+339,H&M,Camisa,Verde,M,Mezclilla,Masculino,117.89,3,Soraya Gimeno Goicoechea,Efectivo,2023-08-25,10,Alta,318.3
+340,Tommy Hilfiger,Falda,Blanco,S,Lino,Femenino,29.29,2,Gilberto Blanco Gabaldón,Efectivo,2023-11-27,0,Alta,58.58
+341,Nike,Pantalón corto,Rojo,XS,Sintético,Femenino,96.77,3,Delia Vilanova Colom,Divisas,2023-08-25,0,Media,290.31
+342,Mango,Suéter,Rojo,S,Poliéster,Unisex,109.68,2,Ulises Calvet,Efectivo,2023-07-23,0,Media,219.36
+343,Stradivarius,Pantalón de vestir,Marrón,XL,Lino,Masculino,113.69,2,Calisto Montserrat Estevez,Efectivo,2023-03-24,0,Baja,227.38
+344,Stradivarius,Short,Rosado,XS,Seda,Masculino,115.54,2,Tito Jenaro Santamaría Antúnez,Divisas,2023-08-09,0,Alta,231.08
+345,Zara,Vestido,Negro,M,Algodón,Masculino,66.4,3,Anastasia Benitez Vega,Pago móvil,2023-07-15,0,Premium,199.2
+346,H&M,Pantalón de vestir,Rosado,S,Sintético,Masculino,117.46,3,Angelina Collado Velasco,Pago móvil,2023-01-11,0,Media,352.38
+347,Pull&Bear,Jogger,Morado,L,Algodón,Masculino,92.82,2,Julia Talavera Garrido,Tarjeta,2023-09-21,0,Media,185.64
+348,Nike,Jogger,Amarillo,L,Mezclilla,Femenino,26.11,1,Mirta Cazorla Jordá,Efectivo,2023-05-08,0,Media,26.11
+349,Bershka,Jeans,Rosado,XL,Sintético,Femenino,61.41,2,Eli Antonia Salas Tolosa,Divisas,2023-11-21,0,Media,122.82
+350,Bershka,Chaqueta,Amarillo,L,Lana,Femenino,88.45,3,Ainoa Valle Landa,Efectivo,2023-03-06,0,Media,265.35
+351,Nike,Falda,Amarillo,S,Lino,Masculino,35.7,2,Vicente Natanael Bermúdez Barrio,Transferencia,2023-05-27,5,Alta,67.83
+352,Adidas,Camisa,Verde,S,Lana,Masculino,79.75,3,Ximena Canet-Reina,Efectivo,2023-08-28,5,Alta,227.29
+353,Pull&Bear,Pantalón corto,Azul,L,Mezclilla,Masculino,82.66,3,Rolando Valentín Álamo,Efectivo,2023-10-17,10,Media,223.18
+354,Mango,Leggins,Verde,S,Algodón,Femenino,26.22,3,Anita Gomez,Pago móvil,2023-02-05,0,Baja,78.66
+355,Tommy Hilfiger,Vestido,Amarillo,XL,Sintético,Masculino,71.29,2,Teodora Tamarit,Divisas,2023-09-01,5,Premium,135.45
+356,Adidas,Short,Blanco,XS,Lana,Masculino,94.42,3,Arsenio Sancho Asensio Mesa,Efectivo,2023-10-14,0,Media,283.26
+357,Tommy Hilfiger,Camisa,Rojo,XL,Lana,Masculino,63.88,3,Manuela Sanchez Amat,Pago móvil,2023-02-24,0,Baja,191.64
+358,Tommy Hilfiger,Pantalón de vestir,Amarillo,XL,Algodón,Masculino,9.36,2,Emiliano Cid Expósito,Tarjeta,2023-02-26,0,Media,18.72
+359,Adidas,Blusa,Verde,S,Sintético,Femenino,9.01,3,Adelina Torrents Segarra,Pago móvil,2023-02-17,0,Baja,27.03
+360,Zara,Jogger,Blanco,XS,Lino,Masculino,47.99,2,Vilma Carrión Almansa,Pago móvil,2023-04-27,0,Media,95.98
+361,Stradivarius,Blusa,Verde,S,Algodón,Femenino,111.73,3,Herminio Puente Ayuso,Pago móvil,2023-11-19,0,Alta,335.19
+362,Tommy Hilfiger,Suéter,Rosado,M,Lana,Femenino,33.61,1,Anastasio Calleja,Efectivo,2023-01-16,10,Media,30.25
+363,Adidas,Vestido,Gris,S,Lino,Femenino,79.05,1,Bernardita Lucas-Varela,Efectivo,2023-05-19,0,Media,79.05
+364,Adidas,Leggins,Marrón,S,Lino,Masculino,32.87,3,Teodora Moreno Páez,Tarjeta,2023-06-30,0,Alta,98.61
+365,Levi's,Pantalón corto,Negro,S,Algodón,Unisex,44.03,1,Antonia del Jordán,Transferencia,2023-05-22,20,Media,35.22
+366,Zara,Jeans,Morado,XS,Lana,Masculino,102.98,2,Luciana Badía-Santiago,Transferencia,2023-08-15,0,Alta,205.96
+367,H&M,Leggins,Verde,S,Mezclilla,Masculino,89.63,1,Lucio Hierro,Transferencia,2023-03-26,0,Alta,89.63
+368,Levi's,Vestido,Negro,XS,Lana,Masculino,18.68,3,Azahara Jordana Zamorano Campillo,Tarjeta,2023-12-21,0,Baja,56.04
+369,Levi's,Leggins,Beige,L,Poliéster,Masculino,56.01,3,Íngrid del Palomino,Transferencia,2023-10-16,0,Alta,168.03
+370,Nike,Vestido,Verde,M,Sintético,Femenino,11.27,2,Aurora Abascal Adadia,Transferencia,2023-09-05,0,Media,22.54
+371,Stradivarius,Vestido,Gris,XS,Seda,Femenino,61.86,3,Sebastian Frías Becerra,Pago móvil,2023-02-04,0,Premium,185.58
+372,Adidas,Mono,Negro,L,Mezclilla,Femenino,82.19,2,Carmina Andreu Blanco,Efectivo,2023-05-30,0,Media,164.38
+373,Stradivarius,Short,Morado,XS,Lino,Femenino,21.27,1,Eligio Nicolau Tormo,Efectivo,2023-09-21,0,Premium,21.27
+374,Pull&Bear,Blusa,Amarillo,XS,Mezclilla,Femenino,40.36,1,Segismundo Escrivá,Pago móvil,2023-03-03,0,Alta,40.36
+375,Nike,Jogger,Verde,M,Sintético,Femenino,52.56,2,Gustavo Soto Roman,Pago móvil,2023-07-06,0,Media,105.12
+376,H&M,Mono,Azul,XL,Lino,Femenino,110.99,2,María Fernanda Olimpia Gimenez Peral,Pago móvil,2023-04-22,0,Media,221.98
+377,Stradivarius,Pantalón corto,Marrón,XL,Sintético,Unisex,119.24,3,Teófilo Salazar Caballero,Efectivo,2023-09-24,10,Premium,321.95
+378,Bershka,Mono,Gris,XS,Lino,Femenino,13.03,1,Otilia Silva-Lara,Transferencia,2023-08-14,0,Alta,13.03
+379,Tommy Hilfiger,Falda,Negro,S,Mezclilla,Femenino,93.23,2,Encarnación Pinedo Iñiguez,Pago móvil,2023-10-27,0,Baja,186.46
+380,Pull&Bear,Falda,Gris,L,Lino,Femenino,49.63,1,Corona Pedro Mata,Tarjeta,2023-09-18,0,Alta,49.63
+381,Zara,Jogger,Blanco,S,Lino,Masculino,51.96,2,María Comas Cuenca,Pago móvil,2023-04-05,0,Media,103.92
+382,H&M,Leggins,Morado,S,Poliéster,Femenino,92.48,1,Anabel Tamayo Perales,Divisas,2023-01-20,0,Baja,92.48
+383,Pull&Bear,Short,Marrón,XS,Lana,Femenino,110.86,3,Lisandro Diéguez Company,Pago móvil,2023-03-02,0,Media,332.58
+384,Tommy Hilfiger,Jogger,Amarillo,XS,Lana,Masculino,114.5,1,Chuy Cañas Ballester,Efectivo,2023-04-01,10,Media,103.05
+385,Nike,Vestido,Verde,XS,Seda,Femenino,72.64,1,Marisela de Valcárcel,Pago móvil,2023-05-04,10,Alta,65.38
+386,Tommy Hilfiger,Pantalón de vestir,Verde,XS,Seda,Femenino,48.0,1,Edu Canet Escobar,Divisas,2023-04-28,0,Media,48.0
+387,Levi's,Short,Verde,XL,Poliéster,Femenino,96.21,1,Amarilis Lozano Pinto,Tarjeta,2023-06-14,5,Alta,91.4
+388,Tommy Hilfiger,Chaqueta,Marrón,XS,Seda,Femenino,36.11,1,Carlota Piña Cordero,Transferencia,2023-01-29,0,Baja,36.11
+389,Levi's,Blusa,Azul,XL,Sintético,Femenino,71.18,3,Emperatriz Santos Ferrán,Pago móvil,2023-12-30,0,Media,213.54
+390,Nike,Short,Beige,XL,Mezclilla,Femenino,48.16,2,Erasmo Sanmiguel Angulo,Divisas,2023-12-16,0,Media,96.32
+391,Mango,Vestido,Rojo,XS,Algodón,Masculino,81.54,1,Palmira Ayllón Villanueva,Divisas,2023-12-26,0,Media,81.54
+392,Levi's,Vestido,Rosado,M,Sintético,Masculino,34.92,3,Angelita Castañeda Ramírez,Tarjeta,2023-04-03,5,Baja,99.52
+393,Zara,Jeans,Negro,L,Algodón,Masculino,29.46,1,Ariadna Cánovas-Rivas,Efectivo,2023-07-21,0,Media,29.46
+394,Tommy Hilfiger,Jogger,Azul,S,Algodón,Femenino,110.84,1,Albino Mir Gaya,Pago móvil,2023-12-02,0,Media,110.84
+395,Tommy Hilfiger,Vestido,Amarillo,XL,Poliéster,Unisex,19.4,2,Ani Yuste Oliveras,Divisas,2023-06-27,15,Media,32.98
+396,Zara,Falda,Negro,L,Sintético,Femenino,64.67,1,Natanael Girona-Escudero,Tarjeta,2023-08-13,0,Media,64.67
+397,Bershka,Pantalón corto,Verde,M,Poliéster,Femenino,32.74,3,Amalia Lasa Martínez,Transferencia,2023-02-03,0,Media,98.22
+398,Adidas,Pantalón de vestir,Gris,S,Lino,Masculino,12.36,3,Montserrat Llorens Antón,Divisas,2023-11-11,0,Alta,37.08
+399,Mango,Blusa,Amarillo,S,Algodón,Femenino,12.03,2,Luis Miguel Portero,Tarjeta,2023-12-05,5,Premium,22.86
+400,H&M,Jogger,Negro,XL,Mezclilla,Femenino,27.62,1,Albina del Alcaraz,Efectivo,2023-11-21,5,Media,26.24
+401,Levi's,Camisa,Morado,XS,Seda,Masculino,105.08,3,Vasco Pizarro Baquero,Efectivo,2023-10-26,0,Media,315.24
+402,Zara,Falda,Verde,M,Mezclilla,Masculino,39.64,1,Antonia Clemente Sanjuan,Divisas,2023-05-18,0,Media,39.64
+403,Nike,Suéter,Negro,XL,Seda,Femenino,114.45,1,Ligia Loreto Sureda Barrera,Divisas,2023-01-28,0,Premium,114.45
+404,Levi's,Chaqueta,Gris,M,Algodón,Masculino,73.14,1,Reyes Seguí-Agustí,Pago móvil,2023-03-26,5,Baja,69.48
+405,Adidas,Leggins,Morado,XS,Algodón,Unisex,56.9,2,Aurelia del Vives,Tarjeta,2023-01-05,0,Media,113.8
+406,Nike,Vestido,Verde,XS,Algodón,Femenino,72.97,1,Gustavo Lasa,Divisas,2023-10-16,0,Media,72.97
+407,Pull&Bear,Camisa,Beige,XL,Poliéster,Femenino,65.87,3,Juliana Lobo Peinado,Pago móvil,2023-05-07,15,Media,167.97
+408,Tommy Hilfiger,Vestido,Azul,XS,Sintético,Femenino,92.98,1,Kike Marcos,Pago móvil,2023-10-26,0,Media,92.98
+409,Pull&Bear,Short,Blanco,L,Seda,Femenino,39.64,3,Bernarda Toro-Peinado,Divisas,2023-03-26,0,Alta,118.92
+410,Levi's,Falda,Rosado,S,Sintético,Femenino,47.54,1,Clímaco Adolfo Izaguirre Sabater,Efectivo,2023-04-27,0,Media,47.54
+411,Adidas,Short,Marrón,XL,Poliéster,Unisex,108.14,3,Jacobo Bou Vigil,Tarjeta,2023-01-07,20,Alta,259.54
+412,Mango,Jeans,Rosado,M,Poliéster,Masculino,114.0,3,Ramona Vélez Roselló,Tarjeta,2023-02-19,0,Media,342.0
+413,Levi's,Short,Amarillo,L,Lana,Masculino,107.97,1,Angelino Colom Cifuentes,Efectivo,2023-09-02,0,Baja,107.97
+414,Zara,Jeans,Rosado,XL,Mezclilla,Femenino,54.98,1,Adelia Huerta Cabrero,Divisas,2023-10-14,0,Premium,54.98
+415,Stradivarius,Chaqueta,Verde,XS,Mezclilla,Masculino,95.4,3,Aura Cabo Bueno,Tarjeta,2023-11-11,0,Media,286.2
+416,Levi's,Jeans,Beige,XS,Lino,Unisex,61.35,2,Carla Barranco Oliva,Divisas,2023-12-09,0,Alta,122.7
+417,Tommy Hilfiger,Camisa,Blanco,XS,Poliéster,Masculino,63.72,1,Bernardino Morillo Seguí,Divisas,2023-11-02,0,Media,63.72
+418,Tommy Hilfiger,Vestido,Azul,XS,Seda,Femenino,30.92,2,Susanita Franch-Nadal,Pago móvil,2023-05-16,20,Baja,49.47
+419,Levi's,Leggins,Azul,M,Lana,Masculino,74.21,1,Marita Sevillano Beltrán,Efectivo,2023-11-09,0,Premium,74.21
+420,Nike,Blusa,Gris,L,Lana,Femenino,28.85,1,Porfirio Posada,Divisas,2023-05-10,0,Media,28.85
+421,Stradivarius,Short,Marrón,S,Sintético,Femenino,45.14,1,Loreto Salmerón Múgica,Transferencia,2023-02-15,0,Alta,45.14
+422,Zara,Suéter,Negro,M,Mezclilla,Femenino,103.76,1,Amancio Cabezas Peñalver,Efectivo,2023-06-25,0,Media,103.76
+423,Levi's,Blusa,Beige,M,Poliéster,Masculino,31.19,2,Darío Prieto Donoso,Tarjeta,2023-01-01,10,Alta,56.14
+424,Nike,Falda,Negro,S,Lino,Masculino,15.97,1,Severiano Barco,Pago móvil,2023-07-12,0,Baja,15.97
+425,Tommy Hilfiger,Jeans,Blanco,S,Poliéster,Femenino,15.73,3,Teodora del Sanchez,Tarjeta,2023-02-05,0,Media,47.19
+426,Tommy Hilfiger,Vestido,Rosado,XS,Sintético,Femenino,113.37,3,Benito Abad Calvet,Tarjeta,2023-02-16,0,Alta,340.11
+427,Adidas,Pantalón de vestir,Azul,M,Algodón,Femenino,64.78,2,Felisa Calderón Medina,Efectivo,2023-09-07,0,Premium,129.56
+428,Levi's,Jogger,Blanco,XL,Poliéster,Femenino,53.85,1,Álvaro Zamorano Torralba,Tarjeta,2023-01-06,0,Premium,53.85
+429,Stradivarius,Camisa,Rosado,S,Sintético,Femenino,98.82,3,Telmo Márquez Báez,Divisas,2023-04-09,0,Alta,296.46
+430,Bershka,Leggins,Azul,S,Algodón,Femenino,101.61,2,Lázaro Plaza,Tarjeta,2023-07-18,10,Alta,182.9
+431,Stradivarius,Mono,Rosado,L,Algodón,Masculino,45.21,1,Angélica Lucena Muro,Pago móvil,2023-05-24,15,Media,38.43
+432,Tommy Hilfiger,Camisa,Marrón,XL,Lino,Femenino,85.69,3,Gerardo Esteve Mas,Pago móvil,2023-06-20,0,Media,257.07
+433,Tommy Hilfiger,Chaqueta,Beige,XL,Seda,Femenino,94.37,3,Miguel Ramón Galván,Transferencia,2023-11-03,20,Media,226.49
+434,Pull&Bear,Pantalón de vestir,Morado,S,Mezclilla,Femenino,81.32,2,Mateo Roca-Pineda,Pago móvil,2023-09-27,0,Media,162.64
+435,Tommy Hilfiger,Suéter,Amarillo,XS,Poliéster,Unisex,24.98,1,Régulo Solís,Tarjeta,2023-05-14,0,Media,24.98
+436,Zara,Jogger,Blanco,L,Algodón,Masculino,106.1,1,Juanita del Francisco,Pago móvil,2023-05-20,0,Media,106.1
+437,H&M,Pantalón de vestir,Blanco,XL,Poliéster,Masculino,68.38,3,Mayte Agullo Caparrós,Efectivo,2023-08-31,0,Media,205.14
+438,Levi's,Short,Morado,S,Seda,Femenino,39.64,3,Heraclio Oliva Escalona,Pago móvil,2023-02-07,0,Alta,118.92
+439,Stradivarius,Jeans,Rojo,XL,Mezclilla,Masculino,55.63,3,Gerardo Orozco Tomé,Divisas,2023-12-05,0,Media,166.89
+440,H&M,Leggins,Verde,L,Seda,Femenino,12.21,1,Rocío Soria Galiano,Efectivo,2023-02-18,0,Media,12.21
+441,Nike,Pantalón corto,Marrón,L,Mezclilla,Masculino,22.32,2,Alba Becerra Flores,Transferencia,2023-11-02,0,Media,44.64
+442,Bershka,Jeans,Marrón,M,Lana,Unisex,93.74,2,Elpidio Moraleda Simó,Divisas,2023-11-28,0,Alta,187.48
+443,Zara,Pantalón corto,Morado,S,Mezclilla,Masculino,8.0,1,Maricruz de Alcázar,Tarjeta,2023-01-09,5,Alta,7.6
+444,Stradivarius,Blusa,Negro,L,Lino,Masculino,54.66,2,Artemio Barrera Múgica,Tarjeta,2023-03-24,0,Alta,109.32
+445,H&M,Jogger,Rosado,M,Seda,Masculino,66.52,3,Ángela Díaz Carbonell,Tarjeta,2023-06-30,0,Media,199.56
+446,Bershka,Vestido,Verde,M,Algodón,Femenino,14.12,2,Reynaldo Martin Aroca,Divisas,2023-04-22,0,Media,28.24
+447,Pull&Bear,Mono,Beige,XL,Lana,Unisex,116.98,2,Odalis Acosta Arranz,Divisas,2023-12-19,0,Baja,233.96
+448,Zara,Falda,Beige,XL,Lino,Femenino,33.33,2,Cosme Borrás Cornejo,Divisas,2023-04-27,10,Media,59.99
+449,Zara,Jeans,Morado,M,Poliéster,Masculino,42.07,3,Che Matías Giralt Alcalá,Efectivo,2023-01-13,0,Media,126.21
+450,Pull&Bear,Leggins,Marrón,XL,Seda,Femenino,42.04,1,Eutimio Benavent Gallo,Efectivo,2023-10-28,0,Baja,42.04
+451,Levi's,Chaqueta,Beige,L,Sintético,Femenino,33.81,3,Heriberto Espejo Blanch,Tarjeta,2023-06-23,10,Media,91.29
+452,Pull&Bear,Chaqueta,Rojo,XS,Sintético,Femenino,8.17,1,Araceli Bárcena-Porta,Pago móvil,2023-11-26,0,Premium,8.17
+453,Zara,Pantalón de vestir,Blanco,L,Algodón,Femenino,89.69,1,Valentina Irene Morán Bravo,Tarjeta,2023-06-03,0,Premium,89.69
+454,Zara,Leggins,Gris,M,Mezclilla,Femenino,116.29,1,Teodora Canet Pérez,Transferencia,2023-04-07,0,Media,116.29
+455,H&M,Jogger,Amarillo,M,Algodón,Masculino,33.12,2,Leticia Cortés Pavón,Efectivo,2023-04-04,15,Baja,56.3
+456,Tommy Hilfiger,Blusa,Morado,L,Sintético,Femenino,82.26,2,Patricio Alvarez Gimenez,Divisas,2023-02-16,0,Media,164.52
+457,Bershka,Pantalón corto,Negro,XL,Poliéster,Femenino,91.09,1,Emilio Marqués-Escamilla,Efectivo,2023-05-15,0,Media,91.09
+458,Pull&Bear,Pantalón de vestir,Rosado,XL,Lana,Masculino,103.02,1,Victorino Cózar Tur,Divisas,2023-05-09,0,Premium,103.02
+459,Bershka,Chaqueta,Amarillo,M,Lana,Femenino,55.33,2,Javier Falcó Méndez,Transferencia,2023-08-19,0,Media,110.66
+460,Pull&Bear,Falda,Rosado,S,Seda,Masculino,41.93,3,Elpidio Río Gabaldón,Transferencia,2023-11-30,0,Alta,125.79
+461,Nike,Falda,Azul,XL,Lana,Masculino,44.43,1,Marcelino Rivera Cabello,Efectivo,2023-09-11,0,Media,44.43
+462,Zara,Jeans,Amarillo,L,Seda,Masculino,87.81,3,Gertrudis Gallardo Cornejo,Divisas,2023-01-15,0,Premium,263.43
+463,Tommy Hilfiger,Jogger,Gris,XL,Seda,Masculino,99.48,2,Felicidad Arranz Laguna,Transferencia,2023-03-02,15,Media,169.12
+464,H&M,Vestido,Marrón,L,Seda,Femenino,28.34,1,Josefa Almansa Falcón,Tarjeta,2023-06-20,5,Alta,26.92
+465,Tommy Hilfiger,Chaqueta,Rojo,M,Sintético,Masculino,49.55,3,Angelita Sara Cuesta Tomas,Tarjeta,2023-08-10,0,Media,148.65
+466,Tommy Hilfiger,Suéter,Blanco,XL,Sintético,Femenino,109.02,3,Eutimio de Acosta,Divisas,2023-12-19,10,Alta,294.35
+467,Tommy Hilfiger,Jogger,Blanco,L,Mezclilla,Femenino,98.35,3,Noé Llano Galiano,Efectivo,2023-12-14,0,Media,295.05
+468,Bershka,Blusa,Rojo,M,Lino,Masculino,118.3,2,Porfirio Baró Rodríguez,Transferencia,2023-05-05,0,Media,236.6
+469,Pull&Bear,Pantalón corto,Verde,S,Seda,Femenino,92.48,2,Nazario Matas Galindo,Efectivo,2023-07-05,0,Premium,184.96
+470,Mango,Leggins,Azul,L,Seda,Masculino,52.04,3,Xiomara Pombo-Cuervo,Tarjeta,2023-12-09,10,Premium,140.51
+471,Nike,Chaqueta,Rosado,S,Lino,Masculino,74.15,3,Selena Peñas-Pons,Transferencia,2023-04-15,5,Alta,211.33
+472,Stradivarius,Falda,Gris,S,Algodón,Masculino,82.03,2,Belen Montes Mayol,Efectivo,2023-09-02,0,Alta,164.06
+473,Tommy Hilfiger,Leggins,Beige,XS,Seda,Unisex,16.79,3,Ruperto Palomares Talavera,Pago móvil,2023-10-14,15,Alta,42.81
+474,Levi's,Leggins,Amarillo,XL,Mezclilla,Femenino,68.98,3,Carmelita Carpio Guzmán,Divisas,2023-06-02,0,Baja,206.94
+475,Bershka,Leggins,Azul,L,Lana,Femenino,87.44,2,Alondra del Juan,Divisas,2023-08-13,10,Media,157.39
+476,H&M,Falda,Morado,S,Lana,Masculino,26.74,3,Melchor Baudelio Valderrama Mínguez,Pago móvil,2023-06-24,20,Media,64.18
+477,Stradivarius,Blusa,Amarillo,XS,Poliéster,Femenino,95.43,3,Maricruz Contreras Segovia,Tarjeta,2023-08-01,0,Alta,286.29
+478,Mango,Camisa,Gris,M,Poliéster,Masculino,73.38,3,José María Maximino Donaire Bayona,Transferencia,2023-04-19,5,Media,209.13
+479,Levi's,Short,Negro,L,Lana,Masculino,114.65,2,Kike Clemente,Divisas,2023-11-19,0,Media,229.3
+480,Mango,Pantalón corto,Negro,S,Lana,Masculino,12.75,3,Ángeles Gutiérrez Chaves,Pago móvil,2023-09-21,0,Media,38.25
+481,Stradivarius,Suéter,Azul,XL,Sintético,Femenino,37.72,2,Plinio Peña-Fuertes,Pago móvil,2023-04-08,0,Alta,75.44
+482,Tommy Hilfiger,Camisa,Marrón,XS,Mezclilla,Femenino,75.37,2,Glauco Arrieta Cañete,Tarjeta,2023-08-20,0,Media,150.74
+483,Levi's,Pantalón corto,Gris,S,Lino,Femenino,41.21,1,Fabricio Mayo-Guerra,Tarjeta,2023-08-30,15,Media,35.03
+484,Mango,Pantalón de vestir,Gris,XL,Poliéster,Femenino,88.02,1,Claudio Cárdenas Querol,Efectivo,2023-03-10,0,Media,88.02
+485,H&M,Jogger,Rojo,S,Sintético,Masculino,93.01,3,Jose Paniagua,Divisas,2023-10-27,0,Media,279.03
+486,Pull&Bear,Jogger,Marrón,L,Sintético,Femenino,19.48,2,Gustavo Pina Carpio,Efectivo,2023-04-18,10,Media,35.06
+487,Zara,Mono,Rosado,L,Lino,Femenino,65.55,1,Primitivo Castell Soriano,Pago móvil,2023-05-05,20,Alta,52.44
+488,Pull&Bear,Jogger,Rosado,L,Sintético,Femenino,65.0,3,Brígida Piedad Aguado Maestre,Transferencia,2023-12-03,0,Alta,195.0
+489,Stradivarius,Falda,Beige,XS,Mezclilla,Masculino,49.36,1,Maristela Jordá Gallart,Transferencia,2023-02-26,20,Alta,39.49
+490,Bershka,Suéter,Blanco,L,Lana,Masculino,112.49,1,Primitiva Cases Tovar,Tarjeta,2023-12-17,0,Media,112.49
+491,Zara,Vestido,Negro,XL,Seda,Femenino,100.68,2,Sandalio Antonio Burgos Berenguer,Transferencia,2023-10-31,10,Alta,181.22
+492,Nike,Jeans,Morado,S,Lino,Femenino,86.09,2,Otilia de Madrid,Transferencia,2023-01-29,0,Media,172.18
+493,H&M,Mono,Rosado,M,Lana,Femenino,88.0,1,Olegario Solana Rosado,Transferencia,2023-01-10,0,Media,88.0
+494,Nike,Jeans,Marrón,XL,Lana,Femenino,59.71,1,Artemio Chaves-Martin,Pago móvil,2023-07-01,0,Alta,59.71
+495,Levi's,Pantalón corto,Gris,XL,Algodón,Masculino,111.15,2,Ricardo Torrecilla Báez,Transferencia,2023-10-22,0,Media,222.3
+496,Zara,Jeans,Morado,L,Lino,Masculino,85.79,3,Ariadna Godoy Roldán,Transferencia,2023-12-24,0,Media,257.37
+497,Nike,Jeans,Rosado,XS,Sintético,Femenino,89.65,2,Tiburcio del Gaya,Transferencia,2023-12-30,0,Alta,179.3
+498,Nike,Mono,Gris,S,Seda,Femenino,104.51,1,Renato Santamaría Merino,Efectivo,2023-01-13,0,Media,104.51
+499,Mango,Pantalón de vestir,Rosado,XS,Lino,Unisex,38.7,3,Albert Guardia Mesa,Pago móvil,2023-02-05,15,Alta,98.68
+500,Pull&Bear,Leggins,Negro,S,Sintético,Femenino,98.39,1,Luis Miguel Orozco Pintor,Tarjeta,2023-07-13,0,Baja,98.39
+501,Mango,Jogger,Amarillo,S,Lana,Masculino,29.87,3,Yésica Marta Goicoechea Arroyo,Efectivo,2023-10-16,0,Alta,89.61
+502,Zara,Jogger,Rosado,XS,Seda,Femenino,46.68,1,Kike Peña,Divisas,2023-10-11,0,Media,46.68
+503,Zara,Falda,Marrón,XL,Sintético,Femenino,45.59,3,Haroldo Montero,Pago móvil,2023-10-17,0,Baja,136.77
+504,Stradivarius,Mono,Rosado,S,Mezclilla,Femenino,117.59,3,Pastor Cuesta Sanmartín,Pago móvil,2023-03-02,10,Alta,317.49
+505,Mango,Falda,Blanco,XS,Sintético,Masculino,103.93,1,Danilo Maxi Rueda Vera,Divisas,2023-08-27,10,Media,93.54
+506,Adidas,Vestido,Morado,S,Algodón,Unisex,86.53,3,Juanito del Pinilla,Divisas,2023-10-15,0,Media,259.59
+507,Pull&Bear,Vestido,Morado,M,Lana,Femenino,89.43,2,Cosme Blanch Ruiz,Divisas,2023-04-17,0,Baja,178.86
+508,Zara,Falda,Negro,XL,Sintético,Femenino,70.95,1,Casandra Uría Iriarte,Tarjeta,2023-05-01,5,Media,67.4
+509,Stradivarius,Mono,Marrón,L,Poliéster,Femenino,114.07,2,Amancio Casal Pozo,Transferencia,2023-03-03,0,Media,228.14
+510,Mango,Falda,Rojo,S,Poliéster,Femenino,63.58,1,Severino Alegria Rebollo,Pago móvil,2023-01-16,10,Baja,57.22
+511,Pull&Bear,Jogger,Marrón,M,Algodón,Femenino,50.62,3,Florencia Duarte,Transferencia,2023-06-26,0,Premium,151.86
+512,Mango,Camisa,Morado,L,Mezclilla,Femenino,26.26,3,Isidro Sacristán,Transferencia,2023-01-11,5,Baja,74.84
+513,Nike,Short,Blanco,L,Lana,Masculino,96.06,3,Josué Carbajo-Perales,Divisas,2023-01-03,0,Media,288.18
+514,Stradivarius,Suéter,Amarillo,S,Lino,Femenino,90.26,1,Timoteo Chico-Agullo,Tarjeta,2023-09-07,0,Media,90.26
+515,Pull&Bear,Jeans,Negro,XS,Algodón,Femenino,51.05,2,Juan Luis Alberdi Manuel,Efectivo,2023-01-16,20,Media,81.68
+516,Tommy Hilfiger,Short,Rojo,S,Mezclilla,Unisex,10.82,2,Hortensia Eugenia Aguirre Ferrán,Tarjeta,2023-08-02,0,Premium,21.64
+517,Levi's,Mono,Blanco,M,Lino,Femenino,101.97,1,Ximena de Aller,Transferencia,2023-02-21,0,Media,101.97
+518,Levi's,Blusa,Blanco,L,Poliéster,Unisex,9.28,1,Berta Molina Bou,Tarjeta,2023-03-07,0,Premium,9.28
+519,Pull&Bear,Short,Azul,S,Poliéster,Femenino,86.81,2,Eliana Egea Vaquero,Divisas,2023-07-04,0,Media,173.62
+520,Mango,Suéter,Negro,XS,Lino,Masculino,116.67,2,Kike del Paredes,Efectivo,2023-07-13,0,Alta,233.34
+521,Stradivarius,Vestido,Marrón,S,Algodón,Masculino,57.02,2,Águeda de Madrid,Divisas,2023-03-08,0,Media,114.04
+522,Levi's,Pantalón corto,Gris,XL,Poliéster,Masculino,34.32,2,Víctor Amo Llopis,Efectivo,2023-06-21,0,Alta,68.64
+523,Stradivarius,Jeans,Amarillo,XS,Lana,Unisex,86.95,1,Alba Huguet-Beltrán,Transferencia,2023-03-06,0,Media,86.95
+524,Levi's,Suéter,Gris,M,Seda,Femenino,99.52,1,Felipe Sánchez Valls,Efectivo,2023-07-19,5,Media,94.54
+525,Nike,Leggins,Marrón,L,Sintético,Unisex,69.2,3,Griselda Salmerón Arenas,Efectivo,2023-04-08,0,Media,207.6
+526,Mango,Blusa,Marrón,S,Lino,Femenino,116.31,2,Eusebio Arnau-Mata,Efectivo,2023-12-20,0,Media,232.62
+527,Nike,Mono,Negro,XS,Lino,Femenino,13.79,3,Aroa Mur,Tarjeta,2023-06-19,0,Premium,41.37
+528,Levi's,Jeans,Marrón,XL,Poliéster,Femenino,64.54,1,Paulina Alcaraz Trillo,Tarjeta,2023-10-07,0,Media,64.54
+529,Tommy Hilfiger,Short,Morado,XS,Algodón,Masculino,88.47,1,Genoveva Lasa Palma,Transferencia,2023-07-08,0,Media,88.47
+530,Tommy Hilfiger,Vestido,Azul,XL,Lana,Femenino,104.62,3,Sara de Pineda,Efectivo,2023-02-13,0,Alta,313.86
+531,Nike,Pantalón de vestir,Rojo,M,Algodón,Masculino,28.08,2,Lola Martorell Armas,Pago móvil,2023-07-29,0,Media,56.16
+532,Tommy Hilfiger,Camisa,Marrón,L,Mezclilla,Masculino,97.6,2,José Mari Valderrama Patiño,Transferencia,2023-02-14,0,Premium,195.2
+533,Levi's,Leggins,Gris,M,Mezclilla,Masculino,69.9,2,Tania Pera Espejo,Efectivo,2023-05-21,0,Alta,139.8
+534,Pull&Bear,Blusa,Marrón,S,Seda,Masculino,52.41,2,Elodia Arnau Burgos,Efectivo,2023-01-23,0,Media,104.82
+535,Nike,Camisa,Azul,XS,Poliéster,Femenino,22.75,3,Flavio Jerez Bartolomé,Tarjeta,2023-11-22,0,Alta,68.25
+536,Bershka,Jeans,Morado,XL,Poliéster,Femenino,104.91,3,María Manuela Rodrigo Verdú,Transferencia,2023-09-27,0,Baja,314.73
+537,Mango,Vestido,Morado,XL,Poliéster,Femenino,25.61,1,Jafet Portero Crespi,Efectivo,2023-03-10,0,Media,25.61
+538,Tommy Hilfiger,Vestido,Rosado,XS,Seda,Femenino,42.7,2,Luisa Bastida Royo,Efectivo,2023-03-29,0,Media,85.4
+539,Tommy Hilfiger,Suéter,Morado,XS,Mezclilla,Femenino,40.49,2,Sonia Quintanilla Marcos,Transferencia,2023-12-30,10,Media,72.88
+540,Zara,Short,Rosado,S,Algodón,Femenino,105.6,2,Segismundo Ferrández Quintero,Pago móvil,2023-01-11,0,Alta,211.2
+541,Adidas,Suéter,Blanco,M,Seda,Femenino,83.34,3,Nazaret Carvajal-Arcos,Transferencia,2023-02-21,0,Premium,250.02
+542,Nike,Jogger,Amarillo,XL,Seda,Unisex,97.23,2,Teófilo Canales Múgica,Transferencia,2023-10-16,0,Media,194.46
+543,H&M,Short,Beige,S,Algodón,Masculino,36.05,3,Martín Mateos Coloma,Pago móvil,2023-11-20,0,Media,108.15
+544,Tommy Hilfiger,Jogger,Morado,M,Poliéster,Femenino,77.99,2,Gabriel Herrero Rosales,Transferencia,2023-07-26,0,Premium,155.98
+545,Mango,Suéter,Rojo,S,Lana,Masculino,72.04,2,Asdrubal Perales Saavedra,Efectivo,2023-03-02,0,Media,144.08
+546,Bershka,Jogger,Verde,XL,Algodón,Femenino,101.28,1,Valeria Pepita Naranjo Torre,Transferencia,2023-03-28,10,Media,91.15
+547,Tommy Hilfiger,Leggins,Blanco,XS,Mezclilla,Femenino,109.48,2,Cecilio Llopis Rubio,Pago móvil,2023-08-26,0,Media,218.96
+548,Bershka,Suéter,Morado,XS,Lino,Masculino,9.36,2,Isaías Benito Barragán Mora,Divisas,2023-05-12,20,Premium,14.98
+549,Levi's,Short,Amarillo,M,Lino,Femenino,83.49,1,Rufina Encarnacion Royo Vallés,Transferencia,2023-07-12,0,Media,83.49
+550,Levi's,Chaqueta,Rosado,L,Sintético,Femenino,13.81,3,Urbano Hoyos Mosquera,Tarjeta,2023-06-06,0,Alta,41.43
+196,H&M,Leggins,Blanco,L,Seda,Femenino,54.65,2,Amelia Sanjuan Zamora,Transferencia,2023-06-09,0,Alta,109.3
+80,Mango,Jogger,Azul,XL,Mezclilla,Masculino,94.12,3,Baltasar Aguado-Santana,Pago móvil,2023-03-04,0,Premium,282.36
+481,Stradivarius,Suéter,Azul,XL,Sintético,Femenino,37.72,2,Plinio Peña-Fuertes,Pago móvil,2023-04-08,0,Alta,75.44
+110,Pull&Bear,Suéter,Azul,M,Algodón,Masculino,112.07,2,Heriberto Perez Rius,Pago móvil,2023-08-27,0,Media,224.14
+523,Stradivarius,Jeans,Amarillo,XS,Lana,Unisex,86.95,1,Alba Huguet-Beltrán,Transferencia,2023-03-06,0,Media,86.95
