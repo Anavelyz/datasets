@@ -1,0 +1,561 @@
+﻿ID_Estudiante,Carrera,Sexo,Edad,Tipo_Ropa,Color_Ropa,Tipo_Calzado,Accesorio,Clima,Día_Semana,Fecha,Comodidad (1-5),Formalidad (1-5),Nivel_Actividad
+1,Administración,Masculino,21,Jeans,Beige,Casual,Mochila,Lluvioso,Jueves,2023-07-25,1,4,Bajo
+2,Estadística,Masculino,22,Jeans,Verde,Zapatilla,Bolso,Lluvioso,Jueves,2023-08-25,2,3,Medio
+3,Contaduría,Masculino,23,Short,Verde,Zapato formal,Mochila,Frío,Viernes,2023-07-20,4,5,Medio
+4,Contaduría,Masculino,17,Jeans,Negro,Casual,Mochila,Soleado,Viernes,2023-12-28,1,3,Bajo
+5,Administración,Masculino,25,Short,Gris,Casual,Mochila,Lluvioso,Martes,2023-11-08,3,5,Alto
+6,Administración,Femenino,19,Pantalón corto,Azul,Casual,Bolso,Lluvioso,Viernes,2023-06-16,1,3,Bajo
+7,Administración,Femenino,20,Jeans,Marrón,Deportivo,Mochila,Frío,Martes,2023-09-19,4,5,Alto
+8,Economía,Femenino,26,Short,Rosado,Deportivo,Gorra,Nublado,Martes,2023-11-19,5,3,Medio
+9,Contaduría,Masculino,17,Pantalón de vestir,Beige,Deportivo,Mochila,Nublado,Martes,2023-04-30,5,3,Bajo
+10,Contaduría,Masculino,29,Mono,Rojo,Casual,Mochila,Frío,Jueves,2023-01-11,4,2,Bajo
+11,Administración,Masculino,27,jeans,Rosado,Casual,Gorra,Caluroso,Jueves,2023-11-28,2,5,Alto
+12,Estadística,Femenino,26,PANTALÓN DE VESTIR,Rojo,Deportivo,Mochila,Lluvioso,Viernes,2023-02-18,2,5,Bajo
+13,Economía,Femenino,19,falda,Rosado,Zapatilla,Mochila,Nublado,Jueves,2023-08-22,5,5,Bajo
+14,Administración,Femenino,18,Shorts,Beige,Alpargata,Bolso,Frío,Viernes,2023-01-28,5,1,Medio
+15,Administración,Femenino,18,leggins,Marrón,Sandalia,Mochila,Caluroso,Jueves,2023-03-31,4,3,Medio
+16,Administración,Masculino,17,VestidO,Rosado,Casual,Mochila,Caluroso,Lunes,2023-07-30,2,5,Medio
+17,Administración,Femenino,24,Short,Beige,Zapato formal,Mochila,Lluvioso,Lunes,2023-05-22,5,1,Bajo
+18,Contaduría,Femenino,19,Mono,Blanco,Deportivo,Ninguno,Soleado,Viernes,2023-04-07,2,2,Bajo
+19,Administración,Otro,19,Jogger,Marrón,Botas,Bolso,Lluvioso,Jueves,2023-09-13,5,5,Bajo
+20,Administración,Femenino,22,Jeans,Rojo,Deportivo,Bolso,Frío,Jueves,2023-05-07,1,5,Bajo
+21,Contaduría,Masculino,29,Jogger,azul,Botas,Bolso,Lluvioso,Martes,2023-02-06,3,1,Medio
+22,Administración,Masculino,24,Short,NEGRO,Deportivo,Mochila,Lluvioso,Miércoles,2023-09-06,1,3,Medio
+23,Administración,Femenino,29,Short,gris,Zapato formal,Mochila,Frío,Viernes,2023-07-26,5,2,Bajo
+24,Administración,Masculino,25,Jeans,beige,Alpargata,Gorra,Lluvioso,Miércoles,2023-11-22,3,5,Medio
+25,Contaduría,Masculino,25,Short,blanco,Deportivo,Mochila,Caluroso,Miércoles,2023-06-26,3,3,Medio
+26,Contaduría,femenino,20,Pantalón de vestir,Rojo ,Casual,Mochila,Lluvioso,Viernes,2023-09-07,5,2,Alto
+27,Administración,Femenino,21,Short,Rojo,Zapatilla,Mochila,Lluvioso,Jueves,2023-06-30,5,4,Alto
+28,Contaduría,Otro,18,Jeans,Rosado,Casual,Mochila,Lluvioso,Viernes,2023-06-07,2,4,Alto
+29,Contaduría,Masculino,27,Short,Beige,Zapato formal,Sombrero,Frío,Miércoles,2023-08-18,5,2,Bajo
+30,Administración,Femenino,25,Pantalón corto,Marrón,Casual,Mochila,Soleado,Jueves,2023-10-11,4,1,Bajo
+31,Contaduría,Masculino,24,Jeans,Beige,deportivo,Bolso,Soleado,Lunes,2023-06-05,5,2,Medio
+32,Administración,FEMENINO,19,Pantalón corto,Negro,CASUAL,Mochila,Caluroso,Viernes,2023-03-12,4,2,Bajo
+33,Administración,Masculino,27,Pantalón de vestir,Rosado,sandalias,Ninguno,Soleado,Viernes,2023-12-27,5,1,Medio
+34,Economía,Femenino,28,Mono,Blanco,Botas,Mochila,Nublado,Jueves,2023-12-11,2,1,Medio
+35,Estadística,Masculino,29,Pantalón corto,Beige,zapato formal,Mochila,Nublado,Lunes,2023-12-12,4,3,Alto
+36,Economía,Femenino,25,Falda,Negro,Alpargata,Gorra,Lluvioso,Lunes,2023-05-09,1,3,Alto
+37,Administración,Femenino,19,Leggins,Azul,Casual,Gorra,Nublado,Jueves,2023-07-06,4,1,Medio
+38,Administración,Femenino,25,Mono,Verde,Casual,Mochila,Soleado,Martes,2023-04-28,2,4,Medio
+39,Contaduría,Femenino,18,Pantalón de vestir,Rojo,Zapato formal,Mochila,Nublado,Viernes,2023-11-11,4,4,Medio
+40,Administración,Femenino,28,Jeans,Negro,Zapatilla,Mochila,Lluvioso,Viernes,2023-12-03,5,2,Bajo
+41,Administración,Femenino,26,Short,Marrón,Casual,mochila,Nublado,Miércoles,2023-10-06,5,5,Medio
+42,Contaduría,Masculino,25,Vestido,Beige,Zapato formal,Bolso,Soleado,Jueves,2023-06-21,2,2,Bajo
+43,Administración,Femenino,24,Leggins,Marrón,Botas,GORRA,Nublado,Miércoles,2023-08-10,3,2,Medio
+44,Economía,Femenino,25,Leggins,Verde,Casual,lentes,Soleado,Miércoles,2023-06-13,5,5,Medio
+45,Administración,Masculino,21,Pantalón de vestir,Blanco,Zapatilla,bufanda,Soleado,Lunes,2023-03-21,1,1,Medio
+46,Contaduría,Masculino,27,Vestido,Marrón,Deportivo,ninguno,Soleado,Viernes,2023-06-10,2,4,Medio
+47,Administración,Masculino,27,Jeans,Rosado,Deportivo,Ninguno,Soleado,Miércoles,2023-03-30,4,2,Medio
+48,Contaduría,Femenino,18,Falda,Blanco,Zapato formal,Bolso,Frío,Lunes,2023-08-07,4,5,Alto
+49,Contaduría,Femenino,24,Jeans,Blanco,Casual,Mochila,Soleado,Jueves,2023-01-19,1,3,Bajo
+50,Administración,Femenino,28,Jeans,Negro,Zapato formal,Mochila,Caluroso,Miércoles,2023-02-10,5,2,Medio
+51,Estadística,Femenino,22,Pantalón de vestir,Blanco,Zapato formal,Ninguno,soleado,Viernes,2023-08-10,2,4,Medio
+52,Contaduría,Femenino,24,Pantalón de vestir,Gris,Deportivo,Mochila,LLUVIOSO,Miércoles,2023-12-18,1,1,Medio
+53,Economía,Femenino,27,Short,Verde,Zapato formal,Mochila,nublado,Jueves,2023-01-06,5,2,Alto
+54,Economía,Femenino,21,Pantalón de vestir,Blanco,Casual,Bolso,frio,Miércoles,2023-07-08,2,2,Bajo
+55,Contaduría,Femenino,26,Pantalón de vestir,Marrón,Casual,Bolso,caluroso,Viernes,2023-03-31,4,5,Medio
+56,Economía,Masculino,18,Jeans,Azul,Casual,Bolso,Soleado,Lunes,2023-10-09,2,3,Medio
+57,Administración,Femenino,22,Pantalón de vestir,Gris,Alpargata,Mochila,Soleado,Viernes,2023-02-26,3,3,Alto
+58,Administración,Femenino,21,Jeans,Gris,Deportivo,Mochila,Nublado,Lunes,2023-05-08,2,1,Bajo
+59,Administración,Masculino,28,Jeans,Rosado,Casual,Ninguno,Frío,Martes,2023-09-22,3,4,Medio
+60,Administración,Masculino,29,Short,Blanco,Sandalia,Mochila,Frío,Viernes,2023-10-18,2,1,Medio
+61,Administración, Femenino,28,Short,Rosado,Sandalia,Bolso,Soleado,Viernes,2023-09-23,3,2,Bajo
+62,Administración,Masculino ,21,Short,Rosado,Sandalia,Gorra,Nublado,Jueves,2023-05-08,4,2,Medio
+63,Economía, Otro ,29,Pantalón de vestir,Azul,Deportivo,Bolso,Soleado,Miércoles,2023-02-15,5,3,Medio
+64,Administración, femenino ,17,Pantalón de vestir,Negro,Deportivo,Mochila,Soleado,Lunes,2023-06-28,3,4,Medio
+65,Administración, MASCULINO,18,Mono,Blanco,Deportivo,Mochila,Caluroso,Lunes,2023-04-09,3,5,Alto
+66,Contaduría,Otro ,24,Jeans,Beige,Zapato formal,Bolso,Soleado,Jueves,2023-01-10,4,4,Medio
+67,Administración,Femenino,29,Pantalón de vestir,Rosado,Deportivo,Bufanda,Soleado,Jueves,2023-12-18,3,2,Medio
+68,Economía,Femenino,29,Jeans,Verde,Deportivo,Ninguno,Soleado,Miércoles,2023-12-18,1,5,Medio
+69,Administración,Masculino,19,Jeans,Rojo,Zapatilla,Mochila,Caluroso,Miércoles,2023-10-09,4,4,Bajo
+70,Estadística,Masculino,26,Pantalón de vestir,Verde,Deportivo,Mochila,Frío,Viernes,2023-02-22,1,4,Bajo
+71,Contaduría,Femenino,19,Pantalón de vestir,Azul,Zapatilla,Ninguno,Nublado,Martes,2023-01-04,0,5,Medio
+72,Administración,Femenino,24,Falda,Azul,Sandalia,Gorra,Frío,Miércoles,2023-12-18,6,2,Medio
+73,Administración,Femenino,24,Falda,Marrón,Zapato formal,Bufanda,Soleado,Jueves,2023-01-31,cinco,4,Bajo
+74,Economía,Masculino,18,Short,Negro,Deportivo,Mochila,Lluvioso,Miércoles,2023-11-06,,5,Medio
+75,Contaduría,Masculino,24,Jeans,Rosado,Deportivo,Bolso,Lluvioso,Lunes,2023-03-17,3,2,Medio
+76,Contaduría,Femenino,27,Vestido,Verde,Sandalia,Gorra,Soleado,Martes,2023-11-17,tres,5,Bajo
+77,Contaduría,Masculino,29,Pantalón de vestir,Rojo,Zapato formal,Bolso,Lluvioso,Viernes,2023-10-04,1,5,Medio
+78,Administración,Masculino,29,Pantalón corto,Azul,Sandalia,Mochila,Caluroso,Lunes,2023-12-23,1,4,Bajo
+79,Administración,Femenino,17,Jeans,Azul,Deportivo,Mochila,Soleado,Lunes,2023-02-28,3,2,Alto
+80,Administración,Femenino,22,Jeans,Negro,Botas,Bolso,Soleado,Martes,2023-01-06,2,4,Alto
+81,Economía,Masculino,24,Jeans,Rojo,Botas,Mochila,Soleado,Viernes,2023-11-08,4,0,Medio
+82,Contaduría,Masculino,19,Short,Rojo,Sandalia,Mochila,Soleado,Jueves,2023-02-25,4,6,Bajo
+83,Administración,Masculino,24,Mono,Negro,Botas,Ninguno,Caluroso,Viernes,2023-05-19,3,cuatro,Medio
+84,Administración,Masculino,28,Jeans,Azul,Zapato formal,Mochila,Lluvioso,Miércoles,2023-05-08,2,,Alto
+85,Administración,Femenino,17,Jogger,Blanco,Casual,Lentes,Lluvioso,Lunes,2023-09-04,1,2,Medio
+86,Administración,Femenino,27,Jeans,Blanco,Deportivo,Mochila,Frío,Miércoles,2023-04-21,5,dos,Bajo
+87,Contaduría,Masculino,27,Jogger,Negro,Casual,Bolso,Soleado,Jueves,2023-01-06,5,2,Medio
+88,Contaduría,Femenino,25,Pantalón de vestir,Rojo,Deportivo,Ninguno,Lluvioso,Miércoles,2023-10-06,3,2,Alto
+89,Economía,Femenino,29,Jeans,Rosado,Casual,Mochila,Lluvioso,Viernes,2023-05-29,2,1,Medio
+90,Contaduría,Femenino,27,Pantalón de vestir,Negro,Casual,Mochila,Nublado,Miércoles,2023-12-27,2,3,Medio
+91,Administración,Femenino,29,Jeans,Negro,Deportivo,Mochila,Caluroso,Jueves,2023-04-16,4,2,Medio
+92,Contaduría,Femenino,25,Jeans,Gris,Deportivo,Mochila,Frío,Jueves,2023-01-23,1,3,Medio
+93,Contaduría,Femenino,21,Jeans,Verde,Deportivo,Gorra,Lluvioso,Jueves,2023-04-23,2,2,Bajo
+94,Contaduría,Femenino,26,Vestido,Rojo,Zapato formal,Ninguno,Frío,Viernes,2023-08-04,5,5,Medio
+95,Contaduría,Femenino,20,Falda,Marrón,Alpargata,Mochila,Soleado,Jueves,2023-04-28,1,5,Bajo
+96,Contaduría,Masculino,27,Jeans,Marrón,Deportivo,Mochila,Soleado,Lunes,2023-10-28,1,1,Medio
+97,Contaduría,Masculino,22,Short,Rojo,Zapatilla,Mochila,Soleado,Jueves,2023-01-28,3,1,Bajo
+98,Administración,Masculino,28,Jeans,Gris,Casual,Gorra,Lluvioso,Miércoles,2023-07-25,2,3,Medio
+99,Administración,Masculino,23,Jeans,Gris,Deportivo,Mochila,Nublado,Miércoles,2023-12-26,3,2,Bajo
+100,Administración,Masculino,21,Pantalón de vestir,Azul,Deportivo,Bolso,Nublado,Miércoles,2023-01-06,2,4,Medio
+101,Administración,Femenino,27,Jeans,Verde,Casual,Bolso,Caluroso,Viernes,2023-03-20,4,1,Medio
+102,Contaduría,Masculino,29,Jeans,Blanco,Botas,Bolso,Nublado,Miércoles,2023-07-04,3,4,Bajo
+103,Administración,Masculino,26,Short,Beige,Sandalia,Mochila,Nublado,Viernes,2023-02-05,3,4,Bajo
+104,Contaduría,Masculino,25,Jeans,Beige,Deportivo,Gorra,Soleado,Viernes,2023-07-10,5,2,Bajo
+105,Economía,Femenino,19,Falda,Beige,Deportivo,Mochila,Soleado,Jueves,2023-04-28,3,3,Alto
+106,Administración,Femenino,23,Leggins,Rojo,Casual,Mochila,Nublado,Lunes,2023-05-07,2,2,Medio
+107,Administración,Femenino,26,Jeans,Marrón,Deportivo,Bufanda,Lluvioso,Jueves,2023-06-21,5,1,Medio
+108,Contaduría,Femenino,26,Falda,Marrón,Deportivo,Gorra,Frío,Jueves,2023-03-28,3,4,Bajo
+109,Administración,Masculino,27,Jeans,Blanco,Deportivo,Mochila,Soleado,Viernes,2023-11-30,3,2,Medio
+110,Administración,Masculino,21,Pantalón corto,Rojo,Zapato formal,Mochila,Soleado,Viernes,2023-09-10,4,2,Alto
+111,Administración,Femenino,23,Pantalón de vestir,Beige,Alpargata,Mochila,Lluvioso,Miércoles,2023-01-19,3,2,Alto
+112,Administración,FEMENINO,18,Vestido,Rosado,Casual,Mochila,Soleado,Miércoles,2023-05-12,1,1,Medio
+113,Economía,Masculino,20,Pantalón de vestir,Marrón,Alpargata,Mochila,Soleado,Jueves,2023-05-29,5,3,Bajo
+114,Economía,Femenino,18,Jeans,Azul,Deportivo,Mochila,Frío,Martes,2023-05-08,1,2,Bajo
+115,Contaduría,Femenino,29,Short,Negro,Casual,Mochila,Soleado,Martes,2023-07-11,5,1,Bajo
+116,Economía,Femenino,29,Pantalón corto,Rosado,Deportivo,Gorra,Nublado,Miércoles,2023-02-11,4,4,Bajo
+117,Economía,Femenino,28,Short,Marrón,Casual,Bolso,Soleado,Martes,2023-01-05,3,5,Bajo
+118,Administración,Femenino,23,Vestido,Gris,Zapatilla,Bolso,Soleado,Miércoles,2023-12-04,3,1,Bajo
+119,Economía,Femenino,18,Mono,Marrón,Casual,Mochila,Lluvioso,Viernes,2023-12-02,3,5,Medio
+120,Contaduría,Femenino,29,Jeans,Azul,Deportivo,Ninguno,Frío,Jueves,2023-01-04,5,2,Alto
+121,Economía,Femenino,27,Jeans,Beige,Casual,Lentes,Lluvioso,Lunes,2023-07-20,3,2,Medio
+122,Economía,Masculino,17,Short,Gris,Deportivo,Lentes,Frío,Jueves,2023-05-26,1,1,Alto
+123,Administración,Femenino,25,Pantalón de vestir,Rojo,Zapato formal,Lentes,Soleado,Miércoles,2023-02-26,3,5,Medio
+124,Administración,Masculino,17,Vestido,Verde,Casual,Ninguno,Frío,Miércoles,2023-12-20,4,2,Bajo
+125,Administración,Femenino,24,Jogger,Beige,Casual,Bolso,Soleado,Jueves,2023-04-18,1,4,Medio
+126,Administración,FEMENINO,18,Pantalón de vestir,Verde,Casual,Mochila,Nublado,Miércoles,2023-05-03,3,3,Bajo
+127,Economía,Femenino,28,Jeans,Rosado,Casual,Bolso,Nublado,Martes,2023-12-26,3,3,Medio
+128,Economía,Femenino,24,Leggins,Negro,Deportivo,Gorra,Caluroso,Martes,2023-08-06,2,2,Medio
+129,Administración,masculino,29,Jeans,Gris,Sandalia,Gorra,Lluvioso,Miércoles,2023-10-24,5,5,Alto
+130,Contaduría,Masculino,19,Vestido,Blanco,Deportivo,Bolso,Soleado,Miércoles,2023-02-05,1,2,Bajo
+131,Administración,Masculino,22,Pantalón de vestir,Gris,Sandalia,Mochila,Soleado,Martes,2023-03-22,2,5,Bajo
+132,Administración,Femenino,19,Short,Marrón,Zapato formal,Mochila,Frío,Miércoles,2023-01-03,4,4,Alto
+133,Administración,Femenino,23,Jeans,Marrón,Zapato formal,Ninguno,Nublado,Miércoles,2023-09-25,5,5,Bajo
+134,Administración,Masculino,26,Short,Marrón,Casual,Bolso,Frío,Jueves,2023-05-10,1,2,Medio
+135,Economía,Otro,25,Pantalón de vestir,Rosado,Casual,Bolso,Soleado,Lunes,2023-06-10,3,4,Medio
+136,Administración,Masculino,18,Jeans,Beige,Deportivo,Mochila,Lluvioso,Martes,2023-12-21,1,1,Alto
+137,Contaduría,Masculino,28,Jeans,Blanco,Botas,Mochila,Soleado,Jueves,2023-06-17,3,3,Alto
+138,Contaduría,Femenino,28,Leggins,Blanco,Deportivo,Bufanda,Caluroso,Lunes,2023-04-21,5,2,Alto
+139,Administración,Masculino,21,Mono,Marrón,Casual,Bolso,Nublado,Miércoles,2023-10-15,3,2,Bajo
+140,Estadística,Femenino,29,Jeans,Verde,Deportivo,Gorra,Caluroso,Miércoles,2023-07-28,4,2,Alto
+141,Estadística,Femenino,22,Jeans,Rosado,Deportivo,Mochila,Soleado,Jueves,2023-05-28,3,4,Medio
+142,Administración,Femenino,20,Jeans,Marrón,Casual,Bolso,Nublado,Miércoles,2023-08-09,4,1,Medio
+143,Contaduría,Masculino,20,Short,Negro,Deportivo,Mochila,Nublado,Viernes,2023-08-19,5,5,Bajo
+144,Administración,Femenino,20,Short,Beige,Sandalia,Gorra,Lluvioso,Jueves,2023-04-30,5,1,Medio
+145,Administración,Femenino,18,Falda,Rojo,Deportivo,Mochila,Frío,Lunes,2023-07-30,1,4,Alto
+146,Administración,Masculino,20,Jeans,Negro,Deportivo,Mochila,Caluroso,Jueves,2023-02-10,4,2,Alto
+147,Contaduría,Femenino,27,Pantalón de vestir,Verde,Casual,Bolso,Caluroso,Martes,2023-04-24,4,3,Medio
+148,Contaduría,Masculino,17,Pantalón corto,Gris,Deportivo,Ninguno,Frío,Jueves,2023-03-03,2,2,Bajo
+149,Administración,Femenino,28,Pantalón de vestir,Gris,Deportivo,Mochila,Soleado,Miércoles,2023-12-06,2,5,Medio
+150,Administración,Masculino,22,Pantalón corto,Negro,Sandalia,Lentes,Soleado,Miércoles,2023-11-16,2,3,Alto
+151,Economía,Masculino,17,Jeans,Marrón,Deportivo,Mochila,Caluroso,Viernes,2023-11-03,3,2,Medio
+152,Administración,Femenino,26,Short,Rojo,Zapato formal,Mochila,Soleado,Viernes,2023-07-08,2,3,Medio
+153,Administración,Femenino,22,Pantalón de vestir,Azul,Deportivo,Mochila,Frío,Viernes,2023-07-18,4,1,Bajo
+154,Contaduría,Femenino,17,Pantalón de vestir,Azul,Deportivo,Mochila,Frío,Lunes,2023-07-21,3,4,Medio
+155,Estadística,Femenino,22,Leggins,Verde,Sandalia,Bolso,Nublado,Viernes,2023-06-21,5,2,Medio
+156,Administración,FEMENINO,26,Short,Marrón,Deportivo,Mochila,Caluroso,Lunes,2023-07-12,1,5,Alto
+157,Contaduría,Femenino,24,Pantalón corto,Blanco,Deportivo,Mochila,Lluvioso,Viernes,2023-11-28,2,1,Medio
+158,Contaduría,Masculino,27,Jeans,Blanco,Deportivo,Ninguno,Lluvioso,Lunes,2023-03-04,5,2,Medio
+159,Administración,Femenino,18,Jeans,Beige,Deportivo,Mochila,Soleado,Jueves,2023-03-17,4,1,Medio
+160,Contaduría,Masculino,18,Short,Rojo,Zapato formal,Gorra,Lluvioso,Jueves,2023-10-16,1,5,Bajo
+161,Administración,Masculino,29,Pantalón de vestir,Rojo,Deportivo,Mochila,Soleado,Miércoles,2023-04-30,5,2,Alto
+162,Contaduría,Masculino,28,Jeans,Gris,Botas,Bolso,Lluvioso,Lunes,2023-07-08,1,5,Medio
+163,Contaduría,Masculino,20,Jeans,Rosado,Zapato formal,Mochila,Frío,Martes,2023-05-22,2,3,Medio
+164,Contaduría,Femenino,27,Jeans,Verde,Casual,Mochila,Caluroso,Miércoles,2023-03-12,4,5,Medio
+165,Administración,Femenino,19,Mono,Azul,Alpargata,Mochila,Soleado,Jueves,2023-09-20,1,3,Medio
+166,Economía,Otro,20,Jeans,Verde,Deportivo,Mochila,Lluvioso,Lunes,2023-01-05,5,2,Medio
+167,Administración,Masculino,29,Jeans,Blanco,Zapatilla,Mochila,Caluroso,Viernes,2023-02-16,2,3,Medio
+168,Administración,masculino,28,Jeans,Blanco,Deportivo,Bolso,Soleado,Martes,2023-06-09,2,2,Bajo
+169,Administración,Femenino,23,Pantalón de vestir,Negro,Sandalia,Bufanda,Soleado,Jueves,2023-07-14,5,2,Medio
+170,Contaduría,Masculino,29,Jeans,Beige,Casual,Lentes,Soleado,Miércoles,2023-03-12,5,4,Bajo
+171,Contaduría,femenino,27,Falda,Rojo,Deportivo,Bolso,Nublado,Lunes,2023-08-16,1,2,Medio
+172,Administración,Femenino,17,Jeans,Verde,Casual,Mochila,Soleado,Martes,2023-05-07,3,3,Bajo
+173,Contaduría,Femenino,22,Vestido,Blanco,Sandalia,Mochila,Caluroso,Lunes,2023-09-06,2,4,Medio
+174,Administración,Masculino,19,Jeans,Rosado,Deportivo,Mochila,Lluvioso,Viernes,2023-04-19,1,4,Alto
+175,Contaduría,Masculino,27,Mono,Gris,Deportivo,Mochila,Nublado,Miércoles,2023-01-31,5,2,Alto
+176,Administración,Masculino,26,Mono,Azul,Sandalia,Bolso,Soleado,Lunes,2023-03-30,1,5,Medio
+177,Contaduría,Femenino,23,Short,Beige,Sandalia,Bolso,Lluvioso,Jueves,2023-10-29,5,5,Medio
+178,Administración,Masculino,26,Jeans,Rosado,Zapatilla,Mochila,Nublado,Miércoles,2023-11-19,4,4,Bajo
+179,Economía,Femenino,18,Jeans,Beige,Botas,Mochila,Frío,Jueves,2023-05-12,5,2,Medio
+180,Administración,Femenino,18,Jeans,Negro,Zapatilla,Lentes,Frío,Lunes,2023-03-05,5,5,Alto
+181,Administración,Femenino,29,Short,Blanco,Sandalia,Gorra,Nublado,Miércoles,2023-05-07,5,2,Bajo
+182,Administración,Masculino,20,Pantalón corto,Gris,Deportivo,Mochila,Caluroso,Jueves,2023-04-20,3,2,Medio
+183,Economía,Masculino,17,Short,Rosado,Deportivo,Ninguno,Frío,Viernes,2023-09-06,5,4,Alto
+184,Economía,Masculino,19,Jeans,Beige,Botas,Ninguno,Frío,Viernes,2023-04-19,2,4,Alto
+185,Administración,Femenino,29,Leggins,Rojo,Casual,Mochila,Soleado,Lunes,2023-11-07,2,1,Bajo
+186,Contaduría,Masculino,25,Pantalón de vestir,Negro,Deportivo,Mochila,Soleado,Miércoles,2023-02-24,1,5,Medio
+187,Economía,Femenino,23,Jeans,Rojo,Deportivo,Bolso,Soleado,Martes,2023-05-05,3,5,Bajo
+188,Contaduría,Masculino,23,Short,Gris,Zapatilla,Ninguno,Nublado,Miércoles,2023-10-23,1,5,Bajo
+189,Contaduría,Femenino,29,Pantalón corto,Rosado,Casual,Bufanda,Lluvioso,Viernes,2023-12-15,2,3,Alto
+190,Administración,Femenino,29,Jeans,Negro,Casual,Mochila,Lluvioso,Jueves,2023-12-10,2,2,Alto
+191,Administración,Masculino,27,Short,Rosado,Casual,Mochila,Caluroso,Martes,2023-08-12,4,4,Medio
+192,Economía,Femenino,20,Jeans,Blanco,Deportivo,Bolso,Caluroso,Lunes,2023-10-02,5,5,Bajo
+193,Economía,Masculino,18,Jeans,Marrón,Deportivo,Bolso,Caluroso,Martes,2023-03-22,2,1,Alto
+194,Contaduría,Masculino,20,Jeans,Negro,Deportivo,Mochila,Lluvioso,Lunes,2023-12-23,1,5,Medio
+195,Administración,Femenino,22,Pantalón de vestir,Rojo,Deportivo,Bufanda,Nublado,Martes,2023-03-19,1,2,Medio
+196,Administración,Masculino,27,Short,Gris,Botas,Bolso,Soleado,Lunes,2023-06-02,5,2,Medio
+197,Contaduría,Femenino,27,Jeans,Blanco,Casual,Lentes,Soleado,Lunes,2023-01-07,5,4,Bajo
+198,Economía,Masculino,19,Short,Marrón,Zapato formal,Bufanda,Soleado,Martes,2023-07-13,4,3,Medio
+199,Economía,Otro,17,Pantalón de vestir,Azul,Zapato formal,Gorra,Lluvioso,Martes,2023-09-26,3,4,Medio
+200,Contaduría,Masculino,28,Jogger,Blanco,Deportivo,Mochila,Lluvioso,Lunes,2023-05-26,1,5,Bajo
+201,Contaduría,Femenino,24,Jeans,Gris,Sandalia,Bolso,Frío,Viernes,2023-08-19,5,1,Bajo
+202,Administración,femenino,28,Pantalón de vestir,Beige,Casual,Mochila,Soleado,Martes,2023-05-13,1,4,Bajo
+203,Administración,Masculino,29,Jeans,Negro,Zapato formal,Bolso,Frío,Miércoles,2023-03-31,5,3,Bajo
+204,Economía,Femenino,21,Pantalón corto,Rosado,Deportivo,Mochila,Nublado,Jueves,2023-08-01,2,4,Medio
+205,Contaduría,Femenino,21,Jogger,Gris,Sandalia,Bolso,Soleado,Lunes,2023-04-08,1,2,Alto
+206,Administración,Masculino,27,Jeans,Negro,Casual,Mochila,Lluvioso,Lunes,2023-04-24,2,5,Bajo
+207,Administración,Masculino,20,Vestido,Rosado,Deportivo,Mochila,Soleado,Jueves,2023-12-13,1,5,Bajo
+208,Contaduría,Masculino,22,Short,Verde,Deportivo,Mochila,Nublado,Viernes,2023-02-19,3,5,Medio
+209,Administración,Masculino,19,Short,Rojo,Sandalia,Mochila,Lluvioso,Jueves,2023-03-09,4,5,Alto
+210,Administración,Masculino,25,Jeans,Azul,Sandalia,Gorra,Soleado,Martes,2023-09-30,2,5,Medio
+211,Contaduría,Femenino,21,Leggins,Blanco,Deportivo,Gorra,Soleado,Jueves,2023-01-03,5,5,Medio
+212,Contaduría,Femenino,19,Jeans,Gris,Casual,Bolso,Nublado,Lunes,2023-08-20,3,1,Medio
+213,Contaduría,Femenino,27,Vestido,Azul,Deportivo,Mochila,Caluroso,Jueves,2023-11-07,1,3,Bajo
+214,Administración,Masculino,17,Pantalón corto,Beige,Sandalia,Mochila,Lluvioso,Miércoles,2023-03-23,2,5,Bajo
+215,Contaduría,Femenino,26,Leggins,Negro,Deportivo,Mochila,Frío,Martes,2023-09-12,1,3,Medio
+216,Administración,Masculino,28,Jeans,Negro,Zapato formal,Mochila,Nublado,Jueves,2023-05-14,1,5,Medio
+217,Administración,Masculino,22,Jeans,Gris,Deportivo,Bufanda,Caluroso,Lunes,2023-05-21,1,4,Medio
+218,Contaduría,Masculino,18,Jeans,Marrón,Deportivo,Mochila,Frío,Martes,2023-03-19,4,5,Medio
+219,Contaduría,Femenino,29,Pantalón de vestir,Marrón,Deportivo,Mochila,Nublado,Lunes,2023-11-04,4,2,Medio
+220,Economía,Masculino,19,Jeans,Verde,Deportivo,Mochila,Nublado,Viernes,2023-05-29,5,1,Bajo
+221,Contaduría,Femenino,17,Jogger,Rojo,Casual,Mochila,Caluroso,Miércoles,2023-12-09,2,4,Medio
+222,Contaduría,Masculino,25,Vestido,Rosado,Deportivo,Bolso,Lluvioso,Viernes,2023-10-23,3,4,Bajo
+223,Administración,Femenino,24,Jeans,Beige,Zapato formal,Bolso,Lluvioso,Miércoles,2023-01-26,3,2,Bajo
+224,Administración,Femenino,28,Pantalón de vestir,Azul,Deportivo,Mochila,Soleado,Jueves,2023-12-16,3,5,Medio
+225,Administración,Masculino,18,Pantalón de vestir,Marrón,Deportivo,Mochila,Frío,Martes,2023-12-29,1,1,Alto
+226,Administración,Femenino,28,Short,Verde,Deportivo,Mochila,Frío,Jueves,2023-06-23,4,4,Alto
+227,Estadística,Femenino,27,Falda,Verde,Deportivo,Mochila,Soleado,Miércoles,2023-10-02,2,1,Medio
+228,Administración,Masculino,24,Jogger,Gris,Deportivo,Mochila,Nublado,Miércoles,2023-04-19,1,4,Bajo
+229,Economía,Masculino,28,Pantalón de vestir,Beige,Casual,Ninguno,Lluvioso,Miércoles,2023-08-18,4,5,Bajo
+230,Contaduría,Masculino,25,Pantalón corto,Rosado,Casual,Bolso,Soleado,Lunes,2023-04-16,4,4,Alto
+231,Contaduría,Masculino,17,Mono,Rojo,Casual,Bolso,Caluroso,Martes,2023-10-26,2,4,Medio
+232,Contaduría,Masculino,29,Jeans,Blanco,Casual,Mochila,Soleado,Jueves,2023-06-29,2,3,Medio
+233,Contaduría,Femenino,21,Jogger,Gris,Casual,Mochila,Soleado,Jueves,2023-12-24,2,5,Medio
+234,Contaduría,Femenino,24,Jeans,Rosado,Deportivo,Bolso,Nublado,Viernes,2023-10-06,1,2,Medio
+235,Administración,Femenino,27,Vestido,Blanco,Casual,Bolso,Frío,Miércoles,2023-03-30,5,2,Alto
+236,Contaduría,Otro,18,Pantalón de vestir,Blanco,Zapatilla,Gorra,Soleado,Miércoles,2023-05-08,2,5,Bajo
+237,Administración,Masculino,20,Mono,Beige,Casual,Mochila,Nublado,Miércoles,2023-04-15,5,2,Medio
+238,Administración,Femenino,23,Mono,Beige,Sandalia,Bolso,Nublado,Jueves,2023-03-06,1,5,Alto
+239,Contaduría,Masculino,19,Vestido,Azul,Deportivo,Mochila,Soleado,Viernes,2023-11-06,5,2,Bajo
+240,Administración,femenino,29,Leggins,Verde,Botas,Bufanda,Soleado,Lunes,2023-09-27,3,3,Medio
+241,Economía,Femenino,28,Jeans,Rosado,Botas,Bolso,Nublado,Martes,2023-05-17,5,2,Medio
+242,Estadística,Masculino,21,Jeans,Gris,Casual,Bolso,Soleado,Lunes,2023-04-26,2,4,Alto
+243,Economía,Masculino,24,Pantalón de vestir,Negro,Zapatilla,Mochila,Caluroso,Jueves,2023-05-03,1,5,Bajo
+244,Administración,Masculino,28,Jeans,Gris,Deportivo,Bolso,Frío,Miércoles,2023-05-24,2,1,Medio
+245,Administración,Femenino,26,Short,Azul,Deportivo,Mochila,Caluroso,Martes,2023-06-24,3,1,Bajo
+246,Economía,Masculino,19,Jeans,Rojo,Botas,Mochila,Soleado,Jueves,2023-02-15,2,5,Medio
+247,Administración,femenino,20,Pantalón corto,Verde,Zapato formal,Mochila,Caluroso,Jueves,2023-09-21,2,3,Bajo
+248,Estadística,Masculino,25,Short,Negro,Deportivo,Bolso,Lluvioso,Jueves,2023-05-19,2,2,Bajo
+249,Estadística,Masculino,23,Vestido,Marrón,Deportivo,Mochila,Lluvioso,Martes,2023-01-04,4,3,Medio
+250,Economía,Otro,17,Jeans,Rojo,Deportivo,Mochila,Soleado,Martes,2023-02-25,3,1,Alto
+251,Administración,Masculino,28,Mono,Beige,Deportivo,Bufanda,Soleado,Viernes,2023-09-06,2,5,Bajo
+252,Administración,Femenino,20,Jogger,Blanco,Botas,Mochila,Nublado,Viernes,2023-02-02,2,5,Bajo
+253,Economía,Masculino,20,Pantalón de vestir,Marrón,Casual,Bolso,Lluvioso,Lunes,2023-11-28,2,3,Medio
+254,Administración,Masculino,25,Short,Gris,Deportivo,Mochila,Soleado,Martes,2023-03-17,1,3,Medio
+255,Administración,Femenino,22,Leggins,Gris,Deportivo,Mochila,Nublado,Martes,2023-09-23,4,2,Alto
+256,Contaduría,Masculino,25,Jeans,Beige,Deportivo,Gorra,Soleado,Martes,2023-12-16,1,4,Bajo
+257,Economía,femenino,28,Falda,Azul,Deportivo,Mochila,Nublado,Viernes,2023-11-21,4,4,Medio
+258,Contaduría,Otro,22,Pantalón de vestir,Rosado,Casual,Mochila,Lluvioso,Jueves,2023-04-13,2,2,Bajo
+259,Contaduría,Masculino,22,Jeans,Marrón,Zapatilla,Bolso,Frío,Miércoles,2023-10-22,3,4,Bajo
+260,Administración,Femenino,21,Pantalón de vestir,Marrón,Zapato formal,Bolso,Frío,Viernes,2023-04-16,5,1,Medio
+261,Contaduría,FEMENINO,21,Jeans,Rojo,Deportivo,Bolso,Lluvioso,Martes,2023-01-26,5,4,Medio
+262,Estadística,Masculino,18,Jeans,Verde,Zapato formal,Mochila,Lluvioso,Viernes,2023-01-02,2,2,Medio
+263,Administración,Femenino,24,Jeans,Rojo,Botas,Mochila,Lluvioso,Lunes,2023-10-04,1,4,Medio
+264,Contaduría,Otro,24,Pantalón corto,Rosado,Botas,Gorra,Frío,Martes,2023-01-28,3,5,Medio
+265,Economía,Masculino,27,Vestido,Gris,Casual,Bolso,Lluvioso,Lunes,2023-03-24,4,3,Medio
+266,Contaduría,Masculino,29,Pantalón corto,Gris,Deportivo,Lentes,Soleado,Martes,2023-02-26,2,1,Alto
+267,Contaduría,Masculino,17,Pantalón de vestir,Gris,Deportivo,Lentes,Soleado,Viernes,2023-04-26,3,5,Bajo
+268,Contaduría,Femenino,24,Jeans,Gris,Deportivo,Lentes,Lluvioso,Jueves,2023-04-15,3,5,Bajo
+269,Administración,Femenino,21,Falda,Rosado,Deportivo,Mochila,Lluvioso,Miércoles,2023-08-21,4,2,Medio
+270,Administración,Femenino,18,Pantalón de vestir,Beige,Deportivo,Mochila,Frío,Lunes,2023-05-22,3,3,Medio
+271,Economía,Masculino,18,Jeans,Verde,Casual,Gorra,Soleado,Viernes,2023-04-13,1,3,Bajo
+272,Economía,Femenino,22,Short,Rosado,Sandalia,Mochila,Lluvioso,Jueves,2023-03-09,1,1,Alto
+273,Economía,Femenino,27,Jeans,Verde,Casual,Mochila,Frío,Viernes,2023-03-26,1,2,Bajo
+274,Economía,Femenino,29,Short,Rosado,Deportivo,Bufanda,Frío,Lunes,2023-02-25,3,1,Alto
+275,Contaduría,Masculino,25,Short,Gris,Zapatilla,Bufanda,Lluvioso,Miércoles,2023-12-06,1,4,Bajo
+276,Contaduría,Otro,17,Jeans,Beige,Alpargata,Mochila,Lluvioso,Viernes,2023-10-27,4,5,Medio
+277,Contaduría,Femenino,28,Jeans,Marrón,Botas,Mochila,Lluvioso,Martes,2023-08-31,3,1,Alto
+278,Contaduría,Femenino,22,Leggins,Rojo,Zapatilla,Mochila,Caluroso,Jueves,2023-06-21,5,5,Bajo
+279,Contaduría,Masculino,25,Pantalón de vestir,Blanco,Casual,Lentes,Soleado,Viernes,2023-02-08,3,2,Alto
+280,Contaduría,Masculino,24,Jeans,Beige,Zapatilla,Ninguno,Caluroso,Jueves,2023-11-05,4,4,Medio
+281,Economía,Femenino,27,Pantalón corto,Marrón,Deportivo,Mochila,Nublado,Martes,2023-07-19,5,2,Alto
+282,Administración,Masculino,22,Jeans,Azul,Deportivo,Mochila,Nublado,Miércoles,2023-03-27,3,4,Medio
+283,Administración,Femenino,19,Short,Rosado,Deportivo,Bufanda,Soleado,Miércoles,2023-02-28,1,4,Medio
+284,Administración,Femenino,24,Pantalón corto,Azul,Deportivo,Mochila,Lluvioso,Martes,2023-01-06,2,5,Bajo
+285,Contaduría,Masculino,25,Jeans,Marrón,Deportivo,Bolso,Lluvioso,Jueves,2023-04-15,2,2,Medio
+286,Administración,Femenino,17,Jeans,Beige,Casual,Ninguno,Soleado,Viernes,2023-01-09,1,2,Bajo
+287,Contaduría,Otro,28,Jeans,Rosado,Botas,Mochila,Nublado,Martes,2023-01-16,2,1,Bajo
+288,Contaduría,Femenino,25,Jeans,Blanco,Casual,Bolso,Caluroso,Lunes,2023-09-12,2,2,Bajo
+289,Administración,Masculino,22,Jeans,Gris,Deportivo,Mochila,Nublado,Jueves,2023-06-13,1,1,Medio
+290,Contaduría,Masculino,22,Short,Rosado,Zapato formal,Mochila,Frío,Miércoles,2023-02-15,1,3,Medio
+291,Administración,Femenino,28,Jeans,Rosado,Casual,Lentes,Soleado,Martes,2023-01-14,3,3,Bajo
+292,Administración,Masculino,20,Short,Beige,Deportivo,Mochila,Lluvioso,Miércoles,2023-04-11,3,3,Bajo
+293,Economía,Femenino,17,Pantalón corto,Beige,Sandalia,Sombrero,Soleado,Jueves,2023-09-01,1,2,Medio
+294,Administración,masculino,26,Vestido,Marrón,Deportivo,Bolso,Nublado,Miércoles,2023-02-06,4,2,Bajo
+295,Administración,Femenino,24,Short,Negro,Deportivo,Mochila,Caluroso,Martes,2023-10-13,2,1,Bajo
+296,Contaduría,Femenino,18,Jeans,Rosado,Alpargata,Mochila,Nublado,Jueves,2023-08-21,3,4,Bajo
+297,Contaduría,Femenino,28,Short,Rojo,Deportivo,Mochila,Soleado,Lunes,2023-05-02,2,1,Alto
+298,Administración,MASCULINO,17,Jeans,Rosado,Casual,Mochila,Lluvioso,Martes,2023-05-03,5,3,Alto
+299,Contaduría,Masculino,18,Pantalón de vestir,Marrón,Zapato formal,Mochila,Nublado,Viernes,2023-04-22,1,1,Medio
+300,Administración,Masculino,17,Jeans,Verde,Sandalia,Mochila,Lluvioso,Martes,2023-07-13,4,4,Medio
+301,Administración,Femenino,17,Mono,Azul,Deportivo,Mochila,Frío,Jueves,2023-12-29,5,2,Medio
+302,Contaduría,Masculino,25,Pantalón de vestir,Gris,Deportivo,Gorra,Frío,Martes,2023-03-20,5,1,Medio
+303,Contaduría,Femenino,29,Jeans,Negro,Deportivo,Bolso,Nublado,Lunes,2023-11-03,5,3,Medio
+304,Contaduría,Masculino,17,Pantalón de vestir,Blanco,Casual,Gorra,Lluvioso,Lunes,2023-03-14,1,3,Medio
+305,Contaduría,Femenino,29,Pantalón de vestir,Blanco,Casual,Mochila,Soleado,Viernes,2023-02-20,3,2,Bajo
+306,Estadística,Femenino,20,Vestido,Blanco,Deportivo,Mochila,Soleado,Miércoles,2023-02-22,1,1,Bajo
+307,Contaduría,Femenino,26,Leggins,Beige,Zapatilla,Bolso,Lluvioso,Jueves,2023-07-01,3,4,Medio
+308,Administración,Masculino,22,Mono,Blanco,Casual,Mochila,Lluvioso,Jueves,2023-01-03,5,2,Alto
+309,Contaduría,Masculino,23,Jeans,Gris,Deportivo,Mochila,Nublado,Miércoles,2023-02-13,5,1,Medio
+310,Administración,Femenino,18,Pantalón de vestir,Azul,Casual,Lentes,Nublado,Lunes,2023-03-04,4,5,Alto
+311,Administración,Masculino,22,Pantalón de vestir,Blanco,Sandalia,Gorra,Soleado,Lunes,2023-09-13,3,3,Alto
+312,Administración,Masculino,23,Jeans,Rosado,Deportivo,Bolso,Lluvioso,Martes,2023-11-02,5,4,Bajo
+313,Administración,Masculino,26,Jeans,Rosado,Deportivo,Mochila,Soleado,Viernes,2023-06-06,2,4,Medio
+314,Estadística,Femenino,26,Leggins,Beige,Zapato formal,Gorra,Soleado,Viernes,2023-08-04,4,4,Medio
+315,Economía,Femenino,18,Jeans,Gris,Casual,Bolso,Frío,Viernes,2023-11-22,1,3,Alto
+316,Contaduría,Masculino,18,Jeans,Azul,Casual,Gorra,Soleado,Martes,2023-09-19,4,1,Alto
+317,Administración,Femenino,26,Jeans,Negro,Casual,Gorra,Lluvioso,Viernes,2023-01-01,2,2,Medio
+318,Administración,Femenino,23,Jeans,Marrón,Deportivo,Lentes,Soleado,Miércoles,2023-03-03,3,1,Bajo
+319,Administración,Masculino,28,Jeans,Azul,Deportivo,Bolso,Caluroso,Martes,2023-12-26,1,2,Medio
+320,Administración,femenino,17,Pantalón corto,Marrón,Casual,Mochila,Nublado,Miércoles,2023-03-13,1,4,Bajo
+321,Contaduría,Femenino,24,Vestido,Verde,Deportivo,Bolso,Soleado,Martes,2023-05-26,3,1,Medio
+322,Contaduría,Femenino,27,Pantalón corto,Marrón,Deportivo,Bolso,Nublado,Viernes,2023-12-10,4,4,Alto
+323,Contaduría,Masculino,29,Pantalón de vestir,Rojo,Zapato formal,Gorra,Frío,Miércoles,2023-10-14,5,5,Medio
+324,Administración,Femenino,19,Jeans,Rosado,Zapatilla,Mochila,Caluroso,Miércoles,2023-02-06,4,4,Medio
+325,Estadística,Femenino,27,Falda,Gris,Botas,Mochila,Soleado,Miércoles,2023-08-23,2,4,Medio
+326,Contaduría,Femenino,22,Pantalón de vestir,Beige,Zapato formal,Bufanda,Caluroso,Martes,2023-05-14,5,2,Medio
+327,Contaduría,Masculino,25,Vestido,Rojo,Deportivo,Gorra,Caluroso,Jueves,2023-11-15,4,5,Medio
+328,Contaduría,Masculino,22,Jeans,Marrón,Zapatilla,Ninguno,Caluroso,Viernes,2023-02-08,3,4,Medio
+329,Administración,Femenino,25,Pantalón de vestir,Blanco,Deportivo,Gorra,Nublado,Miércoles,2023-05-06,2,4,Alto
+330,Administración,Femenino,23,Jeans,Gris,Zapatilla,Bolso,Nublado,Jueves,2023-04-08,2,5,Alto
+331,Administración,Femenino,25,Jeans,Rojo,Zapatilla,Bolso,Lluvioso,Viernes,2023-05-10,2,5,Bajo
+332,Contaduría,Masculino,18,Mono,Beige,Sandalia,Bufanda,Frío,Viernes,2023-11-01,5,1,Alto
+333,Administración,Femenino,28,Pantalón de vestir,Rosado,Zapatilla,Bolso,Nublado,Miércoles,2023-04-22,1,2,Medio
+334,Administración,Femenino,24,Pantalón de vestir,Gris,Casual,Bolso,Nublado,Miércoles,2023-02-26,5,5,Bajo
+335,Administración,Masculino,24,Pantalón de vestir,Beige,Deportivo,Mochila,Lluvioso,Martes,2023-11-20,4,5,Bajo
+336,Administración,Femenino,18,Pantalón de vestir,Verde,Casual,Mochila,Frío,Jueves,2023-01-09,1,3,Bajo
+337,Economía,Masculino,28,Pantalón de vestir,Verde,Casual,Gorra,Frío,Jueves,2023-06-11,4,5,Alto
+338,Contaduría,Femenino,20,Mono,Beige,Deportivo,Mochila,Soleado,Miércoles,2023-10-15,1,2,Medio
+339,Contaduría,Femenino,27,Pantalón corto,Rojo,Casual,Mochila,Frío,Viernes,2023-09-12,5,4,Medio
+340,Administración,Femenino,23,Leggins,Gris,Zapatilla,Mochila,Nublado,Miércoles,2023-04-18,2,4,Bajo
+341,Contaduría,Masculino,27,Jeans,Rojo,Deportivo,Mochila,Frío,Viernes,2023-06-30,3,4,Medio
+342,Contaduría,Masculino,20,Short,Negro,Botas,Mochila,Lluvioso,Viernes,2023-09-09,2,4,Bajo
+343,Administración,Masculino,20,Pantalón de vestir,Marrón,Alpargata,Mochila,Lluvioso,Miércoles,2023-11-19,5,3,Medio
+344,Administración,Femenino,22,Jeans,Negro,Alpargata,Ninguno,Caluroso,Lunes,2023-09-03,1,5,Medio
+345,Administración,Masculino,26,Vestido,Verde,Zapatilla,Bolso,Soleado,Jueves,2023-02-09,2,4,Bajo
+346,Contaduría,Femenino,22,Jeans,Rosado,Casual,Mochila,Frío,Viernes,2023-10-10,5,1,Alto
+347,Contaduría,Femenino,26,Jogger,Azul,Zapatilla,Mochila,Lluvioso,Viernes,2023-02-14,4,4,Bajo
+348,Administración,Masculino,19,Pantalón de vestir,Marrón,Botas,Bolso,Nublado,Lunes,2023-11-14,3,5,Medio
+349,Administración,Femenino,25,Short,Verde,Deportivo,Mochila,Lluvioso,Martes,2023-07-28,2,4,Medio
+350,Contaduría,Femenino,28,Short,Rojo,Casual,Lentes,Nublado,Lunes,2023-04-12,1,3,Medio
+351,Contaduría,Femenino,26,Mono,Rojo,Sandalia,Bolso,Lluvioso,Lunes,2023-12-05,4,2,Bajo
+352,Economía,Femenino,27,Short,Rojo,Deportivo,Gorra,Soleado,Viernes,2023-10-01,5,2,Bajo
+353,Contaduría,Femenino,18,Short,Rosado,Casual,Mochila,Soleado,Jueves,2023-06-26,3,5,Alto
+354,Administración,Masculino,22,Jeans,Negro,Sandalia,Bolso,Soleado,Lunes,2023-07-30,1,2,Bajo
+355,Administración,Femenino,28,Falda,Azul,Deportivo,Mochila,Caluroso,Martes,2023-09-22,5,2,Alto
+356,Contaduría,Masculino,23,Jeans,Rojo,Casual,Ninguno,Caluroso,Miércoles,2023-10-07,5,1,Alto
+357,Administración,Masculino,28,Mono,Marrón,Botas,Bolso,Lluvioso,Lunes,2023-12-20,2,5,Bajo
+358,Contaduría,Femenino,29,Falda,Gris,Casual,Mochila,Frío,Lunes,2023-11-24,2,5,Bajo
+359,Economía,Femenino,25,Short,Azul,Deportivo,Mochila,Lluvioso,Martes,2023-11-27,1,2,Medio
+360,Contaduría,Femenino,29,Jeans,Rosado,Deportivo,Mochila,Nublado,Jueves,2023-02-06,5,2,Alto
+361,Administración,Masculino,19,Jeans,Azul,Deportivo,Bolso,Frío,Lunes,2023-04-10,2,2,Alto
+362,Contaduría,Femenino,26,Leggins,Gris,Alpargata,Mochila,Caluroso,Lunes,2023-05-27,3,3,Medio
+363,Contaduría,Masculino,19,Jeans,Marrón,Deportivo,Bolso,Lluvioso,Jueves,2023-09-23,3,4,Medio
+364,Contaduría,Femenino,23,Jeans,Gris,Casual,Mochila,Frío,Martes,2023-12-11,5,3,Bajo
+365,Economía,Masculino,20,Jeans,Beige,Deportivo,Bolso,Soleado,Lunes,2023-01-13,2,5,Alto
+366,Administración,Femenino,29,Pantalón corto,Marrón,Deportivo,Lentes,Caluroso,Jueves,2023-12-12,1,1,Alto
+367,Estadística,Femenino,24,Leggins,Azul,Zapato formal,Gorra,Soleado,Lunes,2023-05-19,1,4,Bajo
+368,Economía,femenino,29,Pantalón de vestir,Rojo,Sandalia,Gorra,Nublado,Miércoles,2023-10-25,1,1,Bajo
+369,Administración,Masculino,23,Jeans,Azul,Deportivo,Mochila,Nublado,Viernes,2023-07-01,3,5,Bajo
+370,Administración,Femenino,21,Jeans,Azul,Casual,Mochila,Nublado,Miércoles,2023-07-29,2,5,Bajo
+371,Administración,Masculino,23,Vestido,Marrón,Deportivo,Bolso,Soleado,Lunes,2023-11-28,2,1,Alto
+372,Administración,Masculino,19,Short,Beige,Casual,Mochila,Caluroso,Martes,2023-06-24,3,1,Medio
+373,Administración,Masculino,28,Jeans,Azul,Sandalia,Mochila,Soleado,Viernes,2023-12-28,1,1,Bajo
+374,Contaduría,Masculino,18,Jeans,Verde,Deportivo,Mochila,Nublado,Miércoles,2023-07-21,1,5,Medio
+375,Administración,Femenino,22,Jeans,Blanco,Deportivo,Mochila,Soleado,Jueves,2023-03-03,5,2,Alto
+376,Administración,Femenino,18,Short,Blanco,Deportivo,Mochila,Lluvioso,Martes,2023-06-06,4,1,Medio
+377,Economía,Femenino,19,Leggins,Azul,Alpargata,Bufanda,Nublado,Miércoles,2023-04-05,2,4,Medio
+378,Administración,Masculino,22,Jeans,Rojo,Zapatilla,Mochila,Lluvioso,Jueves,2023-08-30,2,5,Bajo
+379,Economía,Masculino,21,Jeans,Rosado,Deportivo,Bolso,Soleado,Lunes,2023-05-23,2,3,Alto
+380,Administración,Femenino,24,Jeans,Rosado,Botas,Mochila,Soleado,Jueves,2023-02-18,4,3,Alto
+381,Administración,Femenino,25,Pantalón corto,Marrón,Deportivo,Bolso,Lluvioso,Miércoles,2023-04-16,5,4,Bajo
+382,Contaduría,Masculino,27,Jeans,Blanco,Deportivo,Mochila,Frío,Miércoles,2023-07-22,4,2,Bajo
+383,Contaduría,FEMENINO,19,Leggins,Azul,Botas,Bufanda,Caluroso,Lunes,2023-02-07,1,1,Bajo
+384,Economía,Masculino,28,Short,Rosado,Alpargata,Bufanda,Soleado,Jueves,2023-09-23,1,5,Bajo
+385,Contaduría,Femenino,26,Pantalón de vestir,Azul,Zapatilla,Mochila,Lluvioso,Jueves,2023-05-18,2,1,Medio
+386,Economía,Femenino,19,Jeans,Marrón,Casual,Ninguno,Soleado,Lunes,2023-12-24,3,5,Alto
+387,Administración,Femenino,19,Jeans,Blanco,Deportivo,Sombrero,Soleado,Jueves,2023-07-12,2,3,Medio
+388,Administración,Otro,29,Short,Gris,Botas,Lentes,Nublado,Lunes,2023-01-09,3,1,Alto
+389,Contaduría,Femenino,29,Leggins,Verde,Deportivo,Lentes,Nublado,Martes,2023-10-27,4,4,Medio
+390,Economía,Masculino,22,Short,Verde,Casual,Mochila,Soleado,Miércoles,2023-12-14,1,2,Medio
+391,Estadística,Femenino,17,Falda,Rosado,Deportivo,Bolso,Soleado,Martes,2023-03-15,3,4,Medio
+392,Administración,Masculino,23,Jeans,Verde,Sandalia,Mochila,Soleado,Viernes,2023-02-02,4,2,Bajo
+393,Administración,Masculino,28,Pantalón corto,Gris,Deportivo,Mochila,Frío,Viernes,2023-01-28,1,1,Medio
+394,Contaduría,Masculino,17,Mono,Azul,Deportivo,Sombrero,Caluroso,Viernes,2023-09-22,3,1,Medio
+395,Administración,Femenino,21,Jeans,Marrón,Alpargata,Mochila,Soleado,Lunes,2023-01-05,2,2,Bajo
+396,Economía,Femenino,26,Pantalón corto,Gris,Deportivo,Gorra,Soleado,Jueves,2023-12-27,2,3,Medio
+397,Economía,Femenino,29,Short,Marrón,Casual,Lentes,Caluroso,Martes,2023-03-23,2,5,Medio
+398,Administración,Otro,24,Short,Marrón,Deportivo,Bufanda,Caluroso,Martes,2023-10-20,4,4,Alto
+399,Contaduría,Masculino,20,Mono,Blanco,Deportivo,Sombrero,Lluvioso,Martes,2023-05-15,2,4,Medio
+400,Contaduría,Masculino,21,Vestido,Azul,Deportivo,Mochila,Soleado,Martes,2023-08-16,5,4,Alto
+401,Administración,Masculino,20,Short,Verde,Deportivo,Mochila,Soleado,Viernes,2023-08-24,1,1,Medio
+402,Economía,Masculino,28,Jeans,Blanco,Zapato formal,Mochila,Nublado,Martes,2023-12-22,4,4,Medio
+403,Contaduría,Femenino,28,Jeans,Marrón,Deportivo,Mochila,Lluvioso,Jueves,2023-04-28,2,5,Medio
+404,Economía,Otro,20,Jogger,Rosado,Zapatilla,Mochila,Soleado,Viernes,2023-11-13,1,5,Alto
+405,Administración,Femenino,28,Jeans,Verde,Casual,Mochila,Nublado,Martes,2023-11-16,3,2,Medio
+406,Economía,Femenino,24,Pantalón de vestir,Verde,Casual,Gorra,Soleado,Lunes,2023-07-24,2,1,Medio
+407,Administración,Masculino,18,Pantalón de vestir,Azul,Casual,Bolso,Frío,Miércoles,2023-09-02,1,5,Medio
+408,Administración,Femenino,17,Pantalón de vestir,Beige,Casual,Mochila,Lluvioso,Miércoles,2023-01-22,5,3,Medio
+409,Economía,Femenino,19,Short,Negro,Botas,Bolso,Soleado,Miércoles,2023-08-09,3,1,Bajo
+410,Administración,Masculino,25,Jogger,Negro,Deportivo,Mochila,Nublado,Viernes,2023-04-09,5,1,Bajo
+411,Administración,Femenino,20,Jeans,Negro,Deportivo,Mochila,Lluvioso,Martes,2023-04-22,1,5,Bajo
+412,Estadística,Masculino,26,Jeans,Beige,Zapato formal,Gorra,Caluroso,Viernes,2023-08-03,5,3,Alto
+413,Estadística,Femenino,21,Jeans,Azul,Alpargata,Bolso,Nublado,Jueves,2023-03-01,1,2,Bajo
+414,Contaduría,Femenino,18,Mono,Beige,Zapato formal,Gorra,Soleado,Lunes,2023-09-24,1,5,Bajo
+415,Contaduría,Femenino,20,Short,Negro,Casual,Mochila,Frío,Lunes,2023-09-28,5,3,Medio
+416,Administración,Femenino,18,Jeans,Blanco,Botas,Lentes,Soleado,Miércoles,2023-03-25,1,1,Medio
+417,Administración,Masculino,18,Vestido,Gris,Casual,Bolso,Caluroso,Miércoles,2023-03-29,2,3,Medio
+418,Administración,Femenino,20,Mono,Marrón,Casual,Bolso,Lluvioso,Miércoles,2023-04-25,1,1,Bajo
+419,Contaduría,Masculino,22,Vestido,Beige,Deportivo,Bolso,Nublado,Martes,2023-12-07,4,5,Alto
+420,Contaduría,Masculino,23,Jogger,Azul,Casual,Bufanda,Soleado,Jueves,2023-03-21,1,5,Alto
+421,Contaduría,Masculino,26,Jeans,Azul,Deportivo,Bolso,Lluvioso,Jueves,2023-06-07,4,4,Alto
+422,Contaduría,femenino,19,Leggins,Gris,Deportivo,Bolso,Frío,Jueves,2023-10-03,1,4,Medio
+423,Administración,Masculino,19,Pantalón de vestir,Rosado,Zapato formal,Sombrero,Frío,Jueves,2023-03-26,1,4,Medio
+424,Contaduría,Femenino,26,Vestido,Verde,Deportivo,Gorra,Soleado,Miércoles,2023-06-04,5,5,Bajo
+425,Administración,Femenino,22,Leggins,Negro,Deportivo,Mochila,Soleado,Lunes,2023-03-27,2,2,Bajo
+426,Contaduría,Femenino,29,Leggins,Rosado,Deportivo,Gorra,Frío,Miércoles,2023-08-22,2,5,Bajo
+427,Administración,Masculino,28,Short,Negro,Alpargata,Mochila,Caluroso,Jueves,2023-08-20,3,3,Medio
+428,Economía,Femenino,19,Jeans,Gris,Casual,Mochila,Soleado,Miércoles,2023-04-13,5,5,Medio
+429,Administración,Masculino,29,Short,Negro,Casual,Bolso,Lluvioso,Jueves,2023-11-19,5,5,Medio
+430,Administración,Masculino,18,Pantalón corto,Gris,Zapato formal,Ninguno,Lluvioso,Viernes,2023-09-11,2,1,Bajo
+431,Administración,Femenino,24,Jogger,Rojo,Zapato formal,Ninguno,Caluroso,Lunes,2023-05-24,5,1,Medio
+432,Contaduría,Masculino,21,Jeans,Rosado,Deportivo,Mochila,Soleado,Viernes,2023-11-21,2,1,Medio
+433,Contaduría,Femenino,17,Jeans,Rosado,Sandalia,Bolso,Soleado,Martes,2023-07-11,5,5,Medio
+434,Administración,Femenino,19,Jeans,Verde,Botas,Mochila,Frío,Miércoles,2023-01-31,1,2,Medio
+435,Administración,Masculino,26,Mono,Gris,Sandalia,Sombrero,Soleado,Martes,2023-11-03,2,3,Bajo
+436,Contaduría,Masculino,24,Vestido,Beige,Deportivo,Sombrero,Lluvioso,Miércoles,2023-11-27,2,3,Alto
+437,Administración,Masculino,20,Jeans,Rojo,Zapato formal,Bolso,Lluvioso,Viernes,2023-11-02,4,2,Medio
+438,Economía,Femenino,23,Falda,Blanco,Casual,Lentes,Lluvioso,Jueves,2023-05-16,5,2,Bajo
+439,Contaduría,Femenino,26,Vestido,Negro,Deportivo,Gorra,Lluvioso,Jueves,2023-10-15,5,3,Bajo
+440,Administración,Masculino,28,Vestido,Rojo,Casual,Bolso,Nublado,Miércoles,2023-08-05,2,4,Medio
+441,Administración,Masculino,18,Jogger,Gris,Deportivo,Mochila,Soleado,Jueves,2023-04-18,1,1,Alto
+442,Estadística,Masculino,23,Vestido,Marrón,Deportivo,Mochila,Nublado,Viernes,2023-09-10,1,1,Medio
+443,Administración,Femenino,21,Falda,Negro,Botas,Bolso,Frío,Jueves,2023-10-24,1,3,Bajo
+444,Administración,Masculino,21,Jeans,Azul,Deportivo,Bolso,Frío,Viernes,2023-08-02,5,2,Alto
+445,Economía,Femenino,22,Falda,Rosado,Casual,Mochila,Soleado,Martes,2023-08-02,4,4,Medio
+446,Economía,Femenino,29,Short,Gris,Casual,Ninguno,Soleado,Viernes,2023-10-12,2,3,Medio
+447,Estadística,Otro,25,Mono,Azul,Deportivo,Mochila,Soleado,Lunes,2023-04-04,3,1,Medio
+448,Contaduría,Femenino,22,Short,Verde,Zapatilla,Bolso,Lluvioso,Lunes,2023-10-27,4,5,Bajo
+449,Administración,femenino,28,Leggins,Blanco,Deportivo,Bolso,Lluvioso,Lunes,2023-05-13,3,2,Medio
+450,Administración,Femenino,29,Jeans,Blanco,Deportivo,Bolso,Nublado,Miércoles,2023-12-04,4,5,Medio
+451,Contaduría,Femenino,24,Pantalón de vestir,Azul,Deportivo,Bolso,Soleado,Miércoles,2023-04-11,1,3,Alto
+452,Contaduría,Masculino,23,Jeans,Rosado,Deportivo,Mochila,Soleado,Miércoles,2023-10-03,5,1,Medio
+453,Administración,Masculino,25,Jeans,Verde,Deportivo,Mochila,Lluvioso,Viernes,2023-11-19,3,4,Medio
+454,Economía,Masculino,20,Pantalón corto,Marrón,Sandalia,Bolso,Nublado,Miércoles,2023-08-29,4,5,Medio
+455,Administración,Masculino,18,Pantalón corto,Rosado,Zapatilla,Bolso,Soleado,Martes,2023-01-30,5,4,Alto
+456,Contaduría,Masculino,23,Jeans,Rojo,Deportivo,Mochila,Nublado,Lunes,2023-05-25,3,1,Alto
+457,Administración,Masculino,22,Pantalón de vestir,Blanco,Sandalia,Gorra,Soleado,Viernes,2023-05-01,2,5,Medio
+458,Contaduría,Masculino,17,Vestido,Rojo,Sandalia,Mochila,Caluroso,Lunes,2023-01-05,4,4,Medio
+459,Administración,Femenino,27,Jeans,Negro,Zapato formal,Bolso,Caluroso,Miércoles,2023-01-26,2,4,Medio
+460,Administración,Masculino,25,Pantalón de vestir,Beige,Casual,Lentes,Soleado,Viernes,2023-03-24,1,5,Medio
+461,Administración,Femenino,25,Leggins,Gris,Deportivo,Mochila,Soleado,Jueves,2023-06-01,2,1,Bajo
+462,Contaduría,FEMENINO,28,Short,Verde,Deportivo,Mochila,Lluvioso,Martes,2023-01-27,2,4,Medio
+463,Contaduría,femenino,18,Jeans,Rosado,Sandalia,Gorra,Soleado,Miércoles,2023-07-04,4,3,Bajo
+464,Contaduría,Femenino,19,Pantalón de vestir,Blanco,Zapato formal,Bolso,Nublado,Miércoles,2023-03-27,1,5,Alto
+465,Estadística,Masculino,21,Mono,Rojo,Deportivo,Bolso,Frío,Martes,2023-04-08,2,2,Medio
+466,Administración,Otro,21,Mono,Negro,Deportivo,Lentes,Nublado,Martes,2023-04-04,5,2,Alto
+467,Administración,Femenino,17,Jeans,Gris,Alpargata,Lentes,Frío,Jueves,2023-09-02,3,1,Medio
+468,Economía,Masculino,24,Jogger,Gris,Zapato formal,Ninguno,Lluvioso,Miércoles,2023-08-24,2,3,Medio
+469,Administración,Otro,28,Jeans,Rosado,Zapatilla,Bolso,Soleado,Miércoles,2023-04-19,1,4,Medio
+470,Estadística,Femenino,24,Leggins,Verde,Botas,Mochila,Frío,Lunes,2023-12-06,2,2,Bajo
+471,Administración,Masculino,20,Jeans,Marrón,Deportivo,Mochila,Lluvioso,Viernes,2023-10-12,3,1,Medio
+472,Estadística,Femenino,29,Pantalón corto,Rosado,Casual,Mochila,Nublado,Viernes,2023-07-29,1,3,Bajo
+473,Administración,Otro,23,Pantalón de vestir,Rojo,Sandalia,Bolso,Soleado,Lunes,2023-10-28,4,3,Medio
+474,Economía,masculino,27,Jeans,Beige,Deportivo,Mochila,Soleado,Viernes,2023-06-24,1,1,Medio
+475,Contaduría,femenino,26,Jeans,Azul,Casual,Ninguno,Caluroso,Martes,2023-06-09,4,1,Medio
+476,Estadística,Masculino,19,Jeans,Marrón,Sandalia,Bolso,Soleado,Viernes,2023-07-14,1,4,Bajo
+477,Administración,Masculino,22,Mono,Verde,Deportivo,Bolso,Caluroso,Viernes,2023-03-01,3,1,Bajo
+478,Contaduría,Masculino,26,Pantalón corto,Negro,Botas,Mochila,Caluroso,Lunes,2023-03-07,3,4,Medio
+479,Estadística,Femenino,29,Pantalón de vestir,Marrón,Casual,Mochila,Frío,Jueves,2023-09-30,1,4,Alto
+480,Contaduría,Masculino,26,Pantalón de vestir,Blanco,Zapatilla,Mochila,Nublado,Viernes,2023-11-03,2,5,Medio
+481,Contaduría,Femenino,28,Leggins,Verde,Deportivo,Mochila,Nublado,Viernes,2023-11-03,3,3,Medio
+482,Contaduría,Masculino,25,Mono,Beige,Deportivo,Mochila,Caluroso,Jueves,2023-04-09,4,3,Medio
+483,Contaduría,Femenino,17,Falda,Blanco,Casual,Bolso,Soleado,Lunes,2023-10-07,4,3,Bajo
+484,Contaduría,Femenino,21,Pantalón de vestir,Marrón,Deportivo,Bufanda,Lluvioso,Jueves,2023-05-30,5,5,Alto
+485,Contaduría,Femenino,20,Pantalón de vestir,Azul,Sandalia,Bufanda,Nublado,Lunes,2023-03-04,4,4,Medio
+486,Economía,Masculino,24,Short,Azul,Botas,Bolso,Lluvioso,Martes,2023-12-27,5,4,Bajo
+487,Administración,Femenino,27,Jeans,Beige,Deportivo,Mochila,Lluvioso,Lunes,2023-02-27,1,1,Medio
+488,Administración,Masculino,28,Short,Gris,Casual,Bufanda,Lluvioso,Martes,2023-01-13,1,5,Bajo
+489,Estadística,Femenino,17,Pantalón de vestir,Negro,Casual,Bufanda,Nublado,Martes,2023-12-23,1,1,Alto
+490,Economía,Femenino,25,Leggins,Gris,Deportivo,Mochila,Caluroso,Lunes,2023-10-10,2,5,Bajo
+491,Contaduría,Masculino,22,Jeans,Azul,Alpargata,Gorra,Soleado,Miércoles,2023-03-15,2,1,Medio
+492,Contaduría,Masculino,20,Jogger,Azul,Zapato formal,Mochila,Caluroso,Lunes,2023-12-03,5,2,Bajo
+493,Administración,Femenino,28,Pantalón de vestir,Rojo,Sandalia,Lentes,Nublado,Viernes,2023-12-25,4,3,Medio
+494,Administración,Masculino,25,Short,Blanco,Sandalia,Sombrero,Frío,Viernes,2023-03-22,4,3,Medio
+495,Contaduría,Masculino,27,Jeans,Marrón,Casual,Mochila,Nublado,Miércoles,2023-01-23,1,4,Medio
+496,Administración,Masculino,21,Vestido,Negro,Alpargata,Bufanda,Frío,Martes,2023-06-07,3,2,Medio
+497,Contaduría,Femenino,21,Falda,Beige,Sandalia,Bolso,Soleado,Miércoles,2023-09-19,2,3,Alto
+498,Administración,Femenino,28,Falda,Marrón,Sandalia,Ninguno,Frío,Viernes,2023-07-07,2,4,Bajo
+499,Estadística,Masculino,21,Short,Rojo,Zapato formal,Mochila,Soleado,Miércoles,2023-07-15,1,2,Medio
+500,Estadística,Femenino,17,Short,Azul,Deportivo,Lentes,Caluroso,Lunes,2023-01-31,2,3,Bajo
+501,Contaduría,Masculino,17,Vestido,Beige,Zapato formal,Mochila,Caluroso,Miércoles,2023-03-04,1,1,Alto
+502,Contaduría,Masculino,24,Jeans,Azul,Deportivo,Mochila,Soleado,Martes,2023-02-04,5,5,Medio
+503,Administración,femenino,28,Vestido,Negro,Deportivo,Mochila,Soleado,Lunes,2023-12-17,4,2,Medio
+504,Economía,Masculino,24,Pantalón de vestir,Blanco,Deportivo,Ninguno,Frío,Jueves,2023-05-21,3,4,Medio
+505,Contaduría,MASCULINO,28,Jeans,Marrón,Zapatilla,Lentes,Soleado,Viernes,2023-01-22,4,2,Bajo
+506,Administración,Femenino,22,Jeans,Marrón,Zapato formal,Bufanda,Caluroso,Viernes,2023-12-03,4,4,Bajo
+507,Economía,Masculino,28,Jeans,Gris,Sandalia,Ninguno,Soleado,Miércoles,2023-04-03,5,2,Bajo
+508,Economía,Femenino,27,Leggins,Beige,Sandalia,Mochila,Soleado,Lunes,2023-08-21,2,4,Medio
+509,Economía,Masculino,29,Vestido,Rojo,Casual,Mochila,Caluroso,Jueves,2023-11-23,3,3,Bajo
+510,Contaduría,Masculino,20,Pantalón de vestir,Gris,Alpargata,Mochila,Nublado,Lunes,2023-12-23,2,1,Bajo
+511,Contaduría,Masculino,18,Jeans,Negro,Casual,Mochila,Frío,Viernes,2023-08-26,4,3,Alto
+512,Administración,FEMENINO,18,Pantalón de vestir,Rojo,Deportivo,Mochila,Lluvioso,Lunes,2023-08-13,1,1,Alto
+513,Economía,Masculino,25,Jeans,Blanco,Deportivo,Mochila,Nublado,Jueves,2023-03-28,4,3,Medio
+514,Economía,Femenino,21,Jeans,Blanco,Botas,Mochila,Nublado,Miércoles,2023-11-03,2,3,Medio
+515,Administración,Femenino,20,Pantalón de vestir,Blanco,Sandalia,Mochila,Nublado,Martes,2023-02-22,4,2,Bajo
+516,Administración,Masculino,26,Jeans,Blanco,Deportivo,Mochila,Nublado,Lunes,2023-02-25,1,5,Medio
+517,Administración,Femenino,29,Jeans,Gris,Deportivo,Mochila,Nublado,Martes,2023-03-20,5,4,Alto
+518,Economía,Femenino,17,Falda,Verde,Zapato formal,Ninguno,Lluvioso,Viernes,2023-09-09,2,4,Bajo
+519,Estadística,Femenino,23,Leggins,Rojo,Deportivo,Gorra,Soleado,Miércoles,2023-11-17,4,4,Bajo
+520,Administración,Femenino,19,Pantalón corto,Beige,Sandalia,Ninguno,Frío,Miércoles,2023-04-25,2,1,Medio
+521,Contaduría,Femenino,22,Jogger,Negro,Zapatilla,Mochila,Soleado,Lunes,2023-03-25,5,4,Medio
+522,Administración,Femenino,21,Short,Rosado,Casual,Mochila,Nublado,Miércoles,2023-11-10,4,4,Bajo
+523,Estadística,Femenino,21,Pantalón de vestir,Azul,Deportivo,Gorra,Soleado,Lunes,2023-05-09,4,2,Medio
+524,Economía,Femenino,27,Short,Beige,Sandalia,Mochila,Nublado,Lunes,2023-04-02,2,3,Medio
+525,Economía,FEMENINO,21,Leggins,Azul,Zapato formal,Mochila,Frío,Martes,2023-09-02,2,4,Medio
+526,Contaduría,Femenino,17,Jeans,Rojo,Casual,Mochila,Soleado,Miércoles,2023-09-04,1,5,Medio
+527,Administración,Femenino,17,Pantalón de vestir,Beige,Zapatilla,Mochila,Soleado,Lunes,2023-12-28,5,4,Alto
+528,Administración,Masculino,19,Vestido,Blanco,Deportivo,Mochila,Soleado,Martes,2023-05-01,1,1,Medio
+529,Administración,Femenino,28,Pantalón de vestir,Blanco,Casual,Mochila,Nublado,Jueves,2023-10-05,4,1,Alto
+530,Economía,femenino,26,Falda,Rosado,Sandalia,Bolso,Frío,Martes,2023-10-13,2,1,Medio
+531,Economía,Masculino,20,Jogger,Azul,Zapato formal,Mochila,Soleado,Martes,2023-08-29,4,4,Medio
+532,Estadística,Femenino,21,Jeans,Negro,Deportivo,Mochila,Frío,Lunes,2023-07-18,4,2,Medio
+533,Estadística,Femenino,18,Pantalón de vestir,Rojo,Zapato formal,Lentes,Lluvioso,Viernes,2023-01-03,3,5,Alto
+534,Contaduría,Masculino,24,Jeans,Blanco,Casual,Mochila,Lluvioso,Viernes,2023-12-29,3,4,Alto
+535,Contaduría,femenino,27,Jeans,Verde,Deportivo,Mochila,Caluroso,Viernes,2023-10-15,4,2,Bajo
+536,Economía,Masculino,27,Jeans,Gris,Deportivo,Bufanda,Lluvioso,Martes,2023-10-16,2,2,Alto
+537,Economía,Masculino,18,Vestido,Gris,Zapato formal,Mochila,Lluvioso,Lunes,2023-09-12,4,4,Alto
+538,Administración,Femenino,25,Jeans,Negro,Deportivo,Mochila,Soleado,Miércoles,2023-01-30,3,4,Medio
+539,Contaduría,MASCULINO,18,Mono,Gris,Deportivo,Mochila,Soleado,Martes,2023-12-03,2,2,Bajo
+540,Administración,Femenino,29,Jeans,Azul,Deportivo,Mochila,Soleado,Martes,2023-08-01,4,2,Alto
+541,Estadística,femenino,25,Jogger,Blanco,Zapato formal,Bolso,Soleado,Lunes,2023-12-10,5,2,Alto
+542,Contaduría,Masculino,23,Jeans,Blanco,Sandalia,Lentes,Nublado,Jueves,2023-05-13,5,4,Bajo
+543,Administración,Masculino,24,Pantalón de vestir,Verde,Botas,Mochila,Lluvioso,Martes,2023-06-19,4,2,Alto
+544,Contaduría,Masculino,27,Mono,Beige,Deportivo,Bolso,Nublado,Jueves,2023-05-12,2,1,Bajo
+545,Contaduría,Femenino,18,Vestido,Gris,Casual,Bolso,Soleado,Jueves,2023-05-28,4,4,Bajo
+546,Administración,Femenino,23,Jeans,Azul,Casual,Mochila,Soleado,Viernes,2023-05-23,4,1,Medio
+547,Administración,Femenino,28,Vestido,Marrón,Zapato formal,Bolso,Nublado,Lunes,2023-10-12,3,3,Medio
+548,Contaduría,Femenino,22,Pantalón de vestir,Gris,Alpargata,Mochila,Caluroso,Jueves,2023-12-16,5,4,Medio
+549,Contaduría,Masculino,20,Pantalón de vestir,Negro,Deportivo,Mochila,Soleado,Lunes,2023-07-01,3,3,Bajo
+550,Contaduría,Femenino,23,Jeans,Beige,Sandalia,Mochila,Caluroso,Viernes,2023-12-05,3,2,Alto
+196,Administración,Masculino,27,Short,Gris,Botas,Bolso,Soleado,Lunes,2023-06-02,5,2,Medio
+80,Administración,Femenino,22,Jeans,Negro,Botas,Bolso,Soleado,Martes,2023-01-06,2,4,Alto
+481,Contaduría,Femenino,28,Leggins,Verde,Deportivo,Mochila,Nublado,Viernes,2023-11-03,3,3,Medio
+110,Administración,Masculino,21,Pantalón corto,Rojo,Zapato formal,Mochila,Soleado,Viernes,2023-09-10,4,2,Alto
+523,Estadística,Femenino,21,Pantalón de vestir,Azul,Deportivo,Gorra,Soleado,Lunes,2023-05-09,4,2,Medio
+533,Estadística,Femenino,18,Pantalón de vestir,Rojo,Zapato formal,Lentes,Lluvioso,Viernes,2023-01-03,3,5,Alto
+85,Administración,Femenino,17,Jogger,Blanco,Casual,Lentes,Lluvioso,Lunes,2023-09-04,1,2,Medio
+369,Administración,Masculino,23,Jeans,Azul,Deportivo,Mochila,Nublado,Viernes,2023-07-01,3,5,Bajo
+133,Administración,Femenino,23,Jeans,Marrón,Zapato formal,Ninguno,Nublado,Miércoles,2023-09-25,5,5,Bajo
+365,Economía,Masculino,20,Jeans,Beige,Deportivo,Bolso,Soleado,Lunes,2023-01-13,2,5,Alto
