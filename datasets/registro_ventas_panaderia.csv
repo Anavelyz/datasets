@@ -1,0 +1,556 @@
+﻿id_venta,producto,fecha_venta,cantidad,precio_unitario_bs,metodo_pago,cliente,descuento_aplicado,turno,empleado,nivel_satisfaccion,total_bs,tasa_dolar_bs
+1,Canilla,2023-05-05,5,80.96,Pago móvil,Fernando Soler Llanos,False,Mañana,Severo,Alto,404.8,47.27
+2,De leche,2023-01-14,2,69.85,Efectivo,Bernardino Macías-Rodrigo,False,Noche,Juan José,Medio,139.7,50.44
+3,Cachito,2023-03-13,1,33.43,Efectivo,Roberto Lucas Noguera,False,Mañana,Rosaura,Medio,33.43,39.31
+4,Golfiao,2023-11-15,4,91.65,Divisas,Simón Rojas Castillo,True,Tarde,Cleto,Alto,329.94,33.19
+5,Francés,2023-08-03,2,70.37,Tarjeta,Édgar Herranz-Sans,False,Tarde,Javiera,Muy alto,140.74,31.83
+6,Francés,2023-04-18,3,60.44,Pago móvil,Elodia Marisol Abella Ávila,False,Tarde,Rogelio,Muy alto,181.32,46.76
+7,Francés,2023-03-31,4,19.99,Tarjeta,Prudencio de Palomino,True,Noche,Trinidad,Alto,71.96,50.33
+8,Mojicón,2023-11-24,6,50.23,Efectivo,Hortensia Ramos Gisbert,False,Mañana,Javiera,Bajo,301.38,36.82
+9,Pan de jamón,2023-11-05,3,51.43,Tarjeta,Alfonso Acosta-Castilla,False,Mañana,Severo,Medio,154.29,35.82
+10,Cachito,2023-10-21,4,87.81,Efectivo,Mercedes Marin Valls,True,Mañana,Rogelio,Muy bajo,316.12,34.06
+11,Francés,2023-10-19,3,59.2,Tarjeta,Primitivo Riba,False,Tarde,Javiera,Muy alto,177.6,51.1
+12,De leche,2023-07-27,1,44.24,Divisas,Julio César Pascual Ródenas Rivas,False,Mañana,Ulises,Alto,44.24,40.21
+13,Mojicón,2023-06-06,1,97.91,nan,Cornelio Menendez,False,Mañana,Rosaura,Alto,97.91,42.6
+14,Francés,2023-07-09,2,19.96,Divisas,Rodrigo Murillo Soria,False,Noche,Rogelio,Medio,39.92,45.26
+15,Francés,2023-11-18,2,48.03,Divisas,María Luisa Cueto Rius,True,Noche,Ulises,Alto,86.45,53.34
+16,Francés,2023-12-05,4,13.78,nan,Eva María Tapia Rosa,True,Mañana,Javiera,Medio,49.61,49.47
+17,Canilla,2023-10-16,2,76.59,nan,Roxana Morillo Anglada,True,Mañana,Trinidad,Muy bajo,137.86,49.07
+18,Golfiao,2023-11-01,1,92.63,Pago móvil,Eustaquio Soler Gilabert,True,Noche,Odalys,Medio,83.37,39.21
+19,Canilla,2023-10-17,2,35.2,Pago móvil,Alonso Martín Duque,False,Mañana,Trinidad,Alto,70.4,47.51
+20,Francés,2023-01-24,2,87.25,Divisas,Sofía Ayllón Barral,False,Mañana,Rosaura,Medio,174.5,52.73
+21,Pan de jamón,2023-11-12,1,36.3,Divisas,Adoración Villa-Cabeza,False,Mañana,Rogelio,Muy alto,36.3,59.36
+22,Francés,2023-08-29,2,91.97,Efectivo,Belén Gargallo Piñol,False,Tarde,Rogelio,Bajo,183.94,41.17
+23,Francés,2023-05-17,3,77.86,Efectivo,María Fernanda Garmendia,True,Mañana,Rosaura,Alto,210.22,36.83
+24,Canilla,2023-11-26,1,82.44,Pago móvil,Martin Aragón Lucas,False,Noche,Ulises,Alto,82.44,38.75
+25,Canilla,2023-04-13,3,11.62,Pago móvil,David Calderón Busquets,False,Tarde,Odalys,Medio,34.86,46.52
+26,Cachito,2023-11-28,3,96.65,Efectivo,Cayetana Tomas,False,Tarde,Javiera,Alto,289.95,58.01
+27,Francés,2023-07-19,4,75.4,Efectivo,María Pilar Ferrández Lopez,False,Mañana,Severo,Alto,301.6,37.98
+28,Golfiao,2023-05-01,2,37.43,Tarjeta,Guadalupe Crespi Tudela,False,Tarde,Trinidad,Alto,74.86,49.7
+29,Golfiao,2023-05-21,3,84.65,Tarjeta,Francisca Suárez,False,Tarde,Trinidad,Muy alto,253.95,46.83
+30,Francés,2023-11-10,3,35.34,Efectivo,Ángeles Sáez-Pons,False,Tarde,Trinidad,Alto,106.02,40.05
+31,Pan de jamón,2023-12-05,4,88.55,Tarjeta,Mario Cerro,False,Tarde,Odalys,Medio,354.2,50.71
+32,Francés,2023-10-13,2,20.13,nan,Lucila Feliu Macías,False,Tarde,Severo,Alto,40.26,45.97
+33,Francés,2023-07-02,3,73.33,Pago móvil,Elisabet Pi Martínez,False,Noche,Trinidad,Medio,219.99,48.89
+34,De leche,2023-11-28,2,58.66,Pago móvil,Calisto Lledó Maestre,False,Noche,Severo,Medio,117.32,58.67
+35,De leche,2023-01-31,1,18.69,Efectivo,Teo Villa Franch,False,Tarde,Javiera,Bajo,18.69,54.18
+36,Mojicón,2023-05-14,2,31.77,Divisas,Evangelina Nadal Cadenas,False,Mañana,Rogelio,Alto,63.54,43.87
+37,Canilla,2023-04-17,2,11.12,Efectivo,María Pilar Vendrell Costa,False,Mañana,Severo,Alto,22.24,66.95
+38,Francés,2023-09-06,6,52.19,Tarjeta,Benjamín Valls Chaparro,False,Mañana,Trinidad,Medio,313.14,58.52
+39,Pan de jamón,2023-11-05,4,37.11,Divisas,Dorita Polo Jordán,False,Tarde,Ulises,Alto,148.44,62.54
+40,Canilla,2023-02-14,1,63.85,Tarjeta,Esmeralda Georgina Lucena Rojas,False,Tarde,Odalys,Muy alto,63.85,43.9
+41,Francés,2023-06-11,2,36.75,nan,Bárbara Pino Sánchez,True,Tarde,Rosaura,Bajo,66.15,43.32
+42,Canilla,2023-10-02,3,36.99,Tarjeta,Florentino Marcos Coello,False,Noche,Cleto,Medio,110.97,42.85
+43,Francés,2023-11-09,4,76.89,nan,Luis Ángel Calatayud Torrecilla,False,Noche,Juan José,Alto,307.56,47.96
+44,De leche,2023-09-12,2,14.33,nan,Adriana Puerta Galiano,False,Noche,Juan José,Medio,28.66,54.75
+45,Francés,2023-04-23,2,91.26,Tarjeta,Román Rosselló Galán,True,Mañana,Cleto,Alto,164.27,70.15
+46,Pan de jamón,2023-12-02,2,86.7,Tarjeta,Chelo Baró-Alvarado,False,Tarde,Severo,Bajo,173.4,56.75
+47,Canilla,2023-10-08,2,70.1,nan,Octavio del Hernando,False,Mañana,Odalys,Medio,140.2,52.28
+48,Golfio,2023-03-24,4,63.39,Pago movil,Encarnación Sanz Pedraza,False,Mañana,Severo,Alto,253.56,60.62
+49,Golfiao,2023-04-28,5,90.31,nan,Manuelita Carbonell-Romero,False,Mañana,Rosaura,Alto,451.55,47.71
+50,Canlla,2023-01-23,2,26.68,Pago móvil,Francisca Castilla Barroso,False,Mañana,odalys,Alto,53.36,62.86
+51,De leche,2023-01-15,4,17.11,nan,Carmen Rodrigo,False,Tarde,Cleto,Muy alto,68.44,62.05
+52,Cachito,2023-03-12,3,31.56,Divisas,Lope Cortés Gonzalo,False,Noche,Severo,Alto,94.68,69.22
+53,De leche,2023-10-27,3,81.51,Pago móvil,Belen Rosa Bonet,True,Mañana,Trinidad,Alto,220.08,75.6
+54,Mojicón,2023-08-05,1,13.12,Efectivo,Juan Francisco Bonet,False,Tarde,Trinidad,Muy bajo,13.12,53.58
+55,Golfiao,2023-01-04,3,62.45,Efectivo,Dalila Rovira Zabala,True,Tarde,Ulises,Alto,168.62,61.9
+56,De leche,2023-01-29,2,99.59,Divisas,Nereida Jordá Casanovas,False,Mañana,Rogelio,Muy bajo,199.18,74.67
+57,Francés,2023-11-23,2,87.01,nan,Nazaret Ariza Tovar,False,Tarde,Ulises,Alto,174.02,71.3
+58,Francés,2023-03-31,2,56.93,Tarjeta,Esperanza Cases-Morata,True,Mañana,Rosaura,Medio,102.47,62.4
+59,Francés,2023-06-26,1,15.73,Divisas,Beatriz del Blazquez,True,Tarde,Severo,Alto,14.16,77.27
+60,Canilla,2023-08-14,4,84.82,Pago móvil,José Antonio Rojas Porras,True,Tarde,Javiera,Medio,305.35,49.52
+61,Canilla,2023-06-22,5,63.91,Pago móvil,Josep Criado Borrego,False,Mañana,Odalys,Alto,319.55,77.79
+62,Francés,2023-08-12,5,20.34,Efectivo,Natanael Goicoechea Martorell,False,Mañana,Severo,Muy alto,101.7,49.93
+63,Mojicón,2023-08-12,3,18.45,Pago móvil,Yéssica Gaya Catalá,False,Tarde,Odalys,Medio,55.35,66.33
+64,Canilla,2023-01-24,1,91.87,Divisas,Pastora del Quero,True,Noche,Rogelio,Muy alto,82.68,77.93
+65,Francés,2023-12-17,4,70.23,Pago móvil,Florencia Saura Nogueira,True,Mañana,Trinidad,Medio,252.83,57.82
+66,Golfiao,2023-12-07,3,84.64,Divisas,Amador Aparicio Garriga,True,Tarde,Ulises,Alto,228.53,65.08
+67,Francés,2023-07-13,2,89.11,Tarjeta,Hernando Cámara Solsona,True,Tarde,Trinidad,Muy alto,160.4,60.57
+68,Mojicón,2023-10-29,3,61.46,Efectivo,Azeneth Pedraza Jordá,False,Noche,Rogelio,Medio,184.38,81.9
+69,Francés,2023-05-24,4,56.57,Pago móvil,Cecilia Cuesta Blanes,False,Noche,Rogelio,Muy alto,226.28,78.07
+70,De leche,2023-12-20,3,48.74,Divisas,Inés del Costa,False,Tarde,Ulises,Bajo,146.22,74.66
+71,Cachito,2023-11-16,3,38.53,nan,Francisco Jose Piñeiro Saavedra,True,Tarde,Rogelio,Muy bajo,104.03,70.98
+72,Criolo,2023-01-31,5,49.11,Tarjta,Prudencio Diez Osuna,False,Noche,Javiera,Muy alto,245.55,79.36
+73,Francés,2023-05-13,1,79.65,Tarjeta,Joaquina Sancho Muñoz,False,Mañana,Javiera,Bajo,79.65,65.09
+74,Mojicón,2023-12-27,4,64.17,Divisas,Fabricio Morata Robledo,False,Mañana,Juan José,Muy alto,256.68,67.39
+75,Cachito,2023-09-21,6,90.33,Tarjeta,Fátima Mateo Chamorro,False,Mañana,Juan José,Muy alto,541.98,77.6
+76,Cachito,2023-11-22,2,49.9,Tarjeta,Amado Pastor Laguna Sanjuan,True,Noche,Javiera,Bajo,89.82,65.02
+77,Cachito,2023-07-23,2,64.64,Pago móvil,Luis Miguel Miró Ferrán,False,Noche,Cleto,Alto,129.28,55.05
+78,Francés,2023-05-21,4,66.82,Pago móvil,Hipólito Nicolás Montaña,False,Mañana,Trinidad,Bajo,267.28,55.73
+79,Canilla,2023-12-29,2,63.25,Divisas,Rosaura Ferrera,False,Tarde,Odalys,Medio,126.5,57.51
+80,Francés,2023-03-04,2,73.24,nan,Carmina Rivas,False,Tarde,Trinidad,Bajo,146.48,84.83
+81,Mojicón,2023-08-30,3,31.37,Divisas,Lorenzo Erasmo Borja Aparicio,False,Mañana,Rosaura,Medio,94.11,71.0
+82,Pan de jamón,2023-11-15,3,56.11,nan,Marianela Fernandez,False,Noche,Rogelio,Medio,168.33,80.11
+83,Canilla,2023-01-24,4,19.38,Tarjeta,Mirta Torrecilla Benavides,False,Mañana,Trinidad,Medio,77.52,68.9
+84,Francés,2023-04-15,2,44.61,Efectivo,Cirino Caparrós Méndez,False,Mañana,Rogelio,Muy alto,89.22,64.37
+85,Canilla,2023-04-09,4,53.89,Divisas,Leopoldo de Abascal,False,Tarde,Trinidad,Alto,215.56,67.98
+86,Canilla,2023-09-19,3,68.7,Divisas,Claudio Duque Mosquera,False,Tarde,Javiera,Alto,206.1,84.88
+87,Cachito,2023-07-03,3,95.55,nan,Diego Mariscal Higueras,False,Mañana,Ulises,Alto,286.65,79.06
+88,Pan de jamón,2023-11-21,7,64.06,Tarjeta,Felipe Iborra González,True,Tarde,Rosaura,Alto,403.58,91.17
+89,Mojicón,2023-02-23,4,76.92,Tarjeta,Aránzazu Flores,False,Tarde,Javiera,Medio,307.68,81.96
+90,Canilla,2023-07-11,4,55.56,nan,Salvador Maximiano Escamilla Dávila,False,Mañana,Trinidad,Alto,222.24,78.25
+91,Francés,2023-12-12,3,67.07,Tarjeta,Chema Osuna Redondo,False,Mañana,Ulises,Muy alto,201.21,80.19
+92,Cachito,2023-04-08,5,16.38,Pago móvil,Paco de Pons,False,Tarde,Trinidad,Medio,81.9,93.3
+93,Cachito,2023-08-04,1,32.9,Efectivo,Emiliano Olmedo-Llobet,False,Mañana,Trinidad,Alto,32.9,87.87
+94,Golfiao,2023-08-14,3,42.57,Divisas,Rita Alemany-Cabanillas,True,Noche,Odalys,Alto,114.94,58.83
+95,Cachito,2023-08-26,2,52.52,Efectivo,Victoriano Farré Galan,False,Noche,Severo,Muy alto,105.04,78.92
+96,Canilla,2023-11-14,4,14.11,Divisas,Alicia Cruz Tamayo,True,Noche,Ulises,Alto,50.8,85.35
+97,Golfiao,2023-02-19,3,22.6,Pago móvil,Inmaculada Abascal Leon,False,Mañana,Trinidad,Medio,67.8,88.15
+98,Canilla,2023-03-10,2,34.91,Tarjeta,Roberto Juárez Polo,True,Noche,Javiera,Medio,62.84,67.5
+99,Francés,2023-03-31,2,97.44,nan,Amor Narváez-Morcillo,False,Tarde,Odalys,Muy bajo,194.88,93.74
+100,Francés,2023-12-21,4,39.82,Pago móvil,Rosenda Sarabia Ordóñez,False,Mañana,Cleto,Alto,159.28,97.74
+101,Francés,2023-07-20,2,53.38,Efectivo,Úrsula Caballero,False,Mañana,Ulises,Muy bajo,106.76,69.47
+102,Pan de jamón,2023-11-19,2,27.65,nan,Jenny de Olivé,False,Mañana,Odalys,Muy alto,55.3,95.78
+103,Canilla,2023-06-07,3,64.97,Tarjeta,Ester Emperatriz Hernández Miró,False,Tarde,Javiera,Bajo,194.91,64.52
+104,Golfiao,2023-12-08,1,35.26,Pago móvil,Andrea Batalla Jordán,False,Tarde,Trinidad,Bajo,35.26,63.16
+105,De leche,2023-06-30,4,28.63,nan,Poncio Hernández Cases,False,Mañana,Rogelio,Medio,114.52,66.47
+106,Francés,2023-05-15,4,56.49,Pago móvil,Lucila Narváez,True,Tarde,Trinidad,Alto,203.36,63.87
+107,Canilla,2023-07-06,2,10.5,Pago móvil,Toribio Bru Coll,False,Mañana,Rogelio,Bajo,21.0,96.61
+108,Cachito,2023-09-12,3,10.69,Tarjeta,Marta Crespo Pi,True,Tarde,Severo,Medio,28.86,64.54
+109,Francés,2023-08-31,4,29.72,Divisas,Mar Luz Escrivá Ferrando,False,Mañana,Odalys,Medio,118.88,73.7
+110,Francés,2023-02-05,3,13.3,nan,Evelia del Paredes,False,Noche,Severo,Medio,39.9,67.04
+111,Francés,2023-02-27,4,19.72,Tarjeta,Hermenegildo Bru Camino,False,Noche,Trinidad,Bajo,4680.160210183614,75.41
+112,Francés,2023-04-01,3,40.5,Pago móvil,Candelaria Cid Abascal,False,Tarde,Odalys,Alto,121.5,67.12
+113,De leche,2023-12-23,1,82.23,Tarjeta,Octavia Agustín,False,Mañana,Juan José,Alto,82.23,91.92
+114,Mojicón,2023-06-23,2,61.48,Divisas,Marcial del Beltran,True,Mañana,Javiera,Muy bajo,110.66,69.58
+115,Pan de jamón,2023-11-13,2,56.14,nan,Rafa de Echevarría,False,Noche,Odalys,Alto,112.28,100.66
+116,Mojicón,2023-05-30,2,36.41,Divisas,Delfina Jimenez-Perera,False,Mañana,Javiera,Muy alto,72.82,99.64
+117,Mojicón,2023-04-19,2,93.86,Efectivo,Valeria Cáceres-Martín,False,Mañana,Rogelio,Alto,187.72,65.39
+118,Francés,2023-03-07,1,45.73,nan,Jimena Camps Gutiérrez,False,Mañana,Rosaura,Alto,45.73,103.97
+119,Mojicón,2023-08-09,3,17.84,Divisas,Agustina Vera Verdejo Vera,False,Tarde,Ulises,Muy alto,53.52,66.66
+120,Golfiao,2023-07-09,2,65.54,Pago móvil,Aurelio Villanueva Santana,False,Tarde,Rosaura,Muy alto,131.08,76.2
+121,Mojicón,2023-04-26,4,20.25,nan,Raimundo Padilla,False,Noche,Trinidad,Alto,81.0,67.43
+122,Mojicón,2023-09-27,3,41.07,nan,Leonel Crespi Quero,False,Mañana,Ulises,Medio,123.21,81.14
+123,Canilla,2023-07-27,3,55.67,Tarjeta,Álvaro Carranza Novoa,False,Mañana,Ulises,Alto,167.01,89.42
+124,Francés,2023-07-29,1,88.68,Pago móvil,Herberto Salvà Caro,True,Noche,Cleto,Alto,79.81,102.43
+125,Francés,2023-02-13,2,54.42,Efectivo,Mirta Mateu Cepeda,False,Noche,Ulises,Bajo,108.84,82.34
+126,Canilla,2023-09-16,2,73.2,Divisas,Clarisa Sierra Luís,False,Mañana,Trinidad,Medio,146.4,99.25
+127,Mojicón,2023-11-11,4,99.35,Tarjeta,Emiliano Pujadas Barreda,False,Tarde,Rosaura,Alto,397.4,76.28
+128,Mojicón,2023-11-29,2,21.83,Divisas,Adelaida Valentín,True,Mañana,Rogelio,Alto,39.29,102.18
+129,Francés,2023-02-09,3,34.73,Efectivo,Andrés Felipe Salamanca Mayol,False,Noche,Javiera,Medio,104.19,79.16
+130,Golfiao,2023-07-21,3,45.51,Efectivo,Azahar Peláez-Garrido,False,Mañana,Trinidad,Alto,136.53,75.27
+131,Canilla,2023-11-18,4,47.96,nan,Lola Tovar-Benavides,False,Noche,Ulises,Bajo,191.84,77.53
+132,Francés,2023-07-25,5,46.99,Efectivo,Roberto Iñiguez Céspedes,False,Tarde,Trinidad,Medio,234.95,77.71
+133,Francés,2023-01-25,1,91.68,Divisas,Dan Cruz Pons,True,Tarde,Rogelio,Alto,82.51,93.4
+134,Canilla,2023-02-07,3,74.26,Pago móvil,Nydia Valverde Aguilera,False,Mañana,Trinidad,Medio,222.78,109.27
+135,De leche,2023-01-28,2,64.71,Pago móvil,Félix Díez-Sola,False,Tarde,Rogelio,Bajo,129.42,73.93
+136,Canilla,2023-04-07,4,37.84,nan,Rosa Pi Salamanca,False,Tarde,Ulises,Muy alto,151.36,103.73
+137,Golfiao,2023-04-14,2,84.14,Divisas,Teodora Sevillano Farré,False,Mañana,Rogelio,Medio,168.28,101.69
+138,Cachito,2023-07-18,2,95.96,Divisas,Encarna Estrada Beltrán,True,Tarde,Ulises,Medio,172.73,112.46
+139,Canilla,2023-03-18,3,83.91,Efectivo,Guiomar Rodríguez Abril,False,Noche,Cleto,Muy alto,251.73,83.02
+140,De leche,2023-11-13,3,10.14,Divisas,Ezequiel Benet,True,Tarde,Cleto,Alto,27.38,93.22
+141,De leche,2023-07-06,1,67.28,Tarjeta,Valentín Belda Mariscal,False,Tarde,Rogelio,Alto,67.28,116.44
+142,Francés,2023-03-22,2,14.6,Efectivo,Candelaria Abril-Chaves,False,Mañana,Cleto,Muy alto,29.2,104.11
+143,Canilla,2023-06-15,5,33.18,Tarjeta,Micaela Cortés Pina,False,Tarde,Javiera,Bajo,165.9,91.42
+144,Canilla,2023-08-18,4,15.36,nan,Manuel Gibert Alcalá,False,Mañana,Javiera,Alto,61.44,79.29
+145,Francés,2023-03-24,1,64.34,Pago móvil,Haydée Ana Belén Miguel Pombo,False,Tarde,Cleto,Alto,64.34,86.01
+146,Francés,2023-07-22,2,71.79,nan,Marisela Mireia Puga Reig,False,Noche,Cleto,Alto,143.58,101.98
+147,Pan de jamón,2023-12-04,1,20.3,Pago móvil,Antonia Felipa Bermudez Roda,False,Tarde,Juan José,Alto,20.3,109.13
+148,Golfiao,2023-11-28,3,44.55,nan,Concha Baró,False,Mañana,Juan José,Alto,133.65,80.25
+149,Canlla,2023-02-21,2,51.06,Divisas,Bartolomé del Morán,False,Mañana,ulises,Medio,102.12,104.14
+150,Francés,2023-02-26,3,43.21,Tarjeta,Arsenio Frutos Rojas,True,Tarde,Rogelio,Medio,116.67,102.11
+151,De leche,2023-11-13,5,20.89,Pago móvil,Rolando Tomas Pulido,False,Tarde,Severo,Alto,104.45,100.7
+152,Francés,2023-05-08,1,47.71,Efectivo,Marcia Folch Herranz,False,Noche,Severo,Alto,47.71,109.94
+153,Francés,2023-05-07,3,77.61,Tarjeta,Josep Murillo Garriga,False,Noche,Cleto,Alto,232.83,117.81
+154,Canilla,2023-01-18,3,16.39,Efectivo,Daniel Caballero Villalba,False,Tarde,Trinidad,Medio,49.17,92.24
+155,De leche,2023-11-29,2,17.22,Tarjeta,Coral Duarte Diéguez,False,Mañana,Cleto,Alto,34.44,121.36
+156,Francés,2023-02-24,1,41.93,Tarjeta,Jacobo Gimenez Valcárcel,True,Mañana,Juan José,Alto,37.74,84.69
+157,Pan de jamón,2023-11-20,4,94.76,nan,Ángela Luque Villalobos,False,Mañana,Ulises,Alto,379.04,85.66
+158,Cachito,2023-07-04,4,70.17,Pago móvil,Pastora Mesa Ramírez,False,Mañana,Cleto,Alto,280.68,90.81
+159,Francés,2023-08-02,3,71.08,Pago móvil,Celestina Lerma Rocha,False,Tarde,Rosaura,Muy alto,213.24,83.57
+160,Cachito,2023-08-17,1,42.57,Tarjeta,Ángeles Arce Cózar,True,Tarde,Trinidad,Alto,38.31,89.63
+161,Canilla,2023-06-25,2,63.43,Divisas,Bienvenida Eligia Salas Barral,False,Tarde,Rosaura,Alto,126.86,83.53
+162,Pan de jamón,2023-12-21,3,10.91,Divisas,Iker Benavides Azorin,False,Mañana,Ulises,Alto,32.73,121.2
+163,Pan de jamón,2023-11-01,6,67.25,Efectivo,Mar Marín Sanmartín,False,Mañana,Ulises,Muy alto,403.5,85.88
+164,Golfiao,2023-02-02,3,92.2,Efectivo,Judith del Bou,True,Mañana,Javiera,Alto,248.94,118.21
+165,Francés,2023-06-25,4,65.13,nan,Jennifer del Salom,False,Mañana,Odalys,Alto,260.52,81.73
+166,Mojicón,2023-05-05,3,88.63,Tarjeta,Teodoro Bellido Osuna,False,Noche,Rosaura,Alto,265.89,129.77
+167,Canilla,2023-05-15,3,75.16,Efectivo,Adora del Blázquez,False,Mañana,Javiera,Alto,225.48,117.63
+168,Francés,2023-11-23,6,20.85,Efectivo,Amando Villalobos Villanueva,False,Tarde,Juan José,Medio,125.1,80.46
+169,Francés,2023-09-18,5,91.22,Tarjeta,Chus Prudencia Naranjo Carro,False,Mañana,Trinidad,Medio,456.1,121.34
+170,Golfiao,2023-08-13,3,15.98,nan,Mariano Viña-Esteban,False,Noche,Trinidad,Muy alto,47.94,108.36
+171,Pan de jamón,2023-12-11,1,58.06,Efectivo,Loida Planas Figueroa,True,Tarde,Trinidad,Alto,52.25,123.09
+172,Francés,2023-09-13,4,22.79,nan,Emilio Berenguer Gallart,False,Mañana,Rogelio,Alto,91.16,109.62
+173,Golfiao,2023-11-05,3,11.05,Pago móvil,Paulina del Guardia,False,Tarde,Juan José,Muy alto,33.15,116.47
+174,Francés,2023-11-11,4,47.98,nan,Charo Pombo Porras,False,Tarde,Juan José,Alto,191.92,124.83
+175,Pan de jamón,2023-12-28,2,36.55,Divisas,Nélida Villalonga-Vives,True,Noche,Trinidad,Alto,65.79,104.4
+176,Francés,2023-08-13,2,53.74,Divisas,Isaías Cornejo Tormo,True,Mañana,Rosaura,Alto,96.73,82.65
+177,Pan de jamón,2023-11-26,6,61.95,nan,Pepito Riera,False,Noche,Odalys,Alto,371.7,129.72
+178,Canilla,2023-12-25,4,13.94,Divisas,Maite Corbacho-Sierra,False,Noche,Rosaura,Bajo,55.76,104.2
+179,De leche,2023-07-12,5,21.07,Pago móvil,Hernán Garcés Vélez,False,Noche,Trinidad,Medio,105.35,110.98
+180,Francés,2023-11-17,3,60.28,Tarjeta,Eduardo Galán-Espejo,False,Tarde,Rogelio,Medio,180.84,84.13
+181,Canilla,2023-01-12,2,40.89,Divisas,Flora Belmonte Alarcón,False,Tarde,Rosaura,Medio,81.78,111.56
+182,Francés,2023-01-24,2,75.63,Divisas,Serafina Canales Alcaraz,False,Tarde,Severo,Alto,151.26,139.74
+183,De leche,2023-12-02,1,68.71,nan,Clara Barrio Mata,False,Tarde,Rosaura,Medio,68.71,100.29
+184,Mojicón,2023-04-13,1,86.1,Pago móvil,Remedios Pacheco Company,False,Tarde,Ulises,Bajo,86.1,107.28
+185,Francés,2023-06-07,4,72.32,Tarjeta,Florencia Goñi Peña,False,Tarde,Javiera,Medio,289.28,124.23
+186,Pan de jamón,2023-12-27,4,48.69,nan,Fermín Balaguer,True,Tarde,Trinidad,Bajo,175.28,131.94
+187,Mojicón,2023-05-23,5,70.57,nan,Samuel Tudela Aragón,False,Tarde,Rosaura,Alto,352.85,109.67
+188,Golfiao,2023-12-22,3,34.78,Pago móvil,Filomena Mulet,False,Noche,Odalys,Muy alto,104.34,103.87
+189,Golfiao,2023-11-05,5,37.57,Tarjeta,Silvia Llano,False,Mañana,Odalys,Alto,187.85,140.42
+190,Francés,2023-05-03,2,81.01,Pago móvil,Magdalena Duarte Velázquez,False,Noche,Rosaura,Medio,162.02,125.84
+191,Francés,2023-03-15,3,50.18,Tarjeta,Agustín Robles Talavera,False,Tarde,Cleto,Bajo,150.54,93.9
+192,Mojicón,2023-03-15,1,81.85,Pago móvil,Amado Vizcaíno-Folch,False,Noche,Juan José,Medio,81.85,91.31
+193,De leche,2023-04-23,6,84.02,nan,Perlita Gual Castrillo,False,Tarde,Rosaura,Alto,504.12,115.84
+194,Pan de jamón,2023-11-28,3,87.18,nan,Emigdio de Santana,False,Mañana,Juan José,Medio,261.54,100.8
+195,Canilla,2023-02-27,3,92.5,Efectivo,Nicolasa Tejedor Antúnez,False,Noche,Severo,Alto,277.5,103.13
+196,Canilla,2023-02-12,4,48.79,Divisas,Nacho Pina Salom,False,Mañana,Trinidad,Medio,195.16,140.28
+197,Cachito,2023-09-22,3,38.7,Pago móvil,Máxima Segarra Benavent,True,Noche,Severo,Alto,104.49,94.1
+198,Mojicón,2023-06-12,7,62.4,Efectivo,Marcial de Tejada,True,Tarde,Rosaura,Medio,393.12,131.59
+199,Mojicón,2023-07-09,3,43.41,Divisas,Valentina Figueroa-Galindo,False,Tarde,Odalys,Medio,130.23,105.56
+200,Cachito,2023-04-29,3,64.1,Pago móvil,Ágata Rosa Dávila,False,Mañana,Cleto,Alto,192.3,135.17
+201,Pan de jamón,2023-11-28,3,73.5,Tarjeta,Ligia Blanch Osorio,False,Tarde,Rogelio,Medio,220.5,133.34
+202,Francés,2023-04-16,4,71.96,Divisas,Genoveva Cobo Gomila,False,Mañana,Juan José,Bajo,1973.7704670616426,90.74
+203,Francés,2023-02-16,4,43.71,nan,Evangelina Larrañaga-Ibañez,False,Mañana,Javiera,Alto,174.84,121.35
+204,Mojicón,2023-03-06,4,25.02,Efectivo,Toribio Donaire Colom,False,Mañana,Juan José,Alto,100.08,99.34
+205,Pan de jamón,2023-11-03,7,48.75,Divisas,Elena Noguera-Molina,False,Mañana,Ulises,Alto,341.25,143.87
+206,Francés,2023-07-10,2,22.83,Divisas,Jessica Pujadas Solís,False,Noche,Trinidad,Medio,45.66,144.67
+207,Francés,2023-04-28,3,90.11,nan,Sebastián Hipólito Izquierdo Castell,False,Noche,Rosaura,Medio,270.33,117.4
+208,Pan de jamón,2023-11-27,2,41.13,Pago móvil,Bernardo Contreras-Quesada,False,Mañana,Severo,Medio,82.26,119.39
+209,Francés,2023-07-25,3,23.9,Tarjeta,Silvio Méndez,False,Tarde,Javiera,Bajo,71.7,111.08
+210,Francés,2023-04-01,4,12.29,nan,Bernardino Neira Saez,False,Mañana,Odalys,Muy alto,49.16,136.99
+211,Golfiao,2023-02-05,4,68.12,Tarjeta,Iris Rueda Valenciano,True,Tarde,Odalys,Alto,245.23,115.24
+212,Pan de jamón,2023-11-20,3,67.32,Pago móvil,Edu Pellicer-Feijoo,False,Noche,Odalys,Medio,201.96,109.96
+213,Pan de jamón,2023-12-16,2,40.65,Divisas,Reynaldo Font Céspedes,False,Noche,Rogelio,Alto,81.3,120.57
+214,Francés,2023-04-12,5,16.45,Tarjeta,Fermín Heredia,False,Tarde,Ulises,Medio,82.25,99.63
+215,Cachito,2023-11-18,2,46.87,Efectivo,Ámbar Torrents Salazar,False,Tarde,Odalys,Muy alto,93.74,141.09
+216,Francés,2023-02-09,3,38.01,Efectivo,Ana Sofía Pineda Torrens,False,Mañana,Odalys,Bajo,114.03,95.29
+217,Canilla,2023-12-15,3,70.94,nan,Eutimio Vizcaíno-Bermejo,False,Noche,Rosaura,Muy bajo,212.82,135.53
+218,Cachito,2023-12-28,3,64.52,Pago móvil,Aura Macías Zapata,False,Mañana,Ulises,Alto,193.56,106.69
+219,Pan de jamón,2023-12-21,1,42.81,nan,Leocadio Damián Gargallo Huertas,False,Tarde,Cleto,Alto,42.81,110.18
+220,Mojicón,2023-08-11,5,29.61,nan,Esther Llopis Seguí,True,Tarde,Cleto,Alto,133.24,136.25
+221,Pan de jamón,2023-11-08,2,98.92,nan,América Narváez Recio,True,Tarde,Ulises,Bajo,178.06,159.55
+222,Golfiao,2023-09-27,1,50.86,Efectivo,Mayte Arias Cárdenas,False,Mañana,Trinidad,Medio,50.86,146.23
+223,Francés,2023-07-28,3,71.94,Efectivo,Aristides Cristian Sebastián Feijoo,False,Noche,Rogelio,Medio,215.82,111.14
+224,Canilla,2023-02-22,3,22.65,nan,Pastora Benavent,False,Mañana,Javiera,Medio,67.95,108.27
+225,Francés,2023-02-11,4,53.7,Efectivo,Rogelio Pereira Campoy,True,Tarde,Juan José,Muy alto,193.32,153.33
+226,Francés,2023-06-27,3,12.48,Pago móvil,Sonia Marina Valverde Ayala,False,Mañana,Rosaura,Bajo,37.44,126.37
+227,De leche,2023-07-07,1,55.49,nan,Olivia Raya-Roura,True,Mañana,Trinidad,Medio,49.94,106.74
+228,Canilla,2023-04-27,3,96.76,Efectivo,Che Llano Cardona,False,Tarde,Cleto,Alto,290.28,154.49
+229,Mojicón,2023-03-25,3,44.58,Tarjeta,Artemio Hierro Dueñas,False,Tarde,Ulises,Medio,133.74,151.94
+230,Pan de jamón,2023-12-06,4,13.51,nan,Cecilio Maximiliano Aragón Valcárcel,False,Mañana,Javiera,Alto,54.04,163.44
+231,Cachito,2023-03-23,3,12.79,nan,Lara Gómez Coello,True,Mañana,Ulises,Alto,34.53,159.04
+232,Golfiao,2023-07-25,3,44.92,Pago móvil,Francisco Javier Jurado Alarcón,False,Tarde,Juan José,Bajo,134.76,155.69
+233,Golfiao,2023-06-12,1,24.4,Divisas,Severiano Giner Bermúdez,False,Tarde,Javiera,Muy alto,24.4,103.09
+234,Canilla,2023-02-04,4,12.1,Divisas,Benito Enríquez Barranco,False,Noche,Cleto,Alto,48.4,106.85
+235,Francés,2023-05-28,4,78.06,Pago móvil,Mariana Abad Mendizábal,False,Mañana,Odalys,Medio,312.24,138.21
+236,Cachito,2023-09-13,5,51.27,Pago móvil,Eloy Aznar Roura,False,Mañana,Ulises,Medio,256.35,136.11
+237,Francés,2023-07-30,1,36.03,Pago móvil,Maribel Pardo-Madrigal,False,Mañana,Trinidad,Medio,36.03,131.58
+238,Francés,2023-11-08,5,91.01,Divisas,Eleuterio Grande Morata,False,Mañana,Cleto,Alto,455.05,127.84
+239,Pan de jamón,2023-11-17,1,20.45,Pago móvil,Irma de Lladó,False,Tarde,Severo,Alto,4791.4262690146425,130.55
+240,Francés,2023-11-22,3,96.03,Efectivo,Rosaura Lara Barros,False,Tarde,Trinidad,Alto,1361.675911166643,140.3
+241,De leche,2023-09-10,2,38.26,nan,Ángela Irene Gabaldón Coca,False,Mañana,Trinidad,Muy alto,76.52,102.14
+242,De leche,2023-01-31,3,89.96,nan,Rosario Somoza Aguilar,False,Mañana,Rogelio,Alto,269.88,120.08
+243,De leche,2023-06-16,3,64.26,Tarjeta,Danilo Mendez Sanmiguel,True,Mañana,Cleto,Alto,173.5,138.05
+244,Canilla,2023-05-23,1,84.4,Tarjeta,Maricela Poza Polo,True,Noche,Odalys,Medio,75.96,152.44
+245,Francés,2023-03-14,3,98.56,nan,Alejandra Montaña Tamayo,False,Noche,Cleto,Alto,295.68,115.18
+246,De leche,2023-01-13,5,35.96,Efectivo,Rosendo Angulo Vigil,False,Mañana,Juan José,Muy bajo,179.8,141.23
+247,Canilla,2023-10-11,2,96.5,Divisas,Eligio Font-Nicolás,False,Mañana,Javiera,Alto,193.0,153.24
+248,De leche,2023-12-23,3,45.05,Divisas,Armando Perera Zamorano,False,Noche,Ulises,Medio,135.15,134.96
+249,De leche,2023-07-02,4,44.7,Efectivo,Hugo Viña,False,Noche,Javiera,Muy bajo,178.8,106.28
+250,Mojicón,2023-02-21,1,40.63,Divisas,Eliana Tatiana Español Elías,False,Tarde,Javiera,Bajo,40.63,136.06
+251,Francés,2023-12-23,3,58.73,Pago móvil,Emperatriz Borrás Segovia,False,Mañana,Cleto,Medio,176.19,125.75
+252,Canilla,2023-03-16,2,23.87,nan,Laura Borrego Lopez,True,Mañana,Juan José,Alto,42.97,170.56
+253,Mojicón,2023-11-12,1,59.83,nan,Alcides Leonardo Carnero Barreda,False,Tarde,Ulises,Medio,59.83,114.37
+254,Canilla,2023-11-15,2,58.75,Efectivo,Dimas Escalona,True,Mañana,Ulises,Alto,105.75,151.96
+255,Francés,2023-06-02,4,78.57,Divisas,Begoña Anguita Blasco,True,Mañana,Javiera,Medio,282.85,109.93
+256,Golfiao,2023-10-04,2,85.03,Tarjeta,Azahara Cabanillas Acedo,False,Tarde,Trinidad,Alto,170.06,138.18
+257,De leche,2023-03-18,3,49.64,Tarjeta,Leire del Vicens,False,Mañana,Rogelio,Medio,148.92,146.24
+258,Pan de jamón,2023-11-06,2,37.21,Divisas,Noelia Ayllón Sanchez,False,Tarde,Juan José,Bajo,74.42,128.37
+259,Golfiao,2023-07-06,6,33.34,Tarjeta,Aníbal Vallés Bas,False,Mañana,Trinidad,Alto,200.04,139.98
+260,Francés,2023-05-05,2,27.52,Efectivo,Mar Redondo Solsona,False,Mañana,Rosaura,Medio,55.04,119.44
+261,Pan de jamón,2023-11-30,5,15.19,Efectivo,Griselda Colomer Grau,False,Tarde,Rosaura,Muy bajo,75.95,129.9
+262,De leche,2023-04-11,3,40.82,Divisas,Silvestre Español Montesinos,True,Mañana,Trinidad,Medio,110.21,153.14
+263,Francés,2023-11-15,1,34.32,Tarjeta,Socorro Vega-Mendizábal,False,Noche,Javiera,Bajo,34.32,130.45
+264,Golfiao,2023-11-19,2,96.98,Efectivo,Silvestre de Bernal,False,Tarde,Ulises,Alto,193.96,174.22
+265,Mojicón,2023-03-09,4,60.19,Efectivo,Augusto Agustí Quirós,False,Mañana,Cleto,Medio,240.76,154.95
+266,Cachito,2023-08-12,3,41.25,Pago móvil,Ale Planas-Santiago,True,Tarde,Ulises,Alto,111.38,141.52
+267,Pan de jamón,2023-11-21,4,62.24,Pago móvil,José Antonio Ocaña Ferrándiz,False,Mañana,Ulises,Alto,248.96,112.64
+268,Cachito,2023-04-09,4,22.53,Efectivo,Teodosio Vigil,False,Noche,Odalys,Medio,90.12,146.77
+269,Canilla,2023-09-12,2,49.96,Divisas,Severiano Amor Gomis Lopez,False,Mañana,Ulises,Muy alto,99.92,166.69
+270,Francés,2023-06-05,1,66.36,nan,Francisca Novoa Herrero,False,Tarde,Trinidad,Alto,66.36,130.3
+271,Mojicón,2023-06-04,2,54.0,nan,Marciano Julián Crespo Estrada,False,Mañana,Trinidad,Alto,108.0,170.7
+272,Mojicón,2023-08-26,5,46.16,Efectivo,Yéssica Begoña Solana Mulet,False,Tarde,Rosaura,Alto,230.8,129.98
+273,Mojicón,2023-02-24,3,99.45,Efectivo,Fito Cid Lucas,False,Noche,Ulises,Alto,298.35,172.89
+274,De leche,2023-03-20,5,89.23,Efectivo,Cebrián Núñez Dávila,False,Noche,Ulises,Alto,446.15,118.26
+275,Golfiao,2023-04-03,4,66.11,Divisas,Manu Godoy,False,Mañana,Odalys,Medio,264.44,176.99
+276,Golfiao,2023-07-24,3,61.24,Pago móvil,Dionisio Estévez Prats,False,Mañana,Juan José,Bajo,183.72,149.94
+277,Cachito,2023-12-26,4,65.86,Efectivo,Clarisa Grau Gomez,False,Noche,Cleto,Muy bajo,263.44,135.1
+278,Pan de jamón,2023-12-08,3,28.12,Efectivo,Virginia Lago Alfonso,False,Noche,Juan José,Medio,84.36,133.09
+279,Cachito,2023-11-09,3,45.56,Tarjeta,Agapito Diego-Gaya,False,Mañana,Cleto,Medio,136.68,146.06
+280,Cachito,2023-06-15,3,13.55,Divisas,Chita Rios Fajardo,False,Tarde,Rogelio,Medio,40.65,189.43
+281,Mojicón,2023-10-16,4,52.8,Efectivo,Manuela Mora Sabater,False,Mañana,Ulises,Bajo,211.2,130.74
+282,Canilla,2023-06-05,2,58.87,Tarjeta,Faustino Dalmau Pacheco,False,Noche,Odalys,Alto,117.74,122.17
+283,Canilla,2023-04-21,3,30.5,nan,Olga Rodrigo Losada,False,Mañana,Severo,Muy alto,91.5,159.3
+284,Francés,2023-02-15,4,96.76,Efectivo,Mónica Álamo Arranz,False,Mañana,Javiera,Muy alto,387.04,152.32
+285,Golfiao,2023-03-07,3,91.85,Efectivo,Jacinta Baquero Ariño,False,Tarde,Rosaura,Medio,275.55,155.46
+286,Francés,2023-03-30,1,74.99,Tarjeta,Juliana de Montoya,False,Mañana,Trinidad,Alto,74.99,166.85
+287,Canilla,2023-08-18,2,58.0,Divisas,Basilio de Cañellas,False,Tarde,Rosaura,Muy alto,116.0,136.42
+288,Golfiao,2023-11-13,3,88.3,Efectivo,Ema Reig Moles,False,Tarde,Trinidad,Medio,3813.1202161690017,186.59
+289,Francés,2023-12-13,3,21.76,nan,Isidro Arcos Puerta,False,Mañana,Rogelio,Medio,65.28,150.21
+290,Golfiao,2023-12-04,2,81.15,Efectivo,Fortunata del Robles,False,Mañana,Juan José,Muy alto,162.3,126.74
+291,Francés,2023-08-12,1,21.23,nan,Lucio Larrañaga Pacheco,False,Tarde,Trinidad,Alto,21.23,174.9
+292,Francés,2023-12-15,6,81.48,Pago móvil,Zaira Soler Vaquero,True,Mañana,Ulises,Medio,439.99,167.59
+293,Mojicón,2023-10-30,3,34.82,Pago móvil,Pío Bernal Pont,False,Tarde,Severo,Bajo,104.46,142.35
+294,Canilla,2023-01-20,2,88.94,nan,Maximino Abellán-Sandoval,False,Noche,Trinidad,Bajo,177.88,166.75
+295,Francés,2023-02-19,3,94.96,Divisas,Concha Castro Laguna,False,Tarde,Javiera,Alto,284.88,135.53
+296,Golfiao,2023-10-26,1,23.39,Efectivo,Urbano Fiol Méndez,False,Mañana,Trinidad,Alto,23.39,153.64
+297,Cachito,2023-11-23,3,51.64,Efectivo,Florentina María Luisa Amor Múgica,False,Mañana,Trinidad,Medio,154.92,190.03
+298,Francés,2023-12-12,2,98.29,Pago móvil,Florinda Anglada,True,Mañana,Rosaura,Bajo,176.92,129.7
+299,Pan de jamón,2023-12-23,4,53.51,nan,Tristán Sainz Cervera,False,Mañana,Odalys,Alto,214.04,150.18
+300,Francés,2023-03-10,5,87.72,Efectivo,Sandra Galiano Molins,False,Tarde,Rosaura,Alto,438.6,185.23
+301,Francés,2023-07-19,3,62.99,Efectivo,Aurelia Sainz Sebastián,False,Tarde,Rogelio,Medio,188.97,197.56
+302,Golfiao,2023-09-03,1,43.78,Divisas,Joel Serra Feliu,False,Mañana,Odalys,Muy alto,43.78,156.7
+303,Golfiao,2023-10-26,3,35.72,Tarjeta,Porfirio Martínez Amores,False,Mañana,Rosaura,Bajo,107.16,161.36
+304,Pan de jamón,2023-11-04,3,28.29,Pago móvil,Charo Beltrán Seco,True,Mañana,Javiera,Medio,76.38,167.02
+305,Cachito,2023-10-27,4,78.56,Pago móvil,Prudencia Valera Valero,False,Tarde,Rosaura,Alto,314.24,196.53
+306,Criolo,2023-11-09,6,44.79,Tarjeta,Enrique de Bolaños,False,Mañana,Javiera,Medio,268.74,191.01
+307,Golfiao,2023-09-21,3,56.01,Efectivo,Alfredo Vaquero Alfonso,True,Tarde,Javiera,Alto,151.23,135.65
+308,Canilla,2023-04-14,4,54.31,Divisas,Daniela Tejero Gomis,False,Mañana,Odalys,Alto,217.24,157.65
+309,Cachito,2023-04-10,4,61.96,Divisas,Carlota Martínez Reig,False,Noche,Juan José,Alto,247.84,160.26
+310,Francés,2023-01-02,3,87.9,Pago móvil,Martina del Guijarro,False,Noche,Cleto,Bajo,263.7,187.25
+311,Canilla,2023-08-14,6,98.27,Divisas,Rafaela de Perea,False,Mañana,Ulises,Bajo,589.62,172.44
+312,Francés,2023-09-15,3,46.68,Tarjeta,Haroldo Teo Gisbert Bermejo,True,Mañana,Trinidad,Medio,126.04,177.08
+313,Francés,2023-11-22,6,84.48,Efectivo,Rosalva Jiménez Cal,True,Tarde,Cleto,Alto,456.19,205.85
+314,De leche,2023-09-27,1,78.81,Tarjeta,Felix Solís Arribas,False,Mañana,Trinidad,Alto,78.81,130.09
+315,Criolo,2023-01-26,2,61.62,Pago movil,Rita Nieto Benet,False,Tarde,Juan José,Alto,123.24,142.67
+316,Pan de jamón,2023-12-17,2,96.04,Pago móvil,Adela Ramis Nieto,False,Noche,Cleto,Alto,192.08,158.36
+317,Canilla,2023-01-11,3,28.04,Divisas,Valeria Noriega Lucas,False,Tarde,Odalys,Muy alto,84.12,153.74
+318,Francés,2023-05-31,2,19.83,nan,Dorotea del Palacios,False,Noche,Trinidad,Alto,39.66,126.91
+319,Francés,2023-02-21,2,86.86,Divisas,Lupe Alcaraz Alvarado,False,Mañana,Severo,Medio,173.72,133.07
+320,Francés,2023-05-30,1,49.52,Efectivo,Marcia Sarabia Camino,False,Mañana,Juan José,Medio,49.52,182.76
+321,Golfiao,2023-03-08,4,86.23,Efectivo,Lilia Guijarro Landa,False,Tarde,Cleto,Alto,344.92,199.86
+322,Cachito,2023-07-28,4,90.38,Efectivo,Mario Iñiguez Perez,False,Mañana,Trinidad,Bajo,361.52,169.6
+323,Pan de jamón,2023-11-08,1,15.62,Divisas,Patricia Heredia Montserrat,True,Tarde,Severo,Bajo,14.06,172.11
+324,Francés,2023-01-11,2,89.51,nan,Rufino Cerro,False,Mañana,Rosaura,Alto,179.02,148.48
+325,De leche,2023-09-17,3,50.35,Efectivo,Estrella de Reyes,False,Mañana,Trinidad,Alto,151.05,192.32
+326,Cachito,2023-10-03,6,55.94,nan,Cándida Campillo,False,Noche,Odalys,Bajo,335.64,191.4
+327,Golfiao,2023-07-01,2,66.39,Divisas,Araceli Heredia Jordá,False,Mañana,Rosaura,Alto,1290.0892678179257,177.93
+328,Pan de jamón,2023-12-12,4,93.37,nan,Isabela Marisa Talavera Cerdán,False,Noche,Odalys,Alto,373.48,146.26
+329,Canilla,2023-04-17,1,11.72,Divisas,Amador Osorio,False,Noche,Cleto,Medio,11.72,136.7
+330,Francés,2023-11-21,3,52.92,Divisas,Fortunata Solsona Fabra,True,Tarde,Ulises,Bajo,142.88,134.21
+331,Canilla,2023-08-31,2,71.89,Pago móvil,Ángel Álvarez-Naranjo,True,Tarde,Cleto,Bajo,129.4,179.97
+332,Cachito,2023-01-09,2,75.04,Divisas,Florentina Mateu Gelabert,False,Tarde,Rosaura,Alto,150.08,200.42
+333,Francés,2023-03-21,3,72.33,Divisas,Nerea Salom González,True,Noche,Javiera,Alto,195.29,203.76
+334,Francés,2023-08-21,3,22.1,Tarjeta,Anacleto Castañeda-Rios,False,Mañana,Cleto,Muy alto,66.3,170.05
+335,Francés,2023-10-20,2,36.95,Efectivo,Lucía Vera Agustín,False,Tarde,Rosaura,Alto,73.9,198.27
+336,Francés,2023-08-04,2,42.28,Pago móvil,Ainoa Marti Berrocal,False,Tarde,Trinidad,Bajo,84.56,212.88
+337,Mojicón,2023-04-19,2,82.4,Pago móvil,Lorenzo Godoy-Amorós,False,Tarde,Rogelio,Bajo,164.8,154.79
+338,Cachito,2023-12-03,2,35.09,Pago móvil,Mireia Tolosa Somoza,False,Tarde,Cleto,Alto,2610.1054219605685,165.88
+339,Canilla,2023-05-07,4,28.96,Tarjeta,Martirio de Lumbreras,False,Mañana,Trinidad,Bajo,115.84,213.0
+340,Francés,2023-12-21,3,96.17,Divisas,Regina Araceli Donaire Girona,False,Tarde,Odalys,Medio,288.51,161.4
+341,Canilla,2023-07-12,6,10.8,Efectivo,Luz Reyes Riba Montaña,True,Noche,Juan José,Medio,58.32,212.42
+342,Canilla,2023-03-07,2,99.8,nan,Amalia Garcés Carrera,False,Mañana,Ulises,Muy bajo,199.6,218.83
+343,Francés,2023-12-23,4,70.91,Divisas,Flora Sola Marín,False,Noche,Odalys,Medio,283.64,191.1
+344,Canilla,2023-05-29,3,84.56,Tarjeta,Martin Buendía,False,Tarde,Odalys,Medio,253.68,205.28
+345,Canilla,2023-09-03,4,36.52,Divisas,Trinidad de Rovira,False,Noche,Rosaura,Medio,146.08,199.76
+346,Pan de jamón,2023-12-10,4,11.29,Divisas,Plácido Jimenez Villaverde,True,Tarde,Javiera,Bajo,4368.774923492458,195.76
+347,Pan de jamón,2023-12-20,4,76.41,Tarjeta,Rodolfo del Aguilar,False,Tarde,Trinidad,Alto,305.64,161.18
+348,Francés,2023-12-14,1,85.07,Pago móvil,Evelia Ibañez Patiño,False,Mañana,Rogelio,Alto,1837.2243033368343,139.2
+349,Canilla,2023-09-25,4,76.64,Pago móvil,Florina Cabello Verdejo,False,Noche,Javiera,Medio,306.56,165.14
+350,Pan de jamón,2023-12-25,3,22.86,Efectivo,Mercedes Infante Yuste,False,Mañana,Rosaura,Alto,68.58,194.59
+351,Canlla,2023-04-18,2,77.81,Divisa,Cosme del Bilbao,False,Noche,Ulises,Medio,155.62,144.23
+352,Mojicón,2023-08-05,3,79.2,Pago móvil,Luisa Palacio Huertas,True,Noche,Rogelio,Alto,213.84,136.38
+353,Pan de jamón,2023-12-12,4,69.27,nan,Andrés Felipe Garay Iriarte,False,Mañana,Rogelio,Muy alto,277.08,148.23
+354,Francés,2023-12-19,1,78.95,Divisas,Ruben Pastor-Murcia,True,Mañana,Rosaura,Alto,71.06,200.75
+355,Francés,2023-10-06,3,86.13,nan,Gabriela Barrena Quirós,False,Tarde,Severo,Alto,258.39,224.53
+356,Pan de jamón,2023-12-14,1,65.22,Divisas,Gonzalo Crespo Rosales,False,Mañana,Odalys,Bajo,65.22,225.96
+357,Francés,2023-07-12,1,17.97,Pago móvil,Socorro Aguiló Bello,False,Noche,Juan José,Bajo,17.97,181.85
+358,Golfiao,2023-01-04,3,53.89,Efectivo,Gracia Sarmiento Machado,False,Mañana,Severo,Muy alto,161.67,216.56
+359,De leche,2023-10-10,2,16.99,Efectivo,Catalina Ana Juan Perea,True,Mañana,Rosaura,Medio,30.58,204.89
+360,Golfiao,2023-09-03,1,46.68,nan,Jerónimo Lucena Ferrera,False,Noche,Severo,Medio,46.68,183.7
+361,Canilla,2023-09-17,2,46.64,Efectivo,Raimundo Varela Asenjo,True,Tarde,Juan José,Alto,83.95,190.69
+362,Pan de jamón,2023-11-15,3,15.94,Pago móvil,Isaac Osuna Criado,False,Noche,Rosaura,Alto,47.82,150.95
+363,Canilla,2023-03-26,4,41.39,nan,Lara Ximena Garriga Palomo,False,Mañana,Rosaura,Muy alto,165.56,225.24
+364,Golfiao,2023-03-25,5,19.99,Divisas,Camila Melero-Camino,False,Tarde,Rogelio,Medio,99.95,171.49
+365,De leche,2023-01-22,3,82.74,Efectivo,Félix Fiol Milla,False,Tarde,Severo,Muy alto,248.22,180.6
+366,Canilla,2023-09-07,3,95.29,Tarjeta,Glauco Elías,True,Tarde,Trinidad,Muy bajo,257.28,201.96
+367,De leche,2023-08-28,3,16.51,Efectivo,Edu Galvez Soler,True,Tarde,Cleto,Muy bajo,44.58,170.92
+368,De leche,2023-03-18,1,95.96,Divisas,Georgina Fabiola Lillo Núñez,True,Tarde,Rosaura,Alto,86.36,163.85
+369,Francés,2023-11-26,3,57.03,nan,Flora Huerta Montoya,False,Tarde,Severo,Bajo,171.09,199.47
+370,Francés,2023-09-25,4,36.96,Divisas,Edgardo Villanueva Márquez,False,Mañana,Trinidad,Medio,147.84,143.04
+371,Francés,2023-10-07,2,16.92,Tarjeta,Oriana Jordá Alberdi,False,Tarde,Ulises,Alto,33.84,208.75
+372,Francés,2023-08-08,7,55.06,Pago móvil,Dan Miralles Uribe,False,Mañana,Trinidad,Medio,385.42,189.72
+373,Francés,2023-05-12,2,81.51,Efectivo,Lola Vega Barceló,False,Tarde,Severo,Bajo,163.02,198.78
+374,Pan de jamón,2023-11-05,4,73.64,nan,Abel Artigas,False,Mañana,Odalys,Medio,294.56,201.68
+375,Francés,2023-10-17,2,14.52,Pago móvil,Marina Franco Valls,False,Tarde,Odalys,Medio,29.04,192.16
+376,Canilla,2023-07-13,2,16.56,Divisas,Lina Ordóñez Llopis,False,Tarde,Severo,Medio,33.12,197.84
+377,Mojicón,2023-04-26,4,46.26,nan,Andrea Mascaró Font,False,Mañana,Rogelio,Alto,185.04,207.9
+378,Francés,2023-03-06,4,36.58,Pago móvil,Dalila Mármol Antón,True,Mañana,Rogelio,Alto,131.69,214.95
+379,Mojicón,2023-07-25,4,30.91,nan,Angelina Olmo,False,Mañana,Rosaura,Medio,123.64,212.94
+380,Francés,2023-07-20,2,35.29,Tarjeta,Blanca Barrena Alemany,False,Tarde,Juan José,Alto,70.58,227.01
+381,Francés,2023-12-06,7,82.31,Tarjeta,Graciana de Osorio,False,Noche,Cleto,Bajo,576.17,162.19
+382,Pan de jamón,2023-11-04,1,93.63,Efectivo,Baldomero Salgado Ibarra,True,Mañana,Rosaura,Medio,84.27,182.89
+383,Pan de jamón,2023-11-20,2,46.46,Efectivo,Eutimio Moles-Cabrero,False,Tarde,Trinidad,Alto,92.92,235.97
+384,Mojicón,2023-11-02,5,91.55,Tarjeta,Duilio Jaume Perera,False,Mañana,Cleto,Medio,457.75,183.21
+385,Canlla,2023-07-12,1,38.93,nan,Nilo de Pinedo,True,Tarde,Trinidad,Muy alto,35.04,157.29
+386,Mojicón,2023-08-23,6,52.88,Tarjeta,Olga Barco,False,Noche,Rogelio,Medio,317.28,196.47
+387,Francés,2023-09-24,3,30.34,Efectivo,Griselda Blanch Soto,False,Mañana,Severo,Alto,91.02,156.44
+388,Francés,2023-06-10,2,67.64,Tarjeta,Patricio Tadeo Reguera Navas,True,Tarde,Juan José,Medio,3601.020284374646,165.86
+389,Cachito,2023-11-28,1,98.11,Tarjeta,Severino Rey,True,Mañana,Trinidad,Medio,88.3,243.84
+390,Mojicón,2023-02-04,1,64.31,nan,Cristian Aguilera-Gutiérrez,False,Mañana,Rogelio,Medio,64.31,199.65
+391,De leche,2023-09-14,5,42.2,Pago móvil,Carla del Montalbán,False,Mañana,Juan José,Alto,211.0,174.84
+392,Canilla,2023-08-25,3,68.3,Efectivo,Román José María Montenegro Mate,False,Mañana,Rosaura,Alto,204.9,244.99
+393,Canilla,2023-11-26,3,21.06,nan,Silvia Lamas Arnaiz,False,Tarde,Severo,Muy alto,63.18,242.71
+394,Cachito,2023-11-19,2,89.98,Tarjeta,Nerea Andres-Arrieta,True,Tarde,Ulises,Medio,161.96,191.36
+395,Canilla,2023-04-09,1,55.28,Tarjeta,Xavier Rocamora Polo,False,Tarde,Odalys,Bajo,55.28,173.93
+396,De leche,2023-07-22,3,50.44,Pago móvil,Salomé Feliu Tomás,False,Mañana,Javiera,Medio,151.32,231.5
+397,Mojicón,2023-11-22,2,62.73,Efectivo,Ale Borja Guerra,True,Mañana,Juan José,Alto,112.91,219.79
+398,Canilla,2023-09-30,4,66.23,Efectivo,Vasco Valbuena-Gomis,False,Tarde,Ulises,Muy alto,264.92,217.38
+399,Cachito,2023-07-12,1,16.46,Divisas,Erasmo Cid-Pedrero,False,Noche,Ulises,Medio,16.46,238.35
+400,Criolo,2023-02-03,2,71.44,Efectivo,Rogelio Losada Huertas,False,Mañana,juan josé,Alto,142.88,218.5
+401,Francés,2023-04-18,2,31.77,Pago móvil,Isaías Jose Carlos Sales Valenzuela,True,Noche,Ulises,Medio,57.19,178.38
+402,De leche,2023-08-07,5,74.26,Divisas,Saturnino Adrián Hoyos Roldan,False,Tarde,Trinidad,Alto,371.3,219.83
+403,Golfiao,2023-09-21,4,84.03,Divisas,Toni Jafet Millán Urrutia,False,Tarde,Ulises,Muy alto,336.12,181.3
+404,Mojicón,2023-05-26,3,82.36,Tarjeta,Armida Susanita Nevado Cózar,False,Tarde,Rogelio,Medio,247.08,227.28
+405,Canilla,2023-01-18,3,59.73,Tarjeta,Isabela Murillo Benavides,True,Mañana,Cleto,Medio,161.27,213.67
+406,Mojicón,2023-04-02,3,56.82,Efectivo,Fanny del Borja,False,Mañana,Trinidad,Muy alto,170.46,159.32
+407,Canilla,2023-01-15,3,22.86,Divisas,Gisela Montesinos-Baeza,False,Tarde,Ulises,Muy alto,68.58,203.7
+408,Francés,2023-10-13,3,79.78,Tarjeta,Charo Molins,False,Mañana,Rosaura,Alto,239.34,186.91
+409,De leche,2023-03-23,2,34.43,Pago móvil,Custodia Gutiérrez,False,Noche,Odalys,Alto,68.86,185.78
+410,Francés,2023-05-11,1,54.7,Tarjeta,Godofredo del Pinedo,False,Tarde,Severo,Medio,54.7,214.01
+411,Canilla,2023-08-04,5,35.58,Tarjeta,Berto Barrio Cadenas,False,Mañana,Ulises,Alto,177.9,185.88
+412,De leche,2023-07-22,1,22.04,Divisas,Lupe Magdalena Agudo Malo,False,Tarde,Trinidad,Alto,22.04,232.7
+413,De leche,2023-04-09,4,66.66,Divisas,Mohamed del Ortega,False,Mañana,Odalys,Alto,266.64,160.85
+414,Canlla,2023-12-21,2,14.89,nan,Amparo Real Maldonado,False,Tarde,Rosaura,Medio,29.78,221.66
+415,Pan de jamón,2023-11-07,3,77.38,Pago móvil,Ismael Mesa Bastida,False,Tarde,Rogelio,Medio,232.14,237.39
+416,Canilla,2023-12-03,3,38.58,Divisas,Luis Falcó Carmona,False,Noche,Ulises,Medio,115.74,223.8
+417,Francés,2023-03-27,6,10.01,Efectivo,Demetrio Lucena Ordóñez,False,Tarde,Rogelio,Bajo,60.06,206.11
+418,Canilla,2023-10-08,2,56.0,Pago móvil,Juan Carlos Pedrero Bayón,False,Tarde,Ulises,Bajo,112.0,253.36
+419,Pan de jamón,2023-11-28,2,14.22,Pago móvil,Georgina del Almansa,True,Tarde,Javiera,Medio,25.6,186.47
+420,Cachito,2023-07-19,6,34.86,Divisas,Segismundo Meléndez Revilla,False,Noche,Cleto,Bajo,209.16,157.69
+421,Cachito,2023-06-30,2,73.63,Pago móvil,Pablo Sotelo Ortuño,False,Mañana,Rogelio,Bajo,147.26,200.93
+422,Cachito,2023-11-15,2,15.64,Divisas,Darío Perelló Gelabert,False,Mañana,Cleto,Alto,31.28,159.74
+423,Golfio,2023-12-22,4,85.54,Efectivo,Leocadio del Albero,False,Mañana,Odalys,Bajo,342.16,256.19
+424,Canilla,2023-06-18,1,10.34,nan,Emilia Coello,False,Mañana,Javiera,Bajo,10.34,178.86
+425,Francés,2023-11-20,2,32.21,Tarjeta,Nerea León Pozuelo,False,Tarde,Severo,Medio,64.42,239.88
+426,Golfiao,2023-07-10,1,76.68,Divisas,Teobaldo Hernández Camps,False,Tarde,Trinidad,Medio,76.68,238.83
+427,Canilla,2023-09-27,1,38.46,Divisas,Dionisio Catalá Gallart,False,Tarde,Cleto,Alto,38.46,180.71
+428,Mojicón,2023-02-15,4,19.17,Tarjeta,Lourdes Cruz Zaragoza Alemany,False,Mañana,Javiera,Bajo,76.68,223.58
+429,Canilla,2023-08-21,4,42.42,Efectivo,Lázaro Barrio Rivero,False,Tarde,Cleto,Alto,169.68,163.48
+430,Francés,2023-09-06,2,34.34,Efectivo,Guiomar Maza Piquer,False,Mañana,Juan José,Muy alto,68.68,209.86
+431,Francés,2023-10-31,3,85.84,Efectivo,Ariadna Elorza Martí,True,Tarde,Rosaura,Alto,231.77,160.55
+432,Cachito,2023-02-09,1,38.2,Divisas,Juan Antonio Pastor,True,Tarde,Severo,Alto,34.38,257.13
+433,Pan de jamón,2023-12-20,1,81.0,Pago móvil,Filomena de Higueras,False,Mañana,Rosaura,Muy alto,81.0,263.46
+434,Francés,2023-04-21,5,90.27,Divisas,Ale Doménech Cuevas,True,Mañana,Ulises,Alto,406.22,183.6
+435,Criolo,2023-09-20,2,49.04,Pago móvil,Valerio Dueñas Pellicer,False,Mañana,cleto,Muy bajo,98.08,182.43
+436,Cachito,2023-10-23,5,91.89,Tarjeta,Renata Ferrer Barón,False,Noche,Ulises,Medio,459.45,241.15
+437,Francés,2023-02-08,5,43.96,nan,Basilio Lerma-Barrio,False,Noche,Trinidad,Muy alto,219.8,187.96
+438,Mojicón,2023-08-02,5,96.77,Pago móvil,Ruben de Bueno,False,Tarde,Cleto,Medio,483.85,257.23
+439,Cachito,2023-09-07,3,18.04,Efectivo,Duilio Amat-Aguiló,False,Mañana,Javiera,Muy bajo,54.12,223.15
+440,Francés,2023-05-27,3,71.83,Divisas,Duilio Coll Mateo,False,Tarde,Severo,Alto,215.49,199.51
+441,Francés,2023-12-12,4,54.44,Tarjeta,Venceslás Samper Cazorla,False,Tarde,Ulises,Alto,217.76,251.93
+442,De leche,2023-04-12,3,44.89,Efectivo,Lucas Querol Morante,False,Tarde,Cleto,Bajo,134.67,215.69
+443,Canilla,2023-02-20,6,66.94,Tarjeta,Ruth Rebollo Cal,True,Mañana,Trinidad,Alto,361.48,261.42
+444,Canilla,2023-05-27,6,73.35,nan,Juan Galván Girona,False,Mañana,Rosaura,Bajo,440.1,263.68
+445,Mojicón,2023-10-07,2,10.39,Divisas,Adriana Bayo-Serrano,True,Tarde,Javiera,Alto,18.7,181.2
+446,De leche,2023-09-14,3,25.03,Divisas,Elba Romero Borrell,False,Mañana,Juan José,Medio,75.09,163.75
+447,De leche,2023-12-29,2,74.17,nan,Teófilo Anguita,False,Mañana,Cleto,Medio,148.34,271.25
+448,Cachito,2023-04-15,3,69.97,Divisas,Clemente de Amores,True,Mañana,Juan José,Alto,188.92,263.23
+449,Canilla,2023-10-19,5,96.94,Pago móvil,Ana Sofía Manuel Tovar,False,Tarde,Odalys,Medio,484.7,170.48
+450,Francés,2023-06-24,3,78.49,Tarjeta,Pepito Conde,False,Noche,Severo,Alto,235.47,256.17
+451,Cachito,2023-11-13,5,95.57,Efectivo,Miguel Ángel Román Mendoza Rojas,False,Noche,Cleto,Medio,477.85,215.36
+452,Golfiao,2023-09-26,2,73.23,nan,Felicia Gelabert Durán,False,Tarde,Rogelio,Medio,146.46,193.84
+453,Canilla,2023-01-26,4,36.82,Pago móvil,José Luis Frutos Berrocal,False,Tarde,Trinidad,Alto,147.28,262.61
+454,De leche,2023-03-21,3,19.48,Efectivo,Dafne del Nevado,True,Mañana,Ulises,Bajo,52.6,187.65
+455,Francés,2023-10-15,4,80.36,Efectivo,Arturo Piquer Plaza,False,Tarde,Rogelio,Medio,321.44,271.16
+456,Canilla,2023-02-04,4,67.97,nan,Evangelina Olmo Figueroa,False,Mañana,Odalys,Medio,271.88,189.32
+457,Francés,2023-02-05,2,14.34,Pago móvil,Sandra Cuervo Portillo,False,Tarde,Severo,Alto,28.68,235.04
+458,Canilla,2023-04-22,4,42.4,Efectivo,Domitila Peiró Martínez,True,Mañana,Rosaura,Muy alto,152.64,191.95
+459,Francés,2023-11-08,2,96.11,Efectivo,Maximiano Cristóbal Ferrándiz Lucena,False,Mañana,Javiera,Muy alto,192.22,228.3
+460,Francés,2023-02-21,4,55.04,Pago móvil,Anna del Acero,False,Mañana,Juan José,Medio,220.16,244.17
+461,Francés,2023-02-06,5,48.95,Divisas,Cristina Borrell Santamaria,False,Mañana,Odalys,Medio,244.75,189.31
+462,Pan de jamón,2023-11-16,3,51.19,Efectivo,Mirta Torres Sáez,True,Mañana,Ulises,Medio,138.21,226.74
+463,Cachito,2023-01-13,4,28.8,Tarjeta,Pepe Llanos Pizarro,False,Mañana,Javiera,Alto,115.2,221.32
+464,Golfiao,2023-01-15,4,43.18,Pago móvil,Onofre Armengol Manzanares,False,Noche,Rosaura,Medio,172.72,176.9
+465,De leche,2023-04-26,4,43.28,Efectivo,Noelia Leon,False,Tarde,Ulises,Muy alto,173.12,261.51
+466,Canilla,2023-10-12,4,14.71,nan,Luisina Fortuny,False,Tarde,Trinidad,Medio,58.84,207.43
+467,Francés,2023-07-18,2,79.08,Tarjeta,Angelita Pinto,False,Noche,Juan José,Muy alto,158.16,234.84
+468,Mojicón,2023-11-08,1,47.49,Efectivo,Ximena Torrecilla Requena,False,Noche,Rogelio,Alto,47.49,228.48
+469,Francés,2023-10-17,5,84.0,Tarjeta,Jose Manuel Perea,True,Tarde,Cleto,Alto,378.0,228.71
+470,De leche,2023-05-30,2,86.53,Tarjeta,Adelina Alvarez,False,Noche,Odalys,Medio,173.06,182.9
+471,Francés,2023-10-15,3,29.08,Divisas,Melisa Barriga Duarte,False,Mañana,Cleto,Muy bajo,87.24,219.28
+472,De leche,2023-03-19,2,69.16,Tarjeta,Pancho Oller,False,Mañana,Javiera,Medio,138.32,222.96
+473,Francés,2023-12-04,6,52.51,Divisas,Ruben Marcos Ricart,False,Tarde,Cleto,Medio,315.06,255.53
+474,Mojicón,2023-09-24,2,89.21,Pago móvil,Andrés Angulo Nogueira,True,Tarde,Rogelio,Muy bajo,160.58,268.17
+475,Golfiao,2023-02-04,3,29.42,Divisas,Rolando de Múñiz,False,Tarde,Trinidad,Alto,88.26,234.76
+476,De leche,2023-02-28,3,71.0,nan,Arcelia Acosta,False,Mañana,Javiera,Medio,213.0,182.48
+477,Francés,2023-05-02,2,64.7,Efectivo,Florencia Donaire Catalán,True,Mañana,Juan José,Alto,116.46,200.09
+478,Golfiao,2023-07-19,1,36.58,Pago móvil,Milagros Casanova Suarez,False,Tarde,Ulises,Alto,36.58,192.13
+479,Golfio,2023-04-10,1,22.29,Pago móvil,Haydée Ramirez-Benavent,False,Mañana,Juan José,Bajo,22.29,187.81
+480,Golfiao,2023-07-16,3,68.65,nan,Sabina Anglada Alonso,True,Tarde,Cleto,Muy alto,185.36,216.07
+481,Pan de jamón,2023-11-23,3,76.47,Divisas,Fanny Leon-Suárez,False,Tarde,Severo,Bajo,229.41,200.61
+482,Pan de jamón,2023-11-28,4,38.41,Efectivo,Nereida del Grande,False,Tarde,Javiera,Medio,153.64,199.67
+483,Canilla,2023-11-11,4,68.03,Divisas,Jose Carlos Bayona Almazán,False,Tarde,Ulises,Medio,272.12,180.97
+484,Pan de jamón,2023-12-17,1,45.56,Tarjeta,Jordán Fiol Lumbreras,False,Noche,Rosaura,Alto,45.56,176.96
+485,Golfiao,2023-12-23,4,74.19,Divisas,Sebastián Ale Ruano Nebot,False,Tarde,Trinidad,Bajo,296.76,187.2
+486,De leche,2023-07-18,2,27.93,Pago móvil,Teodora Julián,False,Tarde,Juan José,Medio,55.86,195.65
+487,Francés,2023-01-15,2,90.12,Efectivo,Dorotea Perelló Bauzà,False,Tarde,Juan José,Alto,180.24,226.31
+488,Francés,2023-12-30,4,35.87,Divisas,Samanta Quintero Espada,True,Mañana,Javiera,Medio,129.13,236.04
+489,De leche,2023-08-07,1,43.1,Efectivo,Adriana López Goicoechea,False,Mañana,Severo,Alto,43.1,192.93
+490,Mojicón,2023-01-20,2,15.23,Efectivo,Leyre Sola Vazquez,False,Mañana,Cleto,Muy alto,30.46,226.74
+491,Canilla,2023-01-06,3,20.04,Tarjeta,Elena Poza Montero,False,Tarde,Cleto,Muy alto,60.12,217.33
+492,Pan de jamón,2023-12-19,3,56.43,Tarjeta,Ciro Osorio Casals,False,Tarde,Javiera,Muy bajo,169.29,198.98
+493,Francés,2023-05-23,2,34.08,Pago móvil,Amor del Domínguez,False,Noche,Juan José,Medio,68.16,178.41
+494,Francés,2023-07-22,2,85.19,nan,Inés Manu Echevarría Zabala,False,Mañana,Ulises,Medio,170.38,233.29
+495,Canilla,2023-12-14,1,11.32,Efectivo,Laura Ordóñez,False,Mañana,Trinidad,Medio,11.32,259.66
+496,Canilla,2023-11-08,2,44.12,nan,Valerio Solana Pera,True,Noche,Javiera,Medio,79.42,205.43
+497,Golfiao,2023-01-11,3,40.36,Pago móvil,Zoraida del Montes,True,Mañana,Ulises,Medio,108.97,194.51
+498,Francés,2023-05-01,2,11.74,Efectivo,Caridad Aguiló Sebastián,False,Tarde,Ulises,Muy alto,23.48,285.01
+499,De leche,2023-09-26,5,21.19,Efectivo,Salomé Buendía,False,Tarde,Rosaura,Muy alto,105.95,212.29
+500,De leche,2023-02-15,2,47.23,nan,Eli Bertrán-Bravo,False,Tarde,Rogelio,Muy bajo,94.46,206.49
+501,Pan de jamón,2023-11-21,4,54.36,Divisas,Porfirio Acevedo Escobar,False,Mañana,Trinidad,Medio,217.44,282.85
+502,Golfiao,2023-04-10,2,46.39,Tarjeta,Emilia Collado Boada,False,Mañana,Trinidad,Medio,92.78,278.52
+503,Canilla,2023-11-30,4,57.78,Divisas,Iker Aragón Almeida,False,Mañana,Odalys,Medio,231.12,234.58
+504,Mojicón,2023-09-23,1,63.56,nan,Serafina Fuster Segarra,False,Tarde,Severo,Alto,63.56,239.9
+505,Pan de jamón,2023-12-08,2,10.89,Tarjeta,Graciano Juliá Diego,True,Tarde,Trinidad,Alto,19.6,207.5
+506,Francés,2023-09-05,3,51.77,Divisas,Edelmira Dafne Baró Alegria,True,Mañana,Rosaura,Muy alto,139.78,190.97
+507,De leche,2023-11-15,2,96.71,Tarjeta,Guiomar Pinilla Bonilla,False,Tarde,Trinidad,Alto,193.42,251.3
+508,Mojicón,2023-11-23,3,56.71,Efectivo,Paco Chuy Nuñez Bárcena,False,Noche,Cleto,Alto,170.13,194.04
+509,De leche,2023-11-09,3,70.98,Divisas,Teodosio Sanabria Gámez,False,Mañana,Trinidad,Alto,212.94,237.03
+510,Cachito,2023-06-18,3,38.07,Tarjeta,Salud Boix Simó,True,Tarde,Cleto,Medio,102.79,297.25
+511,Pan de jamón,2023-11-03,5,79.66,Tarjeta,Miguela Lerma Lobato,True,Tarde,Severo,Alto,358.47,299.25
+512,Canilla,2023-11-29,3,79.56,Tarjeta,Dionisio Campo Estevez,False,Mañana,Cleto,Medio,238.68,212.55
+513,De leche,2023-03-25,4,56.92,Divisas,Francisco Javier León Acero Borrell,False,Mañana,Severo,Bajo,227.68,259.99
+514,Mojicón,2023-01-10,3,97.84,Pago móvil,Gastón Rogelio Nadal Santana,True,Tarde,Trinidad,Medio,264.17,242.02
+515,Francés,2023-01-19,2,21.3,Divisas,Maricela Uribe Garmendia,False,Noche,Juan José,Medio,42.6,291.73
+516,Francés,2023-06-17,3,11.53,nan,René Molina Muro,True,Noche,Severo,Muy alto,31.13,217.89
+517,Canilla,2023-08-31,5,79.31,Divisas,Remedios Poza Laguna,False,Tarde,Ulises,Medio,396.55,185.26
+518,Mojicón,2023-07-24,3,82.64,Tarjeta,Silvia Ariño,False,Tarde,Odalys,Medio,247.92,205.16
+519,De leche,2023-05-20,1,20.82,Efectivo,Alfonso Ayuso,True,Mañana,Odalys,Medio,18.74,228.6
+520,Francés,2023-08-16,4,33.9,Divisas,Toribio Vilaplana Arce,False,Tarde,Javiera,Alto,135.6,224.79
+521,Golfiao,2023-08-16,1,11.58,Divisas,Omar Cuesta Torre,False,Tarde,Odalys,Bajo,11.58,284.13
+522,Canilla,2023-08-24,6,36.4,Tarjeta,Emiliana Acevedo Escolano,False,Mañana,Javiera,Muy alto,218.4,270.83
+523,De leche,2023-04-27,3,79.58,Efectivo,Eligio Feliciano Sobrino Berenguer,False,Tarde,Odalys,Muy alto,238.74,223.86
+524,Mojicón,2023-03-20,4,56.62,Efectivo,Blanca Verdejo-Pinedo,True,Tarde,Severo,Alto,203.83,243.93
+525,Mojicón,2023-01-24,3,41.33,nan,Isaac de Carbó,False,Mañana,Ulises,Alto,123.99,199.13
+526,Canilla,2023-05-21,6,43.46,Divisas,Lilia Hierro,False,Noche,Juan José,Muy bajo,260.76,299.77
+527,Golfio,2023-09-26,3,10.12,Efectivo,Juan Bautista Cabanillas Carrasco,False,Mañana,Cleto,Medio,30.36,304.92
+528,Francés,2023-11-20,3,36.98,Efectivo,Jose Luis González,False,Mañana,Rosaura,Alto,110.94,310.97
+529,Francés,2023-04-23,2,68.18,Pago móvil,Lara Domingo-Pedraza,False,Mañana,Odalys,Bajo,136.36,297.49
+530,Mojicón,2023-05-08,2,97.68,Pago móvil,Nadia Lastra Matas,False,Tarde,Juan José,Medio,195.36,210.58
+531,Mojicón,2023-09-17,7,86.24,Efectivo,Perla Bayo Avilés,True,Tarde,Juan José,Alto,543.31,194.82
+532,De leche,2023-10-05,2,12.12,nan,Danilo de Múñiz,True,Mañana,Severo,Medio,21.82,262.45
+533,De leche,2023-02-22,3,90.87,Efectivo,Etelvina Cerro-Giménez,False,Tarde,Trinidad,Muy alto,272.61,304.95
+534,Golfiao,2023-01-13,1,80.49,Tarjeta,Reynaldo Benavente Becerra,False,Mañana,Trinidad,Bajo,80.49,212.35
+535,Cachito,2023-01-16,5,80.23,Divisas,Juan Pablo del Núñez,False,Tarde,Odalys,Alto,401.15,191.09
+536,De leche,2023-07-09,3,51.22,nan,Bernardino Agullo Serrano,False,Tarde,Rosaura,Alto,153.66,292.8
+537,Mojicón,2023-06-04,4,45.82,Tarjeta,Emiliana de Molina,False,Tarde,Odalys,Alto,183.28,200.57
+538,Francés,2023-05-23,4,37.26,nan,Bautista Pedraza Puig,True,Noche,Odalys,Medio,134.14,243.81
+539,Canilla,2023-10-02,4,15.91,Tarjeta,Calisto Villalobos-Garcés,False,Mañana,Javiera,Alto,63.64,278.03
+540,Golfio,2023-04-15,3,30.54,Divisas,Ariel Marti Infante,False,Mañana,ulises,Muy alto,91.62,221.96
+541,De leche,2023-09-28,2,32.19,Divisas,Renato Castañeda-Martí,False,Tarde,Ulises,Medio,64.38,202.75
+542,Pan de jamón,2023-11-07,3,53.57,Pago móvil,Mayte Bolaños,False,Noche,Rosaura,Medio,160.71,291.02
+543,Francés,2023-05-16,4,77.27,Tarjeta,Encarna del Acevedo,False,Mañana,Javiera,Alto,309.08,273.51
+544,Pan de jamón,2023-12-05,4,52.64,Pago móvil,Mauricio Osuna,False,Mañana,Juan José,Alto,210.56,320.02
+545,Pan de jamón,2023-11-29,4,15.21,Tarjeta,Carmelita del Llorens,False,Mañana,Javiera,Medio,60.84,237.55
+546,Canilla,2023-08-09,3,96.2,Pago móvil,Anabel Arnal Roca,False,Tarde,Odalys,Muy alto,288.6,201.47
+547,Francés,2023-02-11,4,94.85,Divisas,Morena Serrano Benet,False,Mañana,Trinidad,Medio,379.4,288.68
+548,Pan de jamón,2023-11-15,3,80.67,nan,Mamen Agudo Fabra,False,Tarde,Trinidad,Medio,242.01,261.61
+549,Golfiao,2023-04-26,1,99.22,Pago móvil,Anastasio Sarabia Arenas,False,Noche,Rosaura,Alto,99.22,222.03
+550,Cachito,2023-03-23,5,59.0,Tarjeta,Eligio Ojeda España,False,Tarde,Juan José,Alto,295.0,296.17
+196,Canilla,2023-02-12,4,48.79,Divisas,Nacho Pina Salom,False,Mañana,Trinidad,Medio,195.16,140.28
+80,Francés,2023-03-04,2,73.24,nan,Carmina Rivas,False,Tarde,Trinidad,Bajo,146.48,84.83
+481,Pan de jamón,2023-11-23,3,76.47,Divisas,Fanny Leon-Suárez,False,Tarde,Severo,Bajo,229.41,200.61
+110,Francés,2023-02-05,3,13.3,nan,Evelia del Paredes,False,Noche,Severo,Medio,39.9,67.04
+523,De leche,2023-04-27,3,79.58,Efectivo,Eligio Feliciano Sobrino Berenguer,False,Tarde,Odalys,Muy alto,238.74,223.86
