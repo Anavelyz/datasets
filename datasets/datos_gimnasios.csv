@@ -1,0 +1,561 @@
+﻿ID_Cliente,Nombre_Gimnasio,Edad,Sexo,Tipo_Membresia,Actividad_Favorita,Frecuencia_Semanal,Método_Pago,Nivel,Fecha_Ingreso,Peso (kg),Altura (m),Satisfacción,Profesión
+3001,Urban Fitness,52,Masculino,Semanal,Crossfit,5+ días,Pago móvil,Intermedio,2022-05-21,102.0,1.88,8,Independiente
+3002,StrongLife,33,Masculino,mensual,spinning,1 día,efectivo,Avanzado,2022-04-03,83.5,1.65,8,Desemplead@
+3003,GymPro,22,Femenino,Semanal,spinning,1-2 días,Efectivo,AVANZADO,2022-08-27,97.8,1.75,1,estudiante
+3004,BodyTech,62,Otro,Semanal,Spinning,3-4 días,Efectivo,Intermedio,2022-07-24,115.1,1.9,8,Otro
+3005,Urban Fitness,59,Masculino,Semanal,Yoga,1 día,Efectivo,principiante,2023-07-14,73.2,1.62,2,estudiante
+3006,Wellness Club,15,Femenino,ANUAL,Pilates,5+ días,Efectivo,Intermedio,2023-03-09,98.1,1.61,6,Estudiante
+3007,Vitality,36,Masculino,Semanal,Pesas,1 día,Transferencia,Avanzado,2022-09-02,80.7,1.78,1,Otro
+3008,Urban Fitness,31,Masculino,Semanal,crossfit,1-2 días,Divisas,AVANZADO,2022-11-13,95.6,1.76,5,estudiante
+3009,GymPro,21,Femenino,Trimestral,Pilates,5+ días,tarjeta,Avanzado,2022-10-22,102.2,1.64,7,EMPLEADO
+3010,BodyTech,39,Femenino,Mensual,Crossfit,3-4 días,Transferencia,Principiante,2023-10-02,48.4,1.65,10,Independiente
+3011,fitzone,59,Femenino,Anual,Pesas,5+ días,Transferencia,AVANZADO,2022-10-09,93.5,1.64,1,EMPLEADO
+3012,POWERGYM,18,Femenino,Mensual,Funcional,5+ días,efectivo,Avanzado,2022-01-17,62.0,1.89,2,Desemplead@
+3013,Vitaliti,50,Masculino,Semanal,Yoga,3 días,efectivo,principiante,2022-03-12,95.3,1.83,7,Desempleado
+3014,Strong Life,20,Otro,Trimestral,Funcional,5+ días,Divisas,AVANZADO,2022-09-26,80.1,1.92,6,estudiante
+3015,Body Tech,45,Femenino,mensual,Funcional,5+ días,tarjeta,AVANZADO,2022-11-21,103.0,1.99,3,Empleado
+3016,Gimnasio Elite,33,Femenino,Trimestral,Boxeo,1 día,efectivo,Intermedio,2022-11-01,54.3,1.74,10,Empleado
+3017,PowerGym,58,Femenino,Semanal,Pilates,3-4 días,Divisas,principiante,2023-03-27,92.0,1.53,2,independiente
+3018,GymPro,53,Femenino,Trimestral,crossfit,1 día,Divisas,Principiante,2022-01-07,65.9,1.52,10,EMPLEADO
+3019,Gimnasio Élite,41,Masculino,trimestral,Spinning,1 día,Tarjeta,Avanzado,2022-11-10,109.0,1.65,4,Independiente
+3020,PowerGym,24,Femenino,Trimestral,crossfit,1-2 días,tarjeta,Intermedio,2022-04-13,114.6,1.97,3,estudiante
+3021,BodyTech,40,Femenino,Mensual+,Funcional,1 día,efectivo,Avanzado,2022-07-12,119.7,1.76,7,Estudiante
+3022,FitZone,33,Femenino,Anual+,Crossfit,3 días,tarjeta,Principiante,2023-07-28,104.7,1.64,8,independiente
+3023,Wellness Club,53,Masculino,VIP,Yoga,3 días,Transferencia,Principiante,2023-06-13,101.5,1.7,2,Desemplead@
+3024,Gimnasio Élite,17,Femenino,mensual,Baile,1-2 días,Transferencia,AVANZADO,2022-06-20,61.2,1.8,10,Otro
+3025,MuscleLab,59,Masculino,anual,crossfit,3-4 días,tarjeta,Principiante,2023-06-21,70.2,1.83,7,Desemplead@
+3026,FitZone,27,Femenino,Trimestral,Funcional,3-4 días,Tarjeta,Avanzado,2022-09-08,79.9,1.58,8,estudiante
+3027,Wellness Club,64,Masculino,Trimestral,Yoga,1 día,Tarjeta,principiante,2023-01-22,103.0,1.99,6,Desempleado
+3028,Vitality,42,Masculino,ANUAL,Pesas,1 día,tarjeta,principiante,2022-07-26,113.6,1.77,6,Otro
+3029,Urban Fitness,34,Femenino,mensual,Pilates,1 día,efectivo,AVANZADO,2023-06-25,59.2,1.57,10,EMPLEADO
+3030,StrongLife,42,Femenino,Semanal,spinning,3-4 días,Pago móvil,Avanzado,2023-09-21,114.2,1.95,1,estudiante
+3031,MuscleLab,22,Masculino,Anual,Spining,5+ días,Tarjeta,Avanzado,2023-02-20,97.2,1.54,4,Desempleado
+3032,Vitality,55,Otro,mensual,Cross-fit,3 días,Efectivo,Principiante,2023-01-15,90.8,1.95,1,EMPLEADO
+3033,BodyTech,53,Masculino,Trimestral,YOGA,5+ días,Transferencia,Avanzado,2022-05-24,60.0,2.0,4,Desempleado
+3034,Vitality,15,Masculino,mensual,pilates,5+ días,tarjeta,Intermedio,2022-01-25,49.2,1.85,2,EMPLEADO
+3035,Urban Fitness,17,Otro,trimestral,Box,3-4 días,Efectivo,Principiante,2023-10-30,87.6,1.89,5,Independiente
+3036,BodyTech,27,Masculino,Mensual,Funcional,5+ días,tarjeta,Intermedio,2022-03-14,93.9,1.67,10,Empleado
+3037,MuscleLab,42,Femenino,Anual,Pilates,1-2 días,Divisas,AVANZADO,2023-09-24,60.8,1.97,9,Desemplead@
+3038,Urban Fitness,63,Otro,Trimestral,Crossfit,1 día,Transferencia,principiante,2022-04-03,86.7,1.76,10,Independiente
+3039,PowerGym,39,Femenino,Semanal,crossfit,1-2 días,Transferencia,AVANZADO,2023-05-20,109.2,1.87,3,Otro
+3040,StrongLife,47,Masculino,ANUAL,spinning,3 días,Tarjeta,principiante,2023-08-21,107.6,1.96,8,independiente
+3041,MuscleLab,52,Femenino,trimestral,Crossfit,1 día,efectivo,AVANZADO,2022-12-02,114.6,1.99,3,Empleado
+3042,PowerGym,20,Femenino,Trimestral,spinning,5+ días,tarjeta,Avanzado,2023-03-01,72.4,1.92,6,Independiente
+3043,Wellness Club,58,Femenino,Semanal,Funcional,3 días,Pago Movil,Intermedio,2023-05-14,68.9,1.65,4,estudiante
+3044,MuscleLab,59,Masculino,ANUAL,Spinning,1 día,Transferncia,principiante,2022-12-30,101.2,1.98,8,Desempleado
+3045,Wellness Club,46,Femenino,ANUAL,Pilates,5+ días,Efectivo,Principiante,2023-09-22,77.3,1.81,6,Otro
+3046,BodyTech,59,Femenino,Trimestral,Spinning,1-2 días,Tarjeta,Intermedio,2022-07-18,51.6,1.97,8,estudiante
+3047,PowerGym,61,Femenino,trimestral,Funcional,1 día,Efectivo,Principiante,2023-12-19,66.2,1.84,1,Empleado
+3048,StrongLife,35,Masculino,mensual,Pilates,5+ días,Pago móvil,Intermedio,2023-02-17,76.4,1.65,6,Desempleado
+3049,Urban Fitness,30,masculino,mensual,Yoga,1-2 días,Efectivo,Intermedio,2022-12-05,66.9,1.69,1,Otro
+3050,GymPro,35,Masculino,ANUAL,Yoga,3 días,efectivo,AVANZADO,2023-10-21,69.9,1.78,1,independiente
+3051,Vitality,25,Masculino,mensual,spinning,3 días,Efectivo,PRINCIPIANTE,2023-03-05,67.0,1.9,8,Empleado
+3052,FitZone,51,Masculino,Mensual,Funcional,3 días,Divisas,intermedio,2022-05-19,48.1,1.66,7,Otro
+3053,StrongLife,50,Masculino,ANUAL,spinning,3 días,efectivo,Avanzado,2023-11-24,92.8,1.79,3,Independiente
+3054,PowerGym,49,Femenino,ANUAL,Boxeo,3-4 días,efectivo,novato,2023-06-26,89.8,1.67,6,Otro
+3055,GymPro,33,Femenino,Semanal,Crossfit,1 día,efectivo,avanzado,2022-02-26,94.0,1.91,9,Empleado
+3056,StrongLife,34,Femenino,mensual,Baile,1 día,Pago móvil,Intermedio,2022-08-20,59.4,1.73,7,Independiente
+3057,PowerGym,32,Femenino,trimestral,Boxeo,3-4 días,Efectivo,Principiante,2023-10-20,67.2,1.54,3,estudiante
+3058,Gimnasio Élite,61,Femenino,ANUAL,Crossfit,5+ días,Divisas,AVANZADO,2023-03-11,91.5,1.58,6,Empleado
+3059,Gimnasio Élite,55,Masculino,trimestral,Pilates,5+ días,Efectivo,Intermedio,2023-01-19,90.0,1.53,4,Estudiante
+3060,Wellness Club,63,Femenino,Mensual,spinning,3 días,Pago móvil,Principiante,2023-07-14,83.0,1.75,3,independiente
+3061,StrongLife,28, Femenino,Semanal,Pilates,1-2 días,Transferencia,Principiante,2022-07-13,71.3,1.55,9,Estudiante
+3062,Gimnasio Élite,29,Masculino ,Trimestral,Pilates,5+ días,Tarjeta,Intermedio,2023-10-10,113.5,1.56,10,Desemplead@
+3063,PowerGym,45, Otro ,trimestral,Crossfit,1-2 días,Divisas,AVANZADO,2023-06-18,70.5,1.97,2,Desempleado
+3064,Wellness Club,15, femenino ,ANUAL,Funcional,1 día,Divisas,Principiante,2023-06-02,79.2,1.94,1,EMPLEADO
+3065,PowerGym,17, MASCULINO,Mensual,Crossfit,1-2 días,Efectivo,AVANZADO,2023-12-17,95.9,1.73,2,independiente
+3066,Wellness Club,30,Otro ,Anual,Pesas,1 día,Tarjeta,principiante,2022-07-04,85.7,1.99,7,Estudiante
+3067,StrongLife,37,Masculino,Mensual,Yoga,3-4 días,tarjeta,AVANZADO,2022-10-19,71.0,1.5,10,EMPLEADO
+3068,GymPro,25,Masculino,Mensual,Yoga,3-4 días,tarjeta,Avanzado,2022-12-01,77.7,1.81,1,independiente
+3069,Urban Fitness,26,Masculino,Semanal,Boxeo,3 días,Pago móvil,Avanzado,2022-04-26,104.6,1.81,6,EMPLEADO
+3070,MuscleLab,24,Masculino,Trimestral,Yoga,5+ días,tarjeta,AVANZADO,2022-02-18,65.9,1.73,7,Independiente
+3071,GymPro,46,Masculino,Anual,Crossfit,3 días,Divisas,Avanzado,2023-11-16,30,1.7,9,Estudiante
+3072,BodyTech,30,Masculino,mensual,crossfit,1 día,tarjeta,principiante,2022-03-23,200,1.73,8,Otro
+3073,PowerGym,22,Femenino,mensual,spinning,3 días,Transferencia,Intermedio,2022-11-29,cincuenta,1.71,6,Independiente
+3074,BodyTech,52,Femenino,trimestral,Crossfit,1-2 días,Transferencia,Avanzado,2023-07-11,,1.87,3,independiente
+3075,GymPro,26,Femenino,Mensual,Crossfit,1 día,Transferencia,Avanzado,2022-12-01,110,1.57,8,independiente
+3076,Wellness Club,38,Masculino,Semanal,Baile,3-4 días,tarjeta,AVANZADO,2023-06-16,ochenta,1.6,7,Empleado
+3077,MuscleLab,42,Femenino,Semanal,spinning,5+ días,Pago móvil,principiante,2022-08-09,118.9,1.59,3,Estudiante
+3078,MuscleLab,22,Masculino,mensual,Pesas,1 día,efectivo,Intermedio,2023-09-27,115.4,1.63,9,Desemplead@
+3079,FitZone,42,Masculino,trimestral,Yoga,1 día,efectivo,AVANZADO,2022-11-19,79.0,1.76,2,Desemplead@
+3080,MuscleLab,50,Masculino,trimestral,spinning,1-2 días,Tarjeta,AVANZADO,2022-01-03,59.9,1.56,3,independiente
+3081,Urban Fitness,40,masculino,trimestral,Yoga,5+ días,efectivo,principiante,2023-11-25,57.4,1.2,2,Desemplead@
+3082,MuscleLab,22,Masculino,Anual,Boxeo,3-4 días,efectivo,Intermedio,2022-07-25,63.0,2.5,1,Desempleado
+3083,GymPro,64,Masculino,Trimestral,spinning,1 día,Transferencia,principiante,2022-02-09,98.3,uno setenta,4,Empleado
+3084,FitZone,42,Femenino,Anual,Yoga,1 día,Transferencia,Intermedio,2022-02-28,65.5,,5,independiente
+3085,GymPro,42,Masculino,ANUAL,Pesas,1-2 días,tarjeta,principiante,2023-07-28,70.6,1.95,6,Desemplead@
+3086,GymPro,51,Femenino,ANUAL,Spinning,3 días,Tarjeta,AVANZADO,2023-10-06,78.7,uno ochenta,5,Estudiante
+3087,Vitality,55,Femenino,Trimestral,Pilates,3-4 días,Efectivo,AVANZADO,2023-05-22,113.5,1.85,1,Otro
+3088,FitZone,50,Masculino,mensual,Pilates,5+ días,Divisas,Principiante,2023-07-26,59.2,1.61,3,Independiente
+3089,GymPro,41,Masculino,Trimestral,Pesas,1 día,Tarjeta,Avanzado,2022-05-02,45.4,1.52,1,Independiente
+3090,Vitality,31,Femenino,Semanal,Baile,1 día,Tarjeta,principiante,2023-04-24,49.5,1.68,5,Desempleado
+3091,Vitality,23,Masculino,ANUAL,Spinning,3-4 días,Pago móvil,Principiante,2023-09-11,112.9,1.55,0,EMPLEADO
+3092,FitZone,47,Masculino,Mensual,Boxeo,3 días,tarjeta,Avanzado,2022-04-06,93.6,1.56,11,Estudiante
+3093,BodyTech,34,Masculino,Mensual,Pesas,1 día,Pago móvil,principiante,2023-02-18,65.5,1.63,5,EMPLEADO
+3094,Wellness Club,27,Masculino,mensual,Pilates,3-4 días,Tarjeta,Intermedio,2022-08-23,58.3,1.65,diez,Empleado
+3095,Urban Fitness,42,Masculino,Semanal,Pilates,1-2 días,Tarjeta,Avanzado,2022-03-03,67.1,1.76,,Otro
+3096,Wellness Club,62,FEMENINO,Anual,Pilates,3 días,Tarjeta,AVANZADO,2022-09-13,53.6,1.84,8,Empleado
+3097,MuscleLab,43,Masculino,Semanal,Funcional,5+ días,efectivo,Principiante,2023-07-15,115.6,1.8,10,independiente
+3098,Urban Fitness,27,Masculino,Mensual,Pesas,1 día,Divisas,Avanzado,2022-12-14,103.8,1.57,1,Estudiante
+3099,MuscleLab,60,masculino,Mensual,Crossfit,3-4 días,Divisas,Avanzado,2023-11-02,79.7,1.59,9,independiente
+3100,GymPro,49,femenino,ANUAL,Boxeo,1-2 días,Pago móvil,AVANZADO,2022-05-04,109.9,1.94,7,estudiante
+3101,PowerGym,20,Femenino,Semanal,Pilates,5+ días,Tarjeta,principiante,2023-04-27,63.7,1.78,7,Desemplead@
+3102,FitZone,32,Femenino,Semanal,Yoga,3-4 días,Divisas,Intermedio,2022-11-13,98.8,1.93,5,Independiente
+3103,Urban Fitness,19,Femenino,Mensual,Pesas,3-4 días,Transferencia,AVANZADO,2023-05-19,109.2,1.69,7,independiente
+3104,Urban Fitness,61,Femenino,Anual,Funcional,5+ días,Divisas,Intermedio,2023-12-20,71.8,1.81,2,EMPLEADO
+3105,GymPro,39,Masculino,mensual,Pesas,1-2 días,tarjeta,principiante,2022-02-17,101.8,1.76,4,estudiante
+3106,BodyTech,16,Masculino,trimestral,Boxeo,1-2 días,tarjeta,Avanzado,2023-02-13,67.1,1.66,7,Independiente
+3107,Vitality,24,Masculino,mensual,Funcional,3 días,Divisas,Intermedio,2022-05-16,67.4,1.73,3,independiente
+3108,GymPro,44,Femenino,Semanal,Boxeo,1 día,Transferencia,Principiante,2022-07-20,53.0,1.75,2,estudiante
+3109,Gimnasio Élite,64,Masculino,mensual,Pesas,5+ días,tarjeta,Principiante,2022-09-07,78.0,1.6,10,estudiante
+3110,Vitality,59,Masculino,Mensual,Crossfit,5+ días,efectivo,AVANZADO,2022-11-10,99.7,1.66,2,Estudiante
+3111,FitZone,19,Masculino,Mensual,Boxeo,5+ días,Divisas,principiante,2023-01-03,115.5,1.9,1,Empleado
+3112,Vitality,47,Otro,Semanal,Funcional,1-2 días,efectivo,AVANZADO,2023-03-05,90.3,1.96,5,estudiante
+3113,BodyTech,15,Masculino,Semanal,Funcional,1 día,Divisas,AVANZADO,2023-04-25,109.7,1.68,6,Desempleado
+3114,Vitality,32,Femenino,trimestral,Boxeo,3 días,Efectivo,AVANZADO,2022-11-10,106.7,1.65,6,Empleado
+3115,FitZone,46,Masculino,trimestral,crossfit,3-4 días,Efectivo,Principiante,2023-05-15,58.0,1.6,9,Independiente
+3116,BodyTech,61,Femenino,ANUAL,Pesas,3-4 días,Efectivo,Principiante,2023-12-22,81.4,1.84,4,Independiente
+3117,Wellness Club,63,Femenino,Semanal,crossfit,5+ días,tarjeta,AVANZADO,2022-12-21,53.8,1.66,1,Independiente
+3118,Urban Fitness,25,Masculino,Anual,Baile,1 día,efectivo,Principiante,2023-04-30,96.2,1.99,6,Independiente
+3119,Urban Fitness,35,Femenino,mensual,Pesas,1-2 días,efectivo,principiante,2022-07-30,116.2,1.66,5,Desempleado
+3120,MuscleLab,40,Masculino,Semanal,Boxeo,1 día,efectivo,AVANZADO,2023-12-05,55.3,1.7,10,independiente
+3121,Wellness Club,39,Femenino,Trimestral,Spinning,1 día,Transferencia,Principiante,2022-02-13,100.0,1.8,6,Otro
+3122,Wellness Club,36,Masculino,ANUAL,Boxeo,1-2 días,efectivo,Intermedio,2023-06-25,92.4,1.9,3,estudiante
+3123,Vitality,41,Femenino,Trimestral,crossfit,5+ días,Transferencia,AVANZADO,2023-07-25,88.8,1.73,2,Independiente
+3124,Urban Fitness,63,masculino,Mensual,Crossfit,1 día,Efectivo,AVANZADO,2023-08-06,74.3,1.71,6,Empleado
+3125,FitZone,27,Masculino,trimestral,Boxeo,3-4 días,Efectivo,principiante,2022-04-02,71.6,2.0,1,Empleado
+3126,StrongLife,47,Femenino,mensual,Boxeo,1-2 días,tarjeta,Avanzado,2022-09-22,48.4,1.51,7,estudiante
+3127,StrongLife,48,Masculino,Semanal,Crossfit,3 días,Divisas,Avanzado,2022-08-08,61.3,1.95,7,independiente
+3128,BodyTech,55,FEMENINO,Trimestral,Boxeo,5+ días,Efectivo,principiante,2023-03-18,46.1,1.57,10,Otro
+3129,Urban Fitness,49,Masculino,mensual,Pilates,1-2 días,Divisas,principiante,2023-02-05,88.6,1.89,7,independiente
+3130,Urban Fitness,15,Femenino,Mensual,Spinning,3 días,Divisas,principiante,2023-02-04,52.9,1.81,10,estudiante
+3131,StrongLife,35,Masculino,trimestral,Yoga,3 días,tarjeta,Avanzado,2023-12-28,110.5,1.67,1,EMPLEADO
+3132,Urban Fitness,62,Masculino,Anual,Spinning,1 día,Tarjeta,principiante,2023-07-30,84.2,1.94,4,Desempleado
+3133,Vitality,20,Masculino,ANUAL,Boxeo,1 día,Tarjeta,Principiante,2023-05-05,97.5,1.51,7,estudiante
+3134,Gimnasio Élite,42,Masculino,mensual,Pilates,1 día,Pago móvil,AVANZADO,2023-04-30,75.8,1.61,9,Desemplead@
+3135,PowerGym,31,Femenino,mensual,Pesas,1-2 días,tarjeta,AVANZADO,2023-04-15,87.0,1.78,5,Estudiante
+3136,Wellness Club,19,Femenino,Anual,Boxeo,1-2 días,Pago móvil,Intermedio,2023-07-28,115.7,1.68,2,Estudiante
+3137,MuscleLab,45,Masculino,mensual,crossfit,5+ días,Pago móvil,Intermedio,2023-11-13,51.2,1.81,7,independiente
+3138,BodyTech,19,Femenino,Mensual,Pilates,1 día,Tarjeta,AVANZADO,2023-03-21,64.0,1.51,10,estudiante
+3139,Gimnasio Élite,52,Femenino,Mensual,Crossfit,3 días,tarjeta,Principiante,2022-09-26,103.5,1.56,1,estudiante
+3140,StrongLife,17,Otro,Anual,Pilates,3-4 días,Tarjeta,Avanzado,2022-09-24,52.4,1.56,7,Estudiante
+3141,Wellness Club,37,Masculino,ANUAL,Crossfit,5+ días,Pago móvil,Avanzado,2022-02-23,50.7,1.59,6,Otro
+3142,Urban Fitness,51,Masculino,Semanal,Baile,1-2 días,tarjeta,Principiante,2023-06-12,72.1,1.73,7,Estudiante
+3143,MuscleLab,51,Masculino,Trimestral,Yoga,5+ días,Pago móvil,Avanzado,2023-06-04,51.9,1.88,10,estudiante
+3144,Urban Fitness,24,Masculino,Semanal,spinning,5+ días,efectivo,principiante,2023-09-08,88.9,1.95,3,Otro
+3145,FitZone,24,Masculino,mensual,Pilates,5+ días,Divisas,AVANZADO,2022-02-28,62.0,1.92,3,Independiente
+3146,FitZone,33,Masculino,Trimestral,Funcional,5+ días,tarjeta,AVANZADO,2022-02-09,112.2,1.6,7,Desemplead@
+3147,MuscleLab,31,Femenino,Anual,crossfit,3-4 días,tarjeta,Principiante,2022-08-25,103.8,1.72,2,EMPLEADO
+3148,MuscleLab,35,Femenino,Anual,Boxeo,1 día,Divisas,Avanzado,2023-01-21,97.5,1.6,1,Desempleado
+3149,StrongLife,28,Masculino,ANUAL,crossfit,3 días,Pago móvil,Intermedio,2023-08-29,91.3,1.63,9,Independiente
+3150,MuscleLab,23,Masculino,Trimestral,Spinning,5+ días,efectivo,Intermedio,2023-12-17,109.8,1.75,9,Empleado
+3151,Vitality,60,Femenino,Mensual,spinning,5+ días,Transferencia,Avanzado,2023-10-12,61.7,1.53,7,Estudiante
+3152,Urban Fitness,15,Femenino,Trimestral,Spinning,5+ días,Divisas,Intermedio,2022-10-27,110.5,1.61,7,Desemplead@
+3153,Gimnasio Élite,59,Femenino,mensual,Baile,1 día,Tarjeta,Principiante,2023-01-30,104.2,1.97,3,Estudiante
+3154,GymPro,27,Femenino,Mensual,spinning,1-2 días,Pago móvil,Principiante,2022-07-26,101.1,1.73,10,Estudiante
+3155,MuscleLab,18,Masculino,trimestral,spinning,1-2 días,Divisas,Avanzado,2022-12-02,87.1,1.72,2,Independiente
+3156,BodyTech,15,Femenino,trimestral,Spinning,3-4 días,Divisas,Intermedio,2023-08-16,63.5,1.51,7,EMPLEADO
+3157,FitZone,63,Masculino,trimestral,Crossfit,1-2 días,tarjeta,Principiante,2023-12-31,76.8,1.62,9,Otro
+3158,Vitality,54,Masculino,Anual,Spinning,5+ días,Tarjeta,Principiante,2023-05-29,104.5,1.93,1,Estudiante
+3159,Wellness Club,46,Masculino,Trimestral,crossfit,5+ días,Tarjeta,principiante,2022-06-27,47.4,1.58,4,independiente
+3160,GymPro,48,Masculino,trimestral,Crossfit,5+ días,Tarjeta,principiante,2023-01-31,103.7,1.71,6,estudiante
+3161,Gimnasio Élite,42,Femenino,Semanal,crossfit,3-4 días,Divisas,Principiante,2023-01-06,63.0,1.51,7,Desemplead@
+3162,GymPro,45,Masculino,ANUAL,Baile,5+ días,Transferencia,Avanzado,2023-10-20,55.8,1.74,10,independiente
+3163,MuscleLab,22,Femenino,Semanal,Boxeo,1-2 días,Efectivo,AVANZADO,2022-11-14,53.7,1.51,7,Independiente
+3164,StrongLife,53,Femenino,trimestral,Pesas,1 día,Pago móvil,AVANZADO,2023-01-04,47.0,1.91,10,Independiente
+3165,FitZone,40,femenino,ANUAL,Crossfit,1 día,Efectivo,Principiante,2023-01-19,84.3,1.91,2,EMPLEADO
+3166,FitZone,48,Femenino,mensual,Baile,3 días,Divisas,Principiante,2022-03-03,61.4,1.89,4,EMPLEADO
+3167,Wellness Club,17,Femenino,Semanal,Funcional,1-2 días,Efectivo,Principiante,2023-05-20,119.2,1.64,5,Otro
+3168,StrongLife,64,Masculino,Trimestral,Baile,5+ días,Divisas,Avanzado,2022-08-27,88.1,1.92,1,estudiante
+3169,Urban Fitness,26,Femenino,Trimestral,Spinning,1 día,Efectivo,principiante,2022-07-14,55.3,1.77,1,Desemplead@
+3170,PowerGym,15,Masculino,Semanal,Spinning,1-2 días,Tarjeta,Principiante,2023-11-09,96.7,1.69,10,estudiante
+3171,Vitality,58,Femenino,trimestral,Pesas,1 día,efectivo,Principiante,2022-08-10,112.3,1.81,3,Empleado
+3172,FitZone,19,Otro,Trimestral,Baile,5+ días,Tarjeta,Intermedio,2022-03-02,100.9,1.51,10,EMPLEADO
+3173,BodyTech,44,Masculino,mensual,Yoga,1 día,Tarjeta,Avanzado,2022-05-09,50.7,1.57,3,Otro
+3174,FitZone,44,Masculino,Mensual,Boxeo,3 días,tarjeta,Principiante,2023-11-16,112.2,1.87,8,Desempleado
+3175,GymPro,31,femenino,trimestral,Spinning,3 días,tarjeta,Intermedio,2022-06-05,104.5,1.62,9,Estudiante
+3176,FitZone,62,Femenino,mensual,Pesas,1 día,Efectivo,AVANZADO,2023-01-13,56.9,1.8,1,Estudiante
+3177,FitZone,61,femenino,ANUAL,Boxeo,1-2 días,Divisas,Principiante,2023-09-14,48.9,1.69,2,Desempleado
+3178,PowerGym,37,Femenino,mensual,Baile,1-2 días,Tarjeta,Principiante,2023-08-09,86.8,1.93,10,estudiante
+3179,PowerGym,29,Masculino,trimestral,Baile,1-2 días,Efectivo,Intermedio,2023-03-13,56.7,1.98,2,Desempleado
+3180,Gimnasio Élite,51,Femenino,ANUAL,spinning,1 día,tarjeta,Avanzado,2022-07-26,107.6,1.94,4,Otro
+3181,Urban Fitness,35,Masculino,trimestral,Pesas,1-2 días,efectivo,Principiante,2023-01-23,71.9,1.64,2,Desemplead@
+3182,BodyTech,28,Femenino,Trimestral,Spinning,5+ días,Pago móvil,AVANZADO,2023-04-25,113.5,1.6,7,Desempleado
+3183,FitZone,16,Masculino,Mensual,Yoga,3 días,Efectivo,Principiante,2022-12-06,87.4,1.74,9,Otro
+3184,FitZone,25,Masculino,trimestral,Baile,5+ días,efectivo,AVANZADO,2022-12-06,58.7,1.5,7,EMPLEADO
+3185,Vitality,53,femenino,trimestral,Yoga,1-2 días,Pago móvil,principiante,2022-07-23,55.5,1.51,6,independiente
+3186,PowerGym,52,Femenino,Trimestral,Baile,5+ días,Transferencia,principiante,2022-06-10,88.2,1.78,10,Independiente
+3187,BodyTech,48,Masculino,Anual,Spinning,1-2 días,Efectivo,AVANZADO,2023-06-24,102.1,1.76,1,Independiente
+3188,Wellness Club,52,Masculino,Trimestral,Boxeo,1 día,Efectivo,Avanzado,2023-01-27,103.6,2.0,10,Empleado
+3189,Gimnasio Élite,64,Femenino,ANUAL,Pilates,5+ días,Transferencia,Principiante,2023-11-08,65.7,1.6,9,estudiante
+3190,Urban Fitness,48,Femenino,Trimestral,Boxeo,1 día,Transferencia,Principiante,2023-07-29,60.3,1.63,5,Desemplead@
+3191,StrongLife,32,Femenino,Trimestral,Baile,1 día,Efectivo,principiante,2023-06-18,46.3,1.56,5,independiente
+3192,Urban Fitness,44,Masculino,Mensual,crossfit,3-4 días,Transferencia,AVANZADO,2022-03-11,95.9,1.96,6,independiente
+3193,GymPro,29,Masculino,Trimestral,Pilates,1-2 días,Tarjeta,Principiante,2023-02-09,50.7,1.89,9,EMPLEADO
+3194,FitZone,41,Masculino,trimestral,Pilates,3 días,Pago móvil,Principiante,2023-08-31,76.6,1.91,8,Desempleado
+3195,Gimnasio Élite,48,Femenino,Mensual,Yoga,1-2 días,Pago móvil,Avanzado,2023-11-06,90.1,1.95,8,estudiante
+3196,GymPro,52,Femenino,Semanal,Pesas,3 días,Pago móvil,Intermedio,2023-08-14,115.3,1.76,8,Estudiante
+3197,BodyTech,47,Femenino,Anual,Yoga,1-2 días,Tarjeta,principiante,2023-06-01,68.4,1.73,1,independiente
+3198,StrongLife,38,masculino,Mensual,Yoga,1 día,Divisas,principiante,2022-04-30,63.7,1.67,1,Otro
+3199,PowerGym,29,Femenino,ANUAL,crossfit,5+ días,Transferencia,Intermedio,2023-11-21,94.1,1.79,8,Estudiante
+3200,Gimnasio Élite,44,Femenino,Semanal,Boxeo,5+ días,efectivo,Principiante,2023-11-19,91.4,1.73,5,Empleado
+3201,Gimnasio Élite,56,Femenino,Mensual,Boxeo,3-4 días,Transferencia,Avanzado,2022-08-05,69.9,1.73,9,Desempleado
+3202,FitZone,31,Masculino,Mensual,Funcional,3 días,Efectivo,Avanzado,2022-02-25,114.6,1.97,2,Desempleado
+3203,MuscleLab,19,masculino,Anual,Baile,3 días,tarjeta,principiante,2023-01-01,108.4,1.99,9,Desemplead@
+3204,Gimnasio Élite,43,Masculino,trimestral,crossfit,3 días,Pago móvil,Avanzado,2023-11-30,61.8,1.9,8,independiente
+3205,Vitality,18,Masculino,ANUAL,Funcional,1 día,Transferencia,Intermedio,2023-05-19,62.9,1.88,9,EMPLEADO
+3206,StrongLife,24,Masculino,mensual,Spinning,3 días,efectivo,Principiante,2023-03-31,83.4,1.84,4,Independiente
+3207,StrongLife,31,Femenino,mensual,Baile,5+ días,Efectivo,Intermedio,2022-04-14,103.0,1.58,1,Otro
+3208,Vitality,24,femenino,Mensual,Baile,1 día,Tarjeta,AVANZADO,2022-03-18,48.3,1.53,1,Estudiante
+3209,Wellness Club,31,Masculino,Trimestral,spinning,1-2 días,Divisas,principiante,2022-08-18,97.0,1.85,5,Empleado
+3210,Vitality,34,Masculino,ANUAL,spinning,3 días,Tarjeta,Avanzado,2022-09-15,93.6,1.86,2,Independiente
+3211,Vitality,38,Masculino,Semanal,Crossfit,3 días,efectivo,AVANZADO,2022-09-21,62.4,1.52,8,Desempleado
+3212,StrongLife,19,Masculino,Trimestral,Crossfit,1-2 días,Efectivo,Avanzado,2022-11-27,96.1,1.96,10,Estudiante
+3213,Urban Fitness,48,Masculino,Trimestral,Yoga,3 días,Pago móvil,Principiante,2022-07-01,115.5,1.55,5,estudiante
+3214,StrongLife,20,FEMENINO,ANUAL,Spinning,1-2 días,Transferencia,Principiante,2023-07-04,48.5,1.64,5,independiente
+3215,MuscleLab,16,Otro,trimestral,Pilates,1 día,Efectivo,Principiante,2023-11-19,69.0,1.84,2,Empleado
+3216,FitZone,27,Masculino,Mensual,Pilates,5+ días,Divisas,Avanzado,2022-01-27,77.9,1.58,7,estudiante
+3217,GymPro,57,Masculino,Mensual,spinning,1-2 días,Tarjeta,AVANZADO,2022-10-03,112.4,1.53,8,EMPLEADO
+3218,Urban Fitness,57,Femenino,Mensual,spinning,3-4 días,Divisas,Principiante,2023-10-14,117.2,1.67,10,independiente
+3219,PowerGym,62,Masculino,Mensual,spinning,1-2 días,Divisas,AVANZADO,2022-10-26,78.3,1.88,1,Estudiante
+3220,GymPro,25,Femenino,mensual,crossfit,3 días,efectivo,Avanzado,2022-04-01,101.3,1.71,2,independiente
+3221,FitZone,61,Masculino,Mensual,Pesas,1 día,efectivo,AVANZADO,2023-04-25,84.9,1.83,10,Independiente
+3222,MuscleLab,37,MASCULINO,mensual,Crossfit,1 día,Transferencia,Avanzado,2023-07-27,85.3,1.79,4,Desemplead@
+3223,MuscleLab,30,Masculino,mensual,crossfit,1-2 días,efectivo,Avanzado,2023-04-03,65.9,1.51,5,Independiente
+3224,PowerGym,45,Masculino,trimestral,Boxeo,5+ días,efectivo,principiante,2023-03-27,61.3,1.99,2,EMPLEADO
+3225,Urban Fitness,25,Femenino,Mensual,Pilates,3-4 días,Efectivo,Avanzado,2022-12-31,66.6,1.52,1,Otro
+3226,Wellness Club,30,Femenino,Anual,Baile,1 día,Pago móvil,Avanzado,2023-11-06,86.7,1.98,9,estudiante
+3227,Vitality,22,Masculino,Semanal,Crossfit,3 días,Transferencia,Intermedio,2022-12-17,47.2,1.77,1,Independiente
+3228,Urban Fitness,18,Femenino,Trimestral,Funcional,3 días,Efectivo,Principiante,2023-10-17,113.0,1.98,4,Desemplead@
+3229,Wellness Club,54,Femenino,mensual,Boxeo,5+ días,Pago móvil,principiante,2023-02-04,56.7,1.56,2,Otro
+3230,MuscleLab,18,Femenino,ANUAL,Crossfit,1 día,Divisas,principiante,2022-09-10,61.5,1.75,4,Independiente
+3231,StrongLife,39,Masculino,ANUAL,crossfit,1-2 días,Efectivo,principiante,2023-04-04,83.9,1.58,8,Desempleado
+3232,FitZone,17,Masculino,Semanal,Spinning,3 días,tarjeta,Intermedio,2023-11-30,98.3,1.53,8,Desemplead@
+3233,PowerGym,46,Femenino,ANUAL,Baile,5+ días,Efectivo,Avanzado,2023-05-14,52.2,1.81,9,estudiante
+3234,FitZone,17,Masculino,Anual,Crossfit,1 día,efectivo,Principiante,2023-05-23,68.8,1.6,5,Empleado
+3235,BodyTech,41,Masculino,ANUAL,Pesas,1 día,Pago móvil,AVANZADO,2022-10-31,117.7,1.79,7,Otro
+3236,BodyTech,43,Masculino,Trimestral,spinning,1 día,Transferencia,Avanzado,2023-05-16,64.7,1.56,3,Desempleado
+3237,Urban Fitness,46,Masculino,Trimestral,spinning,1 día,Transferencia,Intermedio,2023-08-21,68.5,1.67,10,Empleado
+3238,MuscleLab,64,Femenino,mensual,Baile,1 día,Pago móvil,Avanzado,2022-06-15,107.7,1.89,4,Estudiante
+3239,MuscleLab,33,Masculino,Mensual,crossfit,3 días,efectivo,Avanzado,2023-02-19,48.8,1.72,10,Desemplead@
+3240,Vitality,35,Masculino,trimestral,spinning,5+ días,Tarjeta,Intermedio,2023-04-07,79.8,1.81,9,Desempleado
+3241,Vitality,19,Masculino,Anual,Crossfit,1 día,Efectivo,principiante,2022-04-24,73.5,1.82,10,independiente
+3242,Vitality,32,Masculino,mensual,Funcional,3-4 días,efectivo,principiante,2023-03-09,68.7,1.92,10,Estudiante
+3243,StrongLife,42,Femenino,Anual,Pilates,3-4 días,tarjeta,Principiante,2022-12-22,66.4,1.66,1,Estudiante
+3244,GymPro,56,Femenino,Mensual,Pilates,5+ días,Divisas,Principiante,2023-11-26,51.9,1.84,2,Otro
+3245,Gimnasio Élite,36,Masculino,ANUAL,Boxeo,1-2 días,Pago móvil,principiante,2022-07-26,68.6,1.98,5,Desemplead@
+3246,GymPro,35,Masculino,ANUAL,Yoga,1-2 días,Efectivo,AVANZADO,2022-08-23,48.2,1.87,3,Desempleado
+3247,FitZone,20,Masculino,trimestral,Spinning,1-2 días,Transferencia,Avanzado,2023-03-18,103.6,1.74,2,EMPLEADO
+3248,GymPro,15,Masculino,Mensual,Baile,3-4 días,Divisas,AVANZADO,2022-12-21,74.9,1.82,1,Desempleado
+3249,StrongLife,19,Masculino,mensual,Boxeo,1-2 días,Tarjeta,Avanzado,2023-05-30,78.3,1.87,10,Independiente
+3250,FitZone,55,Masculino,trimestral,Yoga,3 días,tarjeta,principiante,2022-07-27,112.0,1.81,3,Estudiante
+3251,GymPro,26,Femenino,Mensual,crossfit,1 día,Transferencia,Principiante,2023-12-10,94.4,1.51,1,estudiante
+3252,StrongLife,40,Masculino,Semanal,Pesas,3-4 días,Pago móvil,Principiante,2022-05-05,45.6,1.6,1,Estudiante
+3253,Gimnasio Élite,60,Femenino,Trimestral,Pesas,5+ días,Efectivo,AVANZADO,2022-05-18,115.7,1.91,1,Estudiante
+3254,GymPro,48,Masculino,trimestral,Spinning,5+ días,Pago móvil,Principiante,2022-12-05,62.8,1.64,8,independiente
+3255,StrongLife,63,MASCULINO,trimestral,spinning,1 día,Divisas,principiante,2023-06-21,53.1,1.87,3,EMPLEADO
+3256,Vitality,28,Femenino,mensual,Crossfit,3-4 días,Efectivo,AVANZADO,2022-03-09,102.6,1.69,1,Empleado
+3257,MuscleLab,40,Femenino,Anual,Boxeo,1-2 días,efectivo,Avanzado,2023-07-27,82.5,1.76,7,Empleado
+3258,Vitality,59,Femenino,Semanal,Boxeo,1-2 días,Tarjeta,Principiante,2023-06-25,77.5,1.53,10,independiente
+3259,MuscleLab,41,femenino,mensual,Baile,3 días,efectivo,Intermedio,2023-01-18,63.7,1.59,3,Estudiante
+3260,PowerGym,23,Femenino,Mensual,Baile,3 días,efectivo,Principiante,2022-01-19,86.1,1.98,8,Empleado
+3261,PowerGym,40,Femenino,Mensual,Pesas,1-2 días,Pago móvil,Avanzado,2023-11-14,65.6,1.95,4,Desemplead@
+3262,PowerGym,61,Femenino,Mensual,Pesas,5+ días,Divisas,AVANZADO,2023-03-26,112.6,1.83,4,EMPLEADO
+3263,Gimnasio Élite,36,Femenino,Mensual,Funcional,5+ días,Tarjeta,Avanzado,2022-03-15,61.1,1.73,5,Empleado
+3264,Vitality,61,Femenino,Anual,Funcional,3 días,Efectivo,Intermedio,2023-07-27,111.3,1.84,6,independiente
+3265,MuscleLab,44,Masculino,Semanal,spinning,1 día,Efectivo,principiante,2023-10-27,87.0,1.81,7,Independiente
+3266,StrongLife,57,Masculino,ANUAL,Funcional,1-2 días,tarjeta,Principiante,2022-10-03,107.1,1.78,4,Empleado
+3267,FitZone,62,Femenino,Trimestral,Crossfit,3 días,Transferencia,AVANZADO,2022-02-17,98.5,1.53,8,EMPLEADO
+3268,StrongLife,31,Femenino,Anual,Crossfit,3 días,tarjeta,principiante,2022-07-30,97.3,1.82,6,Otro
+3269,FitZone,40,Femenino,Anual,Boxeo,1-2 días,tarjeta,Avanzado,2023-10-13,69.3,1.88,1,Otro
+3270,BodyTech,50,Femenino,ANUAL,Pilates,1-2 días,Efectivo,AVANZADO,2023-09-14,62.5,2.0,1,Desemplead@
+3271,StrongLife,15,Masculino,ANUAL,Crossfit,5+ días,Pago móvil,principiante,2023-11-26,60.8,1.51,9,Desempleado
+3272,GymPro,22,Masculino,Trimestral,Yoga,1 día,efectivo,AVANZADO,2023-06-24,109.3,1.87,10,Desempleado
+3273,GymPro,63,Femenino,Trimestral,Pesas,1 día,Divisas,Intermedio,2023-12-10,106.5,1.79,6,Empleado
+3274,Urban Fitness,49,Masculino,ANUAL,Baile,1-2 días,efectivo,Intermedio,2022-07-10,78.0,1.72,10,estudiante
+3275,Vitality,29,Femenino,Mensual,Funcional,3-4 días,efectivo,Principiante,2022-11-11,54.9,1.56,8,Independiente
+3276,FitZone,61,Masculino,Anual,Boxeo,3 días,Tarjeta,Principiante,2023-07-17,73.7,1.7,7,independiente
+3277,FitZone,36,Masculino,mensual,Spinning,3 días,Efectivo,Intermedio,2023-10-23,91.5,1.68,6,Independiente
+3278,Vitality,28,Masculino,Trimestral,Baile,1-2 días,Divisas,AVANZADO,2023-07-16,79.1,1.65,4,Otro
+3279,Gimnasio Élite,40,Femenino,Trimestral,Yoga,3-4 días,Pago móvil,Intermedio,2022-04-23,103.5,1.87,7,Empleado
+3280,Urban Fitness,42,Otro,ANUAL,Funcional,5+ días,Tarjeta,Principiante,2022-06-19,119.8,1.85,9,EMPLEADO
+3281,Gimnasio Élite,37,Femenino,Semanal,Yoga,1-2 días,Transferencia,Intermedio,2023-04-13,59.3,1.79,10,independiente
+3282,Gimnasio Élite,28,Femenino,mensual,Pesas,1-2 días,Pago móvil,Intermedio,2023-11-09,79.5,1.97,10,Independiente
+3283,Gimnasio Élite,38,Femenino,mensual,Pesas,3 días,tarjeta,AVANZADO,2022-01-14,77.3,1.67,7,EMPLEADO
+3284,Vitality,16,Femenino,Trimestral,spinning,1-2 días,Pago móvil,principiante,2023-12-16,67.8,1.62,1,independiente
+3285,Gimnasio Élite,59,femenino,Mensual,Boxeo,1-2 días,Pago móvil,Principiante,2022-10-15,59.9,1.83,10,Independiente
+3286,GymPro,40,Masculino,Semanal,Baile,1-2 días,efectivo,AVANZADO,2022-07-08,49.9,1.6,9,Desemplead@
+3287,PowerGym,28,Femenino,mensual,crossfit,3 días,Pago móvil,Intermedio,2022-06-04,111.5,1.66,4,Otro
+3288,BodyTech,21,Masculino,Trimestral,crossfit,5+ días,tarjeta,Intermedio,2023-07-21,76.5,1.61,3,Estudiante
+3289,FitZone,17,FEMENINO,mensual,Baile,5+ días,tarjeta,principiante,2023-11-25,82.3,1.53,4,independiente
+3290,FitZone,61,Masculino,trimestral,Spinning,1-2 días,Efectivo,Principiante,2023-12-23,113.8,1.91,4,Otro
+3291,BodyTech,37,Masculino,Semanal,Boxeo,3 días,Pago móvil,Principiante,2023-04-16,103.2,1.63,10,estudiante
+3292,Vitality,60,Otro,Semanal,Yoga,5+ días,efectivo,Avanzado,2022-03-16,54.8,1.74,2,Empleado
+3293,StrongLife,57,FEMENINO,trimestral,Spinning,5+ días,Pago móvil,Principiante,2022-10-04,87.4,1.52,1,EMPLEADO
+3294,Vitality,61,Masculino,Anual,Pilates,5+ días,Transferencia,principiante,2023-10-07,78.2,1.85,10,independiente
+3295,FitZone,59,Femenino,trimestral,Baile,3 días,Transferencia,Avanzado,2022-12-09,104.8,1.67,1,Empleado
+3296,FitZone,32,Femenino,ANUAL,Yoga,3 días,efectivo,Avanzado,2023-03-01,99.3,1.87,8,Empleado
+3297,BodyTech,52,Masculino,ANUAL,crossfit,1-2 días,Efectivo,Intermedio,2023-07-25,96.8,1.71,2,Estudiante
+3298,Gimnasio Élite,49,Femenino,Trimestral,Crossfit,1 día,Efectivo,Intermedio,2023-05-26,70.5,1.6,10,Independiente
+3299,Vitality,29,Masculino,Semanal,spinning,5+ días,tarjeta,Principiante,2022-07-01,105.4,1.76,5,independiente
+3300,MuscleLab,39,Femenino,Anual,crossfit,1 día,tarjeta,Avanzado,2023-04-03,48.9,1.57,4,Otro
+3301,BodyTech,51,Femenino,Anual,Boxeo,3 días,Tarjeta,Intermedio,2022-03-05,57.0,1.72,8,Desempleado
+3302,GymPro,42,Femenino,mensual,Pesas,3 días,efectivo,principiante,2022-09-17,70.2,1.66,2,independiente
+3303,FitZone,24,Femenino,mensual,Crossfit,3 días,Pago móvil,Intermedio,2022-07-12,50.8,1.96,10,independiente
+3304,BodyTech,53,femenino,trimestral,spinning,1 día,Divisas,Intermedio,2023-10-17,62.6,1.53,9,independiente
+3305,Vitality,31,Masculino,Anual,spinning,3 días,efectivo,Avanzado,2023-09-08,107.3,1.85,7,Empleado
+3306,FitZone,53,Masculino,trimestral,Pilates,1-2 días,Tarjeta,Avanzado,2023-02-10,116.1,1.59,7,EMPLEADO
+3307,StrongLife,36,Masculino,trimestral,Pilates,3 días,tarjeta,AVANZADO,2023-12-27,67.8,1.66,1,Empleado
+3308,BodyTech,40,Femenino,mensual,Funcional,3-4 días,efectivo,principiante,2023-12-22,64.8,1.71,2,EMPLEADO
+3309,Urban Fitness,58,Masculino,Semanal,crossfit,1 día,efectivo,Avanzado,2022-04-03,66.0,1.95,4,Desempleado
+3310,FitZone,39,Masculino,trimestral,crossfit,3-4 días,tarjeta,Principiante,2023-03-06,65.8,1.62,4,Empleado
+3311,Vitality,31,Masculino,Mensual,crossfit,3 días,Tarjeta,principiante,2023-10-16,47.7,1.55,3,EMPLEADO
+3312,PowerGym,27,Femenino,Semanal,Funcional,1-2 días,tarjeta,principiante,2023-03-10,114.5,1.66,7,Empleado
+3313,MuscleLab,34,Masculino,Anual,Spinning,5+ días,Efectivo,Avanzado,2023-02-08,61.0,1.55,8,estudiante
+3314,Wellness Club,39,Masculino,Anual,spinning,3 días,Pago móvil,principiante,2023-03-10,76.5,1.56,2,Empleado
+3315,Gimnasio Élite,18,MASCULINO,trimestral,Crossfit,1-2 días,tarjeta,Avanzado,2022-04-22,45.7,1.79,4,Desempleado
+3316,Wellness Club,24,Masculino,Semanal,Boxeo,1 día,Tarjeta,Intermedio,2023-01-10,109.3,1.53,3,Desempleado
+3317,Vitality,17,Masculino,mensual,spinning,3-4 días,Transferencia,AVANZADO,2022-02-28,99.8,1.52,2,EMPLEADO
+3318,GymPro,55,Masculino,mensual,Pilates,3-4 días,Efectivo,Intermedio,2022-02-12,116.0,1.86,6,EMPLEADO
+3319,GymPro,59,Masculino,ANUAL,Yoga,3-4 días,Transferencia,Avanzado,2022-07-26,103.6,1.68,4,Desempleado
+3320,PowerGym,32,Femenino,Anual,Pesas,1 día,Divisas,Avanzado,2022-10-23,68.5,1.56,6,Desempleado
+3321,Gimnasio Élite,61,Masculino,Trimestral,Funcional,1-2 días,tarjeta,Intermedio,2022-04-28,63.6,1.63,2,Estudiante
+3322,Urban Fitness,50,Masculino,ANUAL,Baile,1 día,Efectivo,Principiante,2023-06-16,97.3,1.82,4,independiente
+3323,PowerGym,61,Masculino,mensual,Yoga,3-4 días,Pago móvil,Principiante,2022-08-10,72.3,1.64,6,Desemplead@
+3324,Wellness Club,36,Femenino,Semanal,Boxeo,3 días,tarjeta,Principiante,2022-06-15,87.5,1.75,5,Empleado
+3325,PowerGym,48,Femenino,mensual,crossfit,5+ días,Pago móvil,Avanzado,2023-10-05,45.5,1.56,3,Independiente
+3326,Wellness Club,61,Masculino,Semanal,Pilates,1 día,efectivo,principiante,2022-06-05,49.6,1.79,8,independiente
+3327,FitZone,22,Femenino,ANUAL,Pilates,1 día,Transferencia,Avanzado,2022-07-03,85.2,1.66,7,Desemplead@
+3328,GymPro,54,Masculino,Anual,Pilates,1-2 días,Efectivo,principiante,2022-03-31,87.5,1.81,3,Estudiante
+3329,FitZone,63,Femenino,mensual,crossfit,1-2 días,Pago móvil,Intermedio,2022-04-04,101.4,1.9,6,Independiente
+3330,MuscleLab,58,Femenino,trimestral,Baile,1 día,Tarjeta,AVANZADO,2022-01-13,54.9,1.81,4,EMPLEADO
+3331,Gimnasio Élite,33,femenino,Semanal,Funcional,3-4 días,Pago móvil,principiante,2023-03-14,83.5,1.65,5,Desempleado
+3332,Urban Fitness,56,Masculino,Anual,Yoga,5+ días,Tarjeta,Principiante,2023-06-22,59.6,1.63,5,estudiante
+3333,Wellness Club,55,Femenino,Trimestral,crossfit,1-2 días,tarjeta,Avanzado,2023-08-10,52.0,1.66,7,Otro
+3334,Urban Fitness,51,Femenino,Semanal,Boxeo,3-4 días,Efectivo,Intermedio,2022-05-30,75.8,1.58,5,Desempleado
+3335,Wellness Club,20,Femenino,ANUAL,Funcional,3 días,Pago móvil,Principiante,2023-10-22,57.3,1.59,3,estudiante
+3336,Vitality,40,Masculino,Trimestral,Boxeo,1-2 días,Divisas,Intermedio,2022-01-08,61.6,1.9,10,Desemplead@
+3337,PowerGym,48,Femenino,Trimestral,Funcional,3-4 días,Pago móvil,AVANZADO,2022-01-29,68.8,1.69,5,EMPLEADO
+3338,MuscleLab,59,Masculino,Mensual,Baile,3-4 días,Divisas,Avanzado,2022-10-23,64.5,1.72,7,Independiente
+3339,GymPro,20,masculino,mensual,Pesas,5+ días,Efectivo,Avanzado,2023-12-22,51.6,1.8,5,Desemplead@
+3340,Wellness Club,51,Femenino,Semanal,Boxeo,5+ días,Pago móvil,AVANZADO,2023-10-02,51.7,1.79,5,Desempleado
+3341,Urban Fitness,47,Masculino,Trimestral,crossfit,3 días,Tarjeta,Avanzado,2022-12-06,59.5,1.53,9,Desempleado
+3342,MuscleLab,36,MASCULINO,Mensual,Funcional,3-4 días,Pago móvil,principiante,2023-09-20,48.8,1.92,3,Independiente
+3343,StrongLife,35,Femenino,ANUAL,Pilates,3-4 días,Transferencia,Intermedio,2023-03-15,92.0,1.59,6,Otro
+3344,StrongLife,20,Masculino,Anual,spinning,5+ días,tarjeta,Principiante,2022-05-24,66.5,1.86,1,estudiante
+3345,FitZone,20,Masculino,trimestral,Pilates,1-2 días,efectivo,AVANZADO,2023-06-03,66.0,1.89,10,Desemplead@
+3346,GymPro,62,Otro,trimestral,Spinning,1-2 días,Tarjeta,principiante,2022-02-14,69.9,1.86,5,EMPLEADO
+3347,Vitality,18,Masculino,Semanal,Pesas,1 día,Transferencia,Principiante,2022-08-27,94.7,1.79,8,Desempleado
+3348,Urban Fitness,44,Masculino,Trimestral,Pesas,5+ días,Divisas,Principiante,2022-06-04,110.3,1.51,5,Desemplead@
+3349,PowerGym,25,Masculino,trimestral,Pilates,1 día,tarjeta,AVANZADO,2022-06-30,101.9,1.68,9,Otro
+3350,PowerGym,44,Masculino,mensual,Yoga,5+ días,Efectivo,principiante,2022-08-03,99.6,1.8,6,Desemplead@
+3351,Urban Fitness,45,Masculino,trimestral,Baile,3 días,Tarjeta,Principiante,2022-03-29,81.3,1.69,8,Independiente
+3352,Gimnasio Élite,38,Masculino,trimestral,Boxeo,3-4 días,efectivo,Principiante,2022-09-13,97.0,1.93,10,EMPLEADO
+3353,Vitality,23,Masculino,trimestral,crossfit,3 días,tarjeta,principiante,2023-05-26,86.5,1.65,8,Estudiante
+3354,MuscleLab,17,Femenino,Mensual,Pesas,5+ días,Divisas,Avanzado,2022-03-14,61.2,1.65,3,Independiente
+3355,Wellness Club,45,Femenino,Trimestral,Pilates,3-4 días,efectivo,Principiante,2022-06-28,60.6,1.63,7,Desemplead@
+3356,Gimnasio Élite,54,Femenino,mensual,Pilates,1-2 días,Efectivo,Intermedio,2022-07-31,67.2,1.67,7,Estudiante
+3357,Wellness Club,51,Femenino,Trimestral,Baile,1-2 días,Efectivo,principiante,2022-08-22,113.3,1.78,10,Desempleado
+3358,Wellness Club,50,Femenino,Semanal,Baile,1 día,Divisas,Principiante,2023-04-10,86.1,1.85,6,Estudiante
+3359,Gimnasio Élite,38,femenino,Semanal,Crossfit,5+ días,Tarjeta,AVANZADO,2022-08-11,100.0,1.83,7,Otro
+3360,FitZone,45,Femenino,Semanal,Crossfit,5+ días,Divisas,Intermedio,2023-09-23,71.0,1.9,2,Empleado
+3361,StrongLife,20,Masculino,ANUAL,Yoga,1-2 días,Pago móvil,Principiante,2022-09-21,75.6,1.94,9,Otro
+3362,Wellness Club,16,Femenino,trimestral,Yoga,3 días,Efectivo,Intermedio,2022-07-26,54.4,1.91,10,Independiente
+3363,Gimnasio Élite,34,Masculino,ANUAL,Spinning,3-4 días,tarjeta,Intermedio,2023-08-30,57.8,1.51,10,Empleado
+3364,Gimnasio Élite,42,masculino,Mensual,Yoga,3 días,Pago móvil,Avanzado,2023-01-01,107.1,1.87,1,Independiente
+3365,BodyTech,25,Masculino,Semanal,Funcional,3 días,Transferencia,Intermedio,2022-10-03,88.9,1.6,1,EMPLEADO
+3366,FitZone,18,Masculino,mensual,Baile,1-2 días,efectivo,Avanzado,2023-01-15,70.3,1.57,3,independiente
+3367,GymPro,29,Femenino,Trimestral,crossfit,1-2 días,Pago móvil,principiante,2022-11-05,105.2,1.82,3,Desempleado
+3368,BodyTech,20,Masculino,trimestral,Funcional,1-2 días,efectivo,Avanzado,2023-09-23,63.5,1.66,1,Desempleado
+3369,BodyTech,63,Femenino,Anual,Boxeo,1 día,Divisas,AVANZADO,2022-09-25,118.2,1.53,7,Desemplead@
+3370,Urban Fitness,44,Otro,mensual,Pilates,3 días,Pago móvil,Principiante,2022-03-05,70.9,1.57,4,estudiante
+3371,StrongLife,52,Femenino,trimestral,Yoga,5+ días,Divisas,principiante,2022-12-16,70.3,1.5,10,Independiente
+3372,Gimnasio Élite,16,Masculino,ANUAL,Pilates,3-4 días,Transferencia,principiante,2023-05-09,68.4,1.95,2,independiente
+3373,StrongLife,29,Masculino,ANUAL,Pesas,1 día,Efectivo,AVANZADO,2023-06-07,54.2,1.51,10,independiente
+3374,Vitality,25,Femenino,mensual,Spinning,5+ días,Transferencia,Avanzado,2022-04-08,53.3,1.6,5,Otro
+3375,Urban Fitness,22,Femenino,ANUAL,Pesas,3 días,Efectivo,Principiante,2022-03-12,93.6,1.71,6,Otro
+3376,GymPro,40,Femenino,Semanal,Spinning,1-2 días,Divisas,Avanzado,2022-12-30,110.6,1.68,9,estudiante
+3377,StrongLife,59,Femenino,Mensual,Crossfit,3 días,Efectivo,Intermedio,2023-07-24,104.3,1.96,4,Desemplead@
+3378,PowerGym,58,Masculino,Trimestral,Pilates,3-4 días,efectivo,Avanzado,2022-10-03,55.6,1.52,2,Estudiante
+3379,Wellness Club,19,Femenino,Mensual,Spinning,1 día,tarjeta,principiante,2022-02-19,85.9,1.76,5,Otro
+3380,Vitality,20,Femenino,trimestral,spinning,1 día,Transferencia,Principiante,2022-12-24,52.9,1.84,3,Desemplead@
+3381,FitZone,40,Femenino,Trimestral,Funcional,3-4 días,Pago móvil,Avanzado,2023-12-29,48.4,1.97,2,EMPLEADO
+3382,GymPro,18,Masculino,Trimestral,Spinning,5+ días,Transferencia,Principiante,2023-07-18,94.2,1.81,1,Desempleado
+3383,Vitality,33,Femenino,Mensual,Spinning,5+ días,efectivo,Principiante,2023-04-30,85.1,1.9,10,Desempleado
+3384,Wellness Club,34,Femenino,mensual,Funcional,1 día,Efectivo,Intermedio,2022-03-25,51.2,1.54,2,Desemplead@
+3385,Urban Fitness,47,Femenino,Trimestral,Pilates,1 día,efectivo,Intermedio,2023-09-30,47.6,1.69,6,estudiante
+3386,Wellness Club,34,Femenino,Mensual,Pilates,1-2 días,Tarjeta,principiante,2023-08-07,119.2,1.69,8,independiente
+3387,BodyTech,63,Masculino,Trimestral,Funcional,5+ días,Tarjeta,AVANZADO,2022-10-23,47.3,1.94,3,estudiante
+3388,Wellness Club,26,Femenino,Anual,Pesas,3-4 días,Pago móvil,Principiante,2022-08-24,78.3,1.58,9,Desemplead@
+3389,BodyTech,61,Femenino,mensual,spinning,5+ días,efectivo,AVANZADO,2022-02-25,82.8,1.58,9,Independiente
+3390,Urban Fitness,15,Masculino,Semanal,crossfit,1-2 días,Divisas,principiante,2022-12-26,53.8,1.66,2,Empleado
+3391,MuscleLab,40,Masculino,Trimestral,Boxeo,1 día,Pago móvil,Principiante,2022-04-20,57.7,1.53,8,Desempleado
+3392,BodyTech,28,Femenino,Anual,spinning,1 día,Divisas,Principiante,2022-07-11,71.4,1.59,10,Desemplead@
+3393,FitZone,52,Masculino,Semanal,Pilates,1-2 días,Pago móvil,AVANZADO,2022-04-03,102.1,1.98,5,independiente
+3394,Wellness Club,51,femenino,Semanal,crossfit,3-4 días,Tarjeta,Avanzado,2023-07-22,83.0,1.71,4,Empleado
+3395,Wellness Club,25,Femenino,trimestral,Crossfit,1 día,Pago móvil,Intermedio,2022-03-01,92.8,1.82,10,EMPLEADO
+3396,FitZone,50,Masculino,Trimestral,Yoga,3 días,Tarjeta,Avanzado,2023-10-12,118.9,1.86,5,Otro
+3397,PowerGym,27,Masculino,Mensual,Spinning,1 día,Efectivo,AVANZADO,2022-02-08,102.6,1.68,4,Independiente
+3398,Gimnasio Élite,57,Masculino,Trimestral,Funcional,3 días,Divisas,Intermedio,2023-06-24,77.6,1.57,8,Otro
+3399,MuscleLab,17,Femenino,Anual,Funcional,1-2 días,efectivo,Avanzado,2022-02-18,78.5,1.6,4,Empleado
+3400,GymPro,47,Femenino,Semanal,Spinning,1-2 días,Pago móvil,Intermedio,2023-02-24,91.4,1.66,10,Empleado
+3401,BodyTech,20,Masculino,Trimestral,Yoga,1 día,Tarjeta,Principiante,2023-09-29,94.9,1.82,6,Otro
+3402,FitZone,64,MASCULINO,Mensual,Boxeo,5+ días,Transferencia,Avanzado,2022-01-13,82.6,1.7,2,independiente
+3403,Urban Fitness,24,Masculino,trimestral,Yoga,3 días,Divisas,Intermedio,2022-02-05,93.4,1.5,5,independiente
+3404,BodyTech,19,Femenino,Trimestral,crossfit,3-4 días,Pago móvil,Intermedio,2022-04-11,46.8,1.76,6,Estudiante
+3405,Gimnasio Élite,37,Masculino,mensual,Yoga,1 día,tarjeta,Intermedio,2022-03-27,77.2,1.96,5,EMPLEADO
+3406,Urban Fitness,24,Masculino,trimestral,crossfit,3-4 días,Efectivo,Avanzado,2023-05-31,65.9,1.91,2,independiente
+3407,Vitality,58,Femenino,Mensual,Yoga,1 día,Efectivo,principiante,2022-08-11,54.7,1.91,7,EMPLEADO
+3408,Wellness Club,16,Femenino,Anual,Boxeo,5+ días,Transferencia,Avanzado,2022-12-04,52.5,1.9,4,EMPLEADO
+3409,Vitality,27,Masculino,Semanal,Boxeo,5+ días,Tarjeta,AVANZADO,2022-06-15,90.2,1.66,8,Empleado
+3410,BodyTech,54,Femenino,Trimestral,Pilates,5+ días,Pago móvil,Avanzado,2023-01-18,84.3,1.88,7,EMPLEADO
+3411,Gimnasio Élite,16,Masculino,Mensual,Spinning,5+ días,Divisas,Intermedio,2023-01-11,64.0,1.57,7,Independiente
+3412,MuscleLab,34,Femenino,trimestral,Boxeo,1-2 días,Tarjeta,Principiante,2023-04-16,80.3,1.83,9,Otro
+3413,BodyTech,15,Femenino,mensual,crossfit,1-2 días,Efectivo,Avanzado,2023-10-04,81.9,1.82,1,Estudiante
+3414,FitZone,51,Femenino,Mensual,Boxeo,3 días,Tarjeta,Avanzado,2022-01-31,59.6,1.51,10,Desemplead@
+3415,StrongLife,23,Masculino,ANUAL,Pilates,3-4 días,Efectivo,Intermedio,2023-01-10,93.9,1.89,6,estudiante
+3416,BodyTech,31,femenino,mensual,Funcional,1 día,Tarjeta,Principiante,2022-01-11,103.6,1.95,6,Estudiante
+3417,Wellness Club,23,Femenino,trimestral,crossfit,1 día,Transferencia,Principiante,2022-10-29,104.4,1.63,6,Independiente
+3418,Wellness Club,25,Masculino,Anual,Pilates,1-2 días,efectivo,AVANZADO,2022-04-06,90.2,1.91,6,Estudiante
+3419,BodyTech,29,Masculino,Semanal,Pesas,1 día,Transferencia,Avanzado,2022-07-09,83.4,1.54,10,EMPLEADO
+3420,Urban Fitness,38,Masculino,trimestral,Pesas,1-2 días,Transferencia,Principiante,2023-03-29,49.6,1.8,7,Empleado
+3421,StrongLife,52,Femenino,Anual,Crossfit,3 días,efectivo,Principiante,2022-07-11,66.6,1.74,10,estudiante
+3422,FitZone,49,Masculino,Trimestral,Yoga,3-4 días,efectivo,principiante,2023-05-01,52.0,1.77,6,independiente
+3423,BodyTech,44,Masculino,Mensual,Spinning,3 días,Pago móvil,principiante,2022-09-23,117.3,1.96,1,Empleado
+3424,Urban Fitness,45,Femenino,ANUAL,Baile,5+ días,Divisas,Principiante,2023-02-28,55.1,1.94,3,EMPLEADO
+3425,Wellness Club,63,Femenino,mensual,spinning,5+ días,Divisas,AVANZADO,2022-05-08,56.4,1.89,2,EMPLEADO
+3426,Wellness Club,19,Masculino,mensual,Pilates,5+ días,Pago móvil,Principiante,2022-08-26,111.7,1.64,6,estudiante
+3427,Gimnasio Élite,58,masculino,Mensual,Funcional,3 días,Transferencia,Intermedio,2022-12-21,115.8,1.96,8,estudiante
+3428,BodyTech,64,Femenino,ANUAL,spinning,1 día,Transferencia,Avanzado,2022-04-22,102.4,1.55,3,Desempleado
+3429,StrongLife,28,Masculino,Mensual,Funcional,3-4 días,Efectivo,AVANZADO,2023-03-22,45.4,1.93,10,Empleado
+3430,PowerGym,25,Otro,Trimestral,spinning,5+ días,Efectivo,Intermedio,2022-12-09,45.1,1.66,8,independiente
+3431,StrongLife,23,Masculino,Anual,Pilates,5+ días,Divisas,AVANZADO,2022-05-25,73.4,1.53,8,Estudiante
+3432,Wellness Club,48,masculino,trimestral,Baile,5+ días,Pago móvil,Intermedio,2022-03-06,55.8,1.83,5,EMPLEADO
+3433,Wellness Club,26,Masculino,mensual,spinning,3-4 días,tarjeta,Avanzado,2022-09-04,46.4,1.62,8,EMPLEADO
+3434,Vitality,49,Femenino,Trimestral,Pilates,5+ días,tarjeta,Avanzado,2023-05-05,79.8,1.62,6,Desempleado
+3435,Wellness Club,49,Femenino,Anual,Boxeo,3-4 días,Pago móvil,principiante,2023-03-15,115.7,1.65,5,Empleado
+3436,FitZone,15,Femenino,Trimestral,Baile,5+ días,Efectivo,Intermedio,2022-04-16,69.3,1.53,9,Empleado
+3437,GymPro,54,Masculino,ANUAL,crossfit,3 días,Divisas,principiante,2022-06-30,94.6,1.59,7,Otro
+3438,BodyTech,36,Masculino,mensual,Funcional,3 días,Divisas,Intermedio,2022-07-03,93.9,1.5,8,estudiante
+3439,StrongLife,43,Femenino,trimestral,Pesas,3-4 días,Efectivo,principiante,2022-08-14,63.8,1.72,1,independiente
+3440,GymPro,22,Masculino,Mensual,Yoga,3 días,tarjeta,Avanzado,2022-03-30,93.8,1.54,2,estudiante
+3441,Urban Fitness,25,Masculino,Mensual,Pesas,3-4 días,Tarjeta,AVANZADO,2023-11-19,60.9,1.84,8,independiente
+3442,PowerGym,55,Masculino,Anual,Baile,3 días,Tarjeta,principiante,2023-06-14,54.2,1.62,9,Independiente
+3443,FitZone,51,Masculino,trimestral,crossfit,3 días,Efectivo,Intermedio,2023-01-06,97.6,1.97,4,Desemplead@
+3444,StrongLife,28,Masculino,Semanal,Funcional,3-4 días,Tarjeta,Intermedio,2023-02-03,53.5,1.94,10,independiente
+3445,GymPro,44,Femenino,ANUAL,crossfit,1 día,efectivo,Avanzado,2022-04-16,119.8,1.64,10,estudiante
+3446,PowerGym,49,Femenino,Anual,spinning,3 días,Pago móvil,Intermedio,2022-09-28,58.8,1.89,9,EMPLEADO
+3447,Vitality,35,Femenino,Semanal,Funcional,5+ días,Pago móvil,Principiante,2023-05-18,89.6,1.9,4,estudiante
+3448,FitZone,51,Femenino,Trimestral,spinning,1 día,Efectivo,AVANZADO,2023-11-10,75.9,1.99,10,independiente
+3449,FitZone,19,Masculino,ANUAL,Pilates,3-4 días,Transferencia,principiante,2023-06-09,54.5,1.8,10,Empleado
+3450,Vitality,33,Masculino,Trimestral,Baile,1 día,tarjeta,AVANZADO,2022-02-01,47.1,1.54,10,estudiante
+3451,BodyTech,28,Femenino,trimestral,Pilates,1-2 días,Efectivo,Avanzado,2023-01-28,91.7,1.82,9,Desempleado
+3452,Vitality,40,Masculino,mensual,Crossfit,1-2 días,Tarjeta,principiante,2022-02-09,105.5,1.81,7,Otro
+3453,FitZone,18,Femenino,ANUAL,crossfit,3 días,tarjeta,principiante,2023-10-22,108.2,1.82,2,EMPLEADO
+3454,FitZone,39,Otro,Semanal,spinning,3 días,Transferencia,Principiante,2022-08-06,81.2,1.65,9,Desempleado
+3455,GymPro,59,masculino,mensual,Boxeo,5+ días,Tarjeta,Avanzado,2022-03-23,103.3,1.93,4,independiente
+3456,Wellness Club,56,Femenino,Mensual,Pilates,1 día,Divisas,Intermedio,2023-12-21,95.5,1.98,8,Independiente
+3457,PowerGym,39,Masculino,Semanal,Crossfit,1-2 días,efectivo,Principiante,2022-07-20,99.3,1.61,7,Desempleado
+3458,Vitality,32,Femenino,Anual,Spinning,3 días,Tarjeta,Principiante,2023-03-23,81.9,1.54,7,Desemplead@
+3459,PowerGym,54,Masculino,Mensual,Pesas,1 día,efectivo,AVANZADO,2023-03-04,92.5,1.6,8,Independiente
+3460,Vitality,22,Masculino,Mensual,Funcional,3 días,tarjeta,AVANZADO,2022-02-07,105.4,1.91,1,Estudiante
+3461,Urban Fitness,53,Femenino,Anual,Crossfit,3 días,efectivo,AVANZADO,2022-07-30,74.8,1.84,5,EMPLEADO
+3462,FitZone,54,Masculino,ANUAL,Baile,1-2 días,tarjeta,Principiante,2023-03-20,105.4,1.82,2,Estudiante
+3463,Wellness Club,28,Femenino,Mensual,Pilates,1-2 días,tarjeta,Intermedio,2022-11-23,89.4,1.7,2,estudiante
+3464,GymPro,46,Femenino,trimestral,Baile,3 días,tarjeta,principiante,2022-08-15,57.4,1.79,1,independiente
+3465,Wellness Club,52,Masculino,Semanal,Pesas,3-4 días,tarjeta,AVANZADO,2022-02-17,46.9,1.65,5,EMPLEADO
+3466,Wellness Club,47,Femenino,mensual,Boxeo,3 días,tarjeta,Intermedio,2022-01-18,72.2,1.74,2,Empleado
+3467,Wellness Club,37,Masculino,Mensual,crossfit,3 días,Tarjeta,Avanzado,2023-03-15,86.0,1.9,4,Independiente
+3468,PowerGym,29,Femenino,Semanal,crossfit,5+ días,tarjeta,AVANZADO,2023-12-09,108.0,1.99,3,Empleado
+3469,Vitality,47,FEMENINO,Trimestral,Baile,5+ días,Tarjeta,principiante,2022-07-06,54.6,1.97,3,Estudiante
+3470,MuscleLab,39,Femenino,Semanal,spinning,5+ días,tarjeta,Avanzado,2022-12-11,105.0,1.97,2,Desempleado
+3471,Urban Fitness,31,Masculino,mensual,Boxeo,3-4 días,efectivo,Avanzado,2022-08-12,109.7,1.7,6,Desempleado
+3472,StrongLife,47,Masculino,Semanal,crossfit,3-4 días,Divisas,principiante,2023-05-03,56.3,1.73,2,independiente
+3473,Wellness Club,61,Femenino,Anual,Boxeo,3 días,tarjeta,AVANZADO,2022-08-17,108.9,1.85,8,Estudiante
+3474,BodyTech,16,masculino,mensual,Crossfit,5+ días,Transferencia,Principiante,2023-01-25,119.4,1.96,8,Otro
+3475,PowerGym,28,Masculino,ANUAL,Boxeo,3-4 días,tarjeta,principiante,2023-08-12,99.5,1.57,5,EMPLEADO
+3476,GymPro,54,Masculino,Trimestral,Yoga,1-2 días,tarjeta,principiante,2022-07-07,103.9,1.65,10,Independiente
+3477,StrongLife,54,Masculino,Anual,Pesas,3 días,efectivo,principiante,2022-09-27,119.6,1.57,7,Desempleado
+3478,MuscleLab,53,femenino,ANUAL,crossfit,1 día,Pago móvil,Avanzado,2023-08-30,90.4,1.81,4,Desempleado
+3479,BodyTech,20,Otro,Semanal,Boxeo,3 días,efectivo,Intermedio,2022-11-06,68.1,1.65,1,Empleado
+3480,MuscleLab,20,Masculino,mensual,Baile,1 día,Transferencia,Principiante,2022-05-12,107.8,1.66,2,Empleado
+3481,StrongLife,17,Masculino,Trimestral,Spinning,5+ días,Pago móvil,AVANZADO,2023-07-05,91.1,1.54,10,estudiante
+3482,Wellness Club,21,Femenino,Anual,Yoga,1 día,Efectivo,AVANZADO,2022-03-13,88.6,1.67,10,Otro
+3483,BodyTech,22,Femenino,ANUAL,Yoga,5+ días,Efectivo,Intermedio,2023-11-03,64.0,1.93,4,Empleado
+3484,MuscleLab,56,Masculino,ANUAL,spinning,1-2 días,Transferencia,principiante,2022-07-06,101.7,1.62,1,Empleado
+3485,GymPro,29,Femenino,Trimestral,Boxeo,1 día,efectivo,Principiante,2023-05-01,51.1,1.85,8,EMPLEADO
+3486,Vitality,61,Masculino,trimestral,spinning,3 días,Tarjeta,AVANZADO,2022-07-10,114.3,1.81,9,Empleado
+3487,FitZone,43,Femenino,Semanal,spinning,5+ días,Transferencia,AVANZADO,2023-02-26,69.4,1.93,4,Independiente
+3488,Vitality,47,Femenino,Trimestral,Spinning,3 días,Divisas,principiante,2022-04-30,54.6,1.57,10,EMPLEADO
+3489,StrongLife,44,Masculino,ANUAL,Crossfit,3-4 días,Pago móvil,Intermedio,2022-08-08,78.2,1.99,3,estudiante
+3490,PowerGym,53,femenino,Mensual,Boxeo,5+ días,Pago móvil,Principiante,2022-02-22,48.2,1.79,2,Estudiante
+3491,FitZone,41,Femenino,Anual,Pilates,1 día,tarjeta,Intermedio,2023-03-27,96.3,2.0,5,EMPLEADO
+3492,Urban Fitness,50,Masculino,Trimestral,crossfit,5+ días,Efectivo,Intermedio,2023-02-16,112.7,1.96,3,Estudiante
+3493,GymPro,43,Masculino,trimestral,spinning,3 días,Pago móvil,Principiante,2023-10-05,107.8,1.61,10,Desempleado
+3494,Urban Fitness,52,Femenino,ANUAL,Pesas,1-2 días,Transferencia,Principiante,2022-08-25,54.6,1.53,7,estudiante
+3495,BodyTech,47,Masculino,Semanal,Funcional,5+ días,Pago móvil,AVANZADO,2023-12-21,54.5,1.63,6,estudiante
+3496,FitZone,51,Femenino,ANUAL,Pesas,1 día,Transferencia,AVANZADO,2023-02-10,106.0,1.76,1,EMPLEADO
+3497,Urban Fitness,41,Femenino,Semanal,Spinning,3-4 días,Tarjeta,Principiante,2023-08-31,114.3,1.59,8,Desemplead@
+3498,Urban Fitness,47,masculino,Trimestral,Spinning,1-2 días,tarjeta,Avanzado,2023-02-26,79.6,1.58,2,estudiante
+3499,MuscleLab,18,Femenino,Semanal,Baile,3-4 días,Efectivo,AVANZADO,2023-12-13,82.4,1.73,5,Estudiante
+3500,Vitality,36,Masculino,mensual,Crossfit,5+ días,Pago móvil,Avanzado,2022-09-04,68.9,1.52,9,estudiante
+3501,MuscleLab,16,Masculino,mensual,crossfit,3 días,Transferencia,Principiante,2022-03-13,112.1,1.56,8,Desempleado
+3502,FitZone,24,Femenino,mensual,spinning,3 días,efectivo,AVANZADO,2022-07-04,93.4,1.71,2,Independiente
+3503,FitZone,19,Masculino,trimestral,Pesas,1 día,Efectivo,Intermedio,2022-01-06,66.6,1.53,9,Desemplead@
+3504,StrongLife,24,femenino,trimestral,Funcional,3 días,Tarjeta,Principiante,2022-07-25,67.4,1.7,5,independiente
+3505,MuscleLab,47,Femenino,Mensual,Spinning,1-2 días,Transferencia,principiante,2023-06-28,111.8,1.74,10,estudiante
+3506,Gimnasio Élite,52,Masculino,trimestral,Spinning,3 días,Divisas,Avanzado,2023-09-03,46.0,1.73,6,Empleado
+3507,Vitality,27,Masculino,Trimestral,Crossfit,1 día,Divisas,Principiante,2023-01-22,69.2,1.93,3,EMPLEADO
+3508,FitZone,45,Masculino,ANUAL,Funcional,5+ días,tarjeta,Principiante,2023-11-30,86.6,1.77,3,EMPLEADO
+3509,StrongLife,61,Masculino,ANUAL,Funcional,5+ días,tarjeta,AVANZADO,2022-03-17,56.1,1.73,10,EMPLEADO
+3510,MuscleLab,50,Femenino,Mensual,Crossfit,3 días,Tarjeta,AVANZADO,2022-06-26,51.9,1.71,8,Otro
+3511,Vitality,59,femenino,trimestral,Spinning,3-4 días,Tarjeta,AVANZADO,2022-12-15,106.1,1.91,10,Desemplead@
+3512,MuscleLab,38,femenino,Semanal,crossfit,5+ días,tarjeta,principiante,2022-09-12,112.1,1.95,10,Desemplead@
+3513,Urban Fitness,29,Masculino,Mensual,Boxeo,3 días,Pago móvil,AVANZADO,2023-12-03,106.8,1.93,2,Estudiante
+3514,StrongLife,43,Masculino,Semanal,Boxeo,1 día,Pago móvil,Principiante,2022-11-04,112.4,1.84,2,estudiante
+3515,Vitality,22,Masculino,Semanal,Crossfit,3 días,Transferencia,AVANZADO,2022-12-11,86.5,1.57,5,independiente
+3516,Wellness Club,19,Masculino,Anual,Funcional,5+ días,efectivo,Intermedio,2022-05-07,105.9,1.64,6,EMPLEADO
+3517,BodyTech,43,Masculino,ANUAL,spinning,1 día,Transferencia,AVANZADO,2022-10-14,73.8,1.52,2,estudiante
+3518,BodyTech,61,Masculino,mensual,Crossfit,3 días,efectivo,principiante,2023-12-26,95.0,1.97,5,Desemplead@
+3519,Vitality,18,Masculino,trimestral,crossfit,1-2 días,Tarjeta,Intermedio,2023-08-19,119.2,1.83,7,Desempleado
+3520,MuscleLab,26,Masculino,Semanal,Crossfit,1 día,Efectivo,Principiante,2023-05-02,61.9,1.87,10,EMPLEADO
+3521,StrongLife,59,Masculino,Anual,Yoga,1-2 días,Transferencia,Principiante,2023-01-18,74.2,1.66,10,estudiante
+3522,BodyTech,16,Femenino,ANUAL,Pesas,3-4 días,Transferencia,Avanzado,2023-02-10,81.0,1.92,8,Desemplead@
+3523,StrongLife,41,Femenino,mensual,Funcional,1 día,efectivo,Intermedio,2023-01-23,55.4,1.63,7,Independiente
+3524,BodyTech,45,Femenino,Semanal,Baile,1-2 días,Tarjeta,Avanzado,2023-06-09,51.1,1.5,8,Desemplead@
+3525,Urban Fitness,50,Masculino,Semanal,Baile,5+ días,Tarjeta,Intermedio,2023-07-11,107.2,1.69,9,Empleado
+3526,MuscleLab,50,Masculino,Mensual,Funcional,5+ días,Divisas,Intermedio,2023-10-01,118.3,1.79,5,Otro
+3527,Urban Fitness,40,Masculino,Mensual,crossfit,3-4 días,efectivo,principiante,2023-09-18,75.4,1.74,5,Otro
+3528,BodyTech,57,Masculino,ANUAL,Yoga,1 día,Tarjeta,Avanzado,2022-10-03,51.6,1.93,10,EMPLEADO
+3529,Wellness Club,41,Masculino,mensual,Yoga,1 día,tarjeta,principiante,2023-05-15,49.9,1.55,4,Independiente
+3530,Wellness Club,19,Femenino,Semanal,Spinning,1 día,Pago móvil,Intermedio,2023-12-18,111.8,1.78,9,Independiente
+3531,Urban Fitness,34,Masculino,ANUAL,Pesas,3-4 días,Divisas,Principiante,2022-12-03,79.8,1.76,5,EMPLEADO
+3532,Wellness Club,25,Masculino,ANUAL,Boxeo,1 día,tarjeta,Intermedio,2023-04-26,69.0,1.64,2,estudiante
+3533,BodyTech,24,Masculino,Trimestral,Pilates,5+ días,Efectivo,principiante,2022-09-30,80.7,1.91,10,EMPLEADO
+3534,Vitality,54,Femenino,trimestral,crossfit,1-2 días,Transferencia,Avanzado,2022-02-27,68.9,1.88,8,independiente
+3535,Urban Fitness,52,Femenino,Mensual,Pilates,5+ días,Divisas,Avanzado,2022-11-24,81.7,1.87,7,independiente
+3536,PowerGym,20,Femenino,mensual,Pilates,5+ días,Efectivo,principiante,2022-04-19,109.5,1.94,8,Otro
+3537,MuscleLab,22,Femenino,Semanal,Funcional,1-2 días,Transferencia,Avanzado,2022-10-06,89.4,1.86,3,Desemplead@
+3538,Wellness Club,37,Masculino,ANUAL,Baile,5+ días,Pago móvil,AVANZADO,2023-11-17,97.1,1.62,4,EMPLEADO
+3539,Wellness Club,61,Femenino,Semanal,Baile,3-4 días,Tarjeta,Principiante,2022-11-24,72.4,1.85,5,EMPLEADO
+3540,FitZone,40,Masculino,Trimestral,Boxeo,1-2 días,tarjeta,Principiante,2022-11-11,100.4,1.65,6,estudiante
+3541,Gimnasio Élite,60,Masculino,mensual,Funcional,5+ días,efectivo,Principiante,2023-04-19,95.0,1.62,1,Estudiante
+3542,Urban Fitness,57,Femenino,ANUAL,Pilates,3 días,tarjeta,Avanzado,2022-04-21,54.0,1.54,4,Otro
+3543,GymPro,26,Femenino,Semanal,spinning,5+ días,Pago móvil,Avanzado,2023-11-30,87.9,1.87,10,Otro
+3544,Wellness Club,40,Femenino,Mensual,Baile,3-4 días,Efectivo,Intermedio,2022-08-17,64.3,1.86,5,Otro
+3545,MuscleLab,27,Femenino,trimestral,crossfit,1 día,efectivo,Intermedio,2023-05-12,105.3,1.62,7,Desemplead@
+3546,PowerGym,54,Femenino,Trimestral,crossfit,5+ días,Tarjeta,Principiante,2022-06-05,76.9,1.87,5,Desempleado
+3547,Wellness Club,32,Masculino,mensual,Spinning,1 día,Pago móvil,AVANZADO,2023-04-18,119.6,1.96,1,Estudiante
+3548,PowerGym,39,Femenino,Trimestral,Crossfit,3 días,efectivo,Intermedio,2023-12-02,51.9,1.55,7,Desemplead@
+3549,BodyTech,47,masculino,Mensual,spinning,5+ días,Pago móvil,Intermedio,2022-09-29,103.5,1.62,8,independiente
+3550,BodyTech,61,Femenino,mensual,Baile,1-2 días,Pago móvil,Avanzado,2022-01-02,95.5,1.88,7,estudiante
+3196,GymPro,52,Femenino,Semanal,Pesas,3 días,Pago móvil,Intermedio,2023-08-14,115.3,1.76,8,Estudiante
+3080,MuscleLab,50,Masculino,trimestral,spinning,1-2 días,Tarjeta,AVANZADO,2022-01-03,59.9,1.56,3,independiente
+3481,StrongLife,17,Masculino,Trimestral,Spinning,5+ días,Pago móvil,AVANZADO,2023-07-05,91.1,1.54,10,estudiante
+3110,Vitality,59,Masculino,Mensual,Crossfit,5+ días,efectivo,AVANZADO,2022-11-10,99.7,1.66,2,Estudiante
+3523,StrongLife,41,Femenino,mensual,Funcional,1 día,efectivo,Intermedio,2023-01-23,55.4,1.63,7,Independiente
+3533,BodyTech,24,Masculino,Trimestral,Pilates,5+ días,Efectivo,principiante,2022-09-30,80.7,1.91,10,EMPLEADO
+3085,GymPro,42,Masculino,ANUAL,Pesas,1-2 días,tarjeta,principiante,2023-07-28,70.6,1.95,6,Desemplead@
+3369,BodyTech,63,Femenino,Anual,Boxeo,1 día,Divisas,AVANZADO,2022-09-25,118.2,1.53,7,Desemplead@
+3133,Vitality,20,Masculino,ANUAL,Boxeo,1 día,Tarjeta,Principiante,2023-05-05,97.5,1.51,7,estudiante
+3365,BodyTech,25,Masculino,Semanal,Funcional,3 días,Transferencia,Intermedio,2022-10-03,88.9,1.6,1,EMPLEADO
