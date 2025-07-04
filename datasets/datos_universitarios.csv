@@ -1,0 +1,561 @@
+﻿ID_Estudiante,Universidad,Carrera,Edad,Sexo,Año_Cursado,Actividad_Extracurricular,Red_Social_Favorita,Motivacion_Principal,Reto_Mayor,Tecnologia_Clave,Promedio_Academico,Horas_Estudio_Semana,Horas_Ocio_Semana,Satisfaccion_Vida,Emprende,Fecha_Registro
+1,UNIMET,Arquitectura,23,Femenino,2,Deporte,TikTok,Networking,Desinformación,HTML/CSS,10.45,37.6,3.8,Media,NO,2022-10-20
+2,UCAB,Derecho,19,Masculino,2,Deporte,TikTok,Reconocimiento,Estrés académico,Python,16.56,26.7,10.9,Alta,Sí,2022-03-04
+3,UNEXPO,Economía,26,Masculino,3,Voluntariado,Discord,Impactar en la sociedad,Estrés académico,Figma,15.35,33.1,8.2,Alta,No,2023-02-20
+4,LUZ,Ingeniería,26,Masculino,1,Música,Instagram,Reconocimiento,Desinformación,Canva,10.82,7.9,16.4,Media,No,2023-05-09
+5,UNIMET,Arquitectura,19,Femenino,4,Gaming,Twitter/X,Networking,Desinformación,Power BI,10.35,18.5,4.9,Alta,No,2023-01-03
+6,UPEL,Psicología,18,Masculino,6,Investigación,WhatsApp,Diversión,Presión social,SPSS,19.9,18.1,23.0,Muy baja,Sí,2022-06-07
+7,USB,Ingeniería,17,Femenino,4,Emprendimiento,Instagram,Reconocimiento,Falta de tiempo,SQL,10.3,36.0,27.4,Media,No,2023-02-28
+8,UNIMET,Educación,23,Femenino,6,Investigación,TikTok,Diversión,Desigualdad,R,14.45,10.3,22.8,Muy baja,No,2022-02-27
+9,UNEXPO,Administración,23,FEMENINO,1,Voluntariado,Discord,Networking,Desmotivación,Figma,15.05,10.3,16.9,Muy alta,NO,2023-09-15
+10,LUZ,Psicología,18,Femenino,1,Club de Debate,Discord,Networking,Desinformación,JavaScript,11.17,16.5,26.1,Muy alta,Sí,2022-12-13
+11,UCAB,ingenieria,23,Masculino,1,Música,WhatsApp,Superación personal,Falta de recursos,Excel,11.69,6.9,21.5,Media,No,2022-12-17
+12,UNEXPO,MEDICINA,24,Masculino,2,Emprendimiento,Discord,Networking,Estrés académico,HTML/CSS,13.52,11.4,2.3,Media,No,2023-05-27
+13,UNEXPO,derecho,17,Masculino,6,Danza,Discord,Networking,Desinformación,Figma,17.62,38.8,13.0,Alta,No,2023-01-10
+14,USB,Psicologia,25,Masculino,2,Club de Debate,Instagram,Desarrollar habilidades,Falta de recursos,Excel,15.07,20.0,25.8,Media,No,2022-11-22
+15,UC,comunicación social,23,Femenino,2,Deporte,Twitter/X,Impactar en la sociedad,Falta de recursos,R,16.38,27.1,11.7,Muy alta,No,2023-09-13
+16,LUZ,Arquitectura,19,Femenino,5,Arte,WhatsApp,Superación personal,Falta de recursos,HTML/CSS,19.85,30.4,3.0,Alta,No,2022-10-16
+17,UCV,Biología,24,Masculino,4,Danza,Instagram,Innovar,Presión social,HTML/CSS,17.68,17.8,22.9,Media,No,2022-03-23
+18,UNEXPO,Derecho,23,Femenino,4,Investigación,Twitter/X,Superación personal,Presión social,Power BI,14.34,10.2,24.5,Alta,No,2023-08-29
+19,UC,Educación,27,Femenino,3,Investigación,Instagram,Superación personal,Desmotivación,Figma,14.46,12.2,6.5,Media,No,2022-02-19
+20,UCV,Derecho,24,Femenino,2,Deporte,Facebook,Innovar,Desmotivación,Canva,16.19,16.0,17.0,Muy alta,Sí,2022-03-02
+21,LUZ,Medicina,22,Femenino,6,Voluntariado,instagram,Desarrollar habilidades,Falta de recursos,Python,16.65,27.3,7.4,Muy alta,Sí,2023-04-26
+22,ULA,Biología,25,Femenino,5,Gaming,TIKTOK,Diversión,Falta de tiempo,Python,15.01,18.9,22.1,Baja,Sí,2022-05-24
+23,UPEL,Psicología,21,Femenino,5,Danza,Whatsapp,Networking,Presión social,SQL,16.45,5.2,9.6,Muy baja,Sí,2022-01-23
+24,UC,Economía,19,Masculino,4,Danza,twitter,Impactar en la sociedad,Desigualdad,JavaScript,10.24,23.3,10.9,Muy alta,No,2023-10-17
+25,UNEARTE,Administración,19,Masculino,2,Viajes,discord,Reconocimiento,Falta de recursos,Excel,14.3,37.3,25.7,Muy alta,no,2023-10-23
+26,ULA,Educación,17,Masculino,3,Club de Debate,FACEBOOK,Innovar,Desigualdad,Figma,12.79,33.4,15.3,Baja,No,2023-07-02
+27,UPEL,Ingeniería,24,Femenino,2,Música,Discord,Diversión,Desigualdad,SPSS,11.29,33.9,20.8,Alta,No,2023-06-04
+28,USB,Derecho,18,Femenino,1,Club de Debate,TikTok,Innovar,Falta de recursos,JavaScript,11.0,32.8,13.3,Media,Sí,2023-10-06
+29,UNIMET,Administración,19,Femenino,2,Gaming,Instagram,Networking,Estrés académico,Power BI,16.03,16.3,10.3,Media,No,2023-03-30
+30,UCAB,Ingeniería,24,Masculino,1,Investigación,Discord,Desarrollar habilidades,Falta de tiempo,HTML/CSS,15.24,31.8,19.5,Muy alta,Sí,2022-08-31
+31,UNEARTE,Administración,24,Masculino,1,Investigación,Facebook,impactar,Falta de recursos,Canva,12.54,10.0,6.3,Baja,SI,2023-02-19
+32,USB,Economía,27,Femenino,3,Investigación,Twitter/X,habilidades,Desmotivación,Figma,14.71,28.0,12.4,Muy alta,No,2022-01-31
+33,LUZ,Ingeniería,20,femenino,6,Viajes,Instagram,networking,Falta de recursos,JavaScript,14.92,27.5,7.9,Media,NO,2023-10-04
+34,USB,Arquitectura,20,Femenino,4,Investigación,WhatsApp,superacion,Presión social,JavaScript,11.95,5.9,21.5,Alta,no,2023-05-28
+35,UNIMET,Comunicación Social,21,Masculino,2,Gaming,TikTok,reconocimiento,Falta de recursos,Canva,16.52,32.6,28.4,Media,No,2023-06-23
+36,LUZ,Arquitectura,22,Masculino,1,Deporte,Facebook,diversion,Estrés académico,SQL,17.81,36.6,29.9,Alta,No,2023-05-20
+37,UNEARTE,Biología,21,Masculino,2,Música,WhatsApp,Impactar en la sociedad,Presión social,Excel,17.91,14.4,14.6,Alta,Sí,2022-07-21
+38,UNIMET,Comunicación Social,23,Masculino,6,Gaming,Twitter/X,Impactar en la sociedad,Desmotivación,Excel,16.02,33.4,9.1,Baja,No,2022-10-05
+39,UCV,Arquitectura,18,Masculino,4,Música,Instagram,Superación personal,Ansiedad,JavaScript,15.12,7.9,14.4,Alta,SI,2022-07-17
+40,UCAB,Comunicación Social,23,Femenino,6,Gaming,Twitter/X,Diversión,Ansiedad,R,10.61,26.0,25.7,Media,Sí,2023-07-26
+41,UNEARTE,Comunicación Social,26,Masculino,4,Investigación,Instagram,Reconocimiento,Desigualdad,JavaScript,5.0,22.0,7.8,Baja,no,2022-02-23
+42,UCV,Psicología,23,Femenino,5,Deporte,Discord,Networking,Falta de tiempo,JavaScript,25.0,24.1,28.7,Alta,No,2023-10-08
+43,UPEL,Derecho,17,Masculino,4,Danza,TikTok,Reconocimiento,Desigualdad,Canva,30.0,37.4,11.6,Media,no,2023-09-03
+44,UNEARTE,Derecho,23,Masculino,3,Club de Debate,Discord,Networking,Estrés académico,HTML/CSS,18.0,35.5,29.6,Alta,SI,2022-02-10
+45,UPEL,Psicología,21,Masculino,6,Arte,Discord,Superación personal,Desinformación,Canva,15.0,32.5,25.5,Alta,No,2023-01-30
+46,LUZ,Administración,19,Masculino,1,Deporte,Twitter/X,Impactar en la sociedad,Desmotivación,Figma,22.0,14.6,24.6,Alta,No,2022-11-09
+47,UCV,Medicina,19,Masculino,5,Danza,TikTok,Diversión,Falta de tiempo,JavaScript,19.44,36.9,10.9,Baja,No,2023-05-29
+48,UCAB,Administración,20,Masculino,3,Voluntariado,Instagram,Impactar en la sociedad,Desmotivación,Excel,17.66,8.4,2.2,Media,si,2023-12-26
+49,UNIMET,Ingeniería,18,Masculino,2,Gaming,Instagram,Reconocimiento,Ansiedad,SPSS,10.05,34.9,12.7,Media,NO,2022-06-02
+50,UNEXPO,Ingeniería,18,Femenino,6,Voluntariado,Facebook,Impactar en la sociedad,Desigualdad,Excel,10.01,16.5,10.5,Alta,No,2022-09-28
+51,USB,Comunicación Social,17,Femenino,1,Danza,WhatsApp,Superación personal,Desmotivación,Python,13.78,6.9,3.0,muy baja,No,2022-01-08
+52,ULA,Arquitectura,21,Femenino,4,Deporte,Facebook,Diversión,Ansiedad,SQL,11.43,28.4,16.2,BAJA,No,2022-03-03
+53,UCAB,Arquitectura,20,Femenino,1,Gaming,Facebook,Reconocimiento,Estrés académico,Power BI,10.18,13.1,13.3,media,si,2022-07-08
+54,UCV,Derecho,27,Masculino,2,Arte,Instagram,Diversión,Estrés académico,Figma,14.64,13.5,19.8,alta,No,2023-09-08
+55,UNEXPO,Educación,26,Femenino,5,Investigación,Twitter/X,Networking,Desinformación,Figma,19.43,15.7,19.4,muy alta,si,2022-12-28
+56,UCAB,Administración,18,masculino,5,Gaming,Discord,Impactar en la sociedad,Desmotivación,SQL,13.24,7.2,5.4,Media,No,2023-02-03
+57,UCV,Biología,19,Femenino,6,Gaming,Discord,Diversión,Desinformación,SPSS,16.61,11.2,29.4,Media,Sí,2022-09-02
+58,UC,Economía,23,Femenino,5,Deporte,Discord,Desarrollar habilidades,Presión social,Power BI,16.52,5.2,7.2,Media,No,2023-12-28
+59,UC,Arquitectura,23,Masculino,6,Deporte,TikTok,Impactar en la sociedad,Falta de tiempo,HTML/CSS,12.51,20.6,14.5,Media,No,2022-03-11
+60,UPEL,Economía,20,Masculino,6,Danza,Instagram,Networking,Desmotivación,JavaScript,16.5,7.9,15.7,Baja,Sí,2022-03-22
+61,UCAB,Comunicación Social,21, Femenino,6,Emprendimiento,Twitter/X,Diversión,Estrés académico,Power BI,12.12,28.9,24.8,Muy baja,Sí,2023-10-01
+62,UC,Economía,21,Masculino ,4,Gaming,TikTok,Reconocimiento,Desigualdad,SPSS,11.22,13.2,4.8,Baja,No,2022-03-06
+63,UCV,Biología,22, Otro ,3,Club de Debate,WhatsApp,Networking,Ansiedad,R,17.01,38.0,14.0,Baja,Sí,2022-12-09
+64,UPEL,Psicología,25, femenino ,6,Gaming,Twitter/X,Desarrollar habilidades,Falta de recursos,Python,11.13,35.5,19.6,Media,No,2022-06-09
+65,UCV,Biología,18, MASCULINO,6,Danza,Facebook,Diversión,Desinformación,Power BI,19.97,15.1,8.0,Alta,No,2022-03-21
+66,UPEL,Economía,21,Otro ,3,Música,Twitter/X,Innovar,Falta de recursos,Power BI,11.83,32.4,19.6,Baja,NO,2022-03-29
+67,UCAB,Biología,19,Masculino,1,Voluntariado,Twitter/X,Innovar,Desmotivación,Python,15.94,33.1,27.9,Media,No,2023-04-11
+68,UNEXPO,Medicina,20,Femenino,6,Investigación,Discord,Superación personal,Desigualdad,JavaScript,14.11,39.5,29.9,Media,NO,2022-07-15
+69,UNIMET,Comunicación Social,26,Masculino,4,Emprendimiento,Twitter/X,Impactar en la sociedad,Desinformación,Power BI,11.26,25.9,2.9,Baja,No,2022-06-13
+70,UNEARTE,Administración,22,Femenino,5,Arte,Facebook,Reconocimiento,Falta de recursos,Python,10.28,7.9,8.6,Muy baja,No,2022-10-05
+71,UNEXPO,Psicología,24,Femenino,5,Arte,Facebook,Superación personal,Falta de tiempo,Python,16.23,27.6,10.7,Media,si,2022-04-06
+72,LUZ,Arquitectura,17,Femenino,2,Arte,Instagram,Diversión,Desigualdad,Python,18.07,26.9,13.2,Alta,NO,2022-02-08
+73,UCV,Ingeniería,26,Masculino,2,Deporte,Twitter/X,Innovar,Ansiedad,Canva,18.42,27.3,8.8,Media,Si,2023-07-30
+74,LUZ,Administración,24,Masculino,5,Arte,Discord,Innovar,Falta de tiempo,SPSS,14.83,15.8,7.7,Baja,no,2022-11-13
+75,UNEXPO,Ingeniería,27,Masculino,5,Investigación,Twitter/X,Innovar,Desigualdad,Canva,17.77,35.1,28.7,Muy alta,emprende,2022-04-20
+76,UPEL,Comunicación Social,23,Masculino,4,Voluntariado,WhatsApp,Diversión,Presión social,R,16.73,38.6,27.7,Media,No,2022-09-12
+77,UNEARTE,Psicología,17,Femenino,3,Arte,WhatsApp,Innovar,Desinformación,HTML/CSS,17.24,12.6,3.3,Media,No,2023-11-09
+78,UNEARTE,Derecho,18,Femenino,2,Gaming,Discord,Networking,Estrés académico,Canva,14.93,8.1,11.5,Muy alta,Sí,2022-03-29
+79,ULA,Arquitectura,19,Femenino,3,Gaming,Instagram,Diversión,Ansiedad,Canva,16.33,11.8,13.3,Alta,No,2022-01-28
+80,UNEARTE,Medicina,17,FEMENINO,4,Deporte,Instagram,Reconocimiento,Desmotivación,SPSS,18.06,33.7,8.7,Media,No,2022-02-11
+81,UNIMET,Derecho,25,Femenino,5,Investigación,Facebook,Superación personal,Falta de tiempo,HTML/CSS,13.98,28.7,19.6,Media,Sí,2022-11-05
+82,UNEARTE,Comunicación Social,24,Masculino,6,Voluntariado,Facebook,Reconocimiento,Falta de tiempo,SQL,18.06,27.3,19.9,Media,No,2022-06-06
+83,UNEXPO,Administración,18,Masculino,3,Emprendimiento,TikTok,Desarrollar habilidades,Falta de recursos,Python,15.92,19.1,25.8,Baja,No,2022-12-13
+84,ULA,Medicina,25,Femenino,5,Danza,Discord,Innovar,Desinformación,Figma,11.66,25.2,22.7,Alta,si,2023-02-03
+85,UNEXPO,Biología,23,Masculino,5,Voluntariado,Twitter/X,Desarrollar habilidades,Desmotivación,HTML/CSS,10.25,15.8,17.2,Baja,no,2023-04-03
+86,UNEXPO,Economía,25,Masculino,1,Danza,Discord,Impactar en la sociedad,Estrés académico,R,13.63,21.7,20.3,Media,No,2022-06-28
+87,USB,Medicina,22,Masculino,3,Música,TikTok,Impactar en la sociedad,Desigualdad,JavaScript,15.47,32.8,9.7,Muy alta,No,2022-05-08
+88,ULA,Comunicación Social,22,Otro,6,Danza,Facebook,Desarrollar habilidades,Estrés académico,R,18.4,39.3,18.6,Muy alta,No,2022-01-06
+89,UNEXPO,Educación,27,Femenino,3,Club de Debate,Discord,Diversión,Desinformación,Python,11.27,37.6,15.7,Media,No,2022-09-22
+90,USB,Economía,20,Femenino,5,Gaming,Discord,Reconocimiento,Desinformación,HTML/CSS,18.0,37.7,5.7,Alta,Sí,2022-11-12
+91,USB,Ingeniería,26,Masculino,6,Investigación,Facebook,Desarrollar habilidades,Presión social,R,18.63,19.1,8.8,Media,No,2022-01-10
+92,ULA,Arquitectura,26,Otro,4,Viajes,TikTok,Impactar en la sociedad,Presión social,R,11.51,21.4,10.2,Muy alta,No,2022-08-26
+93,LUZ,Ingeniería,18,Femenino,1,Deporte,Facebook,Desarrollar habilidades,Estrés académico,SQL,18.52,29.7,27.9,Media,Sí,2023-12-08
+94,UPEL,Medicina,23,Masculino,5,Club de Debate,Instagram,Diversión,Desigualdad,SQL,19.91,37.3,8.5,Muy baja,No,2022-01-25
+95,UNIMET,Ingeniería,21,Masculino,2,Danza,Twitter/X,Desarrollar habilidades,Estrés académico,HTML/CSS,17.27,10.0,10.1,Baja,No,2022-01-02
+96,UPEL,Comunicación Social,27,Masculino,2,Arte,Facebook,Reconocimiento,Desinformación,Python,17.85,15.6,12.3,Media,No,2022-06-30
+97,UNEARTE,Biología,22,Femenino,1,Investigación,TikTok,Superación personal,Desinformación,Canva,19.94,9.9,20.6,Media,Sí,2022-01-01
+98,UNIMET,Administración,18,Masculino,4,Club de Debate,WhatsApp,Diversión,Falta de recursos,Excel,16.05,26.4,5.3,Alta,No,2023-01-05
+99,UNEARTE,Arquitectura,21,Otro,5,Deporte,Instagram,Impactar en la sociedad,Presión social,Power BI,13.08,15.7,28.7,Alta,No,2023-08-12
+100,UNEXPO,Ingeniería,26,Femenino,3,Gaming,WhatsApp,Reconocimiento,Desmotivación,Figma,18.38,16.4,26.2,Media,No,2022-03-13
+101,UCV,Ingeniería,20,Femenino,1,Investigación,Facebook,Desarrollar habilidades,Desmotivación,Power BI,16.14,7.5,18.2,Media,No,2022-01-24
+102,ULA,Medicina,25,masculino,4,Deporte,Instagram,Desarrollar habilidades,Desmotivación,SPSS,15.81,17.2,20.9,Baja,No,2023-08-08
+103,UNIMET,Administración,22,Femenino,3,Música,Twitter/X,Superación personal,Falta de recursos,SQL,12.54,35.2,2.5,Muy alta,no,2023-01-25
+104,UNIMET,Derecho,18,Masculino,2,Música,Facebook,Impactar en la sociedad,Ansiedad,HTML/CSS,17.56,13.2,11.5,Muy alta,No,2022-02-21
+105,UNEXPO,Ingeniería,17,Masculino,2,Deporte,Twitter/X,Impactar en la sociedad,Desmotivación,Power BI,10.82,29.3,24.3,Muy alta,NO,2022-08-14
+106,LUZ,Comunicación Social,21,Femenino,3,Club de Debate,Discord,Networking,Desinformación,Python,19.24,27.0,4.2,Muy alta,No,2023-05-03
+107,USB,Educación,25,Masculino,1,Investigación,WhatsApp,Impactar en la sociedad,Falta de recursos,Figma,13.26,35.2,9.9,Baja,No,2022-07-14
+108,UNEXPO,Arquitectura,22,Femenino,2,Club de Debate,Instagram,Superación personal,Estrés académico,Power BI,11.28,9.6,18.4,Muy baja,No,2022-11-29
+109,UC,Ingeniería,26,Masculino,5,Emprendimiento,Twitter/X,Innovar,Presión social,Figma,14.42,39.2,9.2,Alta,Sí,2023-08-31
+110,USB,Comunicación Social,23,Femenino,6,Danza,TikTok,Networking,Presión social,JavaScript,10.42,25.4,28.2,Muy alta,Sí,2023-01-16
+111,ULA,Comunicación Social,21,Masculino,3,Emprendimiento,Twitter/X,Networking,Desigualdad,Python,16.85,39.8,5.7,Baja,No,2023-07-14
+112,USB,Arquitectura,26,Femenino,3,Música,TikTok,Desarrollar habilidades,Estrés académico,Excel,19.03,36.9,24.3,Muy baja,No,2023-10-19
+113,LUZ,Derecho,22,Femenino,2,Gaming,Facebook,Desarrollar habilidades,Desigualdad,R,18.37,12.8,16.2,Alta,SI,2023-04-03
+114,USB,Comunicación Social,21,masculino,1,Voluntariado,Instagram,Impactar en la sociedad,Falta de recursos,Figma,11.27,7.0,23.0,Baja,No,2022-11-30
+115,ULA,Educación,27,Femenino,5,Danza,Twitter/X,Networking,Falta de tiempo,Python,11.26,13.9,10.7,Media,Sí,2023-03-20
+116,LUZ,Comunicación Social,25,Masculino,1,Música,Twitter/X,Desarrollar habilidades,Desmotivación,Figma,18.13,23.5,16.4,Alta,No,2022-12-29
+117,UPEL,Comunicación Social,22,Femenino,4,Club de Debate,Instagram,Superación personal,Ansiedad,Figma,19.24,11.0,26.0,Media,No,2023-07-03
+118,UNIMET,Comunicación Social,27,Masculino,4,Club de Debate,Twitter/X,Desarrollar habilidades,Estrés académico,Canva,14.61,10.9,15.1,Baja,si,2022-07-04
+119,UNIMET,Biología,24,Femenino,6,Club de Debate,TikTok,Diversión,Estrés académico,Canva,14.99,21.2,12.1,Alta,si,2023-01-04
+120,UNEARTE,Biología,18,masculino,2,Gaming,Twitter/X,Diversión,Estrés académico,Python,13.18,6.2,17.0,Alta,no,2022-07-28
+121,UPEL,Derecho,25,Masculino,2,Emprendimiento,WhatsApp,Desarrollar habilidades,Desigualdad,Canva,18.94,9.3,22.1,Muy alta,No,2023-05-06
+122,UPEL,Ingeniería,21,Femenino,2,Voluntariado,Facebook,Networking,Falta de recursos,SPSS,16.45,19.6,14.4,Media,No,2023-04-01
+123,USB,Comunicación Social,23,Femenino,6,Club de Debate,Discord,Innovar,Estrés académico,Excel,12.88,7.2,28.3,Baja,No,2023-10-04
+124,UNIMET,Administración,26,Femenino,4,Viajes,TikTok,Innovar,Falta de tiempo,HTML/CSS,12.99,18.9,10.3,Alta,NO,2023-06-03
+125,ULA,Ingeniería,17,Masculino,1,Danza,WhatsApp,Networking,Estrés académico,Python,18.91,21.6,15.3,Alta,Sí,2023-11-28
+126,UCAB,Derecho,26,Femenino,6,Investigación,Facebook,Reconocimiento,Presión social,Python,10.14,20.8,23.2,Media,Sí,2023-05-02
+127,UCAB,Psicología,21,Masculino,6,Viajes,Instagram,Innovar,Desmotivación,SPSS,13.23,35.4,21.3,Alta,Sí,2022-10-23
+128,LUZ,Ingeniería,26,Femenino,1,Voluntariado,TikTok,Diversión,Ansiedad,SQL,15.54,23.6,26.2,Media,No,2023-06-19
+129,UNIMET,Ingeniería,18,Femenino,2,Gaming,Discord,Superación personal,Desmotivación,SQL,11.48,21.4,29.9,Media,No,2022-09-08
+130,UNIMET,Economía,22,Masculino,5,Voluntariado,Facebook,Networking,Presión social,Canva,10.92,19.4,14.0,Baja,No,2023-09-19
+131,UCAB,Medicina,27,Masculino,1,Investigación,Discord,Impactar en la sociedad,Presión social,HTML/CSS,18.15,33.6,5.1,Media,NO,2023-05-21
+132,UNIMET,Economía,17,Femenino,4,Danza,Instagram,Diversión,Ansiedad,Canva,18.94,36.3,2.9,Media,SI,2023-02-26
+133,USB,Educación,19,Femenino,3,Investigación,Instagram,Superación personal,Falta de tiempo,JavaScript,18.24,34.9,22.4,Alta,No,2022-11-26
+134,UC,Biología,21,Femenino,3,Deporte,TikTok,Superación personal,Falta de recursos,JavaScript,18.99,28.6,26.5,Alta,No,2023-12-24
+135,UCV,Biología,20,Masculino,6,Danza,Twitter/X,Networking,Presión social,R,15.53,9.8,8.2,Muy alta,si,2022-11-13
+136,UPEL,Medicina,19,Masculino,3,Voluntariado,Instagram,Superación personal,Falta de recursos,JavaScript,18.12,14.7,6.4,Baja,SI,2022-05-31
+137,UNEARTE,Arquitectura,26,Masculino,5,Club de Debate,Facebook,Networking,Presión social,SQL,13.84,6.6,3.7,Baja,No,2022-09-13
+138,LUZ,Arquitectura,21,Masculino,2,Voluntariado,Twitter/X,Innovar,Desinformación,Excel,16.66,37.6,25.0,Muy baja,No,2023-04-06
+139,UC,Derecho,27,Masculino,4,Voluntariado,WhatsApp,Desarrollar habilidades,Ansiedad,JavaScript,19.89,28.1,10.7,Baja,No,2022-12-07
+140,UCAB,Medicina,24,Masculino,5,Danza,Discord,Diversión,Presión social,Canva,12.26,31.1,13.2,Alta,si,2022-08-11
+141,UPEL,Ingeniería,27,Masculino,4,Deporte,Twitter/X,Reconocimiento,Desinformación,Figma,13.9,15.9,16.1,Alta,No,2023-11-17
+142,UNIMET,Arquitectura,20,Femenino,4,Voluntariado,Discord,Desarrollar habilidades,Desmotivación,Python,14.8,34.6,25.5,Alta,No,2023-05-09
+143,UNEARTE,Comunicación Social,17,Femenino,2,Viajes,Twitter/X,Diversión,Desigualdad,Excel,11.38,14.1,20.2,Media,Sí,2022-11-03
+144,UNIMET,Administración,27,Femenino,6,Música,WhatsApp,Networking,Desinformación,Excel,10.81,5.1,19.2,Media,SI,2022-05-10
+145,ULA,Ingeniería,23,Femenino,3,Arte,Instagram,Diversión,Estrés académico,Canva,18.3,18.2,6.9,Media,No,2022-04-28
+146,ULA,Educación,24,Masculino,2,Arte,WhatsApp,Innovar,Presión social,Python,19.77,25.0,16.4,Baja,Sí,2023-10-13
+147,UNEARTE,Comunicación Social,19,femenino,5,Voluntariado,Instagram,Networking,Desinformación,SQL,14.05,21.8,22.0,Alta,No,2023-10-07
+148,UNEARTE,Comunicación Social,22,Femenino,6,Viajes,Instagram,Desarrollar habilidades,Falta de recursos,Excel,10.88,35.2,29.3,Muy alta,No,2022-01-29
+149,UCAB,Medicina,18,Femenino,5,Club de Debate,Discord,Impactar en la sociedad,Desigualdad,R,10.66,8.7,7.6,Media,No,2023-12-30
+150,UNEARTE,Derecho,23,Masculino,6,Gaming,Facebook,Impactar en la sociedad,Falta de tiempo,Canva,18.91,24.4,2.3,Alta,No,2023-01-30
+151,USB,Educación,24,femenino,5,Gaming,WhatsApp,Diversión,Presión social,Excel,14.64,23.0,4.1,Alta,No,2023-08-27
+152,UNIMET,Arquitectura,22,Femenino,2,Danza,Twitter/X,Impactar en la sociedad,Estrés académico,HTML/CSS,13.2,14.8,12.5,Baja,SI,2022-07-29
+153,UC,Medicina,22,Masculino,6,Arte,WhatsApp,Networking,Falta de tiempo,Python,14.76,33.8,25.0,Alta,Sí,2023-06-20
+154,UNEXPO,Arquitectura,21,Femenino,6,Voluntariado,Discord,Superación personal,Desinformación,JavaScript,13.18,31.3,2.2,Media,Sí,2023-08-05
+155,UNEARTE,Medicina,24,Femenino,4,Gaming,Instagram,Networking,Falta de tiempo,Excel,14.89,30.7,14.8,Muy baja,Sí,2022-05-16
+156,LUZ,Medicina,17,FEMENINO,4,Voluntariado,Discord,Superación personal,Falta de tiempo,Canva,18.6,35.7,11.2,Alta,No,2022-11-01
+157,ULA,Medicina,26,masculino,1,Danza,TikTok,Desarrollar habilidades,Desigualdad,JavaScript,15.92,30.3,3.5,Muy alta,No,2023-04-11
+158,USB,Derecho,20,Femenino,5,Arte,TikTok,Reconocimiento,Desmotivación,R,16.95,13.1,14.6,Media,no,2022-09-12
+159,UPEL,Medicina,20,femenino,4,Investigación,Twitter/X,Superación personal,Falta de tiempo,JavaScript,13.65,29.7,9.1,Media,No,2023-08-09
+160,UNEXPO,Psicología,19,Masculino,1,Música,Discord,Impactar en la sociedad,Falta de tiempo,HTML/CSS,17.39,15.8,11.9,Muy alta,No,2022-12-20
+161,UC,Administración,19,Masculino,4,Música,Twitter/X,Networking,Presión social,SQL,16.67,13.5,21.8,Alta,NO,2022-03-26
+162,UNEXPO,Arquitectura,20,Masculino,5,Gaming,Twitter/X,Desarrollar habilidades,Desmotivación,Excel,11.2,7.6,16.6,Alta,No,2023-08-20
+163,UNEARTE,Ingeniería,27,Masculino,6,Música,TikTok,Impactar en la sociedad,Desigualdad,Power BI,15.73,31.0,5.5,Media,si,2022-09-23
+164,UCAB,Economía,17,Masculino,3,Investigación,Twitter/X,Desarrollar habilidades,Estrés académico,Power BI,12.57,29.9,28.9,Muy alta,No,2022-08-10
+165,ULA,Educación,27,Masculino,5,Voluntariado,TikTok,Reconocimiento,Desinformación,JavaScript,18.04,13.2,19.8,Baja,No,2022-10-22
+166,ULA,Biología,27,Femenino,2,Danza,Instagram,Innovar,Desigualdad,SPSS,14.26,31.2,23.4,Alta,No,2022-04-26
+167,UPEL,Derecho,18,Femenino,4,Investigación,Discord,Networking,Desigualdad,Python,19.95,37.1,4.2,Muy baja,No,2022-12-31
+168,UCAB,Ingeniería,25,Femenino,4,Danza,Twitter/X,Diversión,Ansiedad,Power BI,10.93,8.8,3.3,Alta,Sí,2023-05-20
+169,UNIMET,Comunicación Social,26,Masculino,6,Danza,TikTok,Networking,Desigualdad,SPSS,17.8,13.1,2.5,Media,No,2023-03-06
+170,UCV,Psicología,18,Femenino,2,Arte,WhatsApp,Reconocimiento,Desmotivación,Power BI,16.74,31.3,7.3,Media,No,2023-05-24
+171,USB,Biología,21,Masculino,6,Voluntariado,Twitter/X,Networking,Ansiedad,SPSS,17.67,14.6,13.6,Media,si,2023-09-12
+172,ULA,Economía,25,masculino,2,Viajes,Facebook,Diversión,Desinformación,Python,13.08,26.9,28.2,Baja,No,2022-01-30
+173,LUZ,Ingeniería,25,Femenino,3,Música,Instagram,Superación personal,Falta de tiempo,Figma,14.92,7.8,14.8,Alta,SI,2022-10-14
+174,ULA,Biología,24,Masculino,4,Viajes,Instagram,Desarrollar habilidades,Presión social,Power BI,17.97,20.8,10.1,Muy alta,No,2023-02-26
+175,UNEXPO,Ingeniería,17,Femenino,4,Arte,WhatsApp,Diversión,Presión social,HTML/CSS,12.33,30.9,17.7,Muy alta,No,2022-08-14
+176,ULA,Psicología,17,Masculino,3,Danza,TikTok,Impactar en la sociedad,Desinformación,Excel,12.26,29.0,5.1,Baja,No,2023-03-02
+177,ULA,Economía,25,Femenino,1,Gaming,Twitter/X,Reconocimiento,Desinformación,SPSS,15.51,33.5,19.1,Alta,No,2023-04-05
+178,UCV,Comunicación Social,27,Masculino,6,Música,TikTok,Superación personal,Desmotivación,Excel,15.24,35.7,17.9,Alta,NO,2022-05-12
+179,UCV,Medicina,24,Masculino,3,Música,Instagram,Impactar en la sociedad,Falta de recursos,Canva,12.82,32.1,24.2,Media,No,2022-12-28
+180,UC,Arquitectura,26,femenino,6,Voluntariado,TikTok,Impactar en la sociedad,Falta de tiempo,Canva,12.98,28.5,29.6,Muy baja,No,2023-11-18
+181,UNIMET,Comunicación Social,25,Masculino,5,Deporte,Instagram,Reconocimiento,Desinformación,Python,12.78,6.1,9.0,Alta,Sí,2022-08-01
+182,LUZ,Medicina,23,Masculino,4,Emprendimiento,TikTok,Superación personal,Desigualdad,SPSS,17.72,23.7,16.3,Muy alta,No,2022-08-15
+183,ULA,Derecho,19,Masculino,6,Emprendimiento,WhatsApp,Innovar,Desmotivación,R,16.52,6.3,27.4,Alta,No,2022-07-16
+184,ULA,Administración,19,Masculino,2,Emprendimiento,Discord,Impactar en la sociedad,Presión social,Canva,18.32,33.3,24.0,Media,No,2023-05-15
+185,USB,Educación,18,Masculino,6,Deporte,WhatsApp,Impactar en la sociedad,Estrés académico,Python,19.75,16.2,15.6,Alta,No,2023-05-16
+186,UCV,Educación,21,Femenino,5,Voluntariado,WhatsApp,Superación personal,Desmotivación,Canva,14.74,24.7,28.5,Baja,No,2022-05-22
+187,LUZ,Arquitectura,19,femenino,4,Deporte,Discord,Networking,Presión social,Canva,10.67,14.8,3.6,Alta,Sí,2022-12-26
+188,UPEL,Economía,22,Masculino,3,Emprendimiento,Discord,Impactar en la sociedad,Ansiedad,R,10.48,32.4,28.1,Alta,Sí,2022-05-03
+189,UC,Psicología,18,Masculino,5,Arte,Twitter/X,Desarrollar habilidades,Desmotivación,Power BI,12.96,36.0,3.4,Baja,No,2022-11-05
+190,UNIMET,Economía,19,Femenino,4,Investigación,Twitter/X,Superación personal,Presión social,JavaScript,19.33,19.0,17.3,Muy alta,no,2022-10-16
+191,UCAB,Psicología,21,Masculino,6,Danza,WhatsApp,Impactar en la sociedad,Falta de recursos,Figma,15.23,35.2,26.9,Media,No,2022-12-07
+192,UNIMET,Economía,27,Femenino,1,Deporte,WhatsApp,Reconocimiento,Desmotivación,Canva,12.72,14.3,9.4,Muy alta,No,2023-04-13
+193,UNEXPO,Administración,27,Masculino,1,Voluntariado,Instagram,Diversión,Desmotivación,Canva,13.99,23.7,15.2,Media,No,2022-11-24
+194,ULA,Derecho,17,Femenino,2,Voluntariado,Instagram,Desarrollar habilidades,Falta de tiempo,HTML/CSS,15.99,35.1,11.1,Baja,No,2022-05-16
+195,UC,Derecho,17,Masculino,4,Viajes,Twitter/X,Diversión,Desinformación,Figma,16.53,16.4,28.7,Media,no,2022-05-18
+196,UNEXPO,Medicina,26,MASCULINO,1,Investigación,Facebook,Diversión,Falta de tiempo,R,11.54,38.4,25.1,Media,Sí,2022-08-20
+197,LUZ,Biología,25,Femenino,3,Gaming,Facebook,Impactar en la sociedad,Desmotivación,Excel,19.77,9.3,21.9,Baja,No,2023-02-02
+198,UCAB,Derecho,23,masculino,4,Música,Twitter/X,Desarrollar habilidades,Desinformación,SPSS,15.45,5.6,18.5,Alta,No,2023-11-27
+199,UCV,Derecho,17,Femenino,3,Emprendimiento,Instagram,Desarrollar habilidades,Presión social,Canva,11.36,36.6,25.0,Alta,Sí,2023-01-29
+200,UC,Comunicación Social,24,Masculino,3,Gaming,Instagram,Networking,Estrés académico,JavaScript,18.94,7.4,13.0,Alta,No,2022-04-19
+201,UC,Comunicación Social,19,Masculino,1,Viajes,Facebook,Diversión,Estrés académico,SPSS,10.75,39.7,14.5,Muy baja,No,2022-12-21
+202,ULA,Medicina,24,Masculino,4,Emprendimiento,TikTok,Desarrollar habilidades,Desmotivación,Figma,19.08,38.3,22.4,Alta,No,2023-11-23
+203,UNEARTE,Biología,21,Masculino,6,Investigación,TikTok,Networking,Falta de recursos,SPSS,19.97,9.8,12.0,Baja,No,2022-09-13
+204,UC,Arquitectura,17,Masculino,5,Viajes,Instagram,Superación personal,Ansiedad,Power BI,17.0,23.8,3.8,Alta,Sí,2023-05-11
+205,USB,Comunicación Social,23,Femenino,1,Emprendimiento,TikTok,Networking,Presión social,Canva,17.7,11.5,4.1,Baja,No,2023-08-29
+206,UCAB,Arquitectura,21,Femenino,1,Investigación,Discord,Reconocimiento,Desinformación,SPSS,13.37,20.0,5.2,Muy alta,No,2022-03-15
+207,UCAB,Ingeniería,22,Masculino,6,Club de Debate,Twitter/X,Innovar,Desmotivación,Excel,19.42,7.1,26.4,Alta,No,2023-09-30
+208,USB,Comunicación Social,22,Masculino,4,Gaming,Twitter/X,Impactar en la sociedad,Presión social,Excel,15.3,12.8,15.2,Alta,Sí,2023-08-21
+209,UPEL,Administración,24,Masculino,4,Gaming,Instagram,Superación personal,Desmotivación,Canva,17.32,17.7,22.0,Media,No,2023-07-04
+210,USB,Biología,25,Masculino,3,Música,WhatsApp,Innovar,Falta de recursos,SQL,19.24,20.4,13.0,Baja,No,2022-10-20
+211,USB,Medicina,18,Femenino,6,Investigación,Facebook,Innovar,Desigualdad,Excel,19.75,39.2,9.2,Media,No,2023-05-01
+212,UCAB,Ingeniería,25,Masculino,6,Deporte,Instagram,Superación personal,Desigualdad,SPSS,18.33,33.3,11.7,Muy alta,NO,2022-03-23
+213,UNIMET,Biología,27,Femenino,4,Club de Debate,TikTok,Reconocimiento,Falta de recursos,Python,13.03,30.8,24.2,Muy alta,no,2023-05-13
+214,UCAB,Administración,26,Masculino,3,Arte,Facebook,Networking,Desinformación,Excel,19.67,23.8,19.5,Muy baja,No,2022-10-07
+215,UNEARTE,Biología,25,Femenino,1,Emprendimiento,WhatsApp,Impactar en la sociedad,Falta de tiempo,Figma,16.28,34.4,28.3,Alta,No,2022-06-14
+216,ULA,Administración,26,Femenino,2,Club de Debate,TikTok,Networking,Falta de recursos,SQL,19.31,16.9,21.0,Alta,No,2023-03-25
+217,UNEXPO,Administración,26,Femenino,5,Investigación,Discord,Desarrollar habilidades,Desmotivación,SPSS,16.76,29.8,18.0,Alta,No,2023-04-24
+218,UNIMET,Arquitectura,23,Femenino,1,Danza,TikTok,Networking,Desinformación,R,13.07,39.8,19.1,Baja,Sí,2023-10-29
+219,UCV,Economía,17,Masculino,4,Emprendimiento,Discord,Superación personal,Estrés académico,HTML/CSS,13.7,16.0,28.4,Media,Sí,2023-03-08
+220,UNEXPO,Ingeniería,23,Femenino,5,Voluntariado,Facebook,Impactar en la sociedad,Falta de recursos,R,15.5,28.6,24.1,Media,NO,2023-06-17
+221,ULA,Biología,26,Femenino,2,Gaming,Discord,Networking,Desinformación,Power BI,17.9,34.6,2.7,Alta,No,2022-04-16
+222,UNEARTE,Psicología,21,Femenino,2,Investigación,Facebook,Impactar en la sociedad,Falta de recursos,HTML/CSS,13.18,37.1,17.0,Media,No,2022-09-04
+223,UNEARTE,Ingeniería,22,Femenino,3,Voluntariado,Facebook,Impactar en la sociedad,Falta de recursos,Power BI,15.8,30.1,21.3,Media,No,2023-02-16
+224,UCV,Economía,26,Femenino,5,Música,Facebook,Desarrollar habilidades,Falta de tiempo,HTML/CSS,13.46,14.9,23.0,Muy alta,No,2022-08-27
+225,UNIMET,Ingeniería,23,Femenino,3,Viajes,Facebook,Desarrollar habilidades,Falta de tiempo,HTML/CSS,18.16,16.4,8.0,Alta,Sí,2022-04-03
+226,UPEL,Derecho,21,Masculino,1,Arte,Facebook,Superación personal,Desmotivación,Python,14.67,5.7,26.3,Muy alta,Sí,2023-10-12
+227,USB,Psicología,23,Masculino,6,Arte,TikTok,Reconocimiento,Desinformación,JavaScript,10.77,31.6,28.8,Media,Sí,2022-03-14
+228,UNIMET,Economía,25,Masculino,6,Voluntariado,Facebook,Innovar,Desinformación,Figma,11.66,6.5,8.6,Baja,No,2022-03-14
+229,UPEL,Arquitectura,19,Masculino,6,Gaming,TikTok,Impactar en la sociedad,Ansiedad,R,10.61,35.3,26.7,Muy alta,No,2022-05-16
+230,UNEARTE,Biología,24,Femenino,5,Música,Facebook,Reconocimiento,Falta de recursos,Excel,14.99,9.2,4.7,Media,Sí,2023-07-30
+231,UCAB,Educación,18,Masculino,6,Danza,Discord,Innovar,Desigualdad,SPSS,11.06,11.0,3.6,Baja,No,2022-08-21
+232,ULA,Economía,27,Masculino,1,Gaming,Facebook,Innovar,Falta de recursos,SQL,11.14,21.7,5.6,Media,No,2022-03-17
+233,UCV,Medicina,23,Masculino,3,Club de Debate,WhatsApp,Superación personal,Falta de recursos,Figma,19.41,30.8,3.6,Baja,No,2023-08-30
+234,ULA,Biología,18,Femenino,5,Arte,Facebook,Innovar,Desinformación,Power BI,18.73,9.9,25.7,Media,NO,2023-08-19
+235,LUZ,Economía,20,Femenino,3,Club de Debate,Facebook,Innovar,Falta de recursos,Python,14.52,20.4,3.7,Muy alta,No,2022-05-20
+236,LUZ,Derecho,23,Femenino,5,Emprendimiento,Discord,Impactar en la sociedad,Presión social,Power BI,19.86,21.9,9.6,Muy alta,no,2022-05-23
+237,UNIMET,Educación,19,Femenino,3,Deporte,Twitter/X,Impactar en la sociedad,Falta de recursos,JavaScript,10.0,12.4,4.9,Muy alta,SI,2022-12-20
+238,UNEARTE,Derecho,18,Masculino,2,Investigación,Discord,Diversión,Presión social,SQL,16.14,9.0,10.3,Baja,No,2023-10-09
+239,UNEARTE,Educación,27,Masculino,3,Música,WhatsApp,Reconocimiento,Falta de tiempo,Python,16.16,34.3,4.5,Media,No,2023-09-18
+240,USB,Medicina,26,Masculino,6,Gaming,Twitter/X,Networking,Desigualdad,Power BI,14.57,22.6,20.7,Muy baja,no,2022-12-27
+241,USB,Biología,23,Masculino,2,Arte,Instagram,Desarrollar habilidades,Desmotivación,JavaScript,13.97,5.5,5.7,Muy alta,No,2023-02-08
+242,USB,Arquitectura,17,Masculino,3,Club de Debate,Instagram,Networking,Desinformación,SPSS,14.55,33.1,25.9,Media,No,2023-01-02
+243,UCAB,Derecho,24,Masculino,5,Viajes,WhatsApp,Reconocimiento,Falta de recursos,SPSS,14.15,39.3,24.9,Alta,SI,2022-10-03
+244,UNEXPO,Derecho,19,femenino,5,Emprendimiento,Discord,Desarrollar habilidades,Presión social,Power BI,17.3,26.2,2.4,Alta,No,2022-06-09
+245,UC,Administración,18,Femenino,5,Investigación,TikTok,Networking,Presión social,Figma,11.35,22.6,27.1,Media,No,2023-06-22
+246,UNEXPO,Educación,19,Femenino,4,Investigación,WhatsApp,Diversión,Falta de tiempo,SQL,11.98,35.7,2.8,Media,No,2022-02-12
+247,ULA,Comunicación Social,21,Femenino,1,Gaming,Twitter/X,Desarrollar habilidades,Presión social,Canva,11.81,38.3,8.7,Muy alta,No,2022-03-19
+248,UNEXPO,Biología,27,Masculino,5,Música,Twitter/X,Impactar en la sociedad,Desmotivación,Figma,12.62,31.4,2.9,Muy alta,No,2023-05-04
+249,UCAB,Educación,24,Masculino,2,Danza,Facebook,Networking,Estrés académico,SPSS,15.25,20.6,11.4,Media,No,2022-09-14
+250,ULA,Administración,26,Femenino,5,Viajes,Instagram,Desarrollar habilidades,Ansiedad,SQL,11.11,25.7,16.4,Media,No,2022-06-11
+251,UNEXPO,Ingeniería,23,Otro,4,Gaming,Twitter/X,Diversión,Desmotivación,JavaScript,18.68,29.5,24.3,Muy alta,No,2023-04-10
+252,UCAB,Educación,23,Femenino,6,Club de Debate,WhatsApp,Innovar,Desigualdad,Python,12.97,11.8,11.5,Muy baja,No,2022-10-21
+253,UC,Arquitectura,23,femenino,2,Deporte,Twitter/X,Desarrollar habilidades,Desmotivación,HTML/CSS,11.63,20.7,21.8,Media,No,2022-09-29
+254,UNEXPO,Biología,24,Femenino,4,Voluntariado,WhatsApp,Desarrollar habilidades,Falta de tiempo,Power BI,16.76,34.0,7.3,Baja,No,2023-07-10
+255,UCAB,Administración,17,Femenino,6,Danza,TikTok,Diversión,Falta de tiempo,R,10.38,27.9,23.0,Alta,No,2022-03-16
+256,USB,Ingeniería,20,Masculino,2,Música,Facebook,Innovar,Desmotivación,SQL,16.2,19.4,8.6,Muy baja,No,2022-07-16
+257,UNEARTE,Psicología,22,Femenino,3,Emprendimiento,Instagram,Networking,Falta de recursos,Excel,16.98,28.2,6.0,Media,No,2022-07-06
+258,USB,Administración,25,Femenino,1,Danza,Twitter/X,Superación personal,Estrés académico,JavaScript,12.15,9.1,7.2,Media,NO,2022-06-26
+259,UNEARTE,Psicología,18,Femenino,1,Arte,WhatsApp,Networking,Falta de recursos,Canva,10.42,19.1,7.1,Alta,Sí,2022-07-21
+260,UCV,Biología,17,Masculino,4,Música,Discord,Innovar,Falta de recursos,HTML/CSS,13.64,32.8,16.4,Muy alta,No,2022-07-08
+261,UCV,Derecho,26,Masculino,6,Deporte,Instagram,Reconocimiento,Desmotivación,Excel,10.99,12.7,25.7,Alta,No,2022-04-13
+262,UCV,Administración,18,Femenino,1,Arte,TikTok,Diversión,Desinformación,Canva,11.16,11.5,4.2,Alta,si,2022-07-07
+263,UC,Medicina,23,Masculino,6,Danza,WhatsApp,Networking,Desinformación,R,12.54,38.3,21.8,Alta,Sí,2022-09-30
+264,USB,Psicología,19,Masculino,6,Voluntariado,Facebook,Desarrollar habilidades,Desinformación,SPSS,12.95,12.3,20.3,Muy baja,No,2023-09-13
+265,UNEARTE,Arquitectura,26,Femenino,4,Voluntariado,Facebook,Diversión,Estrés académico,Figma,15.3,14.1,26.4,Media,Sí,2023-07-24
+266,UCAB,Medicina,18,Femenino,4,Deporte,TikTok,Impactar en la sociedad,Falta de recursos,Power BI,16.78,38.9,8.8,Muy alta,No,2022-06-20
+267,ULA,Economía,27,Femenino,4,Investigación,TikTok,Innovar,Ansiedad,Python,15.93,30.7,14.6,Media,No,2023-06-16
+268,UCAB,Economía,23,Femenino,1,Viajes,Facebook,Networking,Desigualdad,Canva,11.48,29.5,27.9,Baja,No,2023-07-20
+269,ULA,Ingeniería,18,Masculino,4,Emprendimiento,Twitter/X,Diversión,Desinformación,HTML/CSS,11.72,34.9,20.5,Alta,No,2022-10-22
+270,LUZ,Derecho,19,Femenino,1,Investigación,Twitter/X,Networking,Desinformación,SQL,18.79,9.1,12.9,Media,no,2022-09-03
+271,UCAB,Biología,27,Masculino,4,Voluntariado,WhatsApp,Diversión,Falta de tiempo,SPSS,15.58,29.7,5.7,Media,No,2022-05-08
+272,UNEXPO,Administración,23,Masculino,5,Voluntariado,Discord,Desarrollar habilidades,Falta de recursos,SQL,18.7,22.6,9.3,Muy alta,Sí,2023-04-22
+273,UNEXPO,Comunicación Social,20,Femenino,6,Club de Debate,WhatsApp,Impactar en la sociedad,Falta de recursos,HTML/CSS,13.72,34.0,18.3,Muy alta,No,2023-02-10
+274,UNIMET,Arquitectura,17,Masculino,4,Arte,Discord,Impactar en la sociedad,Estrés académico,SQL,16.14,22.8,22.1,Media,NO,2023-08-10
+275,USB,Psicología,21,Femenino,2,Danza,TikTok,Reconocimiento,Estrés académico,Canva,15.24,26.7,5.5,Muy alta,No,2022-08-05
+276,ULA,Biología,25,masculino,6,Emprendimiento,Instagram,Diversión,Desinformación,JavaScript,13.19,21.7,18.8,Alta,NO,2023-05-12
+277,ULA,Medicina,24,Masculino,6,Deporte,WhatsApp,Networking,Falta de recursos,SQL,14.7,21.7,17.4,Alta,si,2023-04-14
+278,USB,Economía,25,Masculino,4,Danza,WhatsApp,Impactar en la sociedad,Ansiedad,Figma,15.02,31.9,16.4,Muy baja,Sí,2023-02-07
+279,UC,Arquitectura,26,Masculino,3,Club de Debate,Discord,Innovar,Desigualdad,R,12.01,27.0,21.3,Baja,No,2022-08-24
+280,UNIMET,Comunicación Social,25,Femenino,4,Voluntariado,TikTok,Impactar en la sociedad,Desmotivación,Python,13.15,27.2,25.4,Alta,No,2023-02-22
+281,UC,Administración,23,Masculino,6,Deporte,TikTok,Superación personal,Falta de recursos,Canva,17.91,20.8,11.0,Muy alta,No,2023-02-08
+282,UC,Ingeniería,20,femenino,2,Voluntariado,Discord,Superación personal,Falta de tiempo,Excel,19.16,23.6,26.9,Alta,No,2023-01-22
+283,UC,Comunicación Social,21,Masculino,6,Emprendimiento,TikTok,Impactar en la sociedad,Desmotivación,HTML/CSS,13.6,31.1,6.5,Baja,No,2022-02-02
+284,USB,Arquitectura,17,Masculino,2,Arte,Facebook,Diversión,Falta de recursos,SPSS,13.07,33.9,6.8,Baja,SI,2022-08-01
+285,UC,Comunicación Social,17,Masculino,1,Danza,Twitter/X,Reconocimiento,Presión social,Canva,11.95,29.4,9.5,Alta,No,2022-06-04
+286,UNEXPO,Arquitectura,19,Femenino,5,Danza,Facebook,Impactar en la sociedad,Estrés académico,JavaScript,16.78,37.3,5.3,Baja,no,2022-10-15
+287,UCV,Arquitectura,24,Femenino,6,Investigación,Instagram,Desarrollar habilidades,Falta de tiempo,SPSS,13.23,33.7,8.4,Alta,Sí,2023-08-31
+288,LUZ,Educación,18,Masculino,4,Deporte,WhatsApp,Networking,Desigualdad,Figma,19.88,24.7,5.0,Muy baja,Sí,2022-12-19
+289,ULA,Psicología,20,Femenino,1,Viajes,Instagram,Reconocimiento,Desinformación,HTML/CSS,13.26,28.5,25.0,Baja,no,2022-11-22
+290,ULA,Economía,18,Masculino,5,Club de Debate,WhatsApp,Desarrollar habilidades,Falta de tiempo,SPSS,13.94,37.4,5.9,Alta,No,2023-02-23
+291,LUZ,Educación,21,Otro,4,Viajes,Twitter/X,Reconocimiento,Falta de recursos,SQL,16.03,26.7,22.9,Alta,No,2022-08-13
+292,USB,Administración,25,Femenino,3,Investigación,TikTok,Desarrollar habilidades,Desinformación,Canva,18.02,33.9,3.3,Media,No,2023-06-08
+293,UCAB,Educación,17,Femenino,4,Emprendimiento,Facebook,Networking,Falta de recursos,R,14.7,29.1,28.6,Media,No,2023-05-06
+294,USB,Derecho,21,Masculino,2,Club de Debate,Discord,Networking,Desinformación,HTML/CSS,14.23,24.3,21.9,Alta,No,2023-04-07
+295,ULA,Derecho,25,Femenino,2,Arte,Facebook,Superación personal,Desigualdad,Power BI,19.96,13.5,2.2,Media,No,2023-10-03
+296,ULA,Economía,17,Masculino,3,Viajes,Twitter/X,Diversión,Estrés académico,Figma,10.1,19.9,23.4,Alta,No,2023-12-05
+297,LUZ,Comunicación Social,25,Femenino,1,Arte,Instagram,Desarrollar habilidades,Desigualdad,Python,18.95,38.9,16.4,Muy alta,NO,2023-12-12
+298,UC,Psicología,24,Masculino,5,Viajes,Discord,Superación personal,Presión social,HTML/CSS,11.49,28.0,23.8,Baja,No,2023-05-01
+299,USB,Economía,20,Femenino,4,Arte,TikTok,Desarrollar habilidades,Ansiedad,JavaScript,17.86,24.8,16.6,Muy alta,SI,2022-09-18
+300,UNEARTE,Arquitectura,27,Masculino,2,Viajes,Twitter/X,Superación personal,Estrés académico,Canva,16.18,37.7,19.9,Baja,No,2023-10-05
+301,LUZ,Medicina,26,Masculino,1,Arte,Discord,Networking,Desigualdad,SQL,13.42,25.5,24.0,Alta,No,2022-12-22
+302,UNEXPO,Psicología,21,Masculino,3,Investigación,Twitter/X,Reconocimiento,Presión social,Python,18.74,23.4,13.3,Media,Sí,2022-08-25
+303,ULA,Psicología,21,Femenino,6,Música,Twitter/X,Innovar,Ansiedad,Python,10.13,31.6,2.1,Muy alta,No,2023-05-15
+304,LUZ,Arquitectura,27,Masculino,2,Club de Debate,TikTok,Superación personal,Presión social,Figma,12.27,29.9,25.8,Media,no,2022-08-09
+305,USB,Arquitectura,22,Masculino,3,Deporte,WhatsApp,Desarrollar habilidades,Falta de recursos,SPSS,15.67,11.8,12.7,Media,No,2023-01-14
+306,ULA,Ingeniería,23,Femenino,4,Emprendimiento,Discord,Desarrollar habilidades,Desmotivación,JavaScript,13.52,21.5,15.9,Muy alta,Sí,2023-07-15
+307,UCAB,Economía,24,Femenino,5,Gaming,TikTok,Innovar,Falta de recursos,SPSS,16.1,21.5,2.2,Alta,No,2022-10-08
+308,LUZ,Arquitectura,24,Femenino,2,Voluntariado,Twitter/X,Diversión,Desinformación,SQL,10.24,18.2,15.8,Alta,No,2023-02-19
+309,UNIMET,Derecho,27,Masculino,2,Deporte,TikTok,Networking,Estrés académico,Python,11.16,23.1,29.6,Media,SI,2022-01-12
+310,ULA,Administración,18,Masculino,4,Voluntariado,WhatsApp,Desarrollar habilidades,Falta de recursos,JavaScript,11.27,19.5,9.8,Alta,no,2023-12-15
+311,USB,Medicina,25,Masculino,6,Club de Debate,Facebook,Impactar en la sociedad,Falta de tiempo,JavaScript,11.89,12.0,13.1,Muy baja,No,2023-11-05
+312,UCV,Economía,23,Femenino,1,Deporte,Discord,Reconocimiento,Presión social,Excel,14.59,19.4,21.2,Muy baja,Sí,2022-02-06
+313,UNEARTE,Biología,20,Femenino,5,Arte,WhatsApp,Superación personal,Estrés académico,Canva,17.52,7.5,24.8,Alta,No,2023-04-22
+314,UPEL,Derecho,20,Masculino,2,Arte,Instagram,Diversión,Desmotivación,Python,19.06,25.2,13.7,Media,No,2022-01-26
+315,UC,Comunicación Social,27,Masculino,5,Gaming,Discord,Innovar,Falta de tiempo,Python,18.35,34.9,10.7,Muy alta,NO,2022-05-02
+316,UPEL,Arquitectura,24,FEMENINO,2,Voluntariado,WhatsApp,Reconocimiento,Falta de recursos,JavaScript,11.97,30.4,28.3,Muy alta,No,2022-08-17
+317,USB,Biología,20,Femenino,5,Emprendimiento,Twitter/X,Networking,Desinformación,SPSS,14.41,17.6,21.0,Alta,No,2022-11-03
+318,UNEXPO,Arquitectura,22,Masculino,3,Club de Debate,Discord,Diversión,Desigualdad,Python,11.99,8.0,5.3,Alta,No,2023-06-16
+319,UNEXPO,Psicología,21,Femenino,2,Arte,Discord,Superación personal,Desinformación,JavaScript,12.64,12.1,3.9,Alta,NO,2023-10-24
+320,UCV,Derecho,19,Femenino,5,Música,TikTok,Superación personal,Falta de tiempo,Python,15.04,24.1,15.5,Baja,No,2022-03-15
+321,UC,Psicología,26,Masculino,1,Investigación,Twitter/X,Innovar,Ansiedad,JavaScript,10.68,12.2,8.2,Alta,No,2023-06-05
+322,UNIMET,Ingeniería,27,Masculino,3,Investigación,Instagram,Impactar en la sociedad,Falta de recursos,Excel,12.18,24.0,9.1,Media,No,2023-03-08
+323,UCV,Psicología,18,MASCULINO,3,Viajes,Facebook,Innovar,Falta de tiempo,Canva,19.35,13.1,26.6,Media,No,2022-05-31
+324,UPEL,Ingeniería,25,Femenino,1,Emprendimiento,WhatsApp,Networking,Ansiedad,JavaScript,14.66,34.7,4.5,Alta,No,2023-08-31
+325,UCV,Ingeniería,26,Femenino,5,Investigación,TikTok,Diversión,Ansiedad,Python,14.45,18.9,22.0,Alta,No,2023-12-01
+326,UPEL,Biología,25,Masculino,4,Viajes,WhatsApp,Diversión,Presión social,SQL,10.15,13.6,9.6,Muy alta,No,2022-07-05
+327,ULA,Arquitectura,17,Masculino,1,Voluntariado,Instagram,Desarrollar habilidades,Estrés académico,Canva,12.47,33.4,23.3,Media,No,2022-11-02
+328,UNEXPO,Comunicación Social,26,Femenino,5,Arte,Instagram,Impactar en la sociedad,Presión social,Excel,18.66,17.0,22.2,Alta,No,2023-08-25
+329,ULA,Psicología,19,Femenino,1,Arte,Discord,Impactar en la sociedad,Falta de recursos,JavaScript,11.65,8.9,2.2,Baja,Sí,2022-03-01
+330,UNEARTE,Derecho,24,Femenino,1,Música,Instagram,Diversión,Ansiedad,SQL,14.15,25.0,16.3,Alta,No,2023-03-17
+331,UC,Ingeniería,22,Masculino,2,Deporte,WhatsApp,Diversión,Desmotivación,JavaScript,10.14,25.4,5.9,Alta,No,2022-05-24
+332,UNIMET,Arquitectura,21,Femenino,5,Investigación,Twitter/X,Reconocimiento,Falta de tiempo,SPSS,14.78,30.0,26.3,Alta,Sí,2022-07-04
+333,UPEL,Medicina,21,Femenino,4,Voluntariado,Twitter/X,Reconocimiento,Desigualdad,Python,10.21,13.4,26.4,Media,No,2023-01-27
+334,UNIMET,Economía,22,Femenino,2,Danza,Discord,Reconocimiento,Ansiedad,HTML/CSS,18.2,20.5,13.7,Muy baja,no,2023-04-29
+335,UPEL,Biología,23,Femenino,1,Investigación,Facebook,Impactar en la sociedad,Falta de tiempo,Figma,18.25,14.9,14.4,Baja,No,2022-08-17
+336,USB,Comunicación Social,17,Femenino,6,Emprendimiento,WhatsApp,Desarrollar habilidades,Desmotivación,R,17.88,7.8,10.5,Alta,No,2022-07-01
+337,UCV,Educación,25,Masculino,1,Deporte,WhatsApp,Superación personal,Desigualdad,SPSS,12.83,35.7,22.1,Muy alta,No,2022-10-15
+338,UNEARTE,Biología,19,Femenino,1,Investigación,Instagram,Reconocimiento,Presión social,SQL,18.37,30.5,12.0,Media,No,2022-03-25
+339,UNEXPO,Medicina,20,Masculino,5,Voluntariado,WhatsApp,Desarrollar habilidades,Presión social,SPSS,15.43,15.6,9.5,Alta,Sí,2023-12-25
+340,UPEL,Economía,26,Femenino,5,Investigación,TikTok,Innovar,Estrés académico,Power BI,13.74,26.0,14.1,Muy alta,si,2023-02-19
+341,UNIMET,Medicina,17,Masculino,2,Emprendimiento,Facebook,Networking,Falta de tiempo,JavaScript,16.25,12.0,4.6,Alta,Sí,2022-09-18
+342,UNEARTE,Psicología,27,Masculino,4,Danza,Instagram,Reconocimiento,Ansiedad,JavaScript,10.12,36.2,22.9,Alta,No,2022-11-07
+343,UCAB,Ingeniería,26,Masculino,2,Club de Debate,TikTok,Innovar,Desinformación,R,11.43,9.0,2.4,Alta,No,2023-04-16
+344,UCAB,Comunicación Social,19,Masculino,3,Gaming,Discord,Superación personal,Presión social,R,17.42,5.1,20.0,Media,No,2022-08-18
+345,ULA,Administración,18,Femenino,1,Danza,Twitter/X,Networking,Presión social,Power BI,12.44,22.6,7.1,Media,No,2022-01-27
+346,UNEXPO,Ingeniería,18,Femenino,6,Viajes,Discord,Networking,Estrés académico,Python,15.98,25.4,8.5,Muy baja,No,2022-08-24
+347,USB,Administración,17,Masculino,1,Investigación,Twitter/X,Superación personal,Desigualdad,Figma,13.85,25.3,19.8,Muy alta,Sí,2022-02-16
+348,UNIMET,Economía,24,MASCULINO,1,Arte,Discord,Reconocimiento,Estrés académico,HTML/CSS,18.55,6.9,29.8,Muy alta,No,2022-08-07
+349,UCV,Arquitectura,19,Masculino,2,Música,WhatsApp,Impactar en la sociedad,Desmotivación,HTML/CSS,19.52,16.0,23.8,Alta,NO,2022-08-20
+350,UCV,Educación,19,Masculino,6,Arte,TikTok,Superación personal,Ansiedad,Excel,18.84,22.5,8.3,Baja,si,2022-08-31
+351,UNIMET,Derecho,22,Masculino,6,Danza,Twitter/X,Superación personal,Falta de tiempo,Excel,12.71,12.6,6.9,Media,Sí,2023-05-03
+352,UC,Ingeniería,24,Masculino,6,Arte,Instagram,Superación personal,Falta de recursos,Python,11.94,35.5,26.3,Baja,No,2023-05-20
+353,USB,Comunicación Social,25,Femenino,2,Voluntariado,TikTok,Networking,Falta de recursos,Excel,14.74,8.0,14.4,Muy baja,SI,2023-10-11
+354,UNEARTE,Medicina,25,Masculino,1,Arte,Instagram,Desarrollar habilidades,Falta de tiempo,Excel,10.07,22.1,5.8,Alta,No,2022-09-01
+355,UPEL,Comunicación Social,20,femenino,2,Deporte,TikTok,Innovar,Desigualdad,Power BI,10.26,29.2,26.1,Muy alta,No,2023-08-19
+356,UC,Economía,21,Femenino,5,Club de Debate,TikTok,Impactar en la sociedad,Desmotivación,Power BI,15.53,14.2,24.9,Muy alta,SI,2022-04-12
+357,UPEL,Administración,18,Masculino,5,Investigación,Discord,Reconocimiento,Presión social,Excel,15.2,26.8,29.5,Alta,no,2022-12-28
+358,UPEL,Medicina,27,Femenino,2,Arte,Twitter/X,Reconocimiento,Desigualdad,SPSS,19.95,34.0,27.5,Baja,No,2022-12-15
+359,UC,Derecho,25,Masculino,6,Emprendimiento,Twitter/X,Innovar,Presión social,Canva,12.02,11.7,25.9,Media,No,2022-11-21
+360,ULA,Derecho,24,Femenino,1,Club de Debate,TikTok,Desarrollar habilidades,Presión social,Canva,12.58,37.1,3.5,Media,No,2023-12-04
+361,UCAB,Ingeniería,19,Masculino,2,Club de Debate,WhatsApp,Superación personal,Falta de recursos,Python,11.14,24.4,4.9,Alta,No,2023-06-21
+362,UPEL,Economía,27,Masculino,2,Arte,WhatsApp,Impactar en la sociedad,Desigualdad,HTML/CSS,19.18,15.5,17.9,Alta,No,2022-07-01
+363,UC,Arquitectura,25,Femenino,2,Club de Debate,Instagram,Reconocimiento,Desmotivación,R,17.78,20.1,16.9,Media,No,2022-08-05
+364,UC,Economía,19,Masculino,3,Música,Instagram,Innovar,Estrés académico,Python,18.22,15.9,14.8,Media,No,2023-05-06
+365,LUZ,Administración,25,Masculino,5,Arte,Discord,Diversión,Presión social,Excel,19.03,30.4,13.1,Muy baja,Sí,2023-07-13
+366,ULA,Comunicación Social,18,Otro,6,Voluntariado,TikTok,Innovar,Desinformación,Power BI,15.25,32.9,14.1,Media,No,2022-01-04
+367,UNEXPO,Derecho,26,Femenino,4,Danza,Instagram,Reconocimiento,Desinformación,JavaScript,14.51,34.2,17.9,Media,No,2023-01-08
+368,LUZ,Comunicación Social,25,Femenino,6,Deporte,Instagram,Superación personal,Estrés académico,SPSS,13.3,39.5,2.1,Baja,No,2023-05-31
+369,LUZ,Comunicación Social,24,Femenino,4,Gaming,Facebook,Diversión,Desinformación,SQL,15.89,32.7,9.3,Media,No,2022-03-05
+370,UNIMET,Comunicación Social,25,MASCULINO,3,Viajes,TikTok,Desarrollar habilidades,Ansiedad,Power BI,14.54,26.0,16.5,Muy alta,SI,2023-02-05
+371,UCAB,Derecho,21,Otro,2,Club de Debate,Discord,Impactar en la sociedad,Presión social,Canva,14.52,16.9,22.2,Alta,Sí,2023-11-07
+372,UC,Biología,27,Masculino,3,Voluntariado,Instagram,Desarrollar habilidades,Estrés académico,Power BI,19.37,24.1,6.9,Baja,No,2023-09-14
+373,UCAB,Psicología,27,Masculino,3,Investigación,Discord,Desarrollar habilidades,Desigualdad,SPSS,19.84,6.4,17.3,Baja,SI,2022-08-02
+374,USB,Administración,18,Masculino,1,Investigación,Twitter/X,Innovar,Presión social,R,17.96,31.1,22.0,Media,No,2022-01-12
+375,UNIMET,Biología,24,Masculino,5,Viajes,Discord,Impactar en la sociedad,Estrés académico,Excel,17.57,20.6,14.4,Media,No,2023-08-20
+376,UNEXPO,Administración,22,Femenino,4,Deporte,WhatsApp,Impactar en la sociedad,Falta de recursos,JavaScript,16.81,5.7,2.8,Media,SI,2022-05-26
+377,UCAB,Medicina,24,Masculino,2,Club de Debate,WhatsApp,Reconocimiento,Desmotivación,Canva,11.66,7.2,14.6,Alta,No,2022-08-23
+378,UCV,Economía,27,Femenino,4,Música,Discord,Reconocimiento,Desigualdad,Canva,10.59,18.6,10.3,Alta,No,2023-06-19
+379,UPEL,Economía,21,Masculino,6,Viajes,WhatsApp,Impactar en la sociedad,Desmotivación,Figma,16.91,25.4,28.0,Alta,No,2023-12-14
+380,USB,Educación,26,Masculino,4,Deporte,Twitter/X,Diversión,Falta de recursos,HTML/CSS,17.29,21.2,5.5,Media,No,2023-11-24
+381,ULA,Economía,18,Masculino,6,Club de Debate,TikTok,Networking,Presión social,R,10.47,26.7,20.3,Alta,si,2022-05-16
+382,UNEXPO,Derecho,22,Femenino,5,Voluntariado,WhatsApp,Reconocimiento,Desigualdad,Canva,19.28,21.8,3.5,Media,no,2023-03-09
+383,USB,Arquitectura,21,Femenino,6,Danza,WhatsApp,Networking,Desmotivación,HTML/CSS,10.91,28.2,14.5,Baja,No,2022-09-25
+384,UPEL,Ingeniería,21,Femenino,4,Música,Discord,Innovar,Desinformación,Canva,12.86,12.7,17.5,Alta,Sí,2023-02-14
+385,UNIMET,Educación,17,Femenino,4,Gaming,Twitter/X,Diversión,Desmotivación,Excel,16.72,8.9,10.3,Alta,Sí,2022-09-11
+386,UPEL,Ingeniería,18,Femenino,6,Investigación,TikTok,Impactar en la sociedad,Estrés académico,HTML/CSS,11.7,25.9,14.7,Muy alta,No,2022-05-23
+387,LUZ,Administración,24,femenino,3,Emprendimiento,Discord,Diversión,Presión social,SPSS,10.55,22.0,6.6,Alta,Sí,2022-05-31
+388,UPEL,Ingeniería,19,Masculino,5,Voluntariado,Discord,Reconocimiento,Ansiedad,Figma,13.31,5.9,10.5,Muy alta,No,2023-06-02
+389,LUZ,Ingeniería,26,Femenino,1,Investigación,Facebook,Desarrollar habilidades,Desmotivación,Excel,17.66,18.3,19.4,Muy alta,No,2023-11-27
+390,UNIMET,Educación,19,Femenino,2,Arte,Twitter/X,Innovar,Desigualdad,SPSS,14.14,8.7,10.5,Alta,No,2023-07-02
+391,UNEARTE,Medicina,24,Femenino,4,Emprendimiento,TikTok,Impactar en la sociedad,Desigualdad,JavaScript,16.53,23.6,27.2,Alta,No,2023-09-12
+392,LUZ,Comunicación Social,24,Masculino,2,Investigación,Twitter/X,Superación personal,Falta de tiempo,R,15.8,18.9,19.6,Alta,No,2022-06-21
+393,ULA,Economía,18,Masculino,1,Deporte,TikTok,Innovar,Desmotivación,R,10.22,26.5,14.3,Muy alta,No,2022-06-13
+394,UPEL,Economía,24,Otro,2,Música,Twitter/X,Networking,Presión social,SQL,19.89,33.2,3.1,Alta,No,2022-07-06
+395,UPEL,Derecho,27,Masculino,1,Investigación,Discord,Diversión,Presión social,SQL,10.41,15.5,16.0,Baja,No,2023-04-23
+396,ULA,Educación,17,MASCULINO,6,Gaming,Discord,Impactar en la sociedad,Falta de recursos,HTML/CSS,19.68,38.7,23.4,Alta,No,2023-11-29
+397,UCV,Derecho,22,Masculino,3,Danza,Instagram,Innovar,Falta de tiempo,R,15.5,23.7,9.4,Baja,No,2022-02-03
+398,UC,Arquitectura,24,Femenino,4,Deporte,WhatsApp,Diversión,Desmotivación,HTML/CSS,19.63,26.6,24.6,Media,No,2022-08-01
+399,UNEARTE,Arquitectura,19,femenino,1,Voluntariado,Facebook,Impactar en la sociedad,Desinformación,SQL,11.15,28.8,9.1,Media,NO,2023-05-13
+400,UNEXPO,Derecho,24,Femenino,2,Voluntariado,Twitter/X,Reconocimiento,Falta de recursos,JavaScript,14.9,28.3,25.1,Alta,No,2022-02-18
+401,LUZ,Educación,17,Masculino,4,Voluntariado,Facebook,Innovar,Falta de tiempo,Canva,11.7,22.9,4.4,Muy alta,Sí,2022-08-27
+402,ULA,Derecho,27,Femenino,3,Voluntariado,Instagram,Reconocimiento,Desmotivación,SPSS,10.51,20.0,26.3,Media,No,2023-01-05
+403,UNIMET,Economía,27,Masculino,6,Danza,WhatsApp,Innovar,Desmotivación,Power BI,16.18,6.9,16.0,Baja,No,2023-03-09
+404,LUZ,Biología,25,Masculino,4,Investigación,Twitter/X,Reconocimiento,Falta de recursos,HTML/CSS,12.08,5.8,10.3,Media,No,2023-04-07
+405,UC,Psicología,27,Masculino,1,Club de Debate,TikTok,Diversión,Desinformación,JavaScript,15.88,17.5,9.4,Alta,si,2023-01-25
+406,UNIMET,Ingeniería,25,Masculino,3,Investigación,WhatsApp,Superación personal,Falta de tiempo,SPSS,11.12,16.7,14.1,Media,No,2022-11-14
+407,USB,Psicología,21,Femenino,2,Arte,Discord,Innovar,Desmotivación,R,13.32,18.6,30.0,Media,SI,2022-01-05
+408,UPEL,Educación,26,Femenino,3,Música,Instagram,Innovar,Desmotivación,Canva,17.82,9.8,8.2,Baja,SI,2023-03-28
+409,USB,Psicología,20,Femenino,3,Emprendimiento,WhatsApp,Reconocimiento,Falta de tiempo,SPSS,14.37,30.8,4.9,Media,Sí,2023-08-29
+410,LUZ,Arquitectura,27,Femenino,5,Club de Debate,WhatsApp,Impactar en la sociedad,Ansiedad,Figma,16.28,35.0,18.4,Media,No,2022-08-11
+411,UC,Administración,22,Masculino,3,Club de Debate,Discord,Innovar,Falta de recursos,SQL,16.47,37.9,15.7,Alta,No,2022-03-18
+412,UNEARTE,Ingeniería,23,Femenino,3,Investigación,Twitter/X,Reconocimiento,Falta de recursos,SPSS,18.44,22.2,16.7,Baja,No,2023-12-06
+413,LUZ,Comunicación Social,21,masculino,4,Club de Debate,TikTok,Desarrollar habilidades,Desigualdad,Power BI,13.25,29.5,20.7,Alta,No,2022-03-15
+414,ULA,Educación,27,Masculino,2,Viajes,Discord,Reconocimiento,Desinformación,JavaScript,16.87,34.9,9.5,Media,No,2022-07-01
+415,UCAB,Ingeniería,26,Masculino,4,Viajes,TikTok,Diversión,Estrés académico,Canva,19.62,19.6,27.5,Media,No,2022-10-21
+416,LUZ,Psicología,25,Femenino,4,Arte,Twitter/X,Superación personal,Ansiedad,Excel,17.3,15.8,14.2,Media,No,2022-09-08
+417,UPEL,Arquitectura,19,Masculino,1,Emprendimiento,WhatsApp,Desarrollar habilidades,Falta de tiempo,SPSS,14.9,37.8,5.6,Alta,No,2023-07-20
+418,UPEL,Medicina,23,Otro,4,Gaming,TikTok,Diversión,Falta de tiempo,Python,16.31,23.0,22.8,Muy alta,Sí,2023-01-25
+419,LUZ,Biología,26,Masculino,5,Danza,Instagram,Diversión,Falta de tiempo,Power BI,17.4,22.4,20.0,Muy alta,No,2022-02-16
+420,UNIMET,Comunicación Social,26,Masculino,5,Investigación,Instagram,Diversión,Ansiedad,Power BI,16.12,11.2,10.8,Alta,No,2023-10-25
+421,UCAB,Biología,27,Masculino,1,Danza,Discord,Impactar en la sociedad,Desmotivación,Python,10.17,8.8,19.4,Media,No,2022-11-05
+422,ULA,Ingeniería,21,Femenino,6,Gaming,Twitter/X,Diversión,Falta de tiempo,Figma,11.95,34.5,8.2,Alta,Sí,2022-03-10
+423,LUZ,Arquitectura,23,Masculino,2,Investigación,Discord,Impactar en la sociedad,Falta de tiempo,Excel,18.1,26.5,14.5,Alta,no,2022-04-13
+424,UNIMET,Arquitectura,18,Femenino,2,Investigación,Discord,Diversión,Desinformación,SQL,12.73,16.4,27.2,Baja,No,2023-10-12
+425,UPEL,Psicología,20,Femenino,4,Emprendimiento,Facebook,Networking,Presión social,JavaScript,17.32,11.7,5.7,Alta,Sí,2022-09-02
+426,UPEL,Economía,18,Femenino,4,Danza,Discord,Desarrollar habilidades,Presión social,Canva,13.72,24.4,12.8,Media,No,2023-08-20
+427,UC,Psicología,23,Femenino,6,Viajes,Facebook,Networking,Desigualdad,JavaScript,15.22,25.4,25.0,Baja,No,2023-03-19
+428,LUZ,Economía,18,Femenino,4,Voluntariado,Instagram,Diversión,Desigualdad,Excel,10.68,12.2,29.1,Media,No,2023-12-09
+429,UCAB,Economía,27,Femenino,2,Danza,Instagram,Desarrollar habilidades,Falta de tiempo,JavaScript,11.81,34.8,14.7,Media,No,2022-09-27
+430,UCV,Comunicación Social,17,masculino,3,Música,Discord,Desarrollar habilidades,Desinformación,Python,19.57,7.9,16.2,Alta,No,2023-11-17
+431,UCAB,Psicología,25,Masculino,5,Música,Instagram,Innovar,Falta de tiempo,Power BI,18.9,17.5,18.0,Media,Sí,2022-05-04
+432,UPEL,Medicina,17,masculino,3,Investigación,Twitter/X,Superación personal,Desigualdad,JavaScript,16.52,28.8,28.1,Baja,Sí,2023-03-04
+433,UPEL,Derecho,24,Femenino,3,Voluntariado,Facebook,Networking,Ansiedad,HTML/CSS,14.6,14.6,26.0,Baja,No,2022-09-06
+434,USB,Derecho,18,Femenino,2,Deporte,Facebook,Superación personal,Ansiedad,SPSS,16.76,34.0,6.8,Alta,No,2023-11-20
+435,UPEL,Psicología,24,Masculino,3,Gaming,Discord,Desarrollar habilidades,Desmotivación,Excel,16.19,30.9,14.2,Alta,No,2022-10-08
+436,ULA,Psicología,19,Femenino,6,Arte,Instagram,Impactar en la sociedad,Estrés académico,Figma,15.69,32.6,15.0,Media,si,2022-09-26
+437,UNEXPO,Biología,22,Femenino,1,Voluntariado,TikTok,Desarrollar habilidades,Presión social,HTML/CSS,10.59,9.2,24.1,Muy baja,No,2022-08-19
+438,LUZ,Comunicación Social,19,Masculino,4,Arte,Facebook,Superación personal,Desinformación,Python,16.33,9.9,18.9,Baja,No,2023-04-25
+439,UCAB,Psicología,23,Femenino,1,Danza,Discord,Networking,Falta de recursos,R,17.69,15.0,20.3,Muy alta,No,2023-08-17
+440,UNEXPO,Biología,26,Masculino,5,Danza,Discord,Diversión,Presión social,Python,19.94,23.1,29.9,Media,Sí,2023-09-26
+441,UNIMET,Economía,25,Masculino,4,Arte,Twitter/X,Innovar,Falta de recursos,Figma,10.11,31.2,4.1,Media,SI,2022-02-16
+442,UCV,Arquitectura,18,Femenino,3,Gaming,WhatsApp,Innovar,Estrés académico,Figma,17.3,34.3,8.2,Muy baja,No,2022-04-20
+443,ULA,Arquitectura,21,Femenino,5,Voluntariado,WhatsApp,Innovar,Estrés académico,HTML/CSS,15.72,29.7,13.4,Alta,No,2023-10-01
+444,UCAB,Economía,22,Masculino,4,Deporte,Facebook,Diversión,Falta de tiempo,SPSS,14.34,37.5,11.7,Alta,No,2022-05-13
+445,UNEXPO,Educación,20,Masculino,6,Investigación,Twitter/X,Innovar,Desigualdad,Excel,11.28,30.9,2.6,Media,No,2023-12-26
+446,UCV,Biología,20,Femenino,6,Emprendimiento,Twitter/X,Networking,Estrés académico,SQL,14.09,15.7,4.6,Baja,no,2023-01-31
+447,USB,Biología,20,MASCULINO,6,Danza,Twitter/X,Diversión,Estrés académico,Power BI,13.54,14.3,21.1,Media,Sí,2022-09-08
+448,ULA,Economía,18,Femenino,6,Música,Facebook,Innovar,Falta de recursos,HTML/CSS,13.03,29.4,26.6,Alta,si,2022-01-16
+449,ULA,Medicina,20,Masculino,3,Gaming,WhatsApp,Diversión,Desigualdad,Figma,17.31,11.8,16.4,Muy alta,No,2023-03-31
+450,USB,Administración,27,FEMENINO,1,Emprendimiento,Twitter/X,Superación personal,Estrés académico,R,17.01,8.2,17.1,Alta,No,2023-04-22
+451,LUZ,Ingeniería,17,Femenino,4,Deporte,Instagram,Networking,Presión social,Canva,15.89,23.6,9.1,Alta,No,2022-05-09
+452,USB,Economía,22,Femenino,3,Club de Debate,Discord,Reconocimiento,Desmotivación,Figma,19.39,33.8,23.5,Baja,no,2023-01-24
+453,ULA,Psicología,17,Femenino,6,Investigación,Discord,Impactar en la sociedad,Estrés académico,SPSS,13.5,8.5,23.1,Alta,Sí,2022-05-01
+454,ULA,Psicología,26,Femenino,1,Danza,TikTok,Innovar,Desmotivación,SPSS,12.44,32.7,18.5,Alta,No,2023-07-20
+455,UNEXPO,Comunicación Social,22,Femenino,5,Investigación,TikTok,Impactar en la sociedad,Desigualdad,Figma,16.56,33.4,8.0,Media,no,2023-01-22
+456,UPEL,Economía,17,Masculino,5,Emprendimiento,Facebook,Diversión,Falta de tiempo,SPSS,11.99,21.9,4.7,Muy alta,No,2022-04-03
+457,UCV,Comunicación Social,22,Femenino,5,Investigación,Facebook,Impactar en la sociedad,Desinformación,HTML/CSS,13.15,7.0,3.8,Baja,Sí,2022-11-09
+458,USB,Economía,26,Masculino,6,Club de Debate,Discord,Networking,Desigualdad,Figma,12.25,11.1,18.6,Media,No,2022-04-30
+459,UCV,Biología,24,MASCULINO,5,Emprendimiento,Instagram,Networking,Falta de recursos,Figma,10.69,29.8,25.1,Alta,No,2023-10-26
+460,USB,Ingeniería,27,Masculino,2,Danza,WhatsApp,Desarrollar habilidades,Desinformación,Excel,18.27,29.9,26.0,Alta,No,2022-10-19
+461,UNIMET,Biología,18,Masculino,4,Voluntariado,WhatsApp,Innovar,Presión social,Power BI,12.55,36.4,15.0,Alta,No,2023-04-02
+462,ULA,Administración,18,Femenino,4,Música,Facebook,Desarrollar habilidades,Ansiedad,R,14.73,25.4,24.0,Baja,No,2023-11-30
+463,UPEL,Arquitectura,20,Masculino,6,Emprendimiento,Instagram,Impactar en la sociedad,Desmotivación,SPSS,10.43,9.3,28.5,Alta,No,2023-03-04
+464,UNEXPO,Derecho,27,Masculino,2,Viajes,Facebook,Reconocimiento,Desmotivación,Excel,16.99,9.2,9.7,Alta,No,2022-02-19
+465,UPEL,Economía,19,Femenino,3,Club de Debate,WhatsApp,Desarrollar habilidades,Desmotivación,SQL,13.31,30.2,13.1,Media,si,2022-06-27
+466,UPEL,Administración,20,Femenino,3,Emprendimiento,Facebook,Desarrollar habilidades,Desigualdad,SQL,17.45,11.4,28.1,Muy alta,No,2023-03-31
+467,UPEL,Arquitectura,23,Masculino,5,Emprendimiento,Twitter/X,Networking,Desmotivación,JavaScript,14.12,16.5,11.5,Alta,No,2022-07-05
+468,UCV,Educación,27,Femenino,1,Viajes,Facebook,Reconocimiento,Falta de tiempo,HTML/CSS,11.96,22.1,27.6,Baja,No,2023-03-24
+469,USB,Ingeniería,17,Femenino,3,Danza,Discord,Diversión,Desmotivación,HTML/CSS,15.13,5.9,29.5,Alta,No,2023-10-01
+470,UNEARTE,Comunicación Social,22,Femenino,1,Emprendimiento,Facebook,Impactar en la sociedad,Falta de recursos,Python,11.31,13.7,20.5,Baja,No,2022-10-09
+471,UNIMET,Comunicación Social,19,Femenino,4,Música,Discord,Desarrollar habilidades,Presión social,R,14.41,19.3,24.9,Muy baja,No,2022-05-19
+472,UCAB,Biología,27,Masculino,1,Investigación,Instagram,Reconocimiento,Desmotivación,Figma,13.17,14.8,23.0,Media,No,2023-10-02
+473,UPEL,Psicología,26,Masculino,4,Danza,WhatsApp,Innovar,Desmotivación,SPSS,19.12,9.8,21.6,Muy alta,No,2022-10-17
+474,LUZ,Arquitectura,23,Masculino,2,Música,TikTok,Reconocimiento,Desinformación,R,10.61,30.5,10.6,Baja,No,2023-03-01
+475,UCV,Educación,26,Femenino,2,Danza,TikTok,Impactar en la sociedad,Presión social,JavaScript,16.94,33.5,3.6,Alta,Sí,2022-03-24
+476,UNEXPO,Administración,18,Femenino,6,Música,WhatsApp,Reconocimiento,Desmotivación,Python,11.83,14.0,11.6,Baja,Sí,2023-12-16
+477,UCAB,Ingeniería,18,Masculino,6,Club de Debate,TikTok,Reconocimiento,Desigualdad,Excel,13.19,32.1,20.7,Alta,No,2022-12-08
+478,UNEARTE,Arquitectura,20,Femenino,5,Música,Facebook,Reconocimiento,Estrés académico,R,14.16,18.5,4.9,Alta,No,2022-02-09
+479,LUZ,Educación,17,Femenino,3,Arte,Instagram,Innovar,Falta de tiempo,Excel,19.08,22.7,2.3,Alta,no,2023-07-12
+480,UNEARTE,Derecho,19,Masculino,5,Música,Instagram,Desarrollar habilidades,Desigualdad,SQL,12.43,35.0,5.9,Media,No,2023-10-14
+481,UCAB,Economía,25,Femenino,4,Voluntariado,WhatsApp,Impactar en la sociedad,Ansiedad,SPSS,10.91,31.2,22.0,Alta,No,2023-03-17
+482,UPEL,Comunicación Social,23,Masculino,5,Voluntariado,TikTok,Innovar,Desigualdad,JavaScript,13.19,33.2,29.2,Muy alta,No,2023-07-07
+483,LUZ,Administración,23,Femenino,1,Gaming,Facebook,Reconocimiento,Desinformación,Figma,11.05,9.8,29.5,Alta,No,2022-04-04
+484,UNEARTE,Comunicación Social,27,Femenino,4,Arte,Instagram,Reconocimiento,Desinformación,SPSS,11.29,7.4,15.8,Media,No,2023-05-10
+485,UNEXPO,Administración,20,Femenino,6,Arte,Instagram,Desarrollar habilidades,Desmotivación,Power BI,15.74,36.3,26.3,Muy alta,No,2022-09-09
+486,USB,Biología,18,masculino,2,Investigación,Twitter/X,Impactar en la sociedad,Desigualdad,HTML/CSS,10.61,18.6,22.6,Muy baja,No,2022-04-23
+487,ULA,Psicología,20,Masculino,6,Arte,Twitter/X,Networking,Desinformación,JavaScript,10.31,15.1,16.0,Alta,No,2023-07-01
+488,USB,Administración,22,femenino,3,Investigación,Instagram,Innovar,Estrés académico,R,17.14,30.4,18.0,Muy alta,Sí,2023-01-20
+489,UCAB,Comunicación Social,27,Masculino,4,Gaming,WhatsApp,Desarrollar habilidades,Presión social,SPSS,13.62,34.3,5.8,Baja,Sí,2022-01-06
+490,UCV,Biología,27,Femenino,4,Gaming,Discord,Impactar en la sociedad,Desigualdad,Canva,11.25,35.2,28.3,Media,Sí,2022-09-07
+491,ULA,Administración,19,Masculino,1,Club de Debate,Discord,Innovar,Falta de tiempo,HTML/CSS,12.54,16.1,11.9,Media,No,2022-11-08
+492,UNIMET,Derecho,17,Masculino,3,Voluntariado,Facebook,Reconocimiento,Estrés académico,HTML/CSS,16.42,34.8,14.5,Alta,No,2023-12-07
+493,UNEXPO,Psicología,24,Masculino,2,Música,Instagram,Impactar en la sociedad,Desmotivación,Canva,12.76,6.4,20.8,Alta,No,2022-11-02
+494,UNIMET,Administración,21,Femenino,4,Música,Instagram,Impactar en la sociedad,Presión social,Python,14.95,6.7,11.3,Media,No,2022-04-03
+495,LUZ,Biología,21,Masculino,4,Viajes,Instagram,Diversión,Falta de tiempo,Python,11.22,26.8,9.1,Media,no,2023-04-16
+496,ULA,Arquitectura,27,Femenino,1,Viajes,WhatsApp,Impactar en la sociedad,Desmotivación,Canva,15.88,7.2,19.7,Media,no,2022-10-04
+497,UNIMET,Medicina,20,Femenino,5,Deporte,Twitter/X,Networking,Falta de tiempo,Power BI,13.16,16.4,2.7,Media,No,2022-09-10
+498,UNIMET,Educación,22,Masculino,2,Danza,Instagram,Impactar en la sociedad,Desmotivación,SQL,16.27,28.5,22.2,Baja,Sí,2022-03-03
+499,UNEARTE,Medicina,19,Masculino,6,Club de Debate,Instagram,Networking,Falta de tiempo,Canva,18.08,16.8,16.4,Muy alta,No,2022-11-29
+500,USB,Medicina,25,Femenino,3,Deporte,TikTok,Reconocimiento,Presión social,SQL,16.12,11.3,19.0,Muy baja,No,2023-12-19
+501,UNEARTE,Ingeniería,21,Femenino,4,Deporte,WhatsApp,Networking,Estrés académico,SPSS,12.96,14.8,19.7,Muy alta,Sí,2022-05-06
+502,ULA,Derecho,19,Masculino,4,Emprendimiento,Facebook,Innovar,Falta de tiempo,Power BI,12.56,21.0,16.8,Alta,No,2022-11-13
+503,ULA,Arquitectura,27,Masculino,6,Emprendimiento,Instagram,Reconocimiento,Falta de tiempo,JavaScript,13.27,21.6,18.3,Media,no,2023-11-09
+504,UCAB,Economía,17,Masculino,2,Deporte,TikTok,Reconocimiento,Falta de recursos,SQL,11.65,32.4,21.1,Alta,No,2023-07-08
+505,UNEARTE,Administración,26,femenino,5,Arte,Discord,Networking,Desigualdad,HTML/CSS,11.81,31.3,23.1,Alta,Sí,2022-06-18
+506,UC,Educación,22,Masculino,4,Danza,Facebook,Desarrollar habilidades,Presión social,SPSS,17.91,21.0,22.4,Media,Sí,2023-08-06
+507,USB,Psicología,18,Femenino,2,Club de Debate,Instagram,Superación personal,Desmotivación,HTML/CSS,13.85,34.6,26.3,Baja,No,2022-01-26
+508,ULA,Arquitectura,19,Masculino,6,Deporte,Instagram,Impactar en la sociedad,Presión social,Power BI,14.36,9.0,7.3,Media,Sí,2023-12-17
+509,UCAB,Comunicación Social,17,Femenino,1,Música,TikTok,Diversión,Desinformación,SQL,15.94,13.9,13.2,Media,No,2022-09-20
+510,UNEARTE,Economía,25,Femenino,5,Danza,WhatsApp,Superación personal,Desmotivación,Excel,15.9,34.0,28.5,Muy baja,No,2023-11-11
+511,USB,Ingeniería,24,Masculino,3,Emprendimiento,Instagram,Impactar en la sociedad,Presión social,Power BI,10.67,18.2,13.1,Media,Sí,2022-02-24
+512,UNEARTE,Ingeniería,18,Femenino,4,Música,Discord,Impactar en la sociedad,Estrés académico,Power BI,18.32,39.3,5.5,Baja,no,2022-03-18
+513,UNIMET,Arquitectura,27,Otro,2,Emprendimiento,Instagram,Reconocimiento,Desmotivación,Excel,11.77,21.3,16.7,Media,No,2022-09-06
+514,UCAB,Biología,24,Masculino,1,Emprendimiento,Discord,Impactar en la sociedad,Desmotivación,SPSS,17.23,32.7,5.1,Baja,Sí,2023-03-03
+515,USB,Medicina,25,Masculino,3,Danza,Facebook,Diversión,Presión social,SQL,17.73,19.1,7.7,Baja,No,2023-07-22
+516,UPEL,Comunicación Social,17,Masculino,2,Emprendimiento,Facebook,Impactar en la sociedad,Desmotivación,SQL,17.15,19.9,30.0,Baja,No,2023-09-05
+517,LUZ,Ingeniería,21,Masculino,2,Gaming,Twitter/X,Networking,Falta de recursos,HTML/CSS,15.79,18.4,17.2,Muy alta,No,2023-01-19
+518,LUZ,Educación,24,Masculino,3,Voluntariado,Twitter/X,Superación personal,Desigualdad,Power BI,10.15,30.2,10.0,Muy baja,no,2022-08-15
+519,USB,Ingeniería,27,Masculino,1,Gaming,Discord,Networking,Desmotivación,Power BI,13.6,24.2,29.9,Alta,No,2023-04-26
+520,UNEARTE,Psicología,18,Femenino,6,Voluntariado,WhatsApp,Diversión,Desigualdad,Figma,16.05,38.0,29.1,Baja,no,2023-07-20
+521,UCAB,Administración,20,Masculino,1,Viajes,Instagram,Impactar en la sociedad,Presión social,JavaScript,13.87,13.8,14.3,Muy alta,No,2022-07-20
+522,LUZ,Ingeniería,23,Femenino,5,Viajes,Instagram,Innovar,Falta de tiempo,Power BI,18.63,8.5,9.3,Baja,No,2022-07-09
+523,UCAB,Psicología,19,Masculino,4,Emprendimiento,Twitter/X,Diversión,Ansiedad,R,13.09,18.8,25.5,Muy alta,NO,2022-05-02
+524,LUZ,Arquitectura,21,Masculino,3,Club de Debate,Discord,Reconocimiento,Ansiedad,JavaScript,12.94,26.6,22.0,Alta,No,2022-07-09
+525,UNIMET,Arquitectura,24,Masculino,6,Club de Debate,Instagram,Networking,Falta de tiempo,R,12.66,35.1,21.2,Muy baja,Sí,2022-07-07
+526,UNEARTE,Economía,26,Femenino,3,Voluntariado,Instagram,Networking,Falta de tiempo,SQL,13.33,17.1,27.0,Muy alta,No,2023-06-17
+527,UNIMET,Ingeniería,19,Femenino,3,Música,WhatsApp,Desarrollar habilidades,Falta de tiempo,JavaScript,15.57,27.9,21.3,Alta,No,2023-05-15
+528,LUZ,Educación,20,Masculino,1,Danza,TikTok,Impactar en la sociedad,Estrés académico,Power BI,17.07,17.3,9.9,Media,Sí,2023-06-28
+529,UPEL,Ingeniería,25,Femenino,4,Emprendimiento,Twitter/X,Reconocimiento,Ansiedad,Excel,16.63,26.6,21.4,Alta,NO,2023-06-24
+530,UPEL,Educación,23,Femenino,5,Danza,Twitter/X,Innovar,Falta de tiempo,HTML/CSS,18.08,36.0,10.6,Muy alta,Sí,2022-01-16
+531,UNIMET,Derecho,17,Femenino,2,Gaming,TikTok,Networking,Estrés académico,R,18.86,13.1,23.3,Media,Sí,2022-10-18
+532,UPEL,Economía,20,femenino,2,Club de Debate,Instagram,Networking,Desinformación,JavaScript,18.16,19.1,19.4,Media,SI,2023-12-19
+533,LUZ,Derecho,20,Masculino,3,Arte,WhatsApp,Reconocimiento,Desmotivación,Power BI,10.19,39.8,4.2,Alta,No,2022-09-19
+534,USB,Ingeniería,25,Femenino,4,Gaming,WhatsApp,Diversión,Estrés académico,JavaScript,17.36,35.4,16.4,Alta,Sí,2023-04-22
+535,UNIMET,Economía,22,Femenino,6,Gaming,Twitter/X,Diversión,Ansiedad,Power BI,12.08,24.8,11.6,Muy alta,No,2023-01-08
+536,UCV,Derecho,25,Femenino,1,Voluntariado,WhatsApp,Impactar en la sociedad,Presión social,Power BI,11.33,23.1,11.2,Alta,No,2023-06-13
+537,UNEARTE,Medicina,22,Masculino,4,Investigación,Facebook,Desarrollar habilidades,Desinformación,Power BI,16.38,15.0,18.9,Media,Sí,2022-09-13
+538,UPEL,Ingeniería,22,Masculino,4,Gaming,TikTok,Networking,Ansiedad,Figma,13.2,23.1,11.0,Muy alta,NO,2022-04-29
+539,UPEL,Derecho,21,Femenino,1,Emprendimiento,Instagram,Desarrollar habilidades,Desmotivación,HTML/CSS,10.57,34.7,23.8,Baja,No,2023-05-04
+540,ULA,Medicina,21,Femenino,3,Deporte,Facebook,Diversión,Estrés académico,Excel,11.38,29.0,4.0,Media,No,2022-10-16
+541,UC,Medicina,18,Femenino,4,Deporte,TikTok,Diversión,Falta de recursos,Excel,10.01,15.2,20.5,Alta,No,2023-01-12
+542,UNIMET,Arquitectura,24,Masculino,2,Emprendimiento,Discord,Superación personal,Desigualdad,JavaScript,19.03,12.1,24.7,Alta,No,2023-03-06
+543,UNEXPO,Ingeniería,24,Masculino,1,Investigación,Twitter/X,Innovar,Desmotivación,JavaScript,10.25,14.3,20.8,Muy baja,No,2022-08-17
+544,UPEL,Medicina,27,Femenino,6,Investigación,WhatsApp,Impactar en la sociedad,Ansiedad,Power BI,12.09,10.9,15.9,Alta,No,2023-05-10
+545,UNEARTE,Arquitectura,17,Femenino,5,Voluntariado,Discord,Superación personal,Falta de tiempo,Figma,14.16,8.3,28.6,Media,No,2022-02-17
+546,UCV,Derecho,24,Femenino,3,Club de Debate,WhatsApp,Innovar,Estrés académico,Power BI,13.57,19.7,10.4,Media,si,2023-07-16
+547,UPEL,Psicología,21,masculino,1,Danza,Facebook,Superación personal,Falta de tiempo,Figma,19.12,9.0,2.5,Alta,Sí,2022-11-19
+548,UCV,Ingeniería,18,Femenino,5,Investigación,Instagram,Superación personal,Falta de tiempo,Power BI,10.4,11.0,14.1,Media,No,2022-03-04
+549,LUZ,Economía,18,Masculino,5,Arte,Instagram,Impactar en la sociedad,Falta de tiempo,R,15.12,24.2,2.9,Muy baja,si,2023-12-26
+550,LUZ,Educación,22,Masculino,6,Voluntariado,Instagram,Impactar en la sociedad,Falta de tiempo,R,16.8,10.8,28.7,Baja,Sí,2022-05-01
+196,UNEXPO,Medicina,26,MASCULINO,1,Investigación,Facebook,Diversión,Falta de tiempo,R,11.54,38.4,25.1,Media,Sí,2022-08-20
+80,UNEARTE,Medicina,17,FEMENINO,4,Deporte,Instagram,Reconocimiento,Desmotivación,SPSS,18.06,33.7,8.7,Media,No,2022-02-11
+481,UCAB,Economía,25,Femenino,4,Voluntariado,WhatsApp,Impactar en la sociedad,Ansiedad,SPSS,10.91,31.2,22.0,Alta,No,2023-03-17
+110,USB,Comunicación Social,23,Femenino,6,Danza,TikTok,Networking,Presión social,JavaScript,10.42,25.4,28.2,Muy alta,Sí,2023-01-16
+523,UCAB,Psicología,19,Masculino,4,Emprendimiento,Twitter/X,Diversión,Ansiedad,R,13.09,18.8,25.5,Muy alta,NO,2022-05-02
+533,LUZ,Derecho,20,Masculino,3,Arte,WhatsApp,Reconocimiento,Desmotivación,Power BI,10.19,39.8,4.2,Alta,No,2022-09-19
+85,UNEXPO,Biología,23,Masculino,5,Voluntariado,Twitter/X,Desarrollar habilidades,Desmotivación,HTML/CSS,10.25,15.8,17.2,Baja,no,2023-04-03
+369,LUZ,Comunicación Social,24,Femenino,4,Gaming,Facebook,Diversión,Desinformación,SQL,15.89,32.7,9.3,Media,No,2022-03-05
+133,USB,Educación,19,Femenino,3,Investigación,Instagram,Superación personal,Falta de tiempo,JavaScript,18.24,34.9,22.4,Alta,No,2022-11-26
+365,LUZ,Administración,25,Masculino,5,Arte,Discord,Diversión,Presión social,Excel,19.03,30.4,13.1,Muy baja,Sí,2023-07-13
