@@ -1,0 +1,551 @@
+﻿ID_Evento,Fecha_Evento,Tipo_Evento,Competicion,Rival,Local_Visitante,Goles_FCB,Goles_Rival,Resultado_Partido,Jugador_Clave,Estado_Jugador_Clave,Posesion_Porcentaje_FCB,Nivel_Rendimiento
+1001,2024-11-11 00:00:00,Rueda de Prensa,champions league,Real Madrid,Visitante,2,2,Empate,Pedri,Disponible,68.3,Regular
+1002,2025-04-28 00:00:00,Partido,La liga,PSG,visitante,0,2,Empate,Ter Stegen,Disponible,47.1,Regular
+1003,2024-11-15 00:00:00,Partido,Supercopa España,Real Madrid,Local,4,2,derrota,De Jong,Sancionado,43.2,Regular
+1004,2024-10-11 00:00:00,Partido,champions league,Sevilla,Visitante,0,1,Victoria,Pedri,Sancionado,63.0,Regular
+1005,2025-02-05 00:00:00,Partido,Copa del Rey,Bayern M.,visitante,2,2,Victoria,Lewandowski,Lesionado,55.0,Regular
+1006,2024-08-21 00:00:00,Partido,Champions League,Atlético Madrid,Local,4,0,empate,Pedri,Lesionado,53.0,Regular
+1007,2024-11-11 00:00:00,Partido,Copa del Rey,Bayern M.,local,2,0,empate,Ter Stegen,Disponible,47.5,Regular
+1008,2024-11-30 00:00:00,Rueda de Prensa,Champions League,PSG,visitante,4,1,Derrota,Pedri,Disponible,56.4,Regular
+1009,2025-03-03 00:00:00,Partido,champions league,Bayern M.,Local,2,3,derrota,De Jong,Disponible,48.2,Regular
+1010,2024-10-27 00:00:00,Partido,La Liga,PSG,visitante,1,0,victoria,Araujo,Disponible,67.0,Bueno
+1011,2024-11-08 00:00:00,Entrenamiento,La liga,PSG,visitante,2,3,derrota,Ter Stegen,Ausente,46.5,Regular
+1012,2024-12-30 00:00:00,Rueda de Prensa,champions league,PSG,visitante,1,1,Derrota,Lewandowski,Baja,66.5,Regular
+1013,2024-12-09 00:00:00,Rueda de Prensa,Copa del Rey,Sevilla,visitante,2,3,empate,De Jong,Fuera,56.8,Regular
+1014,2024-12-28 00:00:00,Partido,Supercopa España,PSG,visitante,4,3,derrota,Pedri,,64.9,Regular
+1015,2025-04-15 00:00:00,Partido,Supercopa España,PSG,visitante,4,3,derrota,Pedri,Dudoso,61.4,Regular
+1016,2025-05-21 00:00:00,Partido,Amistoso,Atlético Madrid,Local,4,3,empate,Araujo,Enfermo,60.9,Regular
+1017,2025-02-08 00:00:00,Partido,Champions League,Real Madrid,local,3,1,Derrota,Lewandowski,Lesionado,49.7,Regular
+1018,2025-05-04 00:00:00,Partido,Copa del Rey,Girona,Visitante,0,0,empate,Lewandowski,Disponible,47.0,Regular
+1019,2025-01-08 00:00:00,Partido,Amistoso,Real Madrid,visitante,4,2,Victoria,Gavi,Disponible,46.3,Bueno
+1020,2024-08-22 00:00:00,Partido,Copa del Rey,PSG,Visitante,1,3,victoria,Lewandowski,Lesionado,65.7,Regular
+1021,2025-04-10 00:00:00,Partido,Champions League,Atlético Madrid,Local,-1,0,empate,Araujo,Disponible,64.6,Regular
+1022,2025-03-24 00:00:00,Partido,champions league,Bayern M.,visitante,10,0,Derrota,Lamine Yamal,Disponible,53.2,Regular
+1023,2024-09-18 00:00:00,Partido,champions league,Atlético Madrid,local,Uno,1,Empate,Gavi,Lesionado,44.0,Regular
+1024,2024-09-28 00:00:00,Partido,Supercopa España,PSG,Visitante,Muchos,0,Victoria,Gavi,Lesionado,51.5,Excelente
+1025,2025-01-17 00:00:00,Partido,champions league,Atlético Madrid,visitante,,1,Empate,Pedri,Disponible,58.6,Regular
+1026,2025-02-04 00:00:00,Partido,champions league,Atlético Madrid,Local,2 goles,3,empate,Pedri,Lesionado,53.6,Regular
+1027,2025-04-28 00:00:00,Partido,La Liga,PSG,local,0,3,Victoria,Lewandowski,Lesionado,63.4,Regular
+1028,2025-02-06 00:00:00,Partido,Supercopa España,Sevilla,Visitante,0,2,victoria,Gavi,Disponible,69.9,Regular
+1029,2025-01-22 00:00:00,Partido,Amistoso,Atlético Madrid,Visitante,3,2,empate,Pedri,Indisponible,45.7,Regular
+1030,2024-09-20 00:00:00,Partido,La liga,Girona,visitante,0,2,victoria,Araujo,Lesionado,53.8,Regular
+1031,01/2026,Partido,La Liga,Girona,local,3,0,derrota,Pedri,Lesionado,52.9,Regular
+1032,29-feb-2025,Partido,Amistoso,Atlético Madrid,local,3,3,Empate,Ter Stegen,Lesionado,49.1,Regular
+1033,2024/09/15,Rueda de Prensa,Champions League,Sevilla,local,3,1,Victoria,Ter Stegen,Disponible,45.9,Bueno
+1034,10-10-23,Partido,La Liga,Bayern M.,local,0,2,victoria,Pedri,Disponible,42.0,Regular
+1035,31/04/2025,Partido,Amistoso,PSG,Local,3,1,Derrota,Gavi,Disponible,66.6,Regular
+1036,Ayer,Rueda de Prensa,Champions League,Girona,local,0,1,victoria,Lamine Yamal,Disponible,52.6,Regular
+1037,2025-05-01 00:00:00,Partido,Supercopa España,Bayern M.,Visitante,3,2,Derrota,Lamine Yamal,Disponible,54.9,Regular
+1038,2024-10-28 00:00:00,Entrenamiento,La liga,Atlético Madrid,Visitante,4,3,empate,Gavi,Sancionado,67.5,Regular
+1039,2024-08-14 00:00:00,Partido,Champions League,Bayern M.,Local,3,2,Victoria,De Jong,Lesionado,63.3,Bueno
+1040,2025-03-30 00:00:00,Partido,champions league,Real Madrid,Visitante,1,1,victoria,Lamine Yamal,Disponible,43.9,Regular
+1041,2025-04-22 00:00:00,Partido,Copa del Rey,Girona,Visitante,3,2,victoria,Ter Stegen,Sancionado,Cincuenta,Bueno
+1042,2024-09-22 00:00:00,Entrenamiento,Champions League,Atlético Madrid,local,2,1,Victoria,Araujo,Lesionado,70%,Bueno
+1043,2024-10-31 00:00:00,Partido,Champions League,PSG,Visitante,3,1,victoria,Gavi,Disponible,Baja,Bueno
+1044,2025-04-21 00:00:00,Rueda de Prensa,La liga,Sevilla,Local,1,2,Derrota,Lewandowski,Disponible,Alta,Regular
+1045,2024-09-04 00:00:00,Partido,Copa del Rey,Atlético Madrid,local,1,0,victoria,Ter Stegen,Disponible,,Bueno
+1046,2025-02-22 00:00:00,Entrenamiento,champions league,PSG,visitante,0,2,Empate,Araujo,Lesionado,Sesenta y cinco,Regular
+1047,2024-10-20 00:00:00,Partido,Amistoso,Sevilla,local,4,0,empate,Araujo,Disponible,64.1,Regular
+1048,2024-09-19 00:00:00,Entrenamiento,Amistoso,Sevilla,Local,3,1,derrota,Gavi,Lesionado,41.6,Regular
+1049,2024-08-02 00:00:00,Partido,Champions League,Atlético Madrid,local,0,1,Derrota,Araujo,Disponible,44.8,Regular
+1050,2024-09-23 00:00:00,Partido,Copa del Rey,Bayern M.,local,4,0,Empate,Gavi,Lesionado,50.1,Regular
+1051,2024-11-14 00:00:00,Partido,Copa del Rey, Real Madrid,Local,3,1,empate,Lamine Yamal,Lesionado,42.3,Regular
+1052,2025-04-17 00:00:00,Partido,champions league,Atletico Madrid ,local,2,0,Victoria,Pedri,Lesionado,47.0,Bueno
+1053,2025-02-07 00:00:00,Partido,La liga, PSG ,Local,3,0,Derrota,Ter Stegen,Indisponible,64.9,Regular
+1054,2025-03-06 00:00:00,Partido,Supercopa España, Bayern M.,Local,1,1,derrota,De Jong,Lesionado,68.4,Regular
+1055,2024-09-13 00:00:00,Partido,Amistoso,Sevilla ,visitante,1,3,empate,Pedri,En Forma,49.1,Regular
+1056,2025-01-09 00:00:00,Partido,La liga,Girona ,Visitante,2,0,derrota,Ter Stegen,En Forma,47.9,Regular
+1057,2025-02-18 00:00:00,Entrenamiento,La Liga,PSG,Visitante,0,2,Victoria,Gavi,Lesionado,48.4,Regular
+1058,2025-04-27 00:00:00,Rueda de Prensa,Amistoso,Bayern M.,local,4,2,Victoria,Ter Stegen,Lesionado,48.3,Bueno
+1059,2025-04-28 00:00:00,Partido,La liga,Sevilla,local,3,1,Derrota,Lamine Yamal,Disponible,41.1,Regular
+1060,2025-03-03 00:00:00,Entrenamiento,Amistoso,Real Madrid,visitante,1,3,victoria,Gavi,Disponible,67.8,Regular
+1061,2025-04-09 00:00:00,Entrenamiento,Supercopa España,PSG,visitante,0,1,Victoria,Pedri,Disponible,46.4,Muy bueno
+1062,2025-02-06 00:00:00,Partido,La Liga,Atlético Madrid,visitante,2,3,empate,Lewandowski,Disponible,52.6,normal
+1063,2025-05-23 00:00:00,Partido,Supercopa España,Sevilla,Local,1,0,victoria,Lewandowski,Disponible,40.3,
+1064,2025-03-01 00:00:00,Partido,champions league,Real Madrid,visitante,2,0,Empate,Ter Stegen,Indisponible,65.7,EXCELENTE
+1065,2025-02-24 00:00:00,Partido,La Liga,Girona,visitante,3,0,derrota,Lewandowski,Sancionado,61.9,mal
+1066,2025-03-25 00:00:00,Partido,Champions League,Real Madrid,local,4,0,victoria,Gavi,Lesionado,68.4,Bueno 
+1067,2024-09-22 00:00:00,Partido,La liga,Real Madrid,visitante,1,2,derrota,Araujo,Disponible,63.4,Regular
+1068,2025-05-07 00:00:00,Entrenamiento,La Liga,PSG,Local,1,2,victoria,Gavi,Disponible,49.4,Regular
+1069,2025-03-05 00:00:00,Entrenamiento,champions league,Atlético Madrid,Local,3,1,Empate,Araujo,Disponible,47.4,Regular
+1070,2025-04-09 00:00:00,Partido,champions league,Girona,local,0,3,Victoria,Pedri,Disponible,60.9,Regular
+1071,2025-02-04 00:00:00,Partido,Supercopa España,Bayern M.,visitante,4,0,Empate,De Jong,Disponible,50.9,Regular
+1072,2024-09-10 00:00:00,Partido,Amistoso,Bayern M.,visitante,1,0,Victoria,Araujo,Disponible,57.0,Bueno
+1073,2025-01-04 00:00:00,Partido,La Liga,Real Madrid,Local,4,3,Victoria,Lewandowski,En Forma,40.2,Bueno
+1074,2024-08-15 00:00:00,Partido,La liga,PSG,visitante,1,3,derrota,Gavi,Lesionado,41.9,Malo
+1075,2024-10-04 00:00:00,Entrenamiento,La Liga,PSG,visitante,4,1,empate,Pedri,Disponible,56.1,Regular
+1076,2024-08-09 00:00:00,Partido,Copa del Rey,Bayern M.,visitante,2,3,Empate,Lewandowski,Disponible,57.0,Regular
+1077,2024-12-07 00:00:00,Entrenamiento,Amistoso,Girona,Visitante,1,0,victoria,Pedri,Disponible,62.5,Bueno
+1078,2024-12-14 00:00:00,Rueda de Prensa,La liga,Atlético Madrid,local,4,0,Empate,De Jong,Disponible,44.0,Regular
+1079,2024-10-02 00:00:00,Partido,La liga,Girona,Visitante,0,0,derrota,Lamine Yamal,En Forma,55.4,Regular
+1080,2024-12-17 00:00:00,Entrenamiento,Champions League,Sevilla,local,2,0,Victoria,Gavi,Disponible,45.8,Bueno
+1081,2024-10-20 00:00:00,Partido,Supercopa España,Sevilla,Local,2,0,derrota,Ter Stegen,Disponible,42.8,Regular
+1082,2025-01-10 00:00:00,Partido,Champions League,Atlético Madrid,visitante,0,1,Derrota,Gavi,Disponible,52.3,Regular
+1083,2025-05-16 00:00:00,Partido,La liga,Bayern M.,local,4,0,Derrota,De Jong,Disponible,44.9,Regular
+1084,2025-04-18 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,Visitante,3,1,victoria,Gavi,Disponible,46.7,Bueno
+1085,2025-03-19 00:00:00,Partido,La Liga,PSG,visitante,0,0,derrota,Ter Stegen,Lesionado,49.5,Regular
+1086,2024-09-10 00:00:00,Entrenamiento,La Liga,Sevilla,Local,4,2,victoria,Araujo,Lesionado,47.8,Bueno
+1087,2024-08-28 00:00:00,Rueda de Prensa,Amistoso,Real Madrid,local,0,2,victoria,Pedri,Disponible,42.6,Regular
+1088,2024-12-13 00:00:00,Partido,La liga,Real Madrid,local,0,2,Derrota,Ter Stegen,Disponible,42.7,Malo
+1089,2025-02-17 00:00:00,Rueda de Prensa,champions league,Bayern M.,local,1,2,victoria,Lewandowski,Disponible,45.8,Regular
+1090,2025-04-25 00:00:00,Partido,La Liga,PSG,visitante,4,1,Derrota,De Jong,Sancionado,41.5,Regular
+1091,2024-09-02 00:00:00,Partido,champions league,Girona,Visitante,3,1,Victoria,Araujo,Disponible,58.8,Bueno
+1092,2024-09-17 00:00:00,Partido,La Liga,PSG,Visitante,1,3,derrota,Lewandowski,Disponible,48.6,Malo
+1093,2024-10-01 00:00:00,Partido,La Liga,Real Madrid,local,0,0,victoria,Lewandowski,Disponible,48.4,Regular
+1094,2025-03-04 00:00:00,Entrenamiento,Supercopa España,Real Madrid,Local,0,2,Derrota,De Jong,Disponible,50.0,Malo
+1095,2025-05-20 00:00:00,Partido,Supercopa España,Sevilla,Local,0,1,Empate,Araujo,Disponible,59.9,Regular
+1096,2024-11-07 00:00:00,Partido,Copa del Rey,PSG,Visitante,4,0,victoria,Lamine Yamal,Disponible,66.1,Excelente
+1097,2025-01-19 00:00:00,Rueda de Prensa,Champions League,PSG,Local,4,0,empate,Lewandowski,Disponible,62.8,Regular
+1098,2025-03-02 00:00:00,Partido,Amistoso,Real Madrid,Visitante,1,1,Victoria,Lewandowski,Sancionado,61.8,Regular
+1099,2024-09-04 00:00:00,Partido,Amistoso,Girona,local,3,2,Victoria,Araujo,Disponible,54.5,Bueno
+1100,2025-03-15 00:00:00,Partido,Amistoso,Bayern M.,Visitante,1,3,Empate,Gavi,En Forma,60.8,Regular
+1101,2024-11-09 00:00:00,Entrenamiento,Copa del Rey,Bayern M.,Visitante,2,0,Derrota,Lewandowski,Disponible,56.6,Regular
+1102,2024-12-09 00:00:00,Partido,Supercopa España,PSG,local,0,3,victoria,Pedri,En Forma,46.5,Regular
+1103,2025-04-14 00:00:00,Entrenamiento,La liga,Bayern M.,Local,0,2,Derrota,Araujo,Lesionado,46.3,Malo
+1104,2024-08-05 00:00:00,Entrenamiento,champions league,Real Madrid,Visitante,0,2,Victoria,Lewandowski,Disponible,48.9,Regular
+1105,2025-03-06 00:00:00,Partido,champions league,Real Madrid,Visitante,1,3,Derrota,De Jong,Sancionado,67.3,Malo
+1106,2025-04-12 00:00:00,Partido,La liga,PSG,local,1,2,Victoria,Ter Stegen,Disponible,56.4,Regular
+1107,2025-05-10 00:00:00,Partido,Copa del Rey,PSG,Local,0,0,Derrota,Pedri,En Forma,62.0,Regular
+1108,2025-02-23 00:00:00,Partido,La liga,Sevilla,Visitante,1,3,Empate,Ter Stegen,Disponible,50.4,Regular
+1109,2024-08-15 00:00:00,Partido,Amistoso,PSG,local,4,2,derrota,Ter Stegen,Disponible,52.2,Regular
+1110,2024-09-11 00:00:00,Partido,Champions League,Girona,Visitante,4,3,Empate,Lewandowski,Disponible,43.8,Regular
+1111,2025-01-26 00:00:00,Partido,La Liga,Bayern M.,visitante,1,0,Empate,Pedri,Indisponible,45.1,Regular
+1112,2024-10-02 00:00:00,Partido,champions league,PSG,local,0,2,derrota,Pedri,Disponible,64.8,Malo
+1113,2025-03-19 00:00:00,Partido,Supercopa España,Atlético Madrid,Local,1,0,derrota,Gavi,Disponible,57.5,Regular
+1114,2025-03-29 00:00:00,Partido,Supercopa España,Sevilla,Local,1,2,victoria,Ter Stegen,Lesionado,50.1,Regular
+1115,2024-09-21 00:00:00,Partido,Copa del Rey,Atlético Madrid,Local,1,1,victoria,Pedri,Lesionado,64.1,Regular
+1116,2024-11-04 00:00:00,Partido,Supercopa España,Real Madrid,Local,2,2,Empate,Gavi,Disponible,47.4,Regular
+1117,2025-03-10 00:00:00,Partido,Amistoso,Bayern M.,Visitante,4,3,Empate,Araujo,Disponible,69.3,Regular
+1118,2025-03-19 00:00:00,Partido,champions league,PSG,Visitante,3,2,Victoria,Gavi,Disponible,50.3,Bueno
+1119,2025-03-25 00:00:00,Partido,La liga,Atlético Madrid,Local,3,0,Victoria,De Jong,Disponible,50.1,Excelente
+1120,2024-12-21 00:00:00,Entrenamiento,Amistoso,Bayern M.,Local,2,0,victoria,Lamine Yamal,Disponible,49.4,Bueno
+1121,2025-01-18 00:00:00,Partido,Copa del Rey,Real Madrid,Local,1,2,empate,Lewandowski,En Forma,43.7,Regular
+1122,2024-08-29 00:00:00,Rueda de Prensa,Amistoso,Girona,Visitante,2,3,empate,Araujo,Disponible,43.3,Regular
+1123,2024-09-05 00:00:00,Partido,La liga,Sevilla,Local,2,1,victoria,Lamine Yamal,Lesionado,59.4,Bueno
+1124,2024-08-13 00:00:00,Partido,Champions League,Bayern M.,Local,0,3,Victoria,Lamine Yamal,Disponible,66.3,Regular
+1125,2025-01-07 00:00:00,Entrenamiento,Copa del Rey,Bayern M.,visitante,4,1,Victoria,Araujo,Disponible,63.7,Excelente
+1126,2025-02-03 00:00:00,Partido,Champions League,Girona,visitante,3,0,empate,De Jong,Disponible,44.2,Regular
+1127,2025-03-31 00:00:00,Partido,La Liga,Bayern M.,Local,1,3,Derrota,Gavi,Disponible,56.4,Malo
+1128,2024-10-25 00:00:00,Partido,Champions League,Real Madrid,local,3,1,Derrota,Lewandowski,Lesionado,43.2,Regular
+1129,2025-05-11 00:00:00,Partido,La Liga,Real Madrid,Local,3,2,Victoria,Gavi,En Forma,41.4,Bueno
+1130,2024-10-05 00:00:00,Partido,La Liga,Girona,visitante,4,0,Derrota,Pedri,Disponible,59.7,Regular
+1131,2025-01-17 00:00:00,Partido,Champions League,Sevilla,local,3,2,derrota,Gavi,Indisponible,56.1,Regular
+1132,2024-09-14 00:00:00,Entrenamiento,Copa del Rey,PSG,local,3,0,victoria,Araujo,Sancionado,42.5,Excelente
+1133,2024-10-01 00:00:00,Partido,La liga,Atlético Madrid,Local,2,3,victoria,Lewandowski,Disponible,41.0,Regular
+1134,2024-12-12 00:00:00,Partido,Amistoso,PSG,visitante,4,3,Victoria,Gavi,Lesionado,69.7,Bueno
+1135,2025-05-11 00:00:00,Partido,Amistoso,Bayern M.,visitante,0,0,Empate,Lewandowski,Disponible,40.9,Regular
+1136,2024-08-28 00:00:00,Partido,La liga,Atlético Madrid,local,1,0,empate,Lewandowski,Disponible,53.3,Regular
+1137,2024-11-16 00:00:00,Partido,champions league,Girona,Local,3,0,Victoria,Pedri,Lesionado,55.1,Excelente
+1138,2024-09-13 00:00:00,Partido,champions league,Girona,Visitante,1,3,Derrota,Pedri,Disponible,43.5,Malo
+1139,2025-05-13 00:00:00,Partido,La Liga,Sevilla,Visitante,0,1,empate,Araujo,Disponible,45.1,Regular
+1140,2024-12-06 00:00:00,Partido,La Liga,Atlético Madrid,visitante,1,2,Empate,De Jong,Lesionado,50.6,Regular
+1141,2025-03-19 00:00:00,Partido,Copa del Rey,Real Madrid,Visitante,0,2,Derrota,Lamine Yamal,Disponible,62.9,Malo
+1142,2025-02-06 00:00:00,Partido,Supercopa España,Atlético Madrid,visitante,2,3,derrota,Lewandowski,Disponible,55.2,Regular
+1143,2025-03-13 00:00:00,Entrenamiento,Champions League,Bayern M.,visitante,3,2,Derrota,De Jong,En Forma,59.1,Regular
+1144,2025-05-10 00:00:00,Partido,La Liga,Real Madrid,visitante,0,0,derrota,Lamine Yamal,Disponible,69.6,Regular
+1145,2024-11-29 00:00:00,Partido,Amistoso,Girona,Visitante,1,1,empate,Lamine Yamal,Disponible,63.0,Regular
+1146,2024-11-24 00:00:00,Rueda de Prensa,Copa del Rey,Atlético Madrid,visitante,3,2,derrota,Araujo,Lesionado,53.0,Regular
+1147,2025-03-21 00:00:00,Partido,Champions League,PSG,local,2,1,empate,Lamine Yamal,Disponible,53.4,Regular
+1148,2025-04-16 00:00:00,Rueda de Prensa,Copa del Rey,Sevilla,Local,3,0,empate,Lamine Yamal,Disponible,58.6,Regular
+1149,2025-02-14 00:00:00,Partido,Champions League,PSG,Local,0,2,empate,Lewandowski,Indisponible,60.0,Regular
+1150,2024-12-15 00:00:00,Entrenamiento,Champions League,Sevilla,visitante,2,3,empate,Lewandowski,Lesionado,55.0,Regular
+1151,2025-01-12 00:00:00,Partido,La liga,Bayern M.,Local,1,1,empate,Ter Stegen,Disponible,59.3,Regular
+1152,2025-03-13 00:00:00,Entrenamiento,La Liga,PSG,Visitante,2,0,Derrota,De Jong,Lesionado,40.7,Regular
+1153,2025-03-22 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,2,1,empate,Gavi,Sancionado,52.9,Regular
+1154,2025-01-19 00:00:00,Partido,Copa del Rey,Atlético Madrid,Local,4,2,Derrota,Pedri,Disponible,48.4,Regular
+1155,2024-12-30 00:00:00,Partido,La liga,PSG,Visitante,2,2,empate,Gavi,Disponible,43.9,Regular
+1156,2025-01-07 00:00:00,Partido,Amistoso,Atlético Madrid,Local,2,3,derrota,De Jong,Disponible,43.0,Regular
+1157,2024-11-04 00:00:00,Entrenamiento,Amistoso,Bayern M.,Local,3,0,empate,Pedri,Lesionado,58.1,Regular
+1158,2025-03-21 00:00:00,Entrenamiento,champions league,Real Madrid,Local,1,0,Empate,Gavi,Disponible,55.7,Regular
+1159,2025-01-27 00:00:00,Partido,La Liga,Bayern M.,visitante,3,3,empate,Ter Stegen,Disponible,47.6,Regular
+1160,2024-11-21 00:00:00,Entrenamiento,La Liga,Sevilla,Local,3,3,empate,Pedri,En Forma,54.1,Regular
+1161,2024-09-21 00:00:00,Partido,Supercopa España,Bayern M.,visitante,0,0,derrota,Lewandowski,Lesionado,54.8,Regular
+1162,2025-04-25 00:00:00,Partido,La liga,Sevilla,Local,3,1,victoria,Gavi,Disponible,45.9,Bueno
+1163,2025-05-22 00:00:00,Partido,Amistoso,Atlético Madrid,Local,4,1,derrota,Pedri,Disponible,59.6,Regular
+1164,2024-11-21 00:00:00,Entrenamiento,Champions League,Real Madrid,Local,4,3,Empate,Ter Stegen,Disponible,63.4,Regular
+1165,2024-11-09 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,0,1,victoria,Lamine Yamal,Disponible,63.7,Regular
+1166,2024-11-21 00:00:00,Partido,La Liga,Girona,visitante,1,0,Victoria,Pedri,Lesionado,58.1,Bueno
+1167,2024-10-20 00:00:00,Entrenamiento,Copa del Rey,Atlético Madrid,visitante,1,2,Victoria,Pedri,Sancionado,55.3,Regular
+1168,2025-02-03 00:00:00,Partido,Copa del Rey,Sevilla,Local,3,2,Empate,Ter Stegen,Disponible,41.8,Regular
+1169,2024-11-21 00:00:00,Partido,Supercopa España,Atlético Madrid,Local,3,1,derrota,Lamine Yamal,Disponible,48.6,Regular
+1170,2024-08-02 00:00:00,Partido,Amistoso,Atlético Madrid,Visitante,3,3,Derrota,Gavi,Lesionado,42.8,Regular
+1171,2024-12-08 00:00:00,Partido,La Liga,Real Madrid,Visitante,1,3,Empate,Araujo,Disponible,68.9,Regular
+1172,2025-03-08 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,2,3,victoria,Gavi,Disponible,44.1,Regular
+1173,2024-09-23 00:00:00,Partido,La Liga,Real Madrid,visitante,4,3,victoria,Lamine Yamal,Disponible,44.6,Bueno
+1174,2025-03-12 00:00:00,Partido,Champions League,PSG,visitante,2,3,empate,De Jong,Disponible,66.7,Regular
+1175,2025-03-13 00:00:00,Partido,Supercopa España,Girona,visitante,2,1,Victoria,Ter Stegen,En Forma,68.3,Bueno
+1176,2024-12-04 00:00:00,Partido,Champions League,Real Madrid,Local,1,2,victoria,Gavi,Disponible,63.0,Regular
+1177,2024-12-08 00:00:00,Entrenamiento,La Liga,Sevilla,visitante,2,2,Empate,Pedri,Disponible,40.2,Regular
+1178,2024-09-22 00:00:00,Partido,champions league,PSG,local,0,1,victoria,Ter Stegen,Disponible,40.0,Regular
+1179,2025-01-19 00:00:00,Partido,La Liga,Real Madrid,local,3,3,Empate,Lewandowski,Indisponible,51.3,Regular
+1180,2025-03-06 00:00:00,Partido,Amistoso,Real Madrid,Visitante,0,1,Derrota,Lamine Yamal,Disponible,44.3,Regular
+1181,2025-01-07 00:00:00,Partido,Copa del Rey,Girona,visitante,4,2,empate,Gavi,Disponible,40.6,Regular
+1182,2025-02-14 00:00:00,Partido,Copa del Rey,Sevilla,local,3,0,Victoria,Ter Stegen,Disponible,53.9,Excelente
+1183,2025-04-04 00:00:00,Entrenamiento,Champions League,Bayern M.,Visitante,2,1,victoria,Gavi,Disponible,68.3,Bueno
+1184,2025-02-19 00:00:00,Partido,Supercopa España,Bayern M.,visitante,4,3,Empate,Ter Stegen,Disponible,49.7,Regular
+1185,2025-01-31 00:00:00,Partido,champions league,Real Madrid,Local,3,2,derrota,Pedri,Disponible,59.8,Regular
+1186,2024-12-01 00:00:00,Partido,La liga,Atlético Madrid,local,2,2,Victoria,Lewandowski,Disponible,59.6,Regular
+1187,2025-04-12 00:00:00,Partido,Copa del Rey,Sevilla,Local,0,2,Derrota,Lewandowski,Disponible,47.5,Malo
+1188,2025-05-21 00:00:00,Rueda de Prensa,Amistoso,PSG,visitante,3,2,Empate,De Jong,Lesionado,59.5,Regular
+1189,2025-05-07 00:00:00,Partido,Champions League,Atlético Madrid,local,2,3,empate,Ter Stegen,Disponible,46.4,Regular
+1190,2024-11-06 00:00:00,Partido,Champions League,Atlético Madrid,visitante,0,0,empate,Gavi,Disponible,43.7,Regular
+1191,2025-02-14 00:00:00,Partido,La liga,Sevilla,Local,4,2,Derrota,Lewandowski,Disponible,61.0,Regular
+1192,2025-03-28 00:00:00,Partido,Amistoso,Real Madrid,local,4,1,Derrota,Lamine Yamal,Indisponible,43.4,Regular
+1193,2024-12-22 00:00:00,Entrenamiento,Supercopa España,Real Madrid,Local,4,0,empate,Lewandowski,Disponible,69.9,Regular
+1194,2024-11-05 00:00:00,Partido,Amistoso,Real Madrid,visitante,4,2,victoria,Araujo,Sancionado,45.5,Bueno
+1195,2025-02-17 00:00:00,Entrenamiento,Supercopa España,Real Madrid,visitante,1,0,victoria,Araujo,Lesionado,57.8,Bueno
+1196,2024-12-02 00:00:00,Partido,Amistoso,Bayern M.,Local,3,1,Empate,Lewandowski,Disponible,52.3,Regular
+1197,2025-02-03 00:00:00,Entrenamiento,Amistoso,Real Madrid,local,3,2,derrota,Ter Stegen,Indisponible,43.8,Regular
+1198,2025-04-16 00:00:00,Partido,La Liga,Bayern M.,Local,1,1,Empate,De Jong,Disponible,40.8,Regular
+1199,2024-12-26 00:00:00,Partido,Champions League,Bayern M.,visitante,2,3,derrota,Lewandowski,Disponible,58.7,Regular
+1200,2025-04-09 00:00:00,Partido,Amistoso,Real Madrid,Local,2,2,Derrota,Pedri,Lesionado,64.2,Regular
+1201,2024-12-25 00:00:00,Rueda de Prensa,La liga,Girona,visitante,4,2,Victoria,Gavi,Lesionado,65.3,Bueno
+1202,2024-12-26 00:00:00,Entrenamiento,Amistoso,PSG,Local,0,2,Empate,De Jong,Disponible,54.5,Regular
+1203,2025-02-15 00:00:00,Partido,Copa del Rey,Atlético Madrid,local,2,2,Empate,Pedri,Disponible,63.3,Regular
+1204,2024-12-06 00:00:00,Rueda de Prensa,Champions League,Bayern M.,local,0,3,derrota,De Jong,Disponible,60.2,Malo
+1205,2024-09-08 00:00:00,Partido,Copa del Rey,Sevilla,Local,3,2,Derrota,Pedri,Lesionado,61.7,Regular
+1206,2024-12-07 00:00:00,Rueda de Prensa,Champions League,Sevilla,Local,0,0,Derrota,Gavi,Disponible,54.8,Regular
+1207,2025-04-24 00:00:00,Partido,Copa del Rey,PSG,local,3,2,derrota,Gavi,Disponible,59.0,Regular
+1208,2024-12-29 00:00:00,Entrenamiento,Amistoso,Sevilla,visitante,1,3,Derrota,Araujo,Disponible,64.2,Malo
+1209,2025-05-25 00:00:00,Entrenamiento,Amistoso,Girona,local,1,2,empate,Ter Stegen,Disponible,51.9,Regular
+1210,2024-11-07 00:00:00,Entrenamiento,La Liga,Sevilla,visitante,4,0,victoria,Pedri,Sancionado,64.2,Excelente
+1211,2025-04-20 00:00:00,Partido,La liga,Atlético Madrid,Local,2,3,empate,Araujo,Disponible,57.8,Regular
+1212,2025-04-09 00:00:00,Partido,Copa del Rey,Atlético Madrid,Local,4,3,Victoria,Pedri,Indisponible,45.0,Bueno
+1213,2024-12-22 00:00:00,Entrenamiento,Supercopa España,Bayern M.,visitante,3,0,Empate,Araujo,Disponible,40.7,Regular
+1214,2024-11-20 00:00:00,Partido,La Liga,Real Madrid,Local,4,0,Victoria,Gavi,Lesionado,50.9,Excelente
+1215,2024-09-29 00:00:00,Rueda de Prensa,Copa del Rey,Girona,visitante,0,0,Empate,De Jong,Disponible,56.4,Regular
+1216,2024-08-02 00:00:00,Entrenamiento,Copa del Rey,Bayern M.,Visitante,3,0,victoria,Lamine Yamal,Disponible,65.2,Excelente
+1217,2025-04-11 00:00:00,Partido,La Liga,Girona,local,1,0,Derrota,Araujo,Disponible,43.8,Regular
+1218,2024-12-18 00:00:00,Entrenamiento,Amistoso,Real Madrid,Visitante,2,3,empate,Pedri,Disponible,64.0,Regular
+1219,2024-09-06 00:00:00,Partido,Copa del Rey,Sevilla,visitante,3,3,derrota,Pedri,Disponible,65.9,Regular
+1220,2025-01-07 00:00:00,Entrenamiento,Amistoso,Sevilla,local,3,2,empate,Lamine Yamal,Indisponible,44.5,Regular
+1221,2024-08-09 00:00:00,Entrenamiento,La Liga,Real Madrid,visitante,0,2,victoria,Ter Stegen,Lesionado,65.5,Regular
+1222,2025-03-21 00:00:00,Partido,Amistoso,Bayern M.,local,2,1,Victoria,Gavi,Disponible,69.7,Bueno
+1223,2024-11-07 00:00:00,Partido,Champions League,Real Madrid,local,1,2,derrota,Pedri,Disponible,61.8,Regular
+1224,2024-12-25 00:00:00,Rueda de Prensa,Supercopa España,PSG,local,3,2,Derrota,Lewandowski,Disponible,63.5,Regular
+1225,2025-02-24 00:00:00,Partido,champions league,Atlético Madrid,local,3,0,victoria,De Jong,Disponible,69.8,Excelente
+1226,2024-12-09 00:00:00,Partido,Copa del Rey,Bayern M.,visitante,0,0,derrota,Araujo,Lesionado,58.2,Regular
+1227,2024-12-30 00:00:00,Partido,La liga,Girona,local,4,2,victoria,Ter Stegen,En Forma,49.2,Bueno
+1228,2024-09-23 00:00:00,Partido,Supercopa España,PSG,local,1,1,victoria,Lamine Yamal,Disponible,65.1,Regular
+1229,2024-11-28 00:00:00,Partido,champions league,Bayern M.,Visitante,2,0,Derrota,De Jong,Disponible,58.4,Regular
+1230,2025-01-08 00:00:00,Partido,Amistoso,Real Madrid,Local,3,2,Empate,Gavi,Disponible,57.4,Regular
+1231,2024-11-24 00:00:00,Partido,Copa del Rey,Real Madrid,Local,3,2,derrota,Ter Stegen,Lesionado,47.6,Regular
+1232,2024-10-14 00:00:00,Partido,Amistoso,Real Madrid,Visitante,1,3,Derrota,Araujo,Disponible,62.7,Malo
+1233,2024-11-21 00:00:00,Partido,Champions League,Real Madrid,Visitante,4,1,victoria,Araujo,Lesionado,42.5,Excelente
+1234,2024-11-12 00:00:00,Partido,La Liga,Girona,visitante,3,3,Derrota,Lamine Yamal,Lesionado,67.7,Regular
+1235,2025-04-11 00:00:00,Partido,Copa del Rey,PSG,visitante,1,1,Empate,Lewandowski,Disponible,49.8,Regular
+1236,2025-03-15 00:00:00,Partido,champions league,Sevilla,visitante,0,0,empate,Lamine Yamal,Lesionado,43.8,Regular
+1237,2024-11-20 00:00:00,Partido,champions league,Atlético Madrid,Visitante,4,1,derrota,Gavi,Disponible,53.3,Regular
+1238,2024-11-07 00:00:00,Partido,Champions League,Girona,Visitante,2,2,Empate,Ter Stegen,Lesionado,41.3,Regular
+1239,2024-12-31 00:00:00,Entrenamiento,Champions League,Girona,local,3,2,Victoria,Ter Stegen,Disponible,60.5,Bueno
+1240,2025-02-10 00:00:00,Partido,Copa del Rey,Sevilla,visitante,1,1,derrota,Pedri,Disponible,67.1,Regular
+1241,2025-01-10 00:00:00,Entrenamiento,Amistoso,Sevilla,visitante,0,1,Empate,Lewandowski,En Forma,65.1,Regular
+1242,2025-02-24 00:00:00,Entrenamiento,La liga,Atlético Madrid,visitante,2,1,victoria,Lewandowski,Sancionado,43.8,Bueno
+1243,2025-01-16 00:00:00,Partido,champions league,Atlético Madrid,Local,1,3,derrota,Ter Stegen,Lesionado,43.8,Malo
+1244,2025-01-08 00:00:00,Rueda de Prensa,champions league,Sevilla,local,1,1,derrota,Ter Stegen,Disponible,64.4,Regular
+1245,2024-10-07 00:00:00,Rueda de Prensa,Champions League,Real Madrid,visitante,2,0,Derrota,De Jong,Lesionado,67.7,Regular
+1246,2025-05-16 00:00:00,Partido,Supercopa España,Girona,visitante,0,3,victoria,De Jong,Disponible,53.8,Regular
+1247,2025-05-04 00:00:00,Partido,Champions League,Bayern M.,visitante,0,3,Victoria,De Jong,Sancionado,55.0,Regular
+1248,2024-12-13 00:00:00,Rueda de Prensa,La liga,Atlético Madrid,Local,4,1,empate,Lewandowski,Disponible,49.5,Regular
+1249,2025-02-11 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,Local,3,0,Empate,Pedri,Indisponible,66.8,Regular
+1250,2024-12-06 00:00:00,Partido,Amistoso,Sevilla,Visitante,2,3,Derrota,Araujo,En Forma,59.3,Regular
+1251,2024-09-02 00:00:00,Entrenamiento,Supercopa España,PSG,local,2,2,Empate,De Jong,Lesionado,48.6,Regular
+1252,2025-01-23 00:00:00,Entrenamiento,champions league,Bayern M.,Visitante,2,3,Victoria,Pedri,Disponible,49.0,Regular
+1253,2024-08-22 00:00:00,Entrenamiento,Champions League,Bayern M.,local,0,1,Victoria,Lamine Yamal,Disponible,66.7,Regular
+1254,2025-03-26 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,Local,3,0,derrota,Gavi,Sancionado,40.4,Regular
+1255,2025-01-05 00:00:00,Entrenamiento,La liga,Real Madrid,visitante,4,1,Victoria,De Jong,Disponible,49.7,Excelente
+1256,2024-09-07 00:00:00,Partido,Copa del Rey,PSG,Visitante,1,2,Empate,Lamine Yamal,Sancionado,56.6,Regular
+1257,2025-03-18 00:00:00,Partido,La Liga,Bayern M.,visitante,1,2,victoria,Araujo,Disponible,44.4,Regular
+1258,2024-09-20 00:00:00,Partido,La Liga,Atlético Madrid,Visitante,2,2,victoria,Gavi,Disponible,42.8,Regular
+1259,2025-04-21 00:00:00,Rueda de Prensa,La Liga,Bayern M.,Local,3,1,derrota,Gavi,En Forma,64.5,Regular
+1260,2025-05-10 00:00:00,Partido,champions league,PSG,Local,0,3,empate,Araujo,Disponible,66.8,Regular
+1261,2024-08-27 00:00:00,Partido,Champions League,PSG,Local,3,1,Empate,De Jong,Disponible,64.7,Regular
+1262,2025-03-14 00:00:00,Partido,Supercopa España,Girona,Visitante,3,0,Empate,Lewandowski,Disponible,67.0,Regular
+1263,2025-05-04 00:00:00,Partido,Amistoso,Sevilla,local,0,3,Victoria,Araujo,Disponible,56.6,Regular
+1264,2025-05-13 00:00:00,Entrenamiento,Copa del Rey,Sevilla,Visitante,2,2,Empate,Araujo,Lesionado,64.4,Regular
+1265,2024-11-05 00:00:00,Entrenamiento,La liga,Atlético Madrid,local,3,1,Derrota,Araujo,Disponible,51.5,Regular
+1266,2025-05-11 00:00:00,Partido,Copa del Rey,PSG,Visitante,1,2,empate,Gavi,En Forma,60.0,Regular
+1267,2024-12-25 00:00:00,Partido,La liga,Girona,Visitante,0,2,Victoria,Pedri,Sancionado,69.7,Regular
+1268,2024-08-04 00:00:00,Partido,champions league,Girona,Local,4,0,Derrota,Lamine Yamal,Disponible,46.8,Regular
+1269,2024-09-04 00:00:00,Partido,Champions League,Bayern M.,visitante,2,3,derrota,Lewandowski,Lesionado,51.7,Regular
+1270,2025-02-08 00:00:00,Partido,La Liga,Bayern M.,visitante,0,0,victoria,De Jong,Disponible,54.4,Regular
+1271,2024-09-18 00:00:00,Partido,Champions League,Girona,local,4,0,derrota,De Jong,Disponible,44.1,Regular
+1272,2024-08-17 00:00:00,Partido,champions league,Bayern M.,visitante,4,0,victoria,Lamine Yamal,Indisponible,42.4,Excelente
+1273,2025-01-19 00:00:00,Partido,Supercopa España,PSG,Visitante,3,2,derrota,Pedri,Disponible,64.9,Regular
+1274,2025-03-08 00:00:00,Partido,Supercopa España,Real Madrid,Visitante,3,0,Empate,Araujo,Disponible,69.3,Regular
+1275,2025-01-05 00:00:00,Partido,champions league,PSG,Local,3,0,Derrota,Lewandowski,Disponible,52.1,Regular
+1276,2024-09-15 00:00:00,Partido,La liga,Girona,Local,0,3,victoria,De Jong,Disponible,42.6,Regular
+1277,2024-08-06 00:00:00,Partido,Amistoso,Girona,visitante,0,3,Victoria,Lamine Yamal,Disponible,42.0,Regular
+1278,2024-11-07 00:00:00,Entrenamiento,Amistoso,PSG,local,2,0,Derrota,Ter Stegen,Lesionado,66.7,Regular
+1279,2025-03-21 00:00:00,Partido,La liga,Bayern M.,visitante,3,3,Victoria,Lamine Yamal,Disponible,53.9,Regular
+1280,2024-09-06 00:00:00,Partido,Supercopa España,Bayern M.,visitante,4,3,Derrota,De Jong,Disponible,49.6,Regular
+1281,2025-05-07 00:00:00,Entrenamiento,Supercopa España,Sevilla,visitante,1,0,Derrota,Araujo,Disponible,54.3,Regular
+1282,2025-01-28 00:00:00,Partido,Supercopa España,Girona,visitante,2,2,derrota,Ter Stegen,Disponible,49.5,Regular
+1283,2024-11-03 00:00:00,Entrenamiento,Champions League,Atlético Madrid,Visitante,0,0,victoria,Pedri,Disponible,54.7,Regular
+1284,2024-11-07 00:00:00,Partido,Supercopa España,Sevilla,local,2,3,victoria,Lewandowski,Disponible,65.8,Regular
+1285,2025-02-04 00:00:00,Rueda de Prensa,Copa del Rey,Bayern M.,Visitante,2,2,Derrota,Pedri,Disponible,57.8,Regular
+1286,2024-11-24 00:00:00,Entrenamiento,La Liga,PSG,local,2,1,Empate,Pedri,Disponible,60.8,Regular
+1287,2025-02-07 00:00:00,Entrenamiento,Supercopa España,Bayern M.,Local,2,2,Empate,Lamine Yamal,Disponible,50.9,Regular
+1288,2025-04-10 00:00:00,Entrenamiento,La liga,PSG,visitante,1,3,Victoria,Lewandowski,Disponible,62.2,Regular
+1289,2025-01-08 00:00:00,Partido,La Liga,Sevilla,Visitante,3,2,Victoria,Lewandowski,En Forma,60.0,Bueno
+1290,2025-04-13 00:00:00,Partido,Champions League,Girona,local,4,0,derrota,De Jong,En Forma,43.6,Regular
+1291,2024-12-06 00:00:00,Entrenamiento,La liga,Bayern M.,Local,2,1,Derrota,De Jong,Disponible,57.2,Regular
+1292,2024-08-18 00:00:00,Partido,La Liga,PSG,Local,2,1,Victoria,Lewandowski,En Forma,47.7,Bueno
+1293,2025-05-08 00:00:00,Entrenamiento,La liga,Girona,visitante,2,1,Victoria,Ter Stegen,Lesionado,64.1,Bueno
+1294,2025-03-11 00:00:00,Partido,Champions League,Atlético Madrid,local,3,3,empate,Gavi,Disponible,52.8,Regular
+1295,2024-09-23 00:00:00,Partido,Copa del Rey,PSG,Visitante,0,3,Derrota,De Jong,Disponible,69.8,Malo
+1296,2024-09-27 00:00:00,Partido,Champions League,Sevilla,visitante,0,1,derrota,Gavi,Lesionado,42.8,Regular
+1297,2025-01-21 00:00:00,Partido,Champions League,Atlético Madrid,Visitante,1,2,Victoria,Lamine Yamal,Lesionado,63.4,Regular
+1298,2025-05-07 00:00:00,Partido,La liga,Atlético Madrid,Local,0,1,derrota,Ter Stegen,Disponible,60.2,Regular
+1299,2024-11-22 00:00:00,Partido,champions league,Real Madrid,Visitante,2,2,victoria,Lewandowski,Lesionado,63.0,Regular
+1300,2025-05-15 00:00:00,Partido,Amistoso,Bayern M.,Visitante,2,2,derrota,Ter Stegen,Disponible,49.2,Regular
+1301,2024-12-29 00:00:00,Partido,Supercopa España,PSG,visitante,2,3,Empate,De Jong,Lesionado,54.8,Regular
+1302,2024-12-05 00:00:00,Partido,Supercopa España,Atlético Madrid,Visitante,1,2,Empate,Pedri,En Forma,63.9,Regular
+1303,2025-01-02 00:00:00,Entrenamiento,Copa del Rey,Real Madrid,visitante,2,1,derrota,Lamine Yamal,Disponible,47.0,Regular
+1304,2025-04-30 00:00:00,Partido,Copa del Rey,Sevilla,Local,0,3,Empate,Lewandowski,Lesionado,46.8,Regular
+1305,2024-11-12 00:00:00,Partido,Supercopa España,Girona,visitante,3,0,victoria,Araujo,Disponible,56.5,Excelente
+1306,2025-05-26 00:00:00,Partido,Amistoso,PSG,visitante,3,0,Derrota,Lamine Yamal,Lesionado,55.7,Regular
+1307,2025-04-03 00:00:00,Entrenamiento,Supercopa España,Atlético Madrid,local,4,3,Empate,Gavi,Lesionado,48.5,Regular
+1308,2025-01-23 00:00:00,Partido,champions league,Bayern M.,Visitante,0,1,Empate,Ter Stegen,Disponible,48.9,Regular
+1309,2024-09-08 00:00:00,Entrenamiento,Amistoso,Real Madrid,Local,2,0,derrota,Lewandowski,Disponible,48.3,Regular
+1310,2025-01-17 00:00:00,Rueda de Prensa,Copa del Rey,Atlético Madrid,visitante,3,0,victoria,Lamine Yamal,Disponible,63.1,Excelente
+1311,2025-04-04 00:00:00,Partido,La Liga,Bayern M.,Local,0,2,Derrota,Ter Stegen,Lesionado,59.6,Malo
+1312,2024-08-26 00:00:00,Partido,La liga,Atlético Madrid,local,3,2,derrota,Lewandowski,Disponible,65.0,Regular
+1313,2024-08-13 00:00:00,Partido,champions league,PSG,Visitante,2,1,derrota,De Jong,Lesionado,69.3,Regular
+1314,2024-09-05 00:00:00,Partido,champions league,PSG,visitante,3,3,empate,Lamine Yamal,Disponible,54.2,Regular
+1315,2025-01-20 00:00:00,Partido,Copa del Rey,PSG,Visitante,4,1,victoria,De Jong,Disponible,42.0,Excelente
+1316,2024-08-20 00:00:00,Rueda de Prensa,Copa del Rey,Sevilla,local,4,3,Derrota,Lamine Yamal,Disponible,41.4,Regular
+1317,2025-04-21 00:00:00,Partido,Champions League,Sevilla,local,3,0,victoria,De Jong,Sancionado,48.9,Excelente
+1318,2024-12-20 00:00:00,Partido,champions league,Real Madrid,Local,0,2,Derrota,Ter Stegen,En Forma,68.0,Malo
+1319,2024-12-21 00:00:00,Partido,Champions League,PSG,visitante,0,1,victoria,Araujo,Indisponible,55.7,Regular
+1320,2024-10-31 00:00:00,Entrenamiento,Champions League,Bayern M.,Local,0,1,derrota,Lamine Yamal,Lesionado,48.2,Regular
+1321,2025-05-15 00:00:00,Partido,La liga,Atlético Madrid,local,3,3,derrota,Lamine Yamal,Lesionado,52.0,Regular
+1322,2025-03-03 00:00:00,Partido,Champions League,Girona,Visitante,0,3,Victoria,De Jong,Disponible,58.0,Regular
+1323,2024-09-20 00:00:00,Rueda de Prensa,Amistoso,Bayern M.,Local,2,1,Empate,Lewandowski,Disponible,59.6,Regular
+1324,2024-12-31 00:00:00,Entrenamiento,Supercopa España,Sevilla,Local,4,3,empate,Lamine Yamal,Disponible,44.6,Regular
+1325,2025-02-02 00:00:00,Partido,La Liga,Sevilla,Visitante,2,1,victoria,De Jong,Lesionado,69.3,Bueno
+1326,2024-10-02 00:00:00,Partido,Copa del Rey,Bayern M.,Local,0,1,empate,Pedri,En Forma,56.3,Regular
+1327,2025-02-06 00:00:00,Entrenamiento,Amistoso,Sevilla,Visitante,2,1,Victoria,De Jong,Disponible,44.1,Bueno
+1328,2024-12-03 00:00:00,Partido,La Liga,PSG,visitante,0,0,Empate,Ter Stegen,En Forma,66.8,Regular
+1329,2024-12-28 00:00:00,Partido,champions league,Real Madrid,Visitante,3,3,victoria,Araujo,Lesionado,42.2,Regular
+1330,2024-09-27 00:00:00,Partido,champions league,Atlético Madrid,visitante,2,2,Derrota,Pedri,Disponible,67.2,Regular
+1331,2025-01-27 00:00:00,Partido,champions league,Real Madrid,Visitante,3,2,Empate,Ter Stegen,Disponible,69.9,Regular
+1332,2025-01-17 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,local,3,3,derrota,Ter Stegen,Disponible,61.0,Regular
+1333,2025-04-28 00:00:00,Rueda de Prensa,Amistoso,Atlético Madrid,local,1,1,Victoria,Ter Stegen,Disponible,63.1,Regular
+1334,2024-09-23 00:00:00,Partido,Copa del Rey,Real Madrid,visitante,0,2,Empate,Lewandowski,Lesionado,50.1,Regular
+1335,2024-11-09 00:00:00,Partido,Supercopa España,Bayern M.,visitante,4,2,Empate,Ter Stegen,Disponible,68.2,Regular
+1336,2025-04-21 00:00:00,Partido,Champions League,Atlético Madrid,local,0,3,derrota,Lewandowski,Disponible,55.9,Malo
+1337,2024-09-22 00:00:00,Partido,champions league,Real Madrid,visitante,4,2,victoria,Ter Stegen,Sancionado,62.0,Bueno
+1338,2024-09-29 00:00:00,Entrenamiento,La liga,Atlético Madrid,Visitante,0,1,Derrota,Gavi,Lesionado,67.7,Regular
+1339,2024-11-16 00:00:00,Partido,Supercopa España,Girona,Visitante,3,3,derrota,Pedri,En Forma,69.3,Regular
+1340,2024-08-05 00:00:00,Partido,La liga,Bayern M.,local,2,1,Derrota,Gavi,Disponible,65.0,Regular
+1341,2024-11-11 00:00:00,Partido,Copa del Rey,PSG,Local,2,2,victoria,Ter Stegen,Disponible,49.1,Regular
+1342,2025-02-12 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,1,2,Empate,Pedri,Lesionado,69.0,Regular
+1343,2025-04-19 00:00:00,Partido,Copa del Rey,Girona,visitante,4,1,Derrota,Pedri,Disponible,58.8,Regular
+1344,2024-09-16 00:00:00,Entrenamiento,La Liga,PSG,Local,4,0,Victoria,Lamine Yamal,Disponible,67.9,Excelente
+1345,2024-12-22 00:00:00,Partido,La liga,PSG,Local,4,2,Victoria,Araujo,Disponible,60.3,Bueno
+1346,2025-04-26 00:00:00,Entrenamiento,Supercopa España,Atlético Madrid,Visitante,3,0,derrota,Gavi,Disponible,49.2,Regular
+1347,2024-12-02 00:00:00,Partido,Supercopa España,Real Madrid,Visitante,4,2,victoria,Araujo,Disponible,51.1,Bueno
+1348,2024-11-14 00:00:00,Partido,Amistoso,Atlético Madrid,Local,2,0,derrota,Pedri,Disponible,56.5,Regular
+1349,2025-01-05 00:00:00,Partido,Amistoso,Girona,Local,3,0,derrota,Lewandowski,Disponible,63.7,Regular
+1350,2024-12-25 00:00:00,Entrenamiento,champions league,PSG,local,0,0,empate,Pedri,Disponible,49.5,Regular
+1351,2024-12-23 00:00:00,Rueda de Prensa,Amistoso,Atlético Madrid,visitante,4,1,derrota,Araujo,Disponible,57.4,Regular
+1352,2024-11-28 00:00:00,Partido,Copa del Rey,Real Madrid,local,4,0,empate,Gavi,Disponible,50.4,Regular
+1353,2025-05-02 00:00:00,Partido,Supercopa España,Atlético Madrid,Visitante,0,0,Victoria,Ter Stegen,Lesionado,64.5,Regular
+1354,2024-10-31 00:00:00,Rueda de Prensa,La liga,Bayern M.,local,4,0,Victoria,Lamine Yamal,Disponible,54.0,Excelente
+1355,2024-09-27 00:00:00,Partido,Copa del Rey,Real Madrid,local,0,2,derrota,Lamine Yamal,Disponible,42.3,Malo
+1356,2025-03-17 00:00:00,Partido,La Liga,Girona,local,3,0,Victoria,Lamine Yamal,Disponible,45.0,Excelente
+1357,2024-11-25 00:00:00,Rueda de Prensa,Amistoso,PSG,local,2,2,victoria,Ter Stegen,Disponible,41.8,Regular
+1358,2025-05-06 00:00:00,Partido,Copa del Rey,Atlético Madrid,visitante,0,0,empate,Lamine Yamal,Disponible,55.0,Regular
+1359,2024-12-05 00:00:00,Partido,Copa del Rey,Real Madrid,visitante,1,0,empate,Gavi,Disponible,43.2,Regular
+1360,2024-12-07 00:00:00,Partido,La Liga,Bayern M.,Local,0,1,derrota,Ter Stegen,En Forma,43.4,Regular
+1361,2024-09-27 00:00:00,Partido,Champions League,Real Madrid,Visitante,4,2,Victoria,Lamine Yamal,Disponible,68.2,Bueno
+1362,2024-11-30 00:00:00,Partido,Supercopa España,Sevilla,local,3,0,Derrota,Ter Stegen,Disponible,66.2,Regular
+1363,2024-08-01 00:00:00,Entrenamiento,La liga,Bayern M.,Local,3,2,empate,Araujo,Lesionado,53.6,Regular
+1364,2025-03-27 00:00:00,Partido,champions league,Girona,Local,0,2,derrota,Gavi,Disponible,69.6,Malo
+1365,2025-05-17 00:00:00,Partido,Champions League,PSG,Local,2,3,derrota,De Jong,Disponible,40.0,Regular
+1366,2024-11-04 00:00:00,Partido,Amistoso,Girona,visitante,1,1,victoria,Lewandowski,Disponible,58.4,Regular
+1367,2024-12-04 00:00:00,Partido,Copa del Rey,Atlético Madrid,local,3,1,Empate,Lamine Yamal,Lesionado,58.5,Regular
+1368,2024-11-26 00:00:00,Rueda de Prensa,La Liga,Real Madrid,local,4,1,Empate,Lewandowski,Disponible,53.7,Regular
+1369,2024-09-17 00:00:00,Partido,La Liga,Sevilla,Visitante,4,3,empate,Ter Stegen,Disponible,51.9,Regular
+1370,2024-10-28 00:00:00,Partido,Supercopa España,Bayern M.,local,2,3,victoria,Lewandowski,Disponible,53.7,Regular
+1371,2025-03-25 00:00:00,Entrenamiento,Champions League,Bayern M.,local,3,1,victoria,Gavi,Lesionado,52.4,Bueno
+1372,2025-04-29 00:00:00,Partido,champions league,Real Madrid,Local,0,3,victoria,Gavi,Disponible,61.9,Regular
+1373,2025-02-05 00:00:00,Partido,Supercopa España,Sevilla,Visitante,4,3,empate,Pedri,Indisponible,44.1,Regular
+1374,2025-02-08 00:00:00,Partido,Copa del Rey,Real Madrid,local,2,3,Empate,Lamine Yamal,Disponible,45.9,Regular
+1375,2024-10-08 00:00:00,Partido,Supercopa España,Atlético Madrid,visitante,3,1,victoria,Pedri,Indisponible,45.4,Bueno
+1376,2025-05-05 00:00:00,Partido,La liga,Girona,local,3,1,Victoria,Lewandowski,En Forma,47.9,Bueno
+1377,2025-04-04 00:00:00,Partido,La Liga,Bayern M.,Local,3,1,derrota,De Jong,Disponible,55.8,Regular
+1378,2024-10-15 00:00:00,Entrenamiento,La Liga,Atlético Madrid,visitante,3,3,derrota,Pedri,Disponible,43.3,Regular
+1379,2025-01-01 00:00:00,Partido,Amistoso,Girona,Local,3,1,Derrota,Pedri,Disponible,66.0,Regular
+1380,2024-12-22 00:00:00,Partido,Amistoso,Atlético Madrid,local,4,3,Derrota,Gavi,Disponible,48.9,Regular
+1381,2024-10-25 00:00:00,Partido,champions league,Sevilla,visitante,2,0,empate,De Jong,Lesionado,44.9,Regular
+1382,2025-02-01 00:00:00,Partido,Copa del Rey,Bayern M.,Visitante,3,3,empate,Ter Stegen,Disponible,60.3,Regular
+1383,2025-05-12 00:00:00,Entrenamiento,La liga,Real Madrid,Visitante,1,2,derrota,Lewandowski,Disponible,41.1,Regular
+1384,2025-03-08 00:00:00,Partido,Champions League,Real Madrid,visitante,1,1,Victoria,Pedri,Disponible,58.6,Regular
+1385,2024-10-08 00:00:00,Partido,Supercopa España,Girona,visitante,2,1,Empate,De Jong,En Forma,60.9,Regular
+1386,2024-09-16 00:00:00,Entrenamiento,champions league,PSG,Local,0,2,Empate,Lamine Yamal,Disponible,46.4,Regular
+1387,2024-11-02 00:00:00,Partido,Copa del Rey,Sevilla,visitante,0,3,empate,De Jong,Disponible,41.3,Regular
+1388,2025-03-26 00:00:00,Partido,Amistoso,Girona,Local,0,0,Victoria,Lewandowski,Disponible,50.9,Regular
+1389,2025-02-20 00:00:00,Partido,Supercopa España,PSG,local,1,2,empate,De Jong,En Forma,43.0,Regular
+1390,2025-03-06 00:00:00,Partido,Amistoso,Atlético Madrid,Local,0,2,Empate,De Jong,Disponible,43.5,Regular
+1391,2024-09-08 00:00:00,Entrenamiento,Supercopa España,Sevilla,visitante,4,3,empate,De Jong,Disponible,47.6,Regular
+1392,2024-11-08 00:00:00,Partido,Champions League,Atlético Madrid,visitante,3,1,victoria,Lamine Yamal,Disponible,48.9,Bueno
+1393,2025-05-16 00:00:00,Partido,Copa del Rey,Bayern M.,local,1,3,empate,Pedri,Disponible,55.9,Regular
+1394,2025-04-11 00:00:00,Partido,Supercopa España,Sevilla,visitante,2,2,derrota,Lewandowski,Disponible,60.4,Regular
+1395,2025-03-10 00:00:00,Entrenamiento,La liga,PSG,visitante,2,2,empate,Lamine Yamal,En Forma,57.8,Regular
+1396,2024-08-23 00:00:00,Partido,champions league,Bayern M.,Visitante,3,1,derrota,De Jong,Lesionado,44.5,Regular
+1397,2025-04-07 00:00:00,Entrenamiento,La Liga,Real Madrid,Visitante,1,1,Victoria,De Jong,Disponible,45.2,Regular
+1398,2024-08-10 00:00:00,Partido,La liga,PSG,local,0,1,Empate,Pedri,Sancionado,66.4,Regular
+1399,2025-04-03 00:00:00,Entrenamiento,La liga,Girona,Local,0,3,Derrota,Lewandowski,Disponible,56.8,Malo
+1400,2024-11-08 00:00:00,Rueda de Prensa,champions league,Real Madrid,Visitante,4,1,Derrota,Gavi,Lesionado,66.1,Regular
+1401,2025-05-17 00:00:00,Entrenamiento,La Liga,Real Madrid,Local,4,2,Empate,Lamine Yamal,Sancionado,51.1,Regular
+1402,2025-01-27 00:00:00,Entrenamiento,La liga,Girona,visitante,0,2,Derrota,Pedri,Disponible,58.4,Malo
+1403,2025-03-11 00:00:00,Partido,Supercopa España,Sevilla,Visitante,2,0,empate,Lewandowski,Lesionado,55.7,Regular
+1404,2025-04-07 00:00:00,Partido,Supercopa España,Real Madrid,local,2,3,Victoria,Lamine Yamal,Disponible,49.6,Regular
+1405,2024-12-25 00:00:00,Partido,Supercopa España,PSG,local,4,0,Victoria,De Jong,Disponible,54.1,Excelente
+1406,2024-11-04 00:00:00,Partido,La Liga,Bayern M.,local,3,2,Empate,Lewandowski,Disponible,55.1,Regular
+1407,2025-04-14 00:00:00,Partido,La liga,Real Madrid,Visitante,0,0,Derrota,Lewandowski,Disponible,46.0,Regular
+1408,2024-08-04 00:00:00,Partido,La Liga,PSG,Local,4,2,empate,Ter Stegen,Lesionado,49.5,Regular
+1409,2024-08-16 00:00:00,Partido,Supercopa España,Atlético Madrid,visitante,4,0,Victoria,Lewandowski,En Forma,63.7,Excelente
+1410,2025-05-07 00:00:00,Partido,champions league,PSG,Local,0,1,Victoria,Gavi,Disponible,67.5,Regular
+1411,2025-04-04 00:00:00,Entrenamiento,La liga,Bayern M.,Local,0,0,victoria,Lewandowski,Sancionado,50.8,Regular
+1412,2025-04-15 00:00:00,Partido,La liga,PSG,visitante,2,1,victoria,Gavi,Lesionado,49.2,Bueno
+1413,2025-01-07 00:00:00,Entrenamiento,Amistoso,Girona,visitante,3,1,Victoria,De Jong,Disponible,45.9,Bueno
+1414,2024-12-30 00:00:00,Entrenamiento,Amistoso,Bayern M.,Visitante,3,3,Empate,Gavi,Disponible,60.4,Regular
+1415,2025-01-25 00:00:00,Rueda de Prensa,Champions League,Sevilla,Visitante,0,1,derrota,Lamine Yamal,Disponible,49.7,Regular
+1416,2025-01-10 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,1,1,derrota,De Jong,Lesionado,69.6,Regular
+1417,2024-09-02 00:00:00,Entrenamiento,Amistoso,Girona,Visitante,4,0,empate,De Jong,En Forma,49.8,Regular
+1418,2025-01-26 00:00:00,Rueda de Prensa,La Liga,Sevilla,Visitante,4,2,Victoria,Gavi,Disponible,51.8,Bueno
+1419,2024-11-09 00:00:00,Rueda de Prensa,Amistoso,PSG,visitante,0,3,Victoria,Pedri,Lesionado,58.1,Regular
+1420,2025-04-25 00:00:00,Partido,Champions League,Bayern M.,Local,1,1,Victoria,Araujo,Disponible,64.1,Regular
+1421,2024-10-04 00:00:00,Partido,La liga,Atlético Madrid,Visitante,2,3,Empate,Lewandowski,Disponible,54.1,Regular
+1422,2025-01-15 00:00:00,Partido,Champions League,Girona,Visitante,0,0,victoria,Ter Stegen,Disponible,52.7,Regular
+1423,2024-09-12 00:00:00,Partido,La liga,Sevilla,Local,0,1,Victoria,Araujo,Disponible,69.9,Regular
+1424,2024-09-13 00:00:00,Partido,champions league,Sevilla,Visitante,4,0,Victoria,Lewandowski,Disponible,40.3,Excelente
+1425,2025-05-12 00:00:00,Entrenamiento,champions league,Atlético Madrid,Local,0,3,Derrota,Lewandowski,Disponible,66.9,Malo
+1426,2024-08-12 00:00:00,Entrenamiento,La liga,PSG,Local,0,0,Empate,De Jong,Disponible,44.5,Regular
+1427,2024-11-03 00:00:00,Partido,Copa del Rey,Atlético Madrid,visitante,0,3,empate,Lewandowski,Disponible,63.6,Regular
+1428,2025-04-10 00:00:00,Entrenamiento,Amistoso,Sevilla,local,4,0,Victoria,Ter Stegen,Disponible,58.5,Excelente
+1429,2025-03-30 00:00:00,Partido,La Liga,Real Madrid,visitante,2,3,Derrota,Lewandowski,Sancionado,50.3,Regular
+1430,2024-09-04 00:00:00,Entrenamiento,La Liga,Girona,local,2,2,derrota,Gavi,Disponible,66.2,Regular
+1431,2025-03-03 00:00:00,Rueda de Prensa,Supercopa España,Atlético Madrid,local,0,0,empate,Araujo,Lesionado,40.4,Regular
+1432,2024-10-29 00:00:00,Partido,La liga,Sevilla,local,4,0,Victoria,Gavi,Disponible,46.8,Excelente
+1433,2025-04-21 00:00:00,Partido,La Liga,PSG,Visitante,2,2,Victoria,Ter Stegen,Disponible,57.0,Regular
+1434,2024-11-01 00:00:00,Entrenamiento,Copa del Rey,Sevilla,visitante,2,2,Derrota,Lewandowski,En Forma,50.5,Regular
+1435,2024-10-29 00:00:00,Partido,La liga,PSG,local,2,0,Empate,Lamine Yamal,Disponible,58.3,Regular
+1436,2024-11-23 00:00:00,Partido,Copa del Rey,Atlético Madrid,Local,4,2,Victoria,Ter Stegen,Disponible,40.7,Bueno
+1437,2024-11-13 00:00:00,Entrenamiento,La Liga,PSG,Visitante,4,1,derrota,De Jong,Lesionado,43.5,Regular
+1438,2025-02-12 00:00:00,Partido,La Liga,Bayern M.,visitante,0,3,Victoria,Gavi,Disponible,43.8,Regular
+1439,2024-11-22 00:00:00,Entrenamiento,Supercopa España,Bayern M.,local,3,3,derrota,Gavi,Disponible,45.7,Regular
+1440,2024-10-14 00:00:00,Partido,La Liga,Bayern M.,Local,2,3,empate,Pedri,Disponible,53.8,Regular
+1441,2025-03-05 00:00:00,Entrenamiento,La liga,Real Madrid,visitante,3,1,empate,Lewandowski,Disponible,62.6,Regular
+1442,2025-05-04 00:00:00,Partido,champions league,Atlético Madrid,visitante,4,2,victoria,De Jong,Disponible,67.2,Bueno
+1443,2025-04-06 00:00:00,Rueda de Prensa,La liga,Sevilla,Visitante,4,2,victoria,Lamine Yamal,Disponible,65.1,Bueno
+1444,2025-01-11 00:00:00,Entrenamiento,La liga,Sevilla,visitante,4,0,derrota,Gavi,Sancionado,45.9,Regular
+1445,2025-02-08 00:00:00,Partido,Supercopa España,Real Madrid,Visitante,3,2,Empate,Gavi,Lesionado,53.2,Regular
+1446,2025-03-15 00:00:00,Partido,Supercopa España,PSG,local,4,0,Victoria,De Jong,Lesionado,46.0,Excelente
+1447,2025-01-24 00:00:00,Rueda de Prensa,La Liga,Real Madrid,Visitante,0,1,Victoria,Ter Stegen,Disponible,47.9,Regular
+1448,2024-11-07 00:00:00,Partido,Champions League,PSG,Local,4,3,victoria,Ter Stegen,Sancionado,55.1,Bueno
+1449,2024-09-05 00:00:00,Partido,Champions League,PSG,Visitante,1,3,derrota,Lewandowski,Disponible,42.0,Malo
+1450,2024-11-04 00:00:00,Partido,Supercopa España,Girona,Local,3,3,Victoria,Pedri,Sancionado,46.5,Regular
+1451,2024-12-30 00:00:00,Partido,La Liga,Sevilla,Visitante,1,2,Victoria,Gavi,Lesionado,68.1,Regular
+1452,2024-12-29 00:00:00,Entrenamiento,Champions League,Bayern M.,visitante,4,0,Empate,Pedri,Lesionado,54.0,Regular
+1453,2025-02-06 00:00:00,Partido,La Liga,PSG,local,0,0,Derrota,Ter Stegen,Disponible,53.4,Regular
+1454,2025-03-12 00:00:00,Partido,La Liga,Girona,Local,2,1,victoria,Ter Stegen,Disponible,40.4,Bueno
+1455,2024-09-06 00:00:00,Partido,La Liga,Sevilla,Visitante,4,2,victoria,Araujo,Disponible,47.4,Bueno
+1456,2025-04-25 00:00:00,Partido,Amistoso,Bayern M.,Visitante,0,1,Derrota,Lamine Yamal,Lesionado,66.0,Regular
+1457,2025-01-30 00:00:00,Partido,La liga,PSG,Visitante,3,0,Victoria,Lewandowski,Disponible,44.9,Excelente
+1458,2024-08-13 00:00:00,Partido,La Liga,PSG,visitante,1,0,Empate,Araujo,Lesionado,52.5,Regular
+1459,2025-05-06 00:00:00,Rueda de Prensa,Amistoso,Real Madrid,visitante,1,3,Empate,Lamine Yamal,Disponible,40.4,Regular
+1460,2025-03-05 00:00:00,Partido,Supercopa España,Real Madrid,Local,1,2,victoria,Araujo,Disponible,54.4,Regular
+1461,2025-05-13 00:00:00,Partido,Champions League,Sevilla,Local,3,0,Empate,Araujo,Disponible,40.6,Regular
+1462,2025-04-30 00:00:00,Entrenamiento,La liga,Bayern M.,visitante,0,3,empate,Lewandowski,Disponible,64.6,Regular
+1463,2024-10-01 00:00:00,Partido,champions league,PSG,Local,3,2,Derrota,Lewandowski,Disponible,64.7,Regular
+1464,2024-10-23 00:00:00,Entrenamiento,Champions League,Sevilla,local,1,1,Victoria,De Jong,Disponible,63.6,Regular
+1465,2025-03-05 00:00:00,Partido,La liga,Sevilla,local,4,2,empate,Pedri,Indisponible,48.5,Regular
+1466,2025-02-03 00:00:00,Partido,champions league,Atlético Madrid,visitante,2,2,Derrota,Pedri,Disponible,65.1,Regular
+1467,2024-08-19 00:00:00,Partido,Champions League,Real Madrid,Local,3,0,derrota,De Jong,Disponible,56.3,Regular
+1468,2025-01-24 00:00:00,Partido,La liga,Bayern M.,Visitante,3,0,victoria,De Jong,Lesionado,51.2,Excelente
+1469,2024-11-08 00:00:00,Entrenamiento,Champions League,PSG,local,0,2,Empate,Ter Stegen,Sancionado,58.8,Regular
+1470,2025-03-21 00:00:00,Partido,Champions League,Sevilla,visitante,0,0,derrota,Lamine Yamal,Lesionado,40.4,Regular
+1471,2024-10-15 00:00:00,Partido,champions league,PSG,Local,3,0,Empate,Araujo,Disponible,44.3,Regular
+1472,2025-04-22 00:00:00,Partido,Champions League,Atlético Madrid,visitante,1,0,empate,De Jong,Sancionado,62.3,Regular
+1473,2025-05-11 00:00:00,Partido,Champions League,Bayern M.,Visitante,2,3,Victoria,Gavi,Lesionado,47.3,Regular
+1474,2025-02-22 00:00:00,Entrenamiento,champions league,Sevilla,local,0,3,Victoria,Pedri,Disponible,57.9,Regular
+1475,2025-03-11 00:00:00,Partido,Supercopa España,PSG,visitante,1,2,Victoria,De Jong,Disponible,51.6,Regular
+1476,2024-09-21 00:00:00,Partido,La Liga,Real Madrid,visitante,4,0,Empate,Gavi,Disponible,65.6,Regular
+1477,2024-12-22 00:00:00,Partido,Copa del Rey,Atlético Madrid,visitante,0,3,derrota,Gavi,Disponible,68.6,Malo
+1478,2024-10-08 00:00:00,Partido,Amistoso,Bayern M.,Visitante,1,2,Victoria,Gavi,Lesionado,66.5,Regular
+1479,2024-11-07 00:00:00,Entrenamiento,Copa del Rey,Atlético Madrid,visitante,1,0,derrota,Ter Stegen,Disponible,48.1,Regular
+1480,2024-08-25 00:00:00,Partido,Copa del Rey,Real Madrid,Visitante,2,1,Empate,Ter Stegen,En Forma,45.8,Regular
+1481,2024-09-22 00:00:00,Entrenamiento,La liga,Bayern M.,Visitante,2,0,empate,Gavi,Disponible,54.2,Regular
+1482,2024-12-29 00:00:00,Partido,La Liga,Atlético Madrid,Visitante,4,0,derrota,Lamine Yamal,Disponible,40.2,Regular
+1483,2024-12-22 00:00:00,Partido,La liga,Girona,local,1,3,empate,Ter Stegen,Disponible,40.8,Regular
+1484,2024-09-26 00:00:00,Rueda de Prensa,La Liga,Real Madrid,local,1,2,Empate,Araujo,Disponible,56.6,Regular
+1485,2024-09-08 00:00:00,Partido,champions league,Real Madrid,visitante,2,2,Empate,Gavi,Lesionado,55.6,Regular
+1486,2024-11-17 00:00:00,Partido,champions league,Real Madrid,visitante,0,3,victoria,Araujo,Lesionado,69.8,Regular
+1487,2025-01-28 00:00:00,Entrenamiento,La Liga,Girona,local,0,0,Empate,Araujo,Disponible,46.1,Regular
+1488,2024-09-11 00:00:00,Partido,Champions League,Girona,Local,3,1,Empate,Gavi,Disponible,47.7,Regular
+1489,2025-02-02 00:00:00,Entrenamiento,Supercopa España,PSG,local,2,0,Derrota,Pedri,Disponible,43.4,Regular
+1490,2025-03-11 00:00:00,Partido,Champions League,Sevilla,Visitante,3,0,Victoria,Lamine Yamal,Lesionado,67.5,Excelente
+1491,2024-11-30 00:00:00,Rueda de Prensa,Supercopa España,Atlético Madrid,local,2,1,victoria,Gavi,Disponible,63.3,Bueno
+1492,2024-12-11 00:00:00,Entrenamiento,La liga,PSG,Visitante,4,3,victoria,Gavi,Disponible,64.7,Bueno
+1493,2025-01-10 00:00:00,Partido,Supercopa España,Atlético Madrid,visitante,1,2,victoria,Ter Stegen,Disponible,67.1,Regular
+1494,2025-03-03 00:00:00,Rueda de Prensa,La liga,Sevilla,Local,4,3,Derrota,Gavi,En Forma,55.7,Regular
+1495,2025-03-09 00:00:00,Partido,champions league,Girona,visitante,2,3,empate,Pedri,Disponible,53.5,Regular
+1496,2025-03-23 00:00:00,Rueda de Prensa,Copa del Rey,Sevilla,Visitante,1,0,Empate,Ter Stegen,Disponible,49.9,Regular
+1497,2024-12-24 00:00:00,Partido,champions league,Girona,Visitante,0,2,Victoria,Lewandowski,Lesionado,57.7,Regular
+1498,2025-03-27 00:00:00,Partido,champions league,Sevilla,Visitante,0,2,derrota,Lewandowski,Disponible,53.6,Malo
+1499,2024-10-15 00:00:00,Partido,Copa del Rey,PSG,Local,3,3,empate,Araujo,Disponible,53.5,Regular
+1500,2024-08-09 00:00:00,Partido,Supercopa España,Bayern M.,local,2,1,Empate,Lamine Yamal,En Forma,68.1,Regular
+1501,2024-10-13 00:00:00,Partido,Supercopa España,PSG,visitante,2,3,Derrota,Araujo,Lesionado,69.5,Regular
+1502,2025-04-10 00:00:00,Entrenamiento,La liga,Atlético Madrid,visitante,0,1,Empate,Pedri,Disponible,63.9,Regular
+1503,2025-03-18 00:00:00,Entrenamiento,Champions League,PSG,local,4,2,Empate,De Jong,Disponible,62.7,Regular
+1504,2024-08-07 00:00:00,Rueda de Prensa,La liga,Real Madrid,visitante,1,3,Derrota,Lamine Yamal,Disponible,60.4,Malo
+1505,2025-01-21 00:00:00,Partido,Champions League,Atlético Madrid,Local,4,0,victoria,Lewandowski,Lesionado,45.0,Excelente
+1506,2024-12-19 00:00:00,Partido,champions league,Sevilla,visitante,4,3,victoria,Araujo,Disponible,41.8,Bueno
+1507,2025-01-15 00:00:00,Partido,Copa del Rey,Atlético Madrid,Visitante,0,2,Victoria,Lewandowski,Lesionado,60.7,Regular
+1508,2025-01-17 00:00:00,Partido,champions league,Bayern M.,local,0,0,Victoria,Pedri,Disponible,61.9,Regular
+1509,2025-05-10 00:00:00,Partido,La Liga,Girona,Local,0,0,victoria,Pedri,Disponible,41.4,Regular
+1510,2024-11-30 00:00:00,Partido,Supercopa España,Sevilla,local,3,1,empate,De Jong,Lesionado,67.8,Regular
+1511,2025-02-10 00:00:00,Entrenamiento,Champions League,Atlético Madrid,Local,4,0,derrota,De Jong,En Forma,42.7,Regular
+1512,2024-08-05 00:00:00,Partido,La liga,Sevilla,Visitante,2,0,Empate,Ter Stegen,Disponible,48.6,Regular
+1513,2024-08-29 00:00:00,Partido,Copa del Rey,Sevilla,local,1,3,derrota,Lamine Yamal,Disponible,60.2,Malo
+1514,2025-01-12 00:00:00,Partido,Champions League,Sevilla,visitante,3,2,Empate,Pedri,Disponible,45.1,Regular
+1515,2024-12-14 00:00:00,Partido,La liga,Girona,Local,2,1,victoria,Araujo,Sancionado,41.7,Bueno
+1516,2024-12-23 00:00:00,Partido,Supercopa España,PSG,local,4,3,Victoria,Lewandowski,Indisponible,49.9,Bueno
+1517,2025-03-05 00:00:00,Rueda de Prensa,champions league,Sevilla,visitante,0,0,empate,Gavi,Disponible,63.0,Regular
+1518,2024-12-10 00:00:00,Partido,Supercopa España,Real Madrid,local,4,0,Victoria,De Jong,Lesionado,52.4,Excelente
+1519,2025-05-19 00:00:00,Partido,Amistoso,Bayern M.,local,1,1,derrota,Gavi,Disponible,59.6,Regular
+1520,2024-10-09 00:00:00,Partido,La Liga,Girona,local,3,2,Victoria,Araujo,Disponible,57.4,Bueno
+1521,2025-04-09 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,Local,3,1,victoria,De Jong,Disponible,40.7,Bueno
+1522,2025-05-02 00:00:00,Rueda de Prensa,Copa del Rey,Girona,visitante,1,3,empate,Gavi,Disponible,69.7,Regular
+1523,2025-01-29 00:00:00,Entrenamiento,Champions League,Atlético Madrid,Visitante,2,1,derrota,Lamine Yamal,Disponible,41.2,Regular
+1524,2025-01-14 00:00:00,Partido,Copa del Rey,Girona,Local,2,0,empate,Araujo,Disponible,69.0,Regular
+1525,2024-10-30 00:00:00,Partido,champions league,Atlético Madrid,Local,3,3,Empate,Lewandowski,Disponible,56.5,Regular
+1526,2025-02-18 00:00:00,Partido,La liga,Sevilla,Local,3,0,Victoria,Lamine Yamal,En Forma,68.9,Excelente
+1527,2024-08-19 00:00:00,Rueda de Prensa,Supercopa España,PSG,Visitante,0,2,empate,Araujo,Disponible,43.4,Regular
+1528,2024-09-08 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,visitante,2,0,Derrota,Ter Stegen,Disponible,54.7,Regular
+1529,2024-12-04 00:00:00,Partido,Amistoso,Atlético Madrid,visitante,1,0,Victoria,De Jong,Disponible,45.1,Bueno
+1530,2025-01-20 00:00:00,Entrenamiento,champions league,Real Madrid,visitante,2,1,Empate,Pedri,Lesionado,41.5,Regular
+1531,2024-12-19 00:00:00,Entrenamiento,Amistoso,Atlético Madrid,local,0,0,empate,Lewandowski,Disponible,58.5,Regular
+1532,2025-03-30 00:00:00,Partido,champions league,Real Madrid,local,3,3,derrota,Lamine Yamal,Disponible,46.2,Regular
+1533,2025-03-08 00:00:00,Rueda de Prensa,Copa del Rey,Bayern M.,local,3,3,Empate,Lamine Yamal,Indisponible,57.6,Regular
+1534,2024-12-04 00:00:00,Rueda de Prensa,Supercopa España,Sevilla,Visitante,0,2,Derrota,Gavi,Disponible,43.4,Malo
+1535,2024-09-27 00:00:00,Partido,Champions League,Real Madrid,local,1,3,empate,De Jong,Disponible,50.0,Regular
+1536,2024-12-26 00:00:00,Partido,La liga,PSG,Visitante,3,1,victoria,Pedri,Lesionado,63.4,Bueno
+1537,2024-08-01 00:00:00,Partido,Champions League,Sevilla,visitante,4,2,Victoria,Araujo,Disponible,53.1,Bueno
+1538,2025-02-06 00:00:00,Partido,Copa del Rey,Real Madrid,local,3,3,derrota,Pedri,Disponible,58.8,Regular
+1539,2025-02-07 00:00:00,Partido,La liga,Sevilla,local,4,1,victoria,De Jong,Disponible,59.4,Excelente
+1540,2024-11-25 00:00:00,Partido,Amistoso,Sevilla,Local,0,3,empate,De Jong,Disponible,65.3,Regular
+1541,2024-12-12 00:00:00,Rueda de Prensa,La Liga,Sevilla,Visitante,0,3,empate,Ter Stegen,Disponible,49.7,Regular
+1542,2024-09-27 00:00:00,Partido,Copa del Rey,Bayern M.,visitante,3,0,Empate,Ter Stegen,Disponible,60.6,Regular
+1543,2024-09-13 00:00:00,Partido,Copa del Rey,PSG,Local,2,3,empate,Pedri,Disponible,68.8,Regular
+1544,2025-01-20 00:00:00,Partido,Supercopa España,Girona,Local,4,3,derrota,Araujo,Disponible,61.9,Regular
+1545,2025-01-07 00:00:00,Partido,Champions League,Girona,visitante,1,1,victoria,Pedri,Lesionado,54.7,Regular
+1546,2025-01-20 00:00:00,Entrenamiento,Copa del Rey,Real Madrid,Local,3,1,derrota,De Jong,Disponible,58.9,Regular
+1547,2024-12-27 00:00:00,Partido,Copa del Rey,Sevilla,Visitante,1,0,Derrota,De Jong,Disponible,62.2,Regular
+1548,2024-10-19 00:00:00,Partido,Amistoso,Real Madrid,Visitante,3,3,Derrota,Gavi,Sancionado,58.4,Regular
+1549,2025-03-01 00:00:00,Partido,Amistoso,Bayern M.,local,2,0,Victoria,Ter Stegen,Lesionado,40.5,Bueno
+1550,2025-02-19 00:00:00,Entrenamiento,La liga,Bayern M.,Local,2,3,Victoria,Gavi,Disponible,45.8,Regular
