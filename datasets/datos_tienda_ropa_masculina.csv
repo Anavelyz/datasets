@@ -1,0 +1,551 @@
+ID_Venta,Fecha_Venta,Fecha_Ingreso,ID_Cliente,Producto,Categoría,Talla,Color,Precio,Cantidad,Método_Pago,País_Origen,Satisfacción_Cliente,Edad_Cliente,Sexo_Cliente,Puntuación_Cliente
+1,2022-01-01,,72,Pantalón deportivo,Pantalones,?,Azul,80.39,1,Punto de venta,Portugál,Muy satisfecho,39,Otro,5
+2,2022-01-02,2025-12-01 00:00:00.000000000,8,Gorro,Accesorios, Única ,Rojo,30.24,2,etic EBvs enfo,México,Satisfecho,23,Mujer,3
+3,2022-01-03,1999-01-01 00:00:00.000000000,59,Franela estampada,Fránélás,M,Blanco,18.07,0,Efectivo en B,méxico,Muy satisfecho,53,Mujer,5
+4,2022-01-04,2025-12-01 00:00:00.000000000,111,Franela manga larga,Franelas,Talla M,Rojo,10.58,3,Efectivo en divisas,México,Neutral,62,Mujer,3
+5,2022-01-05,2023-03-15 00:00:00.000000000,13,Camisa manga larga,Camisas,XL,Rojo,42.91,2,Efectivo en divisas,España,Satisfecho,53,Mujer,3
+6,1900-01-01,2023-03-15 00:00:00.000000000,16,Camisa casual,Camisas,xl,Marró,24.58,1,Efectivo en divisas,CHINA,Satisfecho,39,Mujer,2
+7,2022-01-07,,9999,Camisa casual,Camisas,xxl,Blanc,59.12,3,Pago móvil,Indi,satisfecho,31,Mujer,5
+8,2022-01-08,,2,ripZtesospvoadtao ,ZAPATOS,37,Negro,87.3,4,Efectivo en divisas,España,Neutral,33,Hombre,5
+9,2022-01-09,,145,FRANELA CUELLO V,Franelas,M,Beige,11.82,3,Efectivo en Bs,Chiná,Satisfecho,53,Mujer,0
+10,2022-01-10,2023-03-15 00:00:00.000000000,30,Franela eztampada,Franelas,L,Azul,20.95,1,Efectivo en divisas,Italia,Satisfecho,42,Mujer,1
+11,2022-01-11,2023-03-15 00:00:00.000000000,103,Camisa formal,Camisas,s,Márrón,55.97,3,Efectivo en Bs,China,Satisfecho,49,Otro,3
+12,2022-01-12,,13,Gorro,Accesorios,N/A,Marrón,28.56,3,Efectivo en Bs,Indiaa,Neutral,50,Hombre,5
+13,2022-01-13,2023-01-01 00:00:00.000000043,96,p aZmlsfsaoetrao,Zapatos,400,Gris,101.68,1,Efectivo en divisas,India,Muy satisfecho,62,Mujer,1
+14,2022-01-14,,94,Pantalón chino,Pantalones,28-30,Beige,79.74,3,Efectivo en divisas,Italia,Insatisfecho,53,Mujer,2
+15,2022-01-15,,82,Camisa formal,Camisas,xxl,Azul,17.98,1,Punto de venta,India,Muy satisfecho,37,Hombre,5
+16,2022-01-16,2025-12-01 00:00:00.000000000,13,Camisa formal,camisas,S,Azul,42.94,1,Pago móvil,Italia,Muy satisfechoo,35,Hombre,5
+17,2022-01-17,2023-07-10 00:00:00.000000000,94,PANTALÓN CHINO,Pantalones,32,Blanco,59.92,4,Efectivo en divisas,China,Muy satisfecho,55,Hombre,1
+18,2022-01-18,,149,Chaqueta bomber,Chaquetas,m/l,Gris,104.32,2,Efectivo en divisas,China,Satisfechoo,20,Hombre,3
+19,2022-01-19,,112,Chaqueta bomber,Chaquetas,s/m,Verde,116.74,2,Transferenciaa,México,Satisfecho,40,Hombre,2
+20,2022-01-20,,55,Pantalón corto,Pantalones,28-30,Marrón,70.27,3,Efectivo en divisas,Italia,Muy satisfecho,49,Mujer,5
+21,2022-01-21,2023-01-01 00:00:00.000000043,81,Franela básica,Franelas,M,Beige,27.49,3,Efectivo en divisas,China,Neutral,62,Mujer,3
+22,2022-01-22,2023-07-10 00:00:00.000000000,116,Camisa manga larga,Camisas, Xs ,Negro,58.79,4,Transferencia,México,Satisfecho,33,Mujer,2
+23,2022-01-23,,143,Pantalón vaquero,Pantalones,36-38,Verde,39.55,4,Efectivo en Bs,China,Satisfecho,22,Mujer,4
+24,2022-01-24,2023-03-15 00:00:00.000000000,108,Pantalón vaquero,Pantalones,Talla única,Rojo,47.43,4,Punto de venta,India,Satisfecho,21,erbHom,99
+25,2022-01-25,1999-01-01 00:00:00.000000000,53,Chaqueta denim,Chaquetas,XXL,Marrón,43.5,1,Efectivo en divisas,China,Neutra,38,Hombre,2
+26,2022-01-26,,128,Zapatos deportivos,Zapatos,36,Verde,78.1,4,Efectivo en divisas,España,Satizfezho,57,Mujer,1
+27,2022-01-27,,57,Camisa manga corta,Camisas,l,Negro,55.24,4,Efectivo en divisas,Italia,Muy satisfechoo,68,Hombre,2
+28,2022-01-28,,52,Chaqueta de cuero,Chaquetas,s/m,Azul,76.31,3,Punto de venta,China,Insatisfecho,31,Hombre,2
+29,2022-01-29,2023-03-15 00:00:00.000000000,137,luleFneo lcV aar,Franelas,XS,Negro,11.85,4,Efectivo en Bs,México,Muy satisfecho,56,Hombre,1
+30,2022-01-30,1999-01-01 00:00:00.000000000,111,Camisa manga larga,Camisas,m,Gris,45.95,1,Efectivo en divisas,India,Muy insatisfecho,48,Hombre,1
+31,2022-01-31,,1,FRANELA MANGA LARGA,Franelas,Tállá S,Rojo,13.14,1,Punto de venta,China,Satisfecho,31,Mujer,3
+32,2022-02-01,,44,Camisa manga corta,Camisas, XS ,Beige,15.12,3,Trueque,China,Muy insatisfecho,23,,3
+33,2022-02-02,2023-07-10 00:00:00.000000000,75,Camisa manga corta,Camisas,XS,Gris,18.8,4,Efectivo en divisas,Narnia,Insatisfechoo,29,Mujer,1
+34,2022-02-03,,98,Botas,Zapatos,00,Gris,48.84,4,Transferencia,China,MUY SATISFECHO,33,Hombre,4
+35,1900-01-01,,9,Cinturón,Accesorios,NAA,Blanco,15.63,1,Efectivo en divisas,India,Satisfecho,34,Mujer,4
+36,2022-02-05,2023-03-15 00:00:00.000000000,32,Sandalias,Zapatos,42,Negro,77.81,4,Transferencia,México,Satisfecho,62,Hombre,2
+37,1900-01-01,2023-03-15 00:00:00.000000000,15,Pantalón zhino,Pantalones,36-38,beige,18.35,4,Punto de venta,India,Neutral,40,Mujer,5
+38,2022-02-07,2023-07-10 00:00:00.000000000,140,Camisa manga corta,Camisas,M,Blanco,47.1,4,punto de venta,China,Satisfecho,31,Hombré,2
+39,2022-02-08,,136,Franela cuello V,Franelas,Talla M,Negro,20.23,2,Efectivo en divisas,China,Satisfecho,24,Hombr,2
+40,2022-02-09,1999-01-01 00:00:00.000000000,72,Chaqueta bomber,Chaquetas,XL,Verde,51.79,3,Pago móvil,China,Satisfecho,63,Mujer,5
+41,1900-01-01,,12,Camisa casual,Camisas,XXL,Rojo,38.97,2,Efectivo en divisas,Indiaa,Neutral,49,Hombre,1
+42,2022-02-11,,65,Chaqueta bomber,Chaquetas,l/xl,Negro,69.62,0,Punto de venta,España,Muy satisfecho,32,Hombre,4
+43,2022-02-12,2023-03-15 00:00:00.000000000,107,Camisa formal,CAMISAS,xxl,Marrón,15.9,1,Efectivo en divisas,China,Satisfecho,61,Hombre,2
+44,2022-02-13,,42,Zapatos formales,Zapatos,36,Gris,49.03,4,Efectivo en divisas,España,Satisfecho,34,Mujer,5
+45,2022-02-14,,115,Pantalón chino,Pantalonez,32-34,Verde,82.88,3,Efeztivo en divizaz,Méxicoo,Neutral,58,Hombre,3
+46,2022-02-15,,139,Franela Manga Larga,Franelas,XS,Verde,23.58,2,Pago móvil,India,Muy satisfecho,64,Mujer,2
+47,2022-02-16,,103,Pantalón deportivo,Pantalones,?,Marrón,249.23,4,Págo móvil,México,Satisfecho,61,Hombre,4
+48,2022-02-17,2023-07-10 00:00:00.000000000,95,Chaqueta bomber,Chaquetas,XL,Rojo,99.08,1,Efectivo en divisas,India,Satisfecho,51,Hombre,1
+49,2022-02-18,,17,Chaqueta denim,Chaquetas,m/l,Blanco,122.0,3,Efectivo en Bs,Italia,Neutral,22,Hombre,2
+50,2022-02-19,,85,Camisa Formal,Camisass,xxl,Azul,20.74,3,Punto de venta,India,Ni idea,62,Mujer,2
+51,2022-02-20,2023-01-01 00:00:00.000000043,56,Bufanda,Accesorios,--,Negro,21.34,3,Efectivo en divisa,India,Neutral,44,Hombre,5
+52,2022-02-21,2023-07-10 00:00:00.000000000,134,Zapatos deportivos,tasZapo,37,Negro,51.99,4,Efectivo en Bs,China,Muy satisfecho,69,Hombre,3
+53,2022-02-22,,86,Botás,aostapZ,41,Negro,84.52,2,Punto de venta,INDIA,Satisfecho,40,Hombre,3
+54,2022-02-23,2023-01-01 00:00:00.000000043,102,Zapatos formales,Zapatos,Talla única,Beige,39.16,2,Efectivo en divisas,China,Neutral,57,Hombre,1
+55,2022-02-24,2023-03-15 00:00:00.000000000,54,Franela estampada,Franelas,Talla S,Verde,14.92,3,Pago móvil,India,Muy satisfecho,31,Hombre,4
+56,2022-02-25,2023-01-01 00:00:00.000000043,115,Sandalias,Zapatos,38-39,Negroo,37.91,1,Efectivo en divisas,China,Neutral,32,Mujer,1
+57,2022-02-26,,139,Camisa casual,Camisas,s,Gris,55.35,1,Efectivo en divisas,Portugal,Muy satisfecho,60,Hombre,2
+58,2022-02-27,2025-12-01 00:00:00.000000000,88,Camisa manga larga,CAMISAS,M,Gris,38.6,2,efectivo en divisas,España,Muy satisfecho,50,Hombre,2
+59,2022-02-28,,49,Camisa manga corta,Camisas,XL,Gris,59.21,1,Punto de venta,India,Ni idea,48,Muje,3
+60,2022-03-01,2023-07-10 00:00:00.000000000,149,Pantalón deportivo,Pantalones,38,Verde,50.86,2,Efectivo en divisas,China,Muy insatisfecho,52,Hombre,4
+61,2022-03-02,2025-12-01 00:00:00.000000000,115,PANTALÓN CORTO,Pantaloness,34,Gris,2.66,0,Punto de venta,México,Muy satisfecho,34,F,5
+62,2022-03-03,2023-07-10 00:00:00.000000000,63,Pantalón chino,Pantalones,28,Blanco,56.9,2,Efectivo en divisas,México,Satisfecho,45,Hombre,4
+63,1900-01-01,,104,Zapatos deportivos,Zapatos,38,Marrón,103.88,2,Transferencia,España,Muy satisfecho,36,Mujer,2
+64,2022-03-05,,83,Pantalón chino,Pantalones,28-30,Gris,55.98,3,Efectivo en divisas,China,Satisfecho,63,Hombr,5
+65,2022-03-06,,103,Pantalón vaquero,Pantalones,36,Blanco,37.16,1,Efectivo en divisas,India,Muy satisfecho,40,Mujer,4
+66,2022-03-07,,17,chaqueta denim,Chaquetas,XXX,Gris,86.8,2,Punto de venta,China,Satisfecho,49,Hombre,4
+67,2022-03-08,,9999,Camisa formal,Camisas,L,AZUL,25.91,2,Efectivo en divisas,China,Satisfecho,57,Mujer,5
+68,2022-03-09,,147,Botas,Zapatos,36,Marrón,84.96,3,Efectivo en Bs,Ezpaña,Insatisfecho,30,Hombre,2
+69,2022-03-10,,28,Camisa manga corta,Camisas,XXL,Multicolor,41.16,1,Transferencia,España,Muy satisfecho,37,Mujer,4
+70,1900-01-01,2023-03-15 00:00:00.000000000,38,Cinturón,Accesorios,N/A,Rojoo,26.65,2,Efectivo en divisas,India,Satisfecho,52,Mujer,5
+71,2022-03-12,2023-03-15 00:00:00.000000000,119,Botas,Zapatos,38,Rojo,34.66,3,Punto de venta,México,Satisfecho,22,Mujer,2
+72,2022-03-13,,37,Camisa casual,Camisas,s,Azul,67.22,2,Efectivo en divisas,India,Muy satisfecho,26,Hombre,5
+73,2022-03-14,,115,Camisa manga larga,Camisas,ll,Azul,59.55,4,Punto de venta,India,Satisfecho,46,Hombre,5
+74,2022-03-15,,68,Zapatos formales,Zapatos,43,Verde,102.89,3,Efectivo en divisas,India,Neutral,23,Hombre,4
+75,2022-03-16,,43,Franela básica,Franelas,Talla M,Gris,23.63,1,efectivo en divisas,Portugal,Satisfecho,42,Hombre,2
+76,2022-03-17,1999-01-01 00:00:00.000000000,58,Franela básica,Franelas,XS,Marrón,21.91,1,Pago móvil,China,Satisfecho,48,Herobm,4
+77,2022-03-18,2023-07-10 00:00:00.000000000,13,Sandalias,Zapatos,41,Rojo,67.07,1,Punto de venta,Portugal,Ni idea,39,Mujer,1
+78,2022-03-19,,52,Camisa casual,Camisas,XS,Gris,53.28,1,Efectivo en divisas,México,Muy insatisfecho,19,Hombre,1
+79,2022-03-20,,58,Pantalón corto,Pantalones,Talla única,Negro,33.08,2,Efectivo en divisas,China,Neutral,62,Hombre,2
+80,2022-03-21,,32,Camisa manga corta,Camisas,XXX,Negro,57.23,2,Transferencia,India,Neutral,22,Mujer,5
+81,2022-03-22,,105,Sandalias,Zapatos,38,Marrón,35.98,1,Efectivo en divisas,México,Satisfecho,44,Mujer,4
+82,2022-03-23,1999-01-01 00:00:00.000000000,83,Franela manga larga,Franelas,Talla S,Marrón,10.96,1,Punto de venta,India,Muy insatisfecho,42,Hombre,4
+83,2022-03-24,,99,Pantalón vaquero,Pantaloness,28-30,Verde,78.82,1,Punto de venta,Portugal,Satisfecho,25,Mujer,2
+84,2022-03-25,,104,Camisa formal,Camisas, S ,Blanco,50.98,2,Efectivo en Bs,Portugal,Muy satisfecho,18,Hombre,2
+85,2022-03-26,,,Pantalón deportivo,Pantalones,36,Marrón,37.12,1,Efectivo en divisas,India,Insatisfecho,37,Mujer,1
+86,2022-03-27,2023-01-01 00:00:00.000000043,129,Pantalón deportivo,Pantalones,36-38,Azul,84.01,1,Punto de venta,India,Satisfecho,61,Mujer,3
+87,2022-03-28,,48,Franela básica,Franelas,XL,Beige,21.77,4,dafvit sevneEicsi o,Portugal,Muy satisfecho,40,Mujer,
+88,2022-03-29,,40,Franela estampada,Franelas,Talla M,Marrón,24.28,4,Efectivo en divisas,Italia,Muy satisfecho,49,Mujer,3
+89,2022-03-30,,97,Sandalias,tsaZopa,S/M,Beige,86.17,1,Pago móvil,China,Satisfecho,28,Hombre,2
+90,2022-03-31,2023-03-15 00:00:00.000000000,114,Chaqueta de cuero,Chaquetas,m/l,Rojo,88.26,3,Efectivo en divisas,Chin,Satisfecho,56,Hombre,5
+91,2022-04-01,2023-03-15 00:00:00.000000000,132,Camisa formal,Camisas,m,Negro,30.99,1,Punto de venta,India,Muy satisfecho,64,Mujer,5
+92,2022-04-02,,137,Franela cuello V,Franelas,Talla M,Beige,20.64,4,Efectivo en divisas,Portugal,hfecasoSit,41,,1
+93,2022-04-03,1999-01-01 00:00:00.000000000,111,Zapatos formales,Zapatos,43,Rojo,50.61,3,Efectivo en divisas,México,Muy satisfecho,28,Mujer,1
+94,2022-04-04,,144,Franela cuello V,Franelas,M,Verde,18.63,3,Efectivo en Bs,italia,Muy insatisfecho,46,Hombre,3
+95,2022-04-05,,76,Botas,Zapatos,42,Azul,95.75,1,Efectivo en divisas,China,Muy satisfecho,43,Hombree,2
+96,2022-04-06,,31,Chaqueta deni,Chaquetas,l/xl,Blanco,58.34,4,Efectivo en divisass,China,Satisfecho,33,Hombre,4
+97,1900-01-01,1999-01-01 00:00:00.000000000,119,Chaqueta bomber,Chaquetas,XXL,Marrón,94.5,4,Efectivo en divisas,México,Satisfecho,52,Hombre,1
+98,2022-04-08,,142,Chaqueta denim,Chaquetas,?,Rojo,103.05,3,Punto de venta,China,Neutral,37,Mujer,4
+99,1900-01-01,,25,Camisa formal,Camisas,XXL,Gris,48.86,1,Efectivo en divisas,China,Satisfecho,63,Mujer,4
+100,2022-04-10,,34,Cámisá formál,Camisa,XL,Beige,50.04,2,Efectivo en divisas,China,Insatisfecho,20,Mujer,2
+101,2022-04-11,2023-07-10 00:00:00.000000000,67,Camisa formal,Camisass, S ,Verde,24.2,2,Efectivo en divisas,Italia,Muy satisfecho,18,Mujer,3
+102,2022-04-12,2025-12-01 00:00:00.000000000,118,Franela estampada,Franelas,S,Verde,19.88,4,Efectivo en Bs,Portugal,Muy satisfecho,64,Mujer,2
+103,1900-01-01,2023-03-15 00:00:00.000000000,73,nanctlhaoPnió ,lsnteaaoPn,XXX,Verde,31.69,2,Efectivo en divisas,China,Neutral,18,Mujer,1
+104,2022-04-14,,26,Chaqueta de cuer,Chaquetas,m/l,Griz,81.67,99,Efectivo en divisass,India,Muy satisfech,34,Hombre,4
+105,2022-04-15,,148,Zapatos formales,Zapatos,43,negro,84.36,4,Efectivo en divisas,Italia,Muy satisfecho,19,Mujer,2
+106,2022-04-16,,104,Pantalón deportivo,Pantalones,28-30,Marrón,34.74,4,Efectivo en Bs,Bangladés,Satizfezho,46,Hombre,2
+107,2022-04-17,2025-12-01 00:00:00.000000000,10,Chaqueta bomber,Chaquetas,XL,Rojo,119.45,2,Efectivo en divisas,China,Satisfecho,37,Hombré,2
+108,2022-04-18,,67,Zapatos deportivos,Zapatos,38-39,Marrón,87.7,4,Punto de venta,India,Neutral,23,Mujer,1
+109,2022-04-19,,5,Pantalón deportivo,pantalones,34,Marrón,60.28,3,Efectivo en divisas,India,neutral,25,Hombre,3
+110,2022-04-20,2023-07-10 00:00:00.000000000,27,Camisa manga larga,Camisas,xl,Blanco,30.56,1,Efectivo En Divisas,México,Neutral,46,Hombre,2
+111,2022-04-21,,113,Pantalón deportivo,Pantalones,36-38,Negro,47.26,1,Punto de venta,India,Muy satisfecho,65,Hombre,1
+112,2022-04-22,2025-12-01 00:00:00.000000000,15, Calsaamsicau,Camisas,s,Marrón,34.06,4,Efectivo en divisa,China,Insatisfecho,68,Hombre,4
+113,2022-04-23,2025-12-01 00:00:00.000000000,105,Zapatos deportivos,Zapatos,38-39,Gris,43.8,1,Transferencia,Italia,Muy satisfechoo,50,Mujer,5
+114,2022-04-24,,44,Zapatos formales,Zapatos,43,Roj,75.53,2,Efectivo en divisass,España,Neutral,20,HOMBRE,1
+115,2022-04-25,,26,Franela básica,Franelas,XS,Verde,10.36,2,EFECTIVO EN DIVISAS,China,Satisfecho,52,Hombr,5
+116,2022-04-26,,95,Sandalias,Zapatos,38-39,Rojo,113.89,1,Efectivo en divisas,México,Muy satisfecho,22,Hombre,2
+117,2022-04-27,,84,Sandalias,ostaZpa,39,Negro,101.11,2,Efectivo en divisas,China,Muy satisfecho,44,Hombre,2
+118,2022-04-28,2023-01-01 00:00:00.000000043,140,Camisa formal,Camisas,S/M,Verde,44.31,1,Punto de venta,India,Neutral,61,Mujer,1
+119,2022-04-29,,132,Zapatos formales,Zapatos,XXX,Verde,63.7,1,Efectivo en divisas,India,Satisfecho,29,Hombre,5
+120,2022-04-30,,87,Chaqueta de cuero,Chaquetaz,s/m,Negro,48.51,1,Transferencia,España,SATISFECHO,37,Mujer,2
+121,2022-05-01,,112,Zapatos deportivos,Zapatos,XXX,Verde,105.64,4,Efectivo en divisas,India,Muy insatisfecho,62,Mujer,4
+122,2022-05-02,,129,Botas,Zapatos,422,Marrón,41.05,1,Efectivo en divisas,Méxizo,neutral,37,,3
+123,2022-05-03,,89,Pantalón vaquero,Pantalones,36,Azul,35.76,4,Efectivo en divisas,España,Satisfecho,26,Mujer,3
+124,2022-05-04,,66,Camisa manga corta,camisas,XXL,Blanco,52.69,1,Efectivo en Bs,Italia,Satisfecho,56,Mujer,2
+125,2022-05-05,2025-12-01 00:00:00.000000000,131,Pantalón vaquero,Pantalones,38,Azul,58.72,1,Efectivo en divisas,España,satisfecho,21,Hombre,5
+126,2022-05-06,,122,Chaqueta invierno,Chaquetas,m/l,Azull,83.89,1,Punto de venta,España,Satisfecho,68,Hombree,2
+127,2022-05-07,2023-07-10 00:00:00.000000000,149,Zapatos formales,Zapatos,0,Verde,60.17,2,Transferencia,China,Satisfecho,36,Hombre,99
+128,2022-05-08,,84,Sandalias,Zapatos,Talla única,Rojo,30.42,4,Efectivo en divisas,India,satisfecho,55,Mujer,4
+129,2022-05-09,,116,Camisa formal,Camisass,999,Marrón,32.92,4,Punto de venta,Portugal,Satisfecho,999,Hombre,5
+130,2022-05-10,2023-01-01 00:00:00.000000043,116,Chaqueta de cuero,Chaquetas,S/M,Verde,141.18,1,Pago móvil,China,Muy satisfecho,62,Hombre,2
+131,2022-05-11,,38,Chaqueta denim,Chaquetas,m/l,Blanco,78.16,1,Transferencia,España,Satisfecho,60,Hombre,4
+132,2022-05-12,1999-01-01 00:00:00.000000000,143,Pantalón zhino,Pantalones,28,Marrón,63.16,2,Efectivo en divisas,Bangladés,Muy satisfecho,30,Hombre,1
+133,1900-01-01,2023-01-01 00:00:00.000000043,110,Camisa manga larga,Camisass,xxl,Beige,56.07,2,Punto de venta,China,Neutral,30,Hombré,3
+134,2022-05-14,2023-07-10 00:00:00.000000000,46,Pantalón chino,Pantalones,28-30,Gris,62.55,2,Efectivo en divisas,ITALIA,Satisfecho,39,Otro,2
+135,2022-05-15,2023-01-01 00:00:00.000000043,25,Sandalias,Zapatos,41,Negro,33.05,4,Pago móvil,Indi,Neutral,45,Hombre,2
+136,2022-05-16,,21,Pantalón vaquero,Pantalones,28,Azul,75.73,4,Pago con puntos,India,Satisfecho,69,Mujer,2
+137,2022-05-17,2025-12-01 00:00:00.000000000,121,Chaqueta bomber,Chaquetas,s/m,Verde,64.21,4,Efectivo en divisas,China,Satisfecho,64,MUJER,4
+138,2022-05-18,1999-01-01 00:00:00.000000000,122,Franela estampada,Franelas,XL,Rojo,20.3,1,Punto de venta,China,Muy satisfecho,62,Hombre,1
+139,2022-05-19,,133,pantalón vaquero,Pantalones,34,Rojo,54.83,4,Efectivo en divisas,Italia,schtIfasioen,39,Hombre,5
+140,2022-05-20,2025-12-01 00:00:00.000000000,70,Bolso,Accesorios,NA,Gris,430.32,3,Pago móvil,México,Satisfecho,60,Hombre,1
+141,2022-05-21,,113,Cinturón,Accesorios,--,Blanco,13.3,3,Pago móvil,ESPAÑA,Satisfecho,36,Hombr,4
+142,2022-05-22,,107,Pantalón deportivo,Pantalones,Talla única,blanco,45.15,2,Punto de venta,India,Insatisfecho,25,Mujer,2
+143,2022-05-23,1999-01-01 00:00:00.000000000,112,Chaqueta denim,Chaquetas,m/l,Gris,86.95,4,Efectivo en divisass,china,Neutral,69,Hombre,3
+144,2022-05-24,1999-01-01 00:00:00.000000000,108,Pantalón corto,Pantalones,32,Blanco,47.71,3,Punto dé véntá,Italia,Neutral,25,Hombre,2
+145,2022-05-25,2023-03-15 00:00:00.000000000,47,Pantalón chino,Pantalones,28,Verde,27.38,2,efectivo en bs,China,neutral,59,Muje,5
+146,2022-05-26,,91,Camisa casual,Camisas,s,Blanco,41.44,4,Efectivo en Bs,Portugal,Neutral,43,Mujer,3
+147,2022-05-27,,18,Franela básica,Franelas,Talla SS,Marrón,24.28,1,Transferencia,Méxic,Neutral,65,Mujer,2
+148,2022-05-28,,149,Chaqueta denim,Chaquetas,M,Rojo,98.79,3,Efectivo En Divisas,España,Neutral,68,Mujer,3
+149,2022-05-29,,104,Camisa formal,Camisas,S,Marrón,37.37,1,Efectivo en divisas,Portugal,Satizfezho,43,Mujer,1
+150,1900-01-01,2025-12-01 00:00:00.000000000,40,Pantalón deportivo,Pántálonés,Talla única,Verde,36.83,4,Pago móvil,China,Satizfezho,40,Hombr,4
+151,2022-05-31,,138,Zapatos formales,Zapatos,42,Azul,115.15,3,Efectivo en divisas,España,Muy satisfecho,60,mujer,2
+152,2022-06-01,2023-01-01 00:00:00.000000043,89,Pantalón Corto,pantalones,36-38,Negro,135.38,4,Efectivo en divisas,India,Satisfecho,30,Hombre,5
+153,2022-06-02,,61,Camisa casuall,Camisas,S,Negro,33.39,1,Pago móvil,Portugal,Muy satisfecho,45,Mujer,1
+154,2022-06-03,,5,Chaqueta bomber,Chaquetas,m/l,Rojo,57.18,3,Efectivo en divisas,China,Muy satisfecho,26,Mujer,2
+155,2022-06-04,2023-03-15 00:00:00.000000000,122,Gorro,Accesorio,N/A,Marrón,34.65,1,Punto de venta,pEñaas,Satizfezho,37,Hombre,1
+156,2022-06-05,2025-12-01 00:00:00.000000000,55,Pantalón vaquero,Pantalones,32-34,Griz,39.43,4,PAGO MÓVIL,México,Satisfecho,36,Mujer,5
+157,2022-06-06,,37,Franela manga larga,Franelas,Talla M,Verde,23.44,4,Pago móvil,China,Muy satisfecho,65,Mujer,2
+158,2022-06-07,2025-12-01 00:00:00.000000000,56,Zapatos formales,Zapatos,43,Negro,39.37,1,Punto de venta,India,Neutral,56,Hombr,5
+159,2022-06-08,,102,Pantalón deportivo,Pantalones,36,Verde,36.61,3,Efectivo en divisas,Españaa,Neutral,68,Mujerr,3
+160,2022-06-09,,93,Franela básica,Franelas,L,Beige,14.76,1,,India,Satisfecho,29,Hombre,5
+161,2022-06-10,1999-01-01 00:00:00.000000000,73,Pantalón chino,Pantalones,32,Negro,40.81,4,Tránsférénciá,China,Satizfezho,32,Mujer,3
+162,2022-06-11,,59,Franela estampada,Franelas,Talla S,Verde,26.6,1,Transferencia,China,Muy insatisfecho,48,Mujér,2
+163,2022-06-12,,2,Franela manga larga,Franelas,L,Rojo,23.36,4,Efectivo en divisas,China,Muy satisfech,31,Mujer,3
+164,2022-06-13,1999-01-01 00:00:00.000000000,104,Chaqueta de cuero,Chaquetas,s/m,Azul,72.25,1,Efectivo en divisas,México,Satisfecho,28,mujer,2
+165,2022-06-14,,51,Camisa manga corta,Camisas,00,Blanco,15.59,3,Efectivo en divisas,Atlántida,Satisfecho,43,Mujer,2
+166,2022-06-15,2023-07-10 00:00:00.000000000,30,Botas,Zapatos,36,Negro,48.71,3,Efectivo en Bs,China,Muy satisfecho,59,Mujer,4
+167,2022-06-16,,11,Pantalón deportivo,Pantalones,32,Rojo,291.52,1,Punto de venta,India,Satisfecho,44,HOMBRE,2
+168,2022-06-17,,108,Camisa manga corta,Camisas,S,Marrón,55.17,1,Efectivo en divisas,India,Muy satisfecho,999,Mujer,3
+169,2022-06-18,,76,Camisa manga larg,Camizaz,XL,Marrónn,30.38,3,Pago móvil,Chin,Satisfecho,55,Hombre,4
+170,2022-06-19,,90,Franela estampada,Franelas,Talla M,Beige,17.59,4,Punto de venta,India,Insatisfecho,51,Mujer,4
+171,2022-06-20,,123,Franela cuello V,Franelas,Talla M,Marrón,15.36,3,Efectivo en divisas,India,Muy satisfecho,60,Hombre,2
+172,2022-06-21,,125,Camisa formal,Camisas,XL,Azul,204.71,4,Punto de venta,India,Satisfecho,36,Hombr,5
+173,2022-06-22,,122,Chaqueta denim,Chaquetas,S,Negro,87.97,1,Efectivo en divisas,España,Muy satisfecho,23,Mujer,5
+174,2022-06-23,1999-01-01 00:00:00.000000000,94,Pantalon corto,Pantalones,S/M,Beige,86.65,1,Efectivo en divisas,China,Muy satisfecho,63,Hombre,4
+175,2022-06-24,,103,Franela estampada,Franelas,L,Beige,12.8,4,Punto de venta,Italia,Muy satisfecho,69,Hombre,2
+176,2022-06-25,,31,Camisa casual,Camisas, S ,Marrón,36.93,1,Transferencia,INDIA,Sátisfécho,55,Hombre,5
+177,2022-06-26,1999-01-01 00:00:00.000000000,52,Franela estampada,Franelas,Talla M,Gris,26.0,4,Transferencia,India,muy satisfecho,66,Hombre,2
+178,2022-06-27,,89,Pantalón vaquero,Pantalones,30,Blanco,26.46,2,Efectivo en divisas,Italia,satisfecho,59,Hombre,2
+179,2022-06-28,,76,Zapatos deportivos,Zapatos,44,Blanco,78.75,3,Efectivo en Bs,India,Satisfechoo,45,bHmoer,4
+180,2022-06-29,2025-12-01 00:00:00.000000000,129,Camisa formal,Camisas,m,Márrón,26.6,2,Punto de venta,México,Muy satisfecho,18,Hombre,4
+181,2022-06-30,1999-01-01 00:00:00.000000000,22,Pantalón chino,Pantalones,38,Negro,79.27,4,Efectivo en divisas,Italia,Néutrál,52,Hombre,1
+182,2022-07-01,,40,Camisa manga corta,Camisas,l,Negr,38.66,3,Efectivo en divisas,India,Satisfecho,57,Meujr,5
+183,2022-07-02,2023-03-15 00:00:00.000000000,101,Zapatos formales,Zapatos,37,Azul,54.51,4,Efectivo en Bs,México,Muy satisfecho,25,Hombre,5
+184,2022-07-03,,111,Botas,Zapatos,41,Verde,112.29,3,Punto de venta,Italia,Satisfecho,69,Mujer,5
+185,2022-07-04,,129,Pantalón vaquero,Pantalones,36-38,Negro,62.47,3,Efectivo en divisas,China,Satisfecho,64,Mujerr,3
+186,2022-07-05,,65,Franela estampada,Franelas,S,Azul,21.08,3,Punto de venta,China,Muy satisfecho,24,Hombre,2
+187,1900-01-01,2023-03-15 00:00:00.000000000,149,Zapatos formales,Zapatos,41,Gris,104.68,3,Pago móvil,China,Satisfecho,28,Mujer,4
+188,2022-07-07,,79,Franela cuello V,Franelas,XL,Verde,10.22,4,Efectivo en Bs,México,Muy satisfecho,56,Mujer,5
+189,2022-07-08,2023-07-10 00:00:00.000000000,22,Chaqueta de cuero,Chaquetas,L,Negro,139.0,3,efectivo en bs,España,Neutral,21,Otro,1
+190,2022-07-09,2023-03-15 00:00:00.000000000,99,Pantalón chino,Pantalones,28-30,Negro,41.3,3,Efectivo en divisas,Portugal,Insatisfecho,42,Mujer,5
+191,2022-07-10,,8,Camisa formal,Camisas,m,Negro,37.24,2,Transferencia,Italia,Neutral,29,Hombre,2
+192,2022-07-11,2023-07-10 00:00:00.000000000,17,Zapatos deportivos,Zapatoz,36,Marrónn,67.69,1,Efectivo en divisas,India,Satisfecho,43,Mujer,2
+193,2022-07-12,,17,Sandalias,Zapatoss,36-37,Azul,67.98,1,Efectivo en divisas,China,Satisfecho,55,MUJER,4
+194,2022-07-13,2023-01-01 00:00:00.000000043,90,Franela estampada,Franelas,L,Verde,29.17,0,Efectivo En Bs,Italia,Muy satisfecho,63,Mujer,3
+195,2022-07-14,,141,Pantalón vaquero,PANTALONES,32,Negro,30.87,2, nnePudv eotta,India,Satisfecho,29,Hombre,4
+196,2022-07-15,,145,Pantalón deportivo,Pantalones,36-38,Verde,29.44,4,Efectivo en divisas,Bangladés,Satisfecho,60,Mujer,5
+197,2022-07-16,,81,Franela cuello V,Franelas,M,Rojo,17.11,4,Punto de venta,China,Muy insatisfecho,68,,1
+198,1900-01-01,,78,Zapatos formales,Zapatos,38-39,Marrón,56.74,4,Pago móvil,India,Satisfecho,54,Hombre,4
+199,2022-07-18,2023-01-01 00:00:00.000000043,6,Botas,Zapatos,41,Blanco,72.84,2,Efectivo en divisas,Italia,Satisfecho,63,Hombre,3
+200,2022-07-19,1999-01-01 00:00:00.000000000,110,botas,Zapatos,43,Blanco,114.31,2,Transferencia,Italia,Muy insatisfecho,41,Hombre,4
+201,2022-07-20,,14,Franela básica,Franelas,XS,Rojo,15.4,3,Efectivo en Bs,India,Neutral,33,Mujer,2
+202,2022-07-21,,72,Camisa manga larga,Camisas,L,Verde,22.29,4,Transferencia,España,Neutral,30,Mujer,5
+203,2022-07-22,2025-12-01 00:00:00.000000000,143,Cámisá mángá cortá,Camisas,xl,Rojo,53.09,999,Punto de venta,China,Muy insatisfecho,42,Mujer,5
+204,2022-07-23,,54,Botás,Zapatos,38-39,Blanco,60.08,4,Transferencia,España,Satisfecho,69,Hombre,5
+205,2022-07-24,2023-07-10 00:00:00.000000000,27,Franela estampada,Franelas,S,Verde,12.13,1,Efectivo en Bs,Italia,Neutral,21,Mujer,5
+206,2022-07-25,,13,Camisa forma,Camisas,s,Rojo,47.77,3,Efectivo en divisas,México,Satisfecho,-5,Hombre,5
+207,2022-07-26,2025-12-01 00:00:00.000000000,60,Camisa formal,Camisas, XS ,Marrón,45.98,4,Efectivo en divisas,México,Muy satisfecho,49,Mujer,5
+208,2022-07-27,,6,Franela estampada,Fránélás,XS,Negro,14.93,4,Trueque,India,Satisfecho,66,Mujer,1
+209,2022-07-28,2023-01-01 00:00:00.000000043,58,Camisa manga larga,Camisas,S,Marrón,50.97,4,efectivo en divisas,China,Muy satisfecho,24,Otro,3
+210,2022-07-29,2023-03-15 00:00:00.000000000,49,Camisa manga corta,Cámisás,M,Marrón,27.25,1,Efectivo en divisas,alsdBgéan,Satisfecho,63,Mujer,5
+211,2022-07-30,2023-03-15 00:00:00.000000000,26,eutnameqihd aC,Chaquetas,Xl,Verde,79.71,1,Efectivo en divisas,India,Satisfecho,28,Mujer,3
+212,2022-07-31,,47,Franela manga largaa,Franelas,M,Negro,28.35,2,Efectivo en divisas,Portugal,Muy satisfecho,45,robHem,5
+213,2022-08-01,,5,Franela básica,Franelas,999,Gris,29.0,3,Transferencia,China,Neutral,58,Mujerr,4
+214,2022-08-02,2023-01-01 00:00:00.000000043,20,Pantalón deportivo,Pantalones,28,Rojo,92.57,99,Efectivo en divisass,Italia,Muy satisfecho,40,Mujer,5
+215,2022-08-03,,134,Franela estampada,Franelas,M,Negro,24.64,3,Efectivo en Bs,México,Muy insatisfecho,62,Mujer,2
+216,2022-08-04,,59,Pantalón vaquero,Pantalones,28,Marrón,329.4,1,ec iv oisvtEiasfdne,Portugal,ftohciSase,40,Hombre,1
+217,2022-08-05,,146,Pantalón chino,Pantalones,38,Beige,88.74,4,Efectivo en Bs,INDIA,Insatisfecho,67,Hombre,4
+218,2022-08-06,2023-07-10 00:00:00.000000000,132,Franela estampada,Franelas,XS,Negro,22.93,2,Pago móvil,España,Satisfecho,45,Hombre,4
+219,2022-08-07,2023-03-15 00:00:00.000000000,17,Franela cuello V,Franelas,S,Marrón,11.03,4,Efectivo en divisas,India,Satisfecho,60,Mujer,2
+220,2022-08-08,2023-03-15 00:00:00.000000000,14,Zapatos deportivos,Zapatos,36-37,Marrón,82.94,2,Punto de venta,China,Satisfecho,64,Hombre,5
+221,2022-08-09,2025-12-01 00:00:00.000000000,13,Franela básica,Franelas,S/M,Marrón,21.12,1,Pago móvil,Italia,Satisfecho,43,Hombre,1
+222,2022-08-10,2025-12-01 00:00:00.000000000,135,Franela estampada,Franelas,S,Rojo,16.26,1,Transferencia,Italia,Satisfecho,42,Hombre,4
+223,2022-08-11,,128,Camisa manga larga,Camisas,XL,Verde,47.9,1,Punto de venta,PORTUGAL,Muy insatisfecho,46,Hombre,1
+224,2022-08-12,,44,Pantalón deportivo,Pantalones,28-30,Blanco,88.12,2,Transferencia,India,Neutral,36,Mujer,4
+225,1900-01-01,1999-01-01 00:00:00.000000000,119,Pantalón deportivo,Pantalones,30,Beige,73.43,3,Pago móvil,China,Muy satisfecho,50,Hombre,5
+226,2022-08-14,,143,Pantalón corto,Pantalones,40,Marrón,227.58,2,Punto de venta,China,Satisfecho,53,Mujer,4
+227,2022-08-15,2025-12-01 00:00:00.000000000,19,Cinturón,Accesorios,UNICA,Marrón,34.0,3,Efectivo en divisas,Indiaa,Muy sátisfécho,31,Mujer,4
+228,2022-08-16,2025-12-01 00:00:00.000000000,63,hióactn nPoanl,Pantalones,28-30,Rojoo,39.95,2,Punto de venta,Indiá,Muy satisfecho,31,Mujer,3
+229,2022-08-17,,81,Sandalias,Zapatos,37,Marrón,109.65,2,Efectivo en divisas,España,Satisfecho,52,Hombre,5
+230,2022-08-18,,147,Franela cuello V,Franelas,S,Vérdé,24.5,1,Punto de venta,India,Satisfecho,47,Otro,2
+231,1900-01-01,,148,Sandalias,Zapatos,42,Marrón,58.38,4,Efectivo en divisas,Portugal,Insatisfecho,45,Mujer,2
+232,2022-08-20,2025-12-01 00:00:00.000000000,0,Chaqueta de cuero,Chaquetas,XL,Rojo,126.98,4,Efectivo en divisas,Bangladés,Insatisfecho,34,Otro,5
+233,2022-08-21,,122,Franela básica,Franelas,XL,Blanco,22.52,3,Efectivo en divisas,taiIla,Muy insatisfecho,20,Mujer,2
+234,2022-08-22,2023-07-10 00:00:00.000000000,-1,Chaqueta Invierno,Chaquetas,XXL,Rojo,107.74,4,Efectivo en Bs,Portugall,Satisfecho,33,Hombre,5
+235,2022-08-23,,104,Camisa casual,CAMISAS,S,Verd,16.1,2,Efectivo en divisas,España,Satisfecho,63,Hombre,2
+236,2022-08-24,1999-01-01 00:00:00.000000000,61,Franela estampada,Franelas,S,Verde,10.43,2,Efectivo en Bs,India,Satisfecho,47,Hombre,3
+237,2022-08-25,2023-01-01 00:00:00.000000043,125,Pantalón deportivo,Pantalones,00,Roj,86.04,1,Efectivo en divisass,China,Satisfecho,69,Mujer,2
+238,2022-08-26,,145,asnaiaggrmaC mla a,Camisas,xl,Rojo,59.91,1,Efectivo en divisas,India,Satisfecho,46,Hombre,4
+239,2022-08-27,2023-01-01 00:00:00.000000043,71,Fránélá mángá lárgá,Franelas,XL,Marrón,25.34,4,Transferencia,India,Satisfecho,62,Hombre,5
+240,2022-08-28,2023-03-15 00:00:00.000000000,107,Camisa formal,Camisas, S ,Rojo,36.59,3,Efectivo en Bs,México,Muy satisfecho,32,Mujer,1
+241,2022-08-29,,50,Zapatos formales,Zapatos,S/M,Negro,135.85,4,Efectivo en divisas,India,Muy insatisfecho,63,Hombre,1
+242,2022-08-30,1999-01-01 00:00:00.000000000,65,Bufanda,Accesorios,999,Gris,9.13,4,Punto de venta,México,Néutrál,42,hombre,5
+243,2022-08-31,,99,Botas,Zapatos,42,Azul,77.03,4,Efectivo En Divisas,Italia,Satisfecho,68,Hombre,3
+244,1900-01-01,1999-01-01 00:00:00.000000000,32,Pantalón vaquero,Pantalones,28,Marrón,32.18,4,Efectivo en Bs,China,Satisfecho,55,Hombre,2
+245,2022-09-02,,141,Camisa casual,Camisas,s,Rojo,27.93,2,Transferencia,Bangladés,satisfecho,59,Hombre,3
+246,2022-09-03,,58,Sandalias,Zapatos,37,Azul,51.02,3,Transferencia,India,Neutral,64,Mujer,1
+247,2022-09-04,,128,Chaqueta de cuero,Chaquetas,l/xl,Gris,41.97,2,Efectivo en divisas,India,Satisfecho,69,Mujer,5
+248,2022-09-05,,142,Gorro,Accesorios,N/A,Verde,24.25,3,Efectivo en divisas,Italia,Neutral,55,Mujer,5
+249,2022-09-06,,112,Bufanda,Accesorios,Única,Beige,35.58,1,Pago móvil,China,Neutral,150,F,3
+250,2022-09-07,1999-01-01 00:00:00.000000000,68,Sandalias,Zapatos,38-39,Azul,115.5,4,Punto de venta,Italia,Satisfecho,42,Mujer,3
+251,2022-09-08,,40,Pantalón vaquero,Pantalones,36,Rojo,30.81,2,Efectivo en divisas,India,Satisfecho,59,Hombre,2
+252,2022-09-09,2023-01-01 00:00:00.000000043,144,Pantalón chino,Pantalones,40,Marrón,82.14,3,Transferencia,India,Mucasofiyeh st,24,Mujer,4
+253,2022-09-10,1999-01-01 00:00:00.000000000,132,Zapatos deportivos,Zapatos,43,Negro,72.07,1,Efectivo en divisas,Bangladés,ichtMuf yeossa,39,Mujer,4
+254,2022-09-11,2023-03-15 00:00:00.000000000,90,Pantalón vaquero,Pantalones,30,Griz,35.86,1,Efectivo en divisas,India,Satisfecho,34,Mujer,2
+255,2022-09-12,2023-07-10 00:00:00.000000000,28,Camisa manga corta,Camisas,L,Beige,25.43,4,Efectivo en divisas,China,Muy satisfecho,35,Mujer,4
+256,2022-09-13,,96,Franela manga larga,Franelas,XL,Gris,22.99,3,Punto de venta,India,Neutral,66,Hombre,1
+257,2022-09-14,,31,Zapatos formales,Zapato,38,Rojo,76.14,2,vevEsadoiicn tfsie ,Portugal,Satisfecho,58,Hombre,4
+258,2022-09-15,,3,Franela estampada,Franelas,M,Plateado,13.53,4,Punto de venta,China,Satisfecho,27,Hombre,2
+259,2022-09-16,1999-01-01 00:00:00.000000000,136,Franela Estampada,Franelas,S/M,Beige,13.73,2,Efectivo en divisas,China,Satisfecho,27,MUJER,4
+260,1900-01-01,2025-12-01 00:00:00.000000000,,Camisa manga larga,Camisas,XXX,Verde,30.76,1,Efectivo en divisas,China,Satisfecho,24,Mujer,5
+261,2022-09-18,,15,Franela básica,Franelas,Talla S,Negro,29.38,2,Efectivo en divisas,China,Neutral,65,Mujer,3
+262,2022-09-19,,45,Bufanda,Accesorios,Única,Azul,46.75,2, toPudaennv te,México,Satisfecho,67,Hombre,1
+263,2022-09-20,,8,Camisa casual,Camisas,XS,Negro,22.83,4,Efectivo en divisas,España,Muy satisfecho,55,Mujer,5
+264,2022-09-21,,71,Chaqueta denim,Chaquetas,L,Verde,123.41,2,Efectivo en Bs,India,Muy satisfecho,44,Hombre,5
+265,2022-09-22,,108,zapatos deportivos,Zapatos,36,Beige,76.96,4,Transferencia,Italia,Satisfecho,69,Hombre,2
+266,2022-09-23,,115,Franela manga larga,Franelaz,M,Multicolor,14.49,1,Efectivo en Bs,India,Satisfecho,50,Hombre,3
+267,2022-09-24,,103,Franela manga larga,Franelas,XL,Beige,20.74,4,Pago móvil,Bangladés,Satisfecho,18,Mujer,3
+268,2022-09-25,,125,Franela básica,Franelas,L,Rojo,21.6,4,Efectivo en Bs,Bangladés,Satisfecho,61,Mujer,1
+269,2022-09-26,,57,Pantalón chino,PANTALONES,32-34,Verde,50.43,3,Punto de venta,India,Insatisfecho,51,Mujer,2
+270,2022-09-27,,30,Pantalón deportivo,Pantalones,32-34,Rojo,27.88,2,Bitcoin,México,Satisfecho,21,Hombre,1
+271,2022-09-28,,146,Zapatos deportivos,Zapatos,40-41,Marrón,33.19,1,Pago móvil,España,Satisfecho,34,Mujer,4
+272,2022-09-29,2023-01-01 00:00:00.000000043,114,Botas,Zapatos,43,Marrón,113.84,4,Efectivo en divisas,India,Muy satisfecho,21,Mujer,5
+273,2022-09-30,1999-01-01 00:00:00.000000000,117,Botas,Zápátos,38-39,Rojo,55.33,1,Efectivo en divisas,China,Satisfecho,60,Hombre,1
+274,2022-10-01,,60,Sandalias,Zapatos,41,Beige,129.88,3,Efectivo en divisas,India,Satisfecho,43,Mujer,5
+275,2022-10-02,,98,Chaqueta de cuero,Chaquetas,l/xl,BLANCO,94.55,2,Efectivo en divisas,España,Satisfecho,21,Mujer,2
+276,2022-10-03,1999-01-01 00:00:00.000000000,126,Chaqueta denim,Chaquetas,XXL,Blanco,64.22,4,Efectivo en divisas,Bangladés,Satisfecho,18,Mujer,4
+277,2022-10-04,,94,Zapatos formales,Zapatos,40-41,Transparente,36.85,2,pago móvil,España,Satisfecho,24,Mujer,2
+278,2022-10-05,2023-03-15 00:00:00.000000000,134,Franela básica,Franelas,S,Gris,19.9,3,Efectivo en divisas,México,Neutral,47,Mujer,4
+279,2022-10-06,,122,Franela manga larga,Franelas,Talla S,Marrón,21.85,3,Punto de venta,Italiaa,Satisfecho,67,Hombre,4
+280,2022-10-07,1999-01-01 00:00:00.000000000,108,Zapatos deportivos,Zapatos,38,Griz,61.3,1,Punto de venta,México,Muy satisfecho,26,Mujer,5
+281,2022-10-08,,4,Zapatos deportivos,Zapatos,43,BLANCO,80.92,4,uvtaodnPe n te,España,Satisfecho,52,Hombre,2
+282,2022-10-09,2023-07-10 00:00:00.000000000,93,Pantalón vaquero,Pantalones,28,Negro,82.11,1,Efeztivo en divizaz,Indiaa,neutral,25,Hombre,2
+283,2022-10-10,,6,Pantalón deportivo,Pantalones,999,Marrón,40.94,3,Efectivo en divisas,India,Satisfecho,41,Hombre,1
+284,2022-10-11,,32,Camisa manga larga,CAMISAS,xl,Beigee,22.22,2,Punto de venta,México,Muy satisfecho,36,Mujer,2
+285,2022-10-12,2025-12-01 00:00:00.000000000,106,Franela básica,Franelas,M,Rojo,14.77,1,Pago móvil,China,Insatisfecho,0,Mujerr,1
+286,2022-10-13,,146,Camisa formal,Camisas,l,Rojo,19.76,1,Efectivo en divisas,Atlántida,MUY SATISFECHO,67,Hombre,3
+287,2022-10-14,,15,Chaqueta bomber,Chaquetas,s/m,Negro,60.81,2,efectivo en divisas,China,,69,Mujer,3
+288,2022-10-15,,122,Chaqueta de cuero,Chaquetas,S/M,Beige,145.74,1,Efectivo en divisass,India,Satisfecho,60,Mujer,3
+289,2022-10-16,,96,Pantalón vaquero,Pantalones,32,Multicolor,82.14,2,Pago móvil,México,Super!!!,44,Hombre,2
+290,2022-10-17,,6,Franela estampada,Franelas,S,Rojo,26.4,4,Efectivo en divisas,China,Muy satisfecho,49,Hombre,2
+291,2022-10-18,2023-07-10 00:00:00.000000000,112,Camisa forma,Camisas, S ,Azul,55.89,-1,Efectivo en divisas,China,Muy satisfecho,31,ejuMr,1
+292,1900-01-01,2023-07-10 00:00:00.000000000,120,Camisa casual,Camisas,L,Beige,40.03,4,Transferencia,India,Satisfecho,35,Hombré,4
+293,2022-10-20,,123,Zapatos formales,Zapatos,40-41,Verde,30.57,2,Efectivo en Bs,México,Neutral,45,Mujer,1
+294,2022-10-21,1999-01-01 00:00:00.000000000,67,Pantalón corto,Pantalones,28,Rojo,61.39,3,Efectivo en Bs,China,Neutral,150,HOMBRE,3
+295,2022-10-22,,106,Camisa manga corta,Camisas,S,Gris,43.53,3,Punto de venta,Portugal,Satisfecho,33,mujer,1
+296,2022-10-23,,139,Cháquétá inviérno,sehqautCa,XX,Azul,125.78,4,Págo móvil,China,Neutral,52,Mujer,4
+297,2022-10-24,,43,Zapatos deportivos,Zapatos,38,Beige,98.49,4,Efectivo en divisas,Narnia,Satisfecho,64,Mujer,
+298,2022-10-25,,145,Pantalón chino,Pantalones,32-34,Negro,87.59,0,Efectivo en divisas,Bangladés,Muy satisfechoo,48,Mujer,1
+299,2022-10-26,,96,Franela cuello V,Franelas,L,Azul,22.65,4,Efectivo en divisas,India,Muy satisfecho,21,Mujer,3
+300,2022-10-27,,132,Camisa casual,Camisas,XL,Rojo,19.61,2,Efectivo en divisas,India,Satisfecho,54,Mujer,3
+301,2022-10-28,,81,Camisa manga corta,Camisas,L,Beige,45.95,2,Punto de venta,India,Muy satisfecho,34,Mujer,2
+302,2022-10-29,,41,Chaqueta denim,Chaquetas,XL,Blanco,73.11,3,Efectivo en divisas,Italia,muy satisfecho,56,Hombre,1
+303,2022-10-30,1999-01-01 00:00:00.000000000,133,Chaqueta de cuero,Chaquetas,XL,Blanco,47.41,1,Efectivo en divisas,China,Satisfecho,65,Mujer,4
+304,2022-10-31,2023-01-01 00:00:00.000000043,35,Franela estampada,Franelas,Talla S,Blanzo,16.92,2,Pago con puntos,China,Neutral,63,Hombre,2
+305,2022-11-01,,22,Franela estampada,Franelas,M,Negro,426.21,4,Efectivo en divisas,China,Satisfechoo,43,Mujer,6
+306,2022-11-02,,112,Gorro,Accesorios,N/A,Beige,48.6,1,EFECTIVO EN DIVISAS,India,Satisfecho,65,Hombre,5
+307,2022-11-03,,11,Chaqueta invierno,Cháquétás,L,Beigee,54.31,1,Transferencia,China,Satisfecho,56,Mujer,3
+308,2022-11-04,,3,Pantalón vaquero,Pantalones,40,Beige,29.27,2,Efectivo en Bs,Italia,Satisfecho,58,Hombre,4
+309,2022-11-05,,137,Zapatos formales,Zapatos,41,N/A,63.47,2,Transferencia,Wakanda,Insatisfech,21,Mujer,4
+310,2022-11-06,,60,Pantalon corto,Pantalones,32,Blanco,41.41,1,Transferencia,India,Satisfecho,47,Mujer,4
+311,1900-01-01,2023-03-15 00:00:00.000000000,76,Chaqueta bomber,Chaquetas,M,Verde,57.48,1,Efectivo en divisas,India,Muy satisfecho,47,Hombre,3
+312,2022-11-08,2023-01-01 00:00:00.000000043,87,CAMISA CASUAL,Camisas, XS ,Marrón,57.49,3,EFECTIVO EN DIVISAS,India,Shfocietas,39,Mujer,1
+313,2022-11-09,,14,Camisa manga larga,camisas, XS ,Gris,53.44,4,Efectivo en divisas,México,Muy satisfecho,28,Hombre,2
+314,2022-11-10,,18,Cinturón,Accesorios,N/A,Negro,42.17,3,iiicvvo asneEd fest,Portugal,Muy satisfecho,19,Mujer,99
+315,2022-11-11,,113,Botas,Zapatos,39,Márrón,105.6,2,Efectivo en divisas,México,Muy satisfecho,61,Mujer,2
+316,2022-11-12,,73,Franela cuello V,FRANELAS,Talla S,Rojo,14.6,3,Efectivo En Bs,Bangladés,123,29,Hombre,4
+317,2022-11-13,,23,Chaqueta bomber,Chaquetas,L,Azul,135.49,3,Efectivo en divisas,China,Muy satisfechoo,47,Otro,1
+318,2022-11-14,1999-01-01 00:00:00.000000000,83,Camisa casual,Camisas,xxl,Verde,16.41,3,Transferencia,México,Satisfecho,53,Hombre,4
+319,2022-11-15,,125,Camisa formal,Camisas,XL,Gris,454.76,3,Efectivo en divisas,España,Muy insatisfecho,35,Hombre,5
+320,2022-11-16,,69,Pantalón vaquero,Pantalones,34,Gris,50.84,4,Transferencia,China,Satisfecho,43,MUJER,4
+321,2022-11-17,,47,Chaqueta de cuero,Chaquetas,Xxl,Gsir,491.99,4,Efectivo en divisas,Banglades,Satisfechoo,24,Hombre,4
+322,2022-11-18,2023-07-10 00:00:00.000000000,116,Franela básicaa,seraalnF,00,Marrón,27.88,1,Transferencia,China,Neutrall,18,Otro,2
+323,2022-11-19,,30,ucaeVle rlo nFal,Franelas,S,Azul,14.26,2,Efectivo en divisas,Italia,Neutral,43,Otro,5
+324,2022-11-20,,25,Pantalón Corto,Pantalones,28,Verde,67.36,3,Efectivo en Bs,China,Muy satisfecho,40,Hombre,4
+325,2022-11-21,,112,Bolso,Accesorios,UNICA,Marrón,43.9,1,Punto de ventaa,India,Muy satisfecho,43,mujer,4
+326,2022-11-22,2025-12-01 00:00:00.000000000,25,Franela manga larga,Franelas,M,Marron,29.36,1,Efectivo en Bs,España,Muy satisfecho,62,Hombre,5
+327,2022-11-23,,74,Franela estampada,Franelas,XS,Gris,27.37,1,Efectivo en divisas,India,Satisfecho,23,Hombre,5
+328,2022-11-24,,58,Franela básica,Franelas,Talla M,Gris,19.07,4,Pago móvil,India,Muy insatisfecho,23,Hombre,1
+329,2022-11-25,1999-01-01 00:00:00.000000000,94,Chaqueta denim,Chaquetas,XL,Gris,41.96,3,Efectivo en divisas,Indiá,Inzatizfezho,61,Hombre,2
+330,2022-11-26,,119,Pántálón váquéro,Pantalones,36,Azul,84.27,3,Efectivo en divisas,México,Neutral,25,Hombre,5
+331,2022-11-27,2023-01-01 00:00:00.000000043,127,Pantalón chino,Pantaloness,32,Rojoo,37.05,2,Punto de venta,China,Muy insatisfechoo,41,Hombre,5
+332,2022-11-28,,25,Botas,Zapato,44,Gris,30.11,3,Transferencia,India,Muy insatisfecho,39,Otro,3
+333,2022-11-29,,78,Camisa manga larga,Camisas,XS,Négro,42.33,3,Punto de venta,Portugal,Muy satisfecho,36,Mujer,5
+334,2022-11-30,,99,CAMISA MANGA CORTA,Camisas,L,Azul,40.13,1,Efectivo en divisas,México,Sátisfécho,54,Mujer,2
+335,2022-12-01,2023-07-10 00:00:00.000000000,116,Camisa manga corta,Camisas,talla única,Verde,22.24,2,Punto de venta,India,Neutral,35,Mujer,4
+336,2022-12-02,,48,Camisa casual,Camisas,XXL,Beige,29.67,3,Efectivo en divisas,España,Insatisfecho,48,Mujer,4
+337,2022-12-03,,10,Zapatos deportivos,Zapatos,43,Negro,68.99,4,Punto de venta,México,Satisfecho,54,Hombre,4
+338,2022-12-04,2023-03-15 00:00:00.000000000,99,Franela manga larga,Franelas,XL,Azul,12.99,3,Pago móvil,México,Muy insatisfecho,47,Mujer,4
+339,2022-12-05,,11,Chaqueta de cuero,Chaquetas,M,Negro,114.85,1,Punto de venta,India,Muy satisfecho,59,Otro,3
+340,2022-12-06,,85,Camisa casual,Camisas, S ,Beige,58.86,4,Transferencia,China,Satisfecho,50,M,5
+341,1900-01-01,,149,Chaqueta denim,Chaquetas,l/xl,Beige,112.27,1,Efectivo en Bs,china,Satisfecho,27,Mujer,4
+342,2022-12-08,1999-01-01 00:00:00.000000000,135,Chaqueta de cuero,Chaquetas,S,Blanco,144.79,3,punto de venta,China,Satisfecho,54,Mujer,1
+343,2022-12-09,2025-12-01 00:00:00.000000000,126,Camisa formal,Camisas,s,Azul,47.59,4,Transferencia,India,Insatisfecho,29,Mujer,4
+344,2022-12-10,,64,Chaqueta bomber,Chaquetass,l/xl,Verde,56.05,2,Efectivo en Bs,China,Satisfecho,47,Mujer,5
+345,2022-12-11,,0,Pantalón corto,Pantalones,32-34,Azul,62.11,2,Transferencia,Italia,Satisfecho,44,Hombre,4
+346,2022-12-12,2025-12-01 00:00:00.000000000,76,Franela cuello V,Franelas,Talla S,GRIS,22.36,4,Efectivo en divisas,India,Satisfecho,56,Hombree,3
+347,2022-12-13,,0,Franela manga larga,Franelas,XS,Verde,21.19,4,Punto de venta,China,Insatisfecho,26,Hombre,2
+348,2022-12-14,2025-12-01 00:00:00.000000000,42,Camisa manga corta,Camisas,s/m,Marrón,29.69,1,Transferencia,México,Sátisfécho,38,mujer,2
+349,2022-12-15,,54,Pantalón chino,Pantalones,2,Beige,30.71,4,Punto de venta,India,Satisfecho,29,Hombre,5
+350,2022-12-16,,75,Franela básica,Franelas,Talla única,Rojo,10.66,1,Efectivo en Bs,China,Muy sátisfécho,46,Mujer,2
+351,2022-12-17,1999-01-01 00:00:00.000000000,16,Chaqueta invierno,uaesahCtq,M,Rojoo,83.66,3,Efectivo en divisas,Méxizo,Satisfecho,50,Hombré,2
+352,2022-12-18,2023-07-10 00:00:00.000000000,18,Zapatos deportivos,Zapatos,41,Azul,283.77,1,Efectivo en divisas,China,Satisfecho,60,Hombre,1
+353,2022-12-19,,90,Franela estampada,Franelas,S,Beige,26.01,4,Pago móvil,España,Satisfecho,32,Mujer,5
+354,2022-12-20,,144,Camisa casual,Camisas,l,Rojo,22.54,4,Efectivo en divisas,España,Satisfecho,19,Mujer,5
+355,2022-12-21,2023-07-10 00:00:00.000000000,6,Camisa formal,Camisas,s,Rojo,43.64,3,Efectivo en divisas,India,sShtacoefi,69,Hombre,2
+356,2022-12-22,2023-01-01 00:00:00.000000043,108,Franela cuello V,Franelas,m,Marrón,10.63,4,Punto de venta,México,Satisfecho,56,Hombre,2
+357,2022-12-23,2023-01-01 00:00:00.000000043,48,Camisa casual,Camisas,m,Rojo,17.34,4,EFECTIVO EN DIVISAS,India,Satisfecho,61,M,2
+358,2022-12-24,2023-01-01 00:00:00.000000043,42,Franela manga larga,Franelas,XS,Azul,24.18,2,Punto de venta,India,Muy satisfecho,35,Hombre,3
+359,2022-12-25,,76,Sandalias,Zapatos,43,Azul,94.27,2,Punto de venta,China,Satisfecho,20,HOMBRE,4
+360,2022-12-26,2023-01-01 00:00:00.000000043,77,Franela estampada,Franela,L,Marrón,16.79,3,Transferencia,China,Muy satisfecho,24,Mujer,3
+361,2022-12-27,1999-01-01 00:00:00.000000000,132,Pantalón deportivo,Pantalones,40,Dorado,330.41,1,Efectivo en divisas,Portugal,Satisfecho,60,Mujer,5
+362,2022-12-28,2023-07-10 00:00:00.000000000,130,Franela manga larga,franelas,L,Azul,21.95,2,Efectivo en divisas,India,Muy satisfecho,35,Hombre,1
+363,2022-12-29,,59,Chaqueta denim,Chaquetas,M,Negro,92.9,1,Efectivo en divisass,India,Muy sátisfécho,61,Mujer,4
+364,2022-12-30,2023-03-15 00:00:00.000000000,27,Chaqueta bomber,Chaquetas,S,Gris,58.04,4,Efectivo en divisas,India,Satisfecho,55,Otro,1
+365,2022-12-31,,79,Zapatos deportivos,Zapatos,38-39,Gris,362.42,2,Efectivo en divisas,India,Muy Satisfecho,54,Mujer,5
+366,2023-01-01,,72,Pantalón corto,Pantalones,40,oojR,67.27,3,Efectivo en divisas,China,Insatisfecho,50,Mujer,5
+367,2023-01-02,,7,Bufanda,Accesorios,--,Negro,32.71,3,Punto de venta,India,Muy satisfecho,61,Mujer,1
+368,2023-01-03,,111,Botas,Zapatos,42,Azul,72.32,3,Punto de venta,España,Satisfecho,48,Otro,1
+369,2023-01-04,,119,oi laaasmfmrC,Camisas,s,Blanco,54.23,2,Efectivo en divisas,China,Insatisfecho,28,Mujer,1
+370,2023-01-05,,63,Camisa formal,Camisas,xs,Blanco,16.96,1,Transferencia,China,Satizfezho,21,Hombre,5
+371,2023-01-06,2023-01-01 00:00:00.000000043,124,Camisa manga corta,Camisas,S,Azul,15.94,4,Pago móvil,China,Muy satisfecho,35,Mujer,2
+372,2023-01-07,,12,Camisa manga larga,Camisas,XXL,Azul,29.95,1,Transferencia,India,Insatisfecho,21,Mujer,1
+373,2023-01-08,,141,Camisa manga corta,Camisas,999,Rojoo,37.2,1,Punto de venta,México,Satisfecho,66,Hombree,4
+374,2023-01-09,2023-03-15 00:00:00.000000000,43,Franela manga larga,Franelas,999,Rojo,18.07,4,Efectivo en divisas,China,Satisfecho,51,Hombre,5
+375,2023-01-10,,17,Camisa formal,Camisas, XS ,Azul,33.83,0,Efectivo en divisas,China,Muy satisfecho,46,MUJER,3
+376,1900-01-01,,63,Pantalón deportivo,Pantalones,28,Verde,420.23,2,Efectivo en Bs,India,Satisfecho,41,Mujer,3
+377,2023-01-12,2023-07-10 00:00:00.000000000,120,Zapatos formales,Zapatos,40,Gris,95.45,2,Trueque,España,Neutral,39,Hombre,4
+378,2023-01-13,,36,Camisa formal,Camisa,?,Gris,34.15,2,Pago móvil,Italia,Muy insatisfecho,19,Mujer,2
+379,2023-01-14,,8,Sandalias,Zapatos,40-411,Marrón,63.39,2,Transferenci,India,Satisfecho,61,Hombre,1
+380,2023-01-15,2023-01-01 00:00:00.000000043,69,Pantalón corto,Pantalones,28-30,Marrón,60.31,2,Efectivo en divisas,España,Satisfecho,23,Hombre,5
+381,2023-01-16,2023-03-15 00:00:00.000000000,90,Camisa manga larga,Camisass,m,Blanco,34.74,4,Efectivo en divisas,Italia,Muy satisfecho,59,Mujer,1
+382,2023-01-17,,36,Franela básica,rFesaanl,S,Rojo,19.73,1,Transferenciaa,México,Insatisfecho,42,Hombre,5
+383,2023-01-18,,28,Franela estampada,Franelas,Talla M,Verde,28.01,2,Efectivo en Bs,México,Satisfecho,38,Hombre,3
+384,2023-01-19,2025-12-01 00:00:00.000000000,118,Zapatos deportivos,Zapatos,422,N/A,54.91,2,Efectivo en divisas,Chiná,Muy insatisfecho,33,Otro,1
+385,2023-01-20,,93,Franela cuello V,Franelas,S,Azul,28.25,1,Transferencia,China,Neutral,48,Hombre,4
+386,2023-01-21,2023-01-01 00:00:00.000000043,76,Sandalias,Zapatos,38,Blanco,86.07,2,Efectivo en divisas,China,Satisfecho,31,Hombre,2
+387,2023-01-22,,101,Pantalón corto,Pantalones,36,Rojo,72.65,1,Efectivo en Bs,India,Satisfecho,56,Otro,4
+388,2023-01-23,2023-03-15 00:00:00.000000000,144,Camisa manga larga,Camisas,l,Blanco,47.21,1,Efectivo en divisas,Bangladés,Satisfecho,45,Mujer,2
+389,2023-01-24,2023-07-10 00:00:00.000000000,14,Sandalias,Zapatos,42,Azul,86.93,999,TRANSFERENCIA,India,MUY SATISFECHO,49,Mujer,1
+390,2023-01-25,,71,Zapatos deportivos,Zapatos,00,Marrón,46.29,3,Efectivo en divisas,China,Satisfecho,45,Mujer,1
+391,2023-01-26,1999-01-01 00:00:00.000000000,124,Bufándá,Accesorios,XXX,Negro,27.15,4,eiaisEivvtco desn f,España,Muy satisfecho,68,Hombre,2
+392,2023-01-27,2023-03-15 00:00:00.000000000,125,Chaqueta denim,Cháquétás,s/m,Verde,435.38,3,cs s veaiEftinevdoi,India,MUY SATISFECHO,66,Mujer,3
+393,2023-01-28,,37,Pantalón deportivo,Pantalones,28-30,Azul,62.66,3,Efectivo en divisas,China,Satisfecho,0,Mujer,5
+394,2023-01-29,,29,Sandalias,ZAPATOS,37,Blanco,38.57,3,Efectivo en divisas,India,Muy satisfecho,62,Mujer,4
+395,2023-01-30,2025-12-01 00:00:00.000000000,143,Pantalón vaquero,Pantalones,32-34,Rojo,88.01,2,Punto de venta,Indi,Satisfecho,39,Mujer,4
+396,2023-01-31,2025-12-01 00:00:00.000000000,19,Zapatoz deportivoz,Zapatos,38,Marrón,89.11,4,Efectivo en Bs,España,Insatisfech,49,Mujer,4
+397,2023-02-01,,106,BOTAS,Zapatos,36,Rojo,99.61,3,Transferencia,China,Satisfecho,22,Mujer,1
+398,2023-02-02,,21,Chaqueta invierno,Chaquetas,XL,Blanco,146.68,1,Eféctivo én Bs,China,Insátisfécho,40,Mujer,4
+399,2023-02-03,,64,Botas,Zapatos,38-39,Gris,441.86,2,Efectivo en divisas,India,Satisfecho,22,Mujer,5
+400,2023-02-04,2025-12-01 00:00:00.000000000,27,Zapatos deportivos,Zapatos,36-37,Gris,70.39,4,Efectivo en Bs,China,Satisfecho,59,Mujer,5
+401,2023-02-05,,55,Camisa manga corta,Camisas, S ,Azul,21.56,3,Efectivo en divisas,Italia,Insatisfecho,49,M,2
+402,2023-02-06,,29,Zapatos formales,Zapatos,39,Blanco,293.95,1,Efectivo en divisas,India,Neutral,27,Mujer,1
+403,2023-02-07,,148,Chaqueta invierno,Chaquetas,S,Gris,67.78,4,Efectivo en divisas,India,Muy satisfecho,56,Mujer,5
+404,2023-02-08,,25,Zapatos deportivos,Zapatos,39,Rojo,64.14,4,Efectivo en divisas,,Sátisfécho,32,Mujer,3
+405,2023-02-09,2023-03-15 00:00:00.000000000,70,Pantalón deportivo,Pantalones,36,Gris,48.19,2,PUNTO DE VENTA,Italia,Neutral,24,Mujer,1
+406,2023-02-10,,63,Sandalias,Zapato,40,Negro,100.36,4,Efectivo en Bs,Chinaa,Satisfecho,46,Mujer,1
+407,2023-02-11,,130,Pantalón corto,Pantalones,28-30,Rojo,63.05,2,Punto de venta,India,Satisfecho,64,Mujer,5
+408,2023-02-12,2023-01-01 00:00:00.000000043,16,Camisa manga larga,Camisas,Xxl,Verde,24.26,3,Pago móvil,España,Satisfecho,20,Mujer,3
+409,2023-02-13,,146,Zapatos formales,Zapatos,399,Marrón,54.28,2,Efectivo en divisas,España,hseiMuyac sotf,36,Mujer,2
+410,2023-02-14,2023-01-01 00:00:00.000000043,100,Camisa casual,Camisas,m,Rojo,38.9,1,Efectivo en divisas,China,Satisfech,27,Mujer,5
+411,2023-02-15,1999-01-01 00:00:00.000000000,30,Pantalón corto,Pantalones,36-38,Blanco,27.56,2,Efectivo en divisas,Bangladés,Satisfecho,45,Mujer,3
+412,2023-02-16,2025-12-01 00:00:00.000000000,45,Cinturón,Accesorios,unic,Verde,25.35,1,Efectivo en Bs,India,Muy satisfecho,46,Mujer,1
+413,2023-02-17,,19,Bufanda,Accesorios,unicá,Beige,19.23,2,Efectivo En Divisas,China,Muy satisfecho,32,Mujer,3
+414,2023-02-18,,34,Franela básica,Franelas,M,Negro,10.83,4,Punto de venta,China,Insatisfecho,52,Mujér,1
+415,2023-02-19,2023-07-10 00:00:00.000000000,141,Franela estampada,Franelas,L,Transparente,29.73,3,Efectivo en divisas,China,Neutral,23,Mujer,5
+416,2023-02-20,2023-07-10 00:00:00.000000000,62,Cháquétá inviérno,Chaquetas,L,Beige,40.54,1,Efectivo en divisas,méxico,Neutral,29,Hombre,5
+417,2023-02-21,2025-12-01 00:00:00.000000000,118,Pantalón chino,Pantalones,32-34,Blanco,66.54,2,Transferencia,China,Satisfecho,64,Hombre,4
+418,2023-02-22,1999-01-01 00:00:00.000000000,100,Pantalón vaquero,PANTALONES,40,Negro,54.56,2,Efectivo en divisas,China,Satisfecho,55,Otro,4
+419,2023-02-23,2023-07-10 00:00:00.000000000,22,llnca V lFoeerua,Fránélás,M,Gris,19.78,2,Transferencia,México,Satisfecho,30,Mujer,4
+420,2023-02-24,,111,slnaiaSda,Zapatos,41,Negro,42.57,4,Efectivo en divisas,India,Muy satisfech,46,Mujer,5
+421,1900-01-01,2023-01-01 00:00:00.000000043,73,Sandalias,ptZaosa,39,Azul,93.42,4,Efectivo en divisas,China,Muy satisfecho,36,Mujer,2
+422,2023-02-26,,147,Zapatos deportivos,Zapatos,XXX,Negro,90.61,1,Efectivo en divisas,China,Insatisfecho,20,Mujer,5
+423,2023-02-27,,38,Camisa casuall,Camisas,XL,Azul,19.23,1,Efectivo en divisas,China,Neutral,25,Mujer,3
+424,2023-02-28,2023-03-15 00:00:00.000000000,70,Chaqueta invierno,Chaquetas,XXL,Rojo,88.81,4,Pago móvil,China,Satisfecho,25,Mujer,5
+425,2023-03-01,,116,Camisa formal,Camisas,XXL,Gris,26.49,1,Efectivo en divisas,Narnia,Satisfecho,37,Mujer,5
+426,2023-03-02,2023-07-10 00:00:00.000000000,79,Chaqueta de cuero,saCqaeuht,m/l,Verde,147.65,3,Pago móvil,China,Satisfecho,64,Hombre,1
+427,2023-03-03,,148,Chaqueta bomber,Chaquetaz,M,Verde,41.93,3,Efectivo en divisas,China,Muy satisfecho,21,Mujer,1
+428,2023-03-04,,9,Zapatos deportivos,Zapatos,Talla única,Vérdé,104.78,4,Efectivo en divisas,España,Neutral,68,Mujer,1
+429,2023-03-05,,32,Pantalón deportivo,Pantalones,28-30,Negro,74.95,1,Efectivo en Bs,Italia,Satisfecho,38,Hombre,5
+430,2023-03-06,,132,Camisa manga larga,camisas,s,Blanco,50.8,2,Efectivo en divisas,India,Muy satisfecho,20,Mujer,2
+431,2023-03-07,2023-03-15 00:00:00.000000000,50,Camisa manga corta,Camisas,XS,Roj,300.31,3,Pago móvil,India,Satisfecho,62,Hombre,3
+432,2023-03-08,2023-01-01 00:00:00.000000043,82,Botaz,Zapato,40,Beige,90.03,4,Efectivo en divisas,aindI,Neutrall,25,hombre,3
+433,2023-03-09,1999-01-01 00:00:00.000000000,5,Franela básica,nFsaelar,S,Rojo,16.97,1,Efectivo en divisas,India,Satisfecho,40,Hombre,2
+434,2023-03-10,2023-03-15 00:00:00.000000000,148,Camisa casual,Camisas,S,Marró,42.22,4,Efectivo en divisas,Indiá,INSATISFECHO,33,Hombre,2
+435,2023-03-11,,87,Camisa manga larga,Camisas,m,Negro,53.99,2,Efectivo en divisas,India,Muy satisfecho,30,eMruj,3
+436,2023-03-12,,126,Franela básica,Franelas,xl,Verde,25.65,3,Efectivo en divisas,Portugal,Insatisfecho,20,Mujer,4
+437,2023-03-13,,75,Camisa formal,Camisas,m,Verd,19.91,4,efectivo en divisas,China,Satisfecho,65,Mujer,1
+438,2023-03-14,2023-07-10 00:00:00.000000000,22,Zapatos deportivos,Zapatoz,41,Beige,59.43,4,Transferencia,España,Satisfecho,26,Hombre,1
+439,1900-01-01,1999-01-01 00:00:00.000000000,68,Franela Estampada,Franelas,999,Beig,26.16,4,Efectivo en divisas,China,Muy satisfecho,31,Hombre,3
+440,2023-03-16,1999-01-01 00:00:00.000000000,44,Camisa casuall,Camisas, XS ,Verde,50.9,2,Efectivo en divisas,España,Neutral,30,Hombre,2
+441,2023-03-17,2023-07-10 00:00:00.000000000,34,Camisa manga larga,Camisas, XS ,Rojo,51.8,4,Efectivo en divisa,Italia,Insatisfecho,24,Mujér,4
+442,2023-03-18,2023-07-10 00:00:00.000000000,77,Bolso,Accesorios,NA,Beige,29.5,2,Efectivo en divisas,México,Super!!!,32,Hombre,3
+443,2023-03-19,2023-07-10 00:00:00.000000000,42,Pantalón vaquero,Pantalones,36,Blanco,46.1,2,Pago móvil,China,Neutral,24,Mujer,1
+444,2023-03-20,2023-07-10 00:00:00.000000000,137,Pantalón corto,Pantalones,36-38,Rojo,50.75,2,Efectivo en divisas,Indi,Neutral,55,Hombre,5
+445,2023-03-21,2023-07-10 00:00:00.000000000,106,Zapatos formales,Zápátos,38,Rojo,64.97,3,Efectivo en Bs,India,Satisfecho,51,Mujer,2
+446,2023-03-22,1999-01-01 00:00:00.000000000,95,Zapatos formales,Zapatos,36,Azul,51.38,3,Punto de venta,España,Neutral,58,Hombre,5
+447,2023-03-23,2025-12-01 00:00:00.000000000,135,Bufanda,Accesorios,unica,ROJO,113.64,4,Pago con puntos,india,Muy insatisfecho,39,Hombre,3
+448,1900-01-01,2025-12-01 00:00:00.000000000,68,Zapatos deportivos,Zapatos,38-39,Azul,84.31,4,Efectivo en Bs,India,Muy satisfecho,41,Mujer,1
+449,2023-03-25,,147,Pantalón chino,Pantalones,XXX,Negro,74.36,3,pago móvil,India,Satisfecho,66,Hombre,4
+450,2023-03-26,2025-12-01 00:00:00.000000000,128,Camisa formal,Camisas,M,Beige,39.41,1,Punto de venta,Atlántida,Satisfecho,54,Hombree,5
+451,2023-03-27,,-1,Sandalias,Zapatos,37,Beige,73.13,3,Pago movil,India,Neutral,61,Mujer,4
+452,2023-03-28,2025-12-01 00:00:00.000000000,83,Franela básica,Franelas,XL,Blanco,16.82,2,Efectivo en divisas,China,Muy satisfecho,18,Mujer,1
+453,2023-03-29,1999-01-01 00:00:00.000000000,95,Chaqueta invierno,Chaquetas,XXL,Roj,83.87,3,Efectivo en divisas,Bangladés,Neutral,27,Mujer,5
+454,2023-03-30,2023-07-10 00:00:00.000000000,32,Zapatos formales,Zapatos,40-41,Gris,72.9,2,Efectivo en divisas,España,Muy satisfecho,60,Hombre,4
+455,2023-03-31,,66,Camisa manga larga,camisas,xs,Beige,51.58,4,Efectivo en divisas,Bangladés,Muy satisfecho,33,Hombre,4
+456,2023-04-01,,116,Chaqueta denim,Chaquetas,XL,Rojo,145.11,1,Transferencia,China,Insatisfecho,63,Prefiero no decir,5
+457,2023-04-02,,138,Camisa formal,Camisas,00,Negro,23.81,4,efectivo en divisas,México,Muy satisfecho,25,Hombre,1
+458,2023-04-03,,130,Chaqueta bomber,qauteashC,l/xl,Azul,111.22,2,Transferencia,México,Neutral,66,Mujer,4
+459,2023-04-04,,60,Camisa manga corta,Camisas,S/M,Rojo,44.46,2,Punto de venta,Italia,Insatisfech,42,Mujer,3
+460,2023-04-05,1999-01-01 00:00:00.000000000,17,Camisa manga larga,Camisa,L,Verde,57.05,2,Efectivo en divisas,Italia,Muy satisfecho,67,Hombré,5
+461,2023-04-06,2023-01-01 00:00:00.000000043,96,Camisa casual,Camisas,M,Azul,19.56,1,Efectivo en divisas,india,Satisfecho,29,Robot,2
+462,2023-04-07,,144,Franela básica,Franela,L,Azul,15.14,3,Punto De Venta,Wakanda,123,42,Hombre,2
+463,2023-04-08,2023-03-15 00:00:00.000000000,16,Franela manga larga,Franelas,Talla S,NEGRO,16.15,4,Efectivo en divisas,India,Neutral,34,Mujer,1
+464,2023-04-09,,46,Franela cuello V,Franelas,L,Marrón,20.78,4,Transferencia,Narnia,Satisfecho,43,Hombre,3
+465,1900-01-01,2023-01-01 00:00:00.000000043,107,bolso,Accesorios,UNICA,Gris,32.47,3,Efectivo en divisas,India,Muy satisfecho,63,Hombre,4
+466,2023-04-11,1999-01-01 00:00:00.000000000,88,Pantalón chino,Pantalones,30,Beige,42.72,4,Efectivo en divisas,Portugal,Neutral,65,Mujer,2
+467,2023-04-12,2025-12-01 00:00:00.000000000,129,Pantalón corto,Pantalonez,36-38,Verde,32.92,1,Efectivo en divisas,México,Neutral,31,Mujer,1
+468,2023-04-13,2023-07-10 00:00:00.000000000,139,Botas,Zapatos,42,Gris,91.3,4,Pago móvil,Bangladés,Muy insatisfecho,58,Mujer,3
+469,2023-04-14,,119,Pantalón Chino,Pantalones,40,Marrón,59.14,-1,Efectivo en divisas,italia,Neutral,53,Hombre,3
+470,2023-04-15,2023-01-01 00:00:00.000000043,85,Cinturón,Accesorios,N/A,Rojo,9.81,3,Transferencia,China,MUY SATISFECHO,40,Hombre,1
+471,2023-04-16,2023-03-15 00:00:00.000000000,4,Camisa casual,Camisas, XS ,Verde,26.55,1,Efectivo en divisas,China,Satisfecho,60,Mujer,1
+472,2023-04-17,,71,Bolso,Accesorios, Única ,Beige,26.76,3,Punto de venta,China,Muy zatizfezho,23,Hombre,4
+473,2023-04-18,,111,Camisa manga larga,Camisas,XXL,Rojo,39.76,1,Punto de venta,China,Satisfecho,64,Mujer,1
+474,2023-04-19,,50,Sandalias,Zapatos,36-37,Blanco,40.11,2,Efectivo en divisas,Indi,Satisfecho,22,Hombre,4
+475,2023-04-20,2023-03-15 00:00:00.000000000,140,Chaqueta de cuero,CHAQUETAS,999,Blanco,110.18,3,Efectivo en divisas,China,Neutral,60,Mujer,4
+476,2023-04-21,2023-07-10 00:00:00.000000000,95,Bufanda,Azzezorioz,999,Gris,31.71,4,Punto de venta,India,Ni idea,42,Mujer,5
+477,2023-04-22,2025-12-01 00:00:00.000000000,92,Camisa casual,Camisas,M,Beige,323.31,1,Efectivo en divisas,Portugal,Neutral,35,Hombre,3
+478,2023-04-23,2023-03-15 00:00:00.000000000,65,Franela manga larga,Fránélás,S,Gris,17.22,3,Punto de venta,Indiá,Neutral,30,Mujer,3
+479,2023-04-24,,47,Gorro,Accesorios,Única,Blanco,15.66,4,Efectivo en divisas,México,Satisfecho,60,M,3
+480,2023-04-25,2023-03-15 00:00:00.000000000,106,dtre eCehauuacq o,Chaquetas,XL,Azul,70.23,3,Transferencia,Italia,Muy satisfecho,31,hombre,5
+481,2023-04-26,,130,Franela cuello V,Franelas,L,Verde,18.47,3,Punto de venta,China,Sátisfécho,45,Mujer,4
+482,2023-04-27,1999-01-01 00:00:00.000000000,106,Franela estampad,Franelas,XS,Marrón,11.91,3,Pago móvil,INDIA,Neutral,35,Mujer,4
+483,2023-04-28,2025-12-01 00:00:00.000000000,24,Chaqueta invierno,Chaquetas,?,Transparente,89.69,1,Efectivo en divisas,China,Muy insatisfecho,45,Hombre,1
+484,2023-04-29,2023-07-10 00:00:00.000000000,4,FRANELA ESTAMPADA,Franelas,XL,Azul,13.36,4,Efectivo en divisas,Indi,Insatisfecho,68,Hombre,5
+485,2023-04-30,,108,Franela cuello V,Franelas,?,Rojo,27.26,2,Efectivo en divisas,Italia,Satisfecho,44,Hombre,1
+486,2023-05-01,,19,Botas,Zapatos,40,Verde,38.61,1,Efectivo en divisas,China,Muy satisfecho,49,Mujer,5
+487,2023-05-02,,40,Camisa manga corta,Camisas,XL,Blanco,43.89,1,Efectivo en divisas,China,Muy satisfecho,64,Mujer,1
+488,1900-01-01,,50,Pantalón corto,Pantalones,40,Verde,60.54,1,Efectivo en Bs,Indiá,ifneyoushctia sM,26,Mujer,2
+489,2023-05-04,2023-03-15 00:00:00.000000000,75,Gorro,Accesorios,nÚaic,Rojo,22.59,2,Punto de venta,Bangladés,Satisfecho,57,Otro,3
+490,2023-05-05,1999-01-01 00:00:00.000000000,12,Zapatos formales,Zapatos,44,Azu,74.71,4,efectivo en divisas,España,Satisfecho,49,Mujer,3
+491,2023-05-06,2023-01-01 00:00:00.000000043,27,Chaqueta denim,Chaquetas,l/xl,Verde,55.01,4,Efeztivo en Bz,España,Satisfecho,37,MUJER,4
+492,2023-05-07,,113,Franela básica,Franelas,S,Beige,18.09,4,Punto de venta,Chiná,Satisfecho,45,Hombre,2
+493,2023-05-08,,49,Pantalón chino,Pantalones,40,Beige,72.09,3,Efectivo en divisas,España,Satisfecho,50,Mujer,10
+494,2023-05-09,,144,Camisa manga larga,Camisas,xs,Verde,30.35,3,Efectivo en Bs,España,Satisfecho,21,Hombre,4
+495,2023-05-10,,130,Chaqueta denim,Cháquétás,L,Beige,106.35,3,Pago móvil,Italia,Insatisfecho,63,Mujer,2
+496,2023-05-11,2023-01-01 00:00:00.000000043,60,Pantalón chino,Pantalones,?,Marrón,83.86,2,Pago móvil,Bangladés,Muy satisfecho,51,Hombre,3
+497,2023-05-12,1999-01-01 00:00:00.000000000,30,Franela básica,Franelas,Talla S,Verde,15.3,3,Efectivo en divisas,India,Insatisfecho,65,Hombre,1
+498,2023-05-13,,84,Cámisá formál,Camisass,XS,Marrón,41.81,2,Efectivo en Bs,Portugal,Satisfecho,20,Hombre,5
+499,1900-01-01,,,Bufanda,Accesorios,Única,Blanzo,113.34,4,Punto de venta,Portugal,Satisfecho,43,HOMBRE,2
+500,2023-05-15,2023-01-01 00:00:00.000000043,25,Bufanda,Accesorios,N/A,Gris,8.12,3,Efectivo en divisas,China,Satisfecho,25,Mujer,4
+501,2023-05-16,2023-01-01 00:00:00.000000043,0,Franela básica,Franelas,L,Verde,11.35,3,Efectivo en divisas,India,Muy satisfecho,23,Mujer,2
+502,2023-05-17,2023-07-10 00:00:00.000000000,125,Chaqueta de cuero,Chaquetas,XL,Gris,65.71,1,Efectivo en divisas,Bangladés,Muy satisfecho,33,Mujer,4
+503,2023-05-18,2023-07-10 00:00:00.000000000,10,Pantalón vaquero,Pantalones,28-30,Beige,82.21,2,efectivo en divisas,iaChn,Muy satisfecho,41,ejruM,2
+504,2023-05-19,2025-12-01 00:00:00.000000000,42,Zapatos deportivos,Zapatos,38,Azul,77.97,4,Efectivo en divisas,India,Satisfecho,65,Mujer,4
+505,2023-05-20,,40,Franela básica,Franelas,S,Gris,16.66,1,Efectivo en divisas,Bangladés,Satisfecho,56,Hombre,3
+506,2023-05-21,,77,Camisa casual,Camisas,S,Marrón,59.74,1,Punto de venta,India,Satisfecho,47,Hombre,1
+507,2023-05-22,2025-12-01 00:00:00.000000000,105,Zapatos deportivos,Zapatos,41,Beige,80.2,4,Pago móvil,Chiná,Muy satisfecho,62,Mujer,3
+508,2023-05-23,,118,Zapatos deportivoss,Zapatos,42,Negro,71.87,1,Efectivo en divisa,India,Satisfecho,30,Mujer,1
+509,2023-05-24,,42,Sandalias,Zapatos,41,Rojo,80.61,2,Punto de venta,Narnia,Muy satisfechoo,22,Hombre,3
+510,2023-05-25,,47,Franela manga larga,Franelas,Xl,arrMnó,13.51,2,Transferencia,India,Muy satisfecho,42,Hombre,3
+511,2023-05-26,,22,Franela cuello V,Franelas,Talla M,Blanco,14.02,3,Efectivo en divisas,China,Satisfecho,37,hombre,2
+512,2023-05-27,2023-07-10 00:00:00.000000000,107,Chaqueta invierno,Chaquetas,M,Beige,50.63,1,Efectivo en divisas,Italia,Neutral,35,Mujer,5
+513,2023-05-28,2025-12-01 00:00:00.000000000,27,Zapatos formales,Zapatos,42,Verde,98.05,3,Punto de venta,India,Insatisfecho,64,Hombre,4
+514,2023-05-29,2025-12-01 00:00:00.000000000,41,Zapatos formaless,Zapatos,40-41,Negro,118.31,1,Efectivo en divisas,España,Muy satisfechoo,35,Mujer,4
+515,1900-01-01,,80,Camisa manga larga,Camisas, S ,Azul,25.56,2,Transferencia,Italia,Neutral,19,mujer,4
+516,2023-05-31,2023-01-01 00:00:00.000000043,89,Camisa manga corta,Camisas,M,Marrón,21.86,2,EFECTIVO EN DIVISAS,India,Muy satisfecho,27,Hombre,1
+517,2023-06-01,,66,Pantalón vaquero,Pantalones,Talla única,Verde,85.26,2,Pago móvil,Italia,Satisfecho,62,Otro,4
+518,2023-06-02,,12,Sandalias,Zapatos,36,Marrónn,105.78,1,Efectivo en Bs,China,Satisfecho,67,Mujer,4
+519,2023-06-03,,73,Bufanda,Accesorios, Única ,Marrón,33.06,2,Efectivo en Bs,India,muy satisfecho,64,Mujer,2
+520,2023-06-04,2023-03-15 00:00:00.000000000,76,Camisa casual,misCsaa,nlciú aaalT,Beige,48.99,1,Punto de venta,Wakanda,Satisfecho,29,Mujer,3
+521,2023-06-05,2023-03-15 00:00:00.000000000,90,Franela básica,Franelas,XLL,Negro,26.52,3,Bitcoin,Portugal,Satisfecho,64,Mujer,4
+522,2023-06-06,2025-12-01 00:00:00.000000000,10,Pántálón chino,Pantalones,34,Gris,71.07,1,Efectivo en divisas,China,Satisfecho,30,Muje,5
+523,1900-01-01,,96,Gorro,Accesorios, Única ,Azul,18.64,3,Efectivo en divisas,India,Satizfezho,67,Hombre,4
+524,2023-06-08,,20,Zapatos deportivos,Zapatos,37,Marrón,64.28,1,Efectivo en divisas,Atlántida,Ni idea,64,Hombr,1
+525,2023-06-09,,39,Zapatos deportivoss,Zapatos,XXX,Verde,51.51,3,Efectivo en Bs,India,Neutral,28,Hombre,1
+526,2023-06-10,2025-12-01 00:00:00.000000000,60,CHAQUETA DE CUERO,Chaquetas,L,Beige,130.78,2,Pago móvil,China,Muy satisfecho,36,Hombre,1
+527,2023-06-11,,66,Chaqueta denim,Chaquetas,m/l,Verde,143.66,3,Efectivo en divisas,India,Muy satisfecho,52,Hombre,4
+528,2023-06-12,2023-07-10 00:00:00.000000000,65,Pantalón chino,Pantalones,40,Azul,35.51,2,Punto de venta,Italia,Neutral,56,Hombre,2
+529,2023-06-13,,124,Camisa casual,Camisa,00,Blanco,287.3,2,Punto de venta,España,Satisfecho,43,Hombre,5
+530,2023-06-14,,130,Sandalias,Zapatoz,40,Negro,65.19,3,Pago móvil,India,Satisfecho,63,Mujer,4
+531,2023-06-15,,57,Sandalias,Zapatos,36,Azul,40.47,1,Efectivo en Bs,India,Neutral,31,Mujer,2
+532,2023-06-16,,78,Gorro,Accesorios,00,Azul,22.13,1,Transferenci,India,Muy satisfecho,62,Mujer,2
+533,2023-06-17,2023-07-10 00:00:00.000000000,29,Bolso,Accesorios,UNICA,Rojo,44.06,4,Efectivo en divisas,Italia,Muy insatisfecho,999,Mujer,0
+534,2023-06-18,,15,Franela estampada,Franelas,M,Blanco,395.02,1,Punto de venta,India,Neutral,41,mujer,4
+535,2023-06-19,2023-01-01 00:00:00.000000043,12,Sandalias,Zapatos,44,Verde,59.03,4,Punto de venta,India,Satisfecho,58,Mujer,2
+536,1900-01-01,,101,Botas,Zapatos,37,Verde,43.84,1,Transferencia,Chinaa,satisfecho,18,Hombre,2
+537,2023-06-21,2023-07-10 00:00:00.000000000,84,Botas,Zapatos,37,beige,116.16,1,Efectivo en divisas,,osecthSaif,68,Hombre,2
+538,2023-06-22,1999-01-01 00:00:00.000000000,125,Pantalón chino,Pantalones,36-38,Beige,78.46,2,Punto de venta,China,Muy satisfecho,60,Mujer,4
+539,2023-06-23,,103,Chaqueta De Cuero,Chaquetass,XXL,Rojo,134.82,4,Efectivo en divisas,China,Satisfecho,39,Mujer,2
+540,2023-06-24,,24,Camisa manga corta,Camisas, S ,VERDE,21.26,1,Punto de venta,India,Satisfecho,40,Mujer,1
+541,2023-06-25,2025-12-01 00:00:00.000000000,149,Bolso,Accesorios,NA,Verde,42.32,4,Pago móvil,Wakanda,Insatisfech,36,Hombré,4
+542,2023-06-26,,138,Franela manga larg,Franelas,M,Azul,29.06,2,Efectivo en divisas,China,Satisfecho,35,Hombr,1
+543,2023-06-27,1999-01-01 00:00:00.000000000,110,Pantalón chino,Pantalones,32-34,Negro,68.31,2,Pago móvil,Portugal,Neutra,29,Mujer,3
+544,2023-06-28,,78,Franela estampada,Franelas,XL,Negro,10.52,4,Efectivo en Bs,China,Neutral,45,Mujer,4
+545,2023-06-29,1999-01-01 00:00:00.000000000,101,Franela básica,Franelas,Talla M,Negro,29.26,2,Efectivo En Bs,España,Satisfecho,45,Hombre,3
+546,2023-06-30,,146,Pantalón corto,Pantalones,34,Rojo,53.57,3,efectivo en bs,Italia,,50,Hombre,2
+547,2023-07-01,,142,Camisa manga corta,Camisas,XXL,Beige,15.01,3,Efectivo en divisas,India,Neutral,36,Mujer,2
+548,2023-07-02,2023-01-01 00:00:00.000000043,128,Franela cuello V,Franelas,Talla S,Blanco,22.05,2,Punto de vent,China,NEUTRAL,45,Mujer,5
+549,2023-07-03,2023-03-15 00:00:00.000000000,58,Chaqueta bomber,Chaquetas,L,Rojo,82.51,3,Efectivo En Bs,Italia,Muy satisfecho,69,Hombre,2
+550,2023-07-04,2025-12-01 00:00:00.000000000,76,Zapatoz formalez,Zapatos,38,Gris,95.9,1,Efectivo en Bs,INDIA,Super!!!,66,Mujer,3
