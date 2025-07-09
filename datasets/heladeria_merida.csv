@@ -1,0 +1,631 @@
+﻿fecha,hora,sabor_helado,tamaño,precio_usd,tasa_dolar,precio_bs,cantidad,forma_pago,empleado,ubicacion_tienda,temperatura_c,venta_total_usd,venta_total_bs,calificacion,promocion,ingrediente_extra,nivel_satisfaccion
+2024-07-17,21:00,Csfé,Pequeño,1.6,51.58,82.53,12, Efectivo ,Narcisa Vicens Lucena,El Valle,20.2,19.2,990.36,,False,Sin Extra,Muy Satisfecho
+2024-05-28,14:15,RON con PAsas,Pequeño,1.92,47.89,91.95,1,Pago Móvil,Margarita del Cerezo,Ejido,21.8,1.92,91.95,3.0,False,Chispas de Chocolate,Neutral
+2024-03-08,15:15,Cocada ,Mediano,3.12,39.37,122.83,2,Efectivo,Venceslás Benitez Galván,La Hechicera,25.7,6.24,245.66,5.0,True,Sin Extra,Satisfecho
+2024-03-19,20:00,Tizana,Grande,5.25,40.81,214.25,2,Tarjeta,Leticia Espinosa-Cuadrado,Ejido,20.4,10.5,428.5,1.0,False,Frutas Frescas,Muy Satisfecho
+2024-02-04,19:30,Tizana,Mediano,2.57,38.22,98.23,1,Divisas,Álvaro Villena Querol,Centro,27.1,2.57,98.23,3.0,False,Sin Extra,
+2024-06-08,11:00,Chocolate,Pequeño,2.01,48.09,96.66,3,Tarjeta,Milagros de Garay,Milla,25.9,6.03,289.98,4.0,False,Sin Extra,Satisfecho
+2024-09-28,14:30, Guanabana ,Pequeño,2.38,60.99,145.16,1,Divisas,Cecilia Molina Vélez,La Pedregosa,18.0,2.38,145.16,3.0,False,Sin Extra,Satisfecho
+2024-10-09,12:00,Chocolate,Pequeño,1.87,61.82,115.6,3, Divisas ,Chus Álamo Romeu,La Hechicera,27.3,5.61,346.8,3.0,False,Sirope de Chocolate,
+2024-08-20,12:45,Frutilla,Pequeño,2.27,56.56,128.39,1,Tarjeta,Yéssica Tomé,,26.7,2.27,128.39,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-11-13,10:15,Ponche Crema,Pequeño,1.56,66.11,103.13,3,Efectivo,Tiburcio Araujo Leal,Milla,24.3,4.68,309.39,4.0,False,Chispas de Chocolate,Satisfecho
+2024-03-27,17:45,Coco,Grande,4.68,41.01,191.93,3,Efectivo,Rosendo Valencia Campillo,La Parroquia,21.5,14.04,575.79,5.0,True,Chispas de Chocolate,
+2024-02-30,16:15,Frutilla,Pequeño,1.95,53.59,104.5,1,Tarjeta,Maribel de Sierra,Milla,18.8,1.95,104.5,2.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-03-08,17:15,Mango,Pequeño,1.91,41.07,78.44,10,Efectivo,Moisés Montserrat Casanovas,Centro,18.0,19.1,784.4,5.0,False,Frutas Frescas,Neutral
+2024-01-20,13:00,Chocolate,Mediano,2.69,36.83,99.07,3,Transferencia,Abraham Herranz Anglada,La Hechicera,21.1,8.07,297.21,5.0,False,Chispas de Chocolate,Satisfecho
+2024-05-04,19:15,Mora,Pequeño,1.62,44.1,71.44,3,Efectivo,Maximiliano de Arellano,La Hechicera,22.2,4.86,214.32,4.0,False,Sirope de Chocolate,Muy Insatisfecho
+2024-08-21,11:00,Café,Mediano,2.82,56.51,159.36,1,Transferencia,Teresa Esparza Goicoechea,Centro,18.7,2.82,159.36,3.0,False,Chispas de Chocolate,Satisfecho
+2024-09-09,20:30,Cocada ,Grande,4.82,58.79,283.37,3,Efectivo,Joel Balaguer Manso,El Valle,19.3,14.46,850.11,4.0,False,Frutas Frescas,Satisfecho
+2024-09-13,10:00,Pistacho,,2.99,59.06,176.59,3, Pago Móvil ,Edelmiro Montero,Milla,21.3,8.97,529.77,,False,Sin Extra,Muy Satisfecho
+2024-02-30,15:15,Chocolate,Grande,4.86,45.88,222.98,10,Efectivo,Albina Villalba Romeu,Centro,27.0,48.6,2229.8,5.0,False,Sirope de Chocolate,Satisfecho
+2024-06-16,13:15,ChoColate,Mediano,3.25,50.05,162.66,3,Tarjeta,Arturo Solsona Araujo,Centro,18.2,9.75,487.98,2.0,False,Sirope de Chocolate,Neutral
+2024-02-27,17:30,Guayaba,,2.32,40.12,93.08,1,Tarjeta,Anacleto Miró Corral,La Parroquia,24.6,2.32,93.08,4.0,True,Frutas Frescas,Satisfecho
+2024-04-22,14:15,Dulce de Leche,Pequeño,2.38,43.63,103.84,3, Pago Móvil ,Paz Campillo Peñas,El Valle,24.0,7.14,311.52,5.0,False,Sin Extra,Satisfecho
+2024-08-04,18:15,Ron con Pasas,,3.5,53.5,187.25,1,Efectivo,Fidela Ródenas Bustos,El Valle,27.2,9.046092656674523,15.849578002940168,4.0,True,Frutas Frescas,Insatisfecho
+2024-02-05,16:15,Guayaba,Pequeño,1.92,37.34,71.69,3,Pago Móvil,Isidoro Losada Roldan,Centro,26.3,5.76,215.07,2.0,False,Sin Extra,Muy Satisfecho
+2024-05-24,20:30,vainilla,Pequeño,2.02,46.13,93.18,3,Tarjeta,Esmeralda Riquelme-Alemany,Centro,20.2,6.06,279.54,3.0,False,Sin Extra,Muy Insatisfecho
+2024-01-28,16:15,RON con PAsas,Grande,4.46,37.26,166.18,3,Efectivo,Baudelio Oliver-Prats,Centro,26.6,13.38,498.54,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-01-26,17:30,Café,Pequeño,1.63,36.52,59.53,3,Divisas,Salomé de Conesa,Centro,25.2,4.89,178.59,2.0,False,Sirope de Chocolate,Satisfecho
+2024-03-23,13:30,Pistacho,Mediano,2.98,42.14,125.58,1,Pago Móvil,Toni Castejón Delgado,La Hechicera,21.4,2.98,125.58,5.0,False,Sirope de Chocolate,Satisfecho
+2024-03-16,13:45,Café,Grande,4.54,40.67,184.64,2,Transferencia,Salud Rojas Boix,El Valle,18.2,9.08,369.28,2.0,False,Chispas de Chocolate,Neutral
+2024-03-30,13:45,Frutilla,Grande,5.5,42.1,231.55,2,Divisas,María Teresa Palomino Macias,El Valle,21.9,11.0,463.1,5.0,False,Sin Extra,Satisfecho
+2024-03-20,16:15,Guanábana,Grande,3.71,41.38,153.52,2,Tarjeta,Primitivo Alcaraz Almagro,Centro,21.8,7.42,307.04,4.0,False,Frutas Frescas,Insatisfecho
+2024-03-30,15:15,Frutilla,Grande,3.63,41.96,152.31,1,Efectivo,Felipe Galiano Donoso,Ejido,27.5,3.63,152.31,5.0,False,Sirope de Chocolate,Satisfecho
+2024-12-03,19:00,,Mediano,2.67,68.85,183.83,1,Tarjeta,Adán Leal Martinez,,19.1,2.67,183.83,4.0,,Sin Extra,Satisfecho
+2024-07-15,19:00,Vainilla,Grande,5.63,51.37,289.21,3,Transferencia,Ana Sofía Román Medina,La Pedregosa,21.5,16.89,867.63,1.0,False,Chispas de Chocolate,Insatisfecho
+2024-07-17,12:30,RON con PAsas,Mediano,2.65,52.6,139.39,2,Transferencia,Bartolomé Leal Burgos,La Parroquia,22.6,5.3,278.78,5.0,False,Sirope de Chocolate,Neutral
+2024-05-22,15:00,ChoColate,Grande,5.17,47.3,244.54,1,Pago Móvil,Paula Conesa Molins,Belén,20.1,5.17,244.54,5.0,False,Sin Extra,
+2024-11-15,20:45,Ponche Crema,,5.23,66.22,346.33,3,Efectivo,Esperanza Quintero-Casals,El Valle,20.2,15.69,1038.99,4.0,False,Sin Extra,Muy Satisfecho
+2024-07-17,14:15,Café,Grande,4.18,51.8,216.52,3,Tarjeta,Bruno Samuel González Moll,El Valle,25.4,12.54,649.56,2.0,False,Sirope de Chocolate,Neutral
+2024-06-25,15:15,Guayaba,Pequeño,1.8,50.24,90.43,3,Transferencia,Nacio Echevarría Segarra,Milla,18.5,5.4,271.29,5.0,,Sin Extra,Muy Satisfecho
+2024-03-10,17:00,Parchita,Pequeño,1.75,40.25,70.44,2,Divisas,Crescencia Portillo Sanabria,Ejido,23.8,3.5,140.88,5.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-09-07,16:45,Ponche Crema,Grande,5.44,58.24,316.83,3,Pago Móvil,Heraclio Grau Jódar,Milla,27.9,16.32,950.49,5.0,True,Sirope de Chocolate,
+2024-05-16,17:45,Mango,Pequeño,1.5,45.41,68.11,1,Tarjeta,Lucas Villa Bru,Centro,20.8,1.5,68.11,5.0,False,Frutas Frescas,Neutral
+2024-05-07,14:15,PONCHE CREMA,Grande,5.12,45.17,231.27,1,Pago Móvil,Florencia Gutierrez Diéguez,La Hechicera,26.2,5.12,231.27,3.0,False,Frutas Frescas,Satisfecho
+2024-07-08,21:30,,Grande,5.72,51.15,292.58,2,Efectivo,Encarnacion Lobato Llopis,Centro,27.6,11.44,585.16,5.0,True,Frutas Frescas,Muy Insatisfecho
+2024-03-24,16:45,Mango,Mediano,3.5,41.83,146.41,3,Divisas,Hilda Valentina Lucena Jaén,Belén,21.3,10.5,439.23,4.0,False,Sin Extra,Neutral
+2024-05-08,11:45,Fresa,Pequeño,1.75,44.38,77.67,3,Efectivo,Óscar Campillo Castell,La Hechicera,23.4,5.25,233.01,4.0,False,Sin Extra,Muy Satisfecho
+2024-07-19,21:45,Vainilla,Pequeño,1.94,51.85,100.59,1,Transferencia,Nilda Alemany Durán,El Valle,25.1,1.94,100.59,4.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-03-13,14:30,Avellana,Pequeño,2.43,40.92,99.44,1,Divisas,Camila Báez Noguera,El Valle,20.4,2.43,99.44,,False,Chispas de Chocolate,Muy Satisfecho
+2024-04-29,19:45,Vainilla,Pequeño,2.23,44.1,98.34,3,Divisas,Juan José Benito Cañizares,El Valle,21.5,6.69,295.02,4.0,False,Frutas Frescas,Neutral
+2024-11-28,17:45,Parchita,Mediano,2.82,67.38,190.01,2,Tarjeta,Pili Rodriguez Batalla,El Valle,18.4,5.64,380.02,1.0,True,Sin Extra,
+2024-02-07,14:30,Chocolate,Grande,3.69,37.7,139.11,11,Divisas,Quirino Gallo,Ejido,26.5,40.59,1530.21,4.0,False,Frutas Frescas,Insatisfecho
+2024-09-08,14:15,Ponche Crema,Pequeño,2.13,56.74,120.86,3,Divisas,María Carmen Olivia Torres Porras,El Valle,25.6,6.39,362.58,5.0,False,Frutas Frescas,Neutral
+2024-08-09,16:15,Chocolate,Mediano,2.74,54.32,148.84,2,Efectivo,Maristela de Verdugo,La Hechicera,21.8,5.48,297.68,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-09-04,12:00,Vainilla,Mediano,3.18,58.76,186.86,1,Pago Móvil,Hortensia Carbonell Calatayud,El Valle,21.0,3.18,186.86,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-06-27,21:30,coco,Mediano,2.8,49.9,139.72,1,Divisas,Amado de Dalmau,El Valle,23.7,2.8,139.72,5.0,,Sin Extra,Satisfecho
+2024-07-21,19:30,Ponche Crema,,3.14,52.94,166.23,1,Tarjeta,Constanza Mendez,Ejido,27.0,3.14,166.23,5.0,False,Chispas de Chocolate,Satisfecho
+2024-05-31,18:30,Mango,Mediano,2.7,47.15,127.31,2,Pago Móvil,Gervasio Baños Menendez,La Hechicera,20.6,5.4,254.62,5.0,False,Frutas Frescas,Neutral
+2024-08-04,18:30,,Grande,5.95,55.13,328.02,1,Pago Móvil,Teodoro Espada Lara,Milla,22.5,5.95,328.02,1.0,False,Frutas Frescas,Satisfecho
+2024-03-24,20:45,Ponche Crema,Grande,5.12,41.16,210.74,14,Pago Móvil,Abraham Azcona,Ejido,19.2,71.68,2950.36,1.0,False,Chispas de Chocolate,
+2024-02-16,16:15,RON con PAsas,Grande,5.86,38.31,224.5,2,Efectivo,Melchor de Mariscal,Belén,24.2,11.72,449.0,3.0,False,Sirope de Chocolate,Satisfecho
+2024-01-18,20:30,FRUTILLA,Mediano,3.4,37.26,126.68,1,Efectivo,Saturnina Marco Cadenas,Milla,26.2,3.4,126.68,5.0,True,Chispas de Chocolate,Satisfecho
+2024-06-03,13:30,Guayaba,Grande,4.97,47.15,234.34,3, Transferencia ,Victor Ojeda Abella,Centro,26.6,14.91,703.02,2.0,False,Sirope de Chocolate,Neutral
+2024-07-05,12:30,coco,Pequeño,1.82,51.74,94.17,2,Transferencia,Encarnita Vilanova Pi,La Hechicera,18.6,3.64,188.34,5.0,True,Sin Extra,Muy Satisfecho
+2024-03-01,10:45,Cocada ,Mediano,3.46,39.7,137.36,3,Divisas,Enrique de Amo,El Valle,22.9,10.38,412.08,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-08-12,19:30,Fresa,Grande,4.45,55.26,245.91,3,Transferencia,Amelia Sanchez Chaves,Ejido,25.9,13.35,737.73,4.0,False,Sin Extra,Neutral
+2024-09-08,15:30,Dulce de Leche,Grande,4.28,57.79,247.34,2,Tarjeta,Graciano Ferrando-Fortuny,La Hechicera,22.7,8.56,494.68,5.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-04-01,11:45,Frutilla,Grande,4.32,42.37,183.04,1,Divisas,Anunciación del Gutierrez,,25.2,4.32,183.04,4.0,False,Chispas de Chocolate,Neutral
+2024-07-08,14:15,Frutilla,Mediano,2.87,52.2,149.81,1,Transferencia,Bernardino Portillo,Ejido,26.2,2.87,149.81,5.0,True,Sin Extra,Muy Satisfecho
+2024-03-13,12:15,Fresa,Mediano,2.85,40.16,114.46,1,Divisas,Hipólito Zorrilla Varela,Centro,25.4,2.85,114.46,5.0,False,Sin Extra,Insatisfecho
+2024-03-03,10:15,ChoColate,Grande,3.71,39.47,146.43,3, Transferencia ,Haydée Pujol,Milla,18.8,11.13,439.29,5.0,False,Sin Extra,Satisfecho
+2024-05-16,18:30, GUANABANA ,Grande,4.98,45.26,225.39,2,Transferencia,Modesta Cuervo-Machado,La Parroquia,20.0,9.96,450.78,2.0,False,Frutas Frescas,Satisfecho
+2024-04-27,18:30,ron con pasas,Grande,4.08,43.62,177.97,1,Efectivo,Emma Leal,La Parroquia,22.6,4.08,177.97,3.0,False,Sin Extra,Satisfecho
+2024-05-10,19:45,Mango,Mediano,3.3,44.52,146.92,2,Pago Móvil,Federico Garcia-Guijarro,Ejido,26.4,6.6,293.84,5.0,True,Sin Extra,Neutral
+2024-09-09,13:30,Dulce de Leche,Grande,4.83,56.97,275.17,1,Tarjeta,Débora Casado Lamas,Ejido,19.5,4.83,275.17,3.0,True,Sirope de Chocolate,Neutral
+2024-09-03,19:30, Guanabana ,Mediano,3.42,58.25,199.22,3,Pago Móvil,Fulgencio Pintor Falcón,Ejido,18.7,10.26,597.66,5.0,False,Sin Extra,
+2024-06-06,11:45,Vainilla,Mediano,2.58,47.03,121.34,2,Transferencia,Águeda Bello Cuenca,Centro,25.4,5.16,242.68,5.0,False,Frutas Frescas,Satisfecho
+2024-04-18,20:15,ron con pasas,Mediano,2.58,42.79,110.4,2,Divisas,José Mari Murcia-Artigas,La Hechicera,24.1,5.16,220.8,4.0,False,Sin Extra,Neutral
+2024-07-14,20:45,Fresa,Pequeño,1.59,52.31,83.17,3,Transferencia,León Santiago Moles Ariza,El Valle,21.3,4.77,249.51,,False,Frutas Frescas,Satisfecho
+2024-01-27,20:30,Vainilla,Pequeño,2.06,37.44,77.13,3,Transferencia,Iris de Luís,Centro,24.7,6.18,231.39,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-05-10,11:00,,Pequeño,1.58,44.99,71.08,1,Transferencia,Guiomar María Coloma Cadenas,Belén,21.8,1.58,71.08,4.0,,Sin Extra,
+2024-08-10,13:30,Café,Grande,4.09,55.11,225.4,2,Divisas,Nilo Ibáñez Cerro,Belén,19.9,8.18,450.8,3.0,False,Sin Extra,Muy Satisfecho
+2024-07-13,14:00,ChoColate,Pequeño,1.64,53.03,86.97,2,Pago Móvil,Paz Miranda Andrés,El Valle,19.0,3.28,173.94,1.0,False,Chispas de Chocolate,Satisfecho
+2024-09-19,15:00,Ponche Crema,Pequeño,2.32,60.35,140.01,1,Divisas,Florentina Ferrándiz Mate,Milla,20.4,2.32,140.01,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-01-29,12:45,Avellana,Mediano,3.2,36.53,116.9,1,Efectivo,Sarita Sonia Tejera Calvet,Centro,18.2,3.2,116.9,4.0,False,Chispas de Chocolate,Muy Insatisfecho
+2024-04-17,17:00,Café,Grande,3.66,43.39,158.81,1,Transferencia,Alejandro Campoy Angulo,Centro,19.4,3.66,158.81,4.0,False,Sin Extra,Muy Satisfecho
+2024-12-25,18:00,Frutilla,Grande,4.77,70.52,336.38,2, Divisas ,Lucía Pujadas-Pareja,Centro,21.9,9.54,672.76,5.0,False,Chispas de Chocolate,Neutral
+2024-01-08,18:30,Chocolate,Mediano,2.54,36.09,91.67,3,Tarjeta,Francisco Jose de Armengol,El Valle,24.8,7.62,275.01,5.0,False,Sirope de Chocolate,
+2024-07-14,14:45,Parchita,Pequeño,1.82,51.16,93.11,2,Transferencia,Álvaro Alvarado,El Valle,18.4,3.64,186.22,3.0,True,Frutas Frescas,Satisfecho
+2024-09-20,17:45,Fresa,Mediano,3.47,60.21,208.93,2,Transferencia,Carmela Mendizábal-Aparicio,Centro,18.8,6.94,417.86,5.0,False,Sin Extra,Satisfecho
+2024-03-28,21:45,RON con PAsas,Grande,4.57,41.45,189.43,2,Efectivo,Úrsula Javiera Mora Salinas,La Hechicera,27.1,9.14,378.86,5.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-06-25,20:45,CHOCOLATE,Pequeño,2.35,50.44,118.53,3,Pago Móvil,Dominga Arranz Aragonés,La Hechicera,27.5,7.05,355.59,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-27,11:00,Cocada ,Mediano,2.78,44.14,122.71,3,Divisas,Nazaret Sanmartín Marin,Ejido,27.1,8.34,368.13,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-03-17,21:45,Cocada,Pequeño,1.95,40.33,78.64,2,Pago Móvil,Narcisa Juliá-Maldonado,El Valle,25.1,3.9,157.28,3.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-12-26,13:45,,Pequeño,2.29,72.24,165.43,2,Pago Móvil,Bernarda del Zurita,Centro,27.8,4.58,330.86,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-10-08,15:00,,Grande,3.81,62.49,238.09,2,Transferencia,Clímaco Gras,Belén,26.8,7.62,476.18,4.0,,Sirope de Chocolate,Muy Satisfecho
+2024-06-01,21:15,Mango,Mediano,2.66,47.7,126.88,1,Transferencia,María Carmen del Ramis,Ejido,26.5,2.66,126.88,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-06-26,19:30,Chocolate,Grande,3.93,49.27,193.63,3, Transferencia ,Tomasa Nicolau Chamorro,Centro,26.6,11.79,580.89,4.0,False,Sirope de Chocolate,Satisfecho
+2024-03-28,14:45,Vainilla,,5.1,42.66,217.57,2,Divisas,Alejandro Llorente,La Hechicera,18.7,10.2,435.14,4.0,False,Sin Extra,Muy Insatisfecho
+2024-11-25,15:00,Mora,Mediano,2.63,67.27,176.92,3,Divisas,Heraclio Bueno,La Pedregosa,22.5,7.89,530.76,4.0,False,Sin Extra,Neutral
+2024-09-21,12:45,Fresa,Grande,3.97,60.9,241.77,2,Divisas,Curro Solera Bermudez,Ejido,21.1,7.94,483.54,1.0,False,Sirope de Chocolate,
+2024-08-04,18:00, Guanabana ,Grande,4.68,54.42,254.69,2,Divisas,Tere de Valenzuela,Centro,20.6,9.36,509.38,4.0,True,Sin Extra,
+2024-06-13,14:00,Café,Grande,5.41,47.78,258.49,2,Efectivo,Petrona Gisbert Pombo,La Hechicera,25.9,10.82,516.98,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-06-26,12:15,Avellana,Mediano,3.02,49.19,148.55,1,Transferencia,Pío Leal Sánchez,El Valle,21.9,3.02,148.55,5.0,False,Sin Extra,Insatisfecho
+2024-03-20,11:45,Limón,Pequeño,1.83,41.14,75.29,2,Efectivo,Rodolfo Cuéllar Bustamante,La Hechicera,20.7,3.66,150.58,4.0,False,Chispas de Chocolate,Satisfecho
+2024-08-23,13:00,Chocolate,Mediano,3.32,57.02,189.31,3,Efectivo,Almudena Mora Saez,Ejido,22.4,9.96,567.93,5.0,False,Sin Extra,Muy Satisfecho
+2024-04-05,18:30,Chocolate,Grande,4.8,43.01,206.45,3,Divisas,Lara Collado-Leiva,,21.1,14.4,619.35,4.0,False,Sin Extra,Muy Satisfecho
+2024-12-09,13:30,ChoColate,Mediano,2.98,70.86,211.16,3,Tarjeta,Florencia Sola Acero,El Valle,27.8,8.94,633.48,4.0,False,Frutas Frescas,Insatisfecho
+2024-08-27,16:45,Coco,Pequeño,2.18,56.07,122.23,3,Tarjeta,Ruperta Ferrándiz Monreal,La Parroquia,20.9,6.54,366.69,,False,Frutas Frescas,Muy Satisfecho
+2024-05-31,19:15,Tizana,Grande,3.84,48.59,186.59,2,Transferencia,Ximena del Cobos,Ejido,20.3,7.68,373.18,4.0,False,Chispas de Chocolate,Neutral
+2024-09-14,14:30,Avellana,Mediano,3.15,58.51,184.31,1,Efectivo,Bibiana Sandoval Nicolau,Milla,18.9,3.15,184.31,3.0,True,Sirope de Chocolate,Satisfecho
+2024-07-02,21:30,Avellana,Mediano,2.69,51.96,139.77,1,Efectivo,Tania Guillén Prieto,Ejido,24.0,2.69,139.77,5.0,False,Sin Extra,Neutral
+2024-12-09,21:45,Dulce de Leche,Pequeño,1.83,69.69,127.53,3, Tarjeta ,Norberto Goñi Gomila,Centro,21.4,5.49,382.59,5.0,False,Sirope de Chocolate,Satisfecho
+2024-07-06,12:15,Mora,Pequeño,2.17,51.15,111.0,2, Tarjeta ,Luís Benet,Ejido,21.8,4.34,222.0,4.0,False,Frutas Frescas,Neutral
+2024-04-13,14:15, Guanabana ,Pequeño,1.62,43.63,70.68,2,Transferencia,Aura Agustín Castejón,El Valle,26.9,3.24,141.36,5.0,False,Frutas Frescas,Muy Insatisfecho
+2024-09-14,18:45,Limón,Grande,4.54,58.65,266.27,1,Tarjeta,Tecla Tamayo,La Hechicera,24.8,4.54,266.27,1.0,False,Sin Extra,Muy Insatisfecho
+2024-05-10,12:15,Guayaba,Grande,4.93,46.35,228.51,1,Transferencia,Marcelino Marin Becerra,Centro,24.8,4.93,228.51,5.0,False,Chispas de Chocolate,Satisfecho
+2024-07-05,16:30,Vainilla,Grande,5.31,51.16,271.66,1,Tarjeta,Virgilio de Roda,La Hechicera,18.5,5.31,271.66,4.0,True,Chispas de Chocolate,Satisfecho
+2024-05-07,16:30,Csfé,Grande,5.11,45.94,234.75,1,Divisas,Catalina Berenguer Jover,Milla,27.2,5.11,234.75,4.0,False,Frutas Frescas,Satisfecho
+2024-01-25,14:45,Guanábana,Pequeño,2.26,37.32,84.34,1,Transferencia,Vicente Rubio Amo,Ejido,21.8,2.26,84.34,5.0,False,Frutas Frescas,Muy Insatisfecho
+2024-12-06,10:15,ChoColate,Mediano,3.27,70.45,230.37,1,Efectivo,Renata Torrent Pinilla,El Valle,22.5,3.27,230.37,5.0,False,Chispas de Chocolate,Satisfecho
+2024-08-15,21:30,Ponche Crema,Mediano,3.32,54.37,180.51,1,Pago Móvil,Candelaria Alegria Sotelo,Centro,26.8,3.32,180.51,5.0,False,Frutas Frescas,Neutral
+2024-06-22,17:00, Guanabana ,Grande,4.57,50.72,231.79,3,Divisas,Nicolasa Bilbao Sala,La Hechicera,21.2,13.71,695.37,5.0,False,Sirope de Chocolate,Muy Insatisfecho
+2024-05-07,18:45,Café,Pequeño,2.41,46.14,111.2,2,Transferencia,Lara del Mariño,Ejido,21.9,4.82,222.4,5.0,True,Sin Extra,Satisfecho
+2024-09-25,10:00, Guanabana ,Mediano,3.1,58.75,182.12,1,Transferencia,Cristian Ribas,El Valle,23.6,3.1,182.12,5.0,,Frutas Frescas,Satisfecho
+2024-09-09,21:15,Ponche Crema,Mediano,3.2,57.09,182.69,3,Tarjeta,Arturo Patricio Nebot Pomares,Belén,25.8,9.6,548.07,5.0,False,Frutas Frescas,Satisfecho
+2024-03-23,15:15,Avellana,Grande,5.4,42.06,227.12,1, Divisas ,Guiomar Vila,Centro,26.6,5.4,227.12,5.0,False,Frutas Frescas,Neutral
+2024-05-18,17:45, Guanabana ,Grande,4.34,46.34,201.12,1,Pago Móvil,Jenny de Bernal,La Hechicera,25.2,4.34,201.12,2.0,True,Sin Extra,
+2024-09-29,20:15,RON CON PASAS,Pequeño,1.64,59.21,97.1,3,Tarjeta,Apolonia Iborra Lloret,La Parroquia,21.7,4.92,291.3,2.0,False,Sin Extra,
+2024-04-03,10:45,Frutilla,Mediano,3.48,42.42,147.62,1,Tarjeta,Manu Echeverría Caballero,Ejido,19.0,3.48,147.62,2.0,False,Frutas Frescas,Neutral
+2024-09-25,20:00,RON con PAsas,Pequeño,1.73,59.96,103.73,2,Efectivo,Obdulia Salvador Guerrero,Centro,21.8,3.46,207.46,1.0,True,Sirope de Chocolate,
+2024-02-30,13:15,Pistacho,Pequeño,2.42,49.56,119.94,2,Transferencia,Domitila del Pellicer,Centro,18.5,4.84,239.88,3.0,True,Sirope de Chocolate,Insatisfecho
+2024-07-18,14:15,Mora,Grande,5.82,51.42,299.26,3,Transferencia,Valero Segismundo Amaya Luz,Ejido,21.9,17.46,897.78,5.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-10-26,19:45,Fresa,Pequeño,2.11,63.07,133.08,2, Pago Móvil ,Tadeo Gras,Ejido,20.7,4.22,266.16,5.0,False,Sin Extra,Neutral
+2024-07-18,21:00,VAINILLA,Grande,5.5,52.04,286.22,3,Tarjeta,Carmen Villena Mateo,Milla,50.0,16.5,858.66,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-16,10:00,Pistacho,Grande,4.52,43.36,195.99,2,Efectivo,Salomé María Miranda Arellano,Centro,25.8,9.04,391.98,4.0,False,Sin Extra,Satisfecho
+2024-08-06,12:30, Guanabana ,Pequeño,1.88,54.57,102.59,1,Divisas,Albert Uría Fernandez,Centro,19.7,1.88,102.59,4.0,True,Frutas Frescas,Muy Satisfecho
+2024-04-06,10:45,Dulce de Leche,Mediano,2.64,42.86,113.15,3,Transferencia,Eric Pacheco Tur,Centro,26.6,7.92,339.45,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-29,21:45,Fresa,Mediano,2.79,43.9,122.48,2,Tarjeta,Leocadia Correa Paniagua,Centro,20.8,5.58,244.96,2.0,False,Sin Extra,Muy Satisfecho
+2024-05-17,14:00,RON con PAsas,Mediano,2.71,47.29,128.16,1,Divisas,Santos Cánovas Benavides,Belén,19.4,2.71,128.16,5.0,False,Sin Extra,Neutral
+2024-08-12,21:45,Pistacho,,5.81,55.26,321.06,2,Pago Móvil,Kike Jose Ignacio Olmo Arnau,Centro,26.1,11.62,642.12,4.0,True,Sirope de Chocolate,Muy Insatisfecho
+2024-06-02,15:45, Guanabana ,Grande,5.12,47.9,245.25,1,Efectivo,Iris Riquelme-Guardiola,Centro,23.1,5.12,245.25,2.0,False,Sin Extra,Neutral
+2024-03-08,14:45,Guanábana,Mediano,2.98,40.21,119.83,3,Efectivo,Eutropio Mariscal Porcel,Centro,27.4,8.94,359.49,,False,Sirope de Chocolate,Satisfecho
+2024-05-23,21:00,COCADA,Mediano,2.8,47.27,132.36,3,Efectivo,Tecla Amalia Ortega Bolaños,Ejido,19.6,8.4,397.08,4.0,False,Sin Extra,Neutral
+2024-08-19,20:45,Mango,Grande,3.97,56.63,224.82,1,Transferencia,Bartolomé Olivares,El Valle,-5.0,3.97,224.82,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-02-02,13:45,Mango,Grande,4.41,38.06,167.84,1,Divisas,Ernesto Yuste Seco,Centro,24.4,4.41,167.84,5.0,True,Frutas Frescas,Insatisfecho
+2024-08-06,20:15,ChoColate,Mediano,3.09,54.93,169.73,3,Tarjeta,Gracia Piña Soler,Belén,19.8,9.27,509.19,2.0,False,Sin Extra,Satisfecho
+2024-07-25,17:30,Mango,Grande,4.89,53.19,260.1,3,Pago Móvil,Sancho Criado Rodríguez,La Pedregosa,24.2,14.67,780.3,5.0,False,Sirope de Chocolate,Satisfecho
+2024-09-21,17:45,Avellana,Grande,4.54,59.59,270.54,3, Transferencia ,Araceli Losa Naranjo,La Hechicera,25.6,13.62,811.62,2.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-05-09,18:30,Coco,Pequeño,1.61,45.63,73.46,2,Efectivo,Otilia Samper Rodríguez,Ejido,22.4,3.22,146.92,2.0,False,Frutas Frescas,Insatisfecho
+2024-03-26,21:30,Ponche Crema,Pequeño,1.71,41.56,71.07,1,Transferencia,Isaías Almagro Gascón,Ejido,19.7,1.71,71.07,2.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-06-03,14:00,Vainilla,Grande,4.22,47.43,200.15,1,Divisas,Nerea Sastre Egea,Ejido,27.9,4.22,200.15,2.0,False,Sirope de Chocolate,Insatisfecho
+2024-03-02,20:45,Coco,Pequeño,2.13,39.52,84.18,3,Efectivo,Rosario Chacón,Centro,26.8,6.39,252.54,4.0,False,Frutas Frescas,Satisfecho
+2024-06-07,15:00,Cocada ,Mediano,3.16,47.26,149.34,3,Divisas,María Cristina Moll-Cuéllar,Centro,22.3,9.48,448.02,5.0,,Frutas Frescas,Muy Satisfecho
+2024-09-26,17:00,Parchita,Pequeño,1.6,61.39,98.22,2,Tarjeta,Agapito Bertrán Iniesta,,18.0,3.2,196.44,4.0,False,Frutas Frescas,Insatisfecho
+2024-02-26,20:15,limón,Pequeño,2.16,39.07,84.39,3,Tarjeta,Juan José Santana Pinilla,Centro,18.9,6.48,253.17,4.0,True,Sirope de Chocolate,Satisfecho
+2024-04-17,17:00,Ron con Pasas,Pequeño,2.19,43.98,96.32,1,Efectivo,Ricarda Gelabert-Benito,Centro,19.0,2.19,96.32,2.0,False,Sin Extra,Satisfecho
+2024-01-10,20:15,Coco,Grande,3.52,35.18,123.83,3,Tarjeta,Ximena Beltran Benet,La Parroquia,19.5,10.56,371.49,4.0,,Chispas de Chocolate,Insatisfecho
+2024-05-12,13:30,Fresa,Mediano,3.29,45.53,149.79,3,Tarjeta,Sol Bueno Pérez,La Hechicera,24.0,9.87,449.37,2.0,True,Frutas Frescas,Satisfecho
+2024-03-13,11:15,Ponche Crema,Pequeño,1.99,40.2,80.0,2,Transferencia,Juan Carlos Barroso Ortega,Ejido,36.8,3.98,160.0,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-07-28,11:00,Cocada,Mediano,2.52,53.89,135.8,3,Efectivo,Jose Angel Galindo Escrivá,El Valle,27.5,7.56,407.4,3.0,False,Sin Extra,Muy Satisfecho
+2024-03-01,13:15,Vainilla,Pequeño,1.58,38.97,61.57,3,Divisas,Vanesa Taboada Río,El Valle,25.6,4.74,184.71,,False,Sin Extra,Muy Insatisfecho
+2024-10-27,10:30,Café,Pequeño,2.11,65.41,138.02,1,Tarjeta,Benito Santamaria Clavero,Centro,25.1,2.11,138.02,1.0,False,Sin Extra,Muy Satisfecho
+2024-01-18,10:30,Csfé,Mediano,3.39,35.71,121.06,2,Pago Móvil,Alfredo Calleja-Quintero,Belén,20.6,6.78,242.12,,False,Sin Extra,Insatisfecho
+2024-05-26,20:00,Dulce de Leche,Mediano,3.39,46.78,158.58,1, Transferencia ,Brígida Montoya-Iglesias,Ejido,35.2,3.39,158.58,,False,Sin Extra,Satisfecho
+2024-03-14,13:30,Csfé,Grande,5.14,40.81,209.76,1,Pago Móvil,Porfirio Tenorio Bustamante,Ejido,18.8,5.14,209.76,5.0,True,Sirope de Chocolate,Satisfecho
+2024-09-14,14:30,VAINILLA,Mediano,3.27,57.52,188.09,2,Pago Móvil,Nicolasa Rivero Escobar,Ejido,23.6,6.54,376.18,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-07-10,16:00,Ponche Crema,Grande,3.88,52.12,202.23,1,Pago Móvil,Jose Antonio Soria,La Parroquia,36.7,3.88,202.23,3.0,False,Frutas Frescas,Muy Satisfecho
+2024-07-07,10:15,RON con PAsas,Pequeño,1.78,52.39,93.25,2,Transferencia,Saturnina Leon,Centro,27.0,3.56,186.5,4.0,True,Sin Extra,Satisfecho
+2024-01-05,14:30,Chocolate,Grande,4.09,34.69,141.88,3,Divisas,Cristóbal Cruz-Muñoz,El Valle,25.4,12.27,425.64,3.0,True,Sirope de Chocolate,Satisfecho
+2024-03-10,18:30,Fresa,Mediano,2.91,39.7,115.53,1,Tarjeta,Ruben Marcos Espada,El Valle,22.6,2.91,115.53,4.0,False,Sin Extra,
+2024-03-14,20:30,Mora,Mediano,3.01,41.13,123.8,1, Tarjeta ,Jose Francisco Arnau Oliveras,La Hechicera,22.0,3.01,123.8,,False,Chispas de Chocolate,Muy Satisfecho
+2024-08-20,16:30,Chocolate,,1.7,54.7,92.99,1,Efectivo,Erasmo Crespo Echeverría,,20.6,1.7,92.99,4.0,True,Sirope de Chocolate,Neutral
+2024-04-21,19:45,Parchita,Mediano,2.67,43.08,115.02,2,Divisas,Rosendo Pedraza Múgica,Centro,21.8,5.34,230.04,5.0,False,Frutas Frescas,Neutral
+2024-12-30,18:45,VAINILLA,Grande,4.75,73.22,347.8,3,Tarjeta,Priscila Bejarano Roda,Centro,24.4,14.25,1043.4,5.0,True,Sin Extra,Muy Satisfecho
+2024-03-19,14:15,pistacho,Grande,4.3,40.79,175.4,2,Efectivo,Sosimo Córdoba Pagès,Ejido,25.8,8.6,350.8,5.0,False,Sin Extra,Satisfecho
+2024-09-16,13:45,Csfé,Grande,3.64,58.26,212.07,3,Tarjeta,Heliodoro Alberto,Centro,23.9,10.92,636.21,5.0,True,Frutas Frescas,Muy Insatisfecho
+2024-07-23,17:00,FRUTILLA,Mediano,2.81,53.76,151.07,1, Tarjeta ,Epifanio Carmona Perera,La Parroquia,22.8,2.81,151.07,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-07,12:00,,Pequeño,2.2,41.76,91.87,2,Pago Móvil,María Jesús Carbajo Cornejo,Centro,21.7,4.4,183.74,3.0,True,Frutas Frescas,Satisfecho
+2024-09-05,21:30,Cocada ,Mediano,2.82,58.57,165.17,2,Transferencia,Albina Vara Mate,,21.8,5.64,330.34,,False,Chispas de Chocolate,Muy Satisfecho
+2024-08-03,19:15,Fresa,Grande,5.8,52.79,306.18,3,Efectivo,Celia Ripoll Caballero,Centro,19.4,17.4,918.54,4.0,False,Sirope de Chocolate,Satisfecho
+2024-09-08,13:15,Café,Mediano,2.51,58.48,146.78,3,Pago Móvil,Marco Alemany Balaguer,El Valle,36.9,7.53,440.34,2.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-04-21,20:15,Coco,Mediano,3.15,43.64,137.47,3,Efectivo,Olga Requena Cuadrado,Centro,18.3,9.45,412.41,,True,Chispas de Chocolate,Muy Satisfecho
+2024-10-30,19:45,Fresa,Pequeño,2.09,64.59,134.99,1,Divisas,Nicodemo Grande Nogués,Ejido,19.6,2.09,134.99,5.0,True,Frutas Frescas,
+2024-06-09,14:15,TIZANA,Grande,5.15,49.45,254.67,3,Transferencia,Lucila del Daza,Centro,19.5,15.45,764.01,3.0,False,Sin Extra,Satisfecho
+2024-07-05,14:45,Avellana,Pequeño,2.34,50.48,118.12,3,Pago Móvil,Tiburcio Jafet Abad Zamorano,La Hechicera,23.4,10.727959090462395,246.23814234289608,,False,Sirope de Chocolate,Satisfecho
+2024-07-26,21:00,PARCHITA,Grande,3.88,54.08,209.83,1,Transferencia,América Riba Botella,El Valle,25.6,3.88,209.83,5.0,False,Sin Extra,Satisfecho
+2024-09-04,16:00,Avellana,Pequeño,1.8,57.83,104.09,2,Transferencia,Fabricio Pareja Alcalde,El Valle,24.8,3.6,208.18,2.0,False,Sirope de Chocolate,Satisfecho
+2024-04-21,16:15,Cocada,Mediano,3.49,43.09,150.38,1,Tarjeta,Belén Saldaña Grau,Belén,20.6,3.49,150.38,5.0,True,Chispas de Chocolate,Satisfecho
+2024-04-17,18:45,RON con PAsas,Pequeño,2.12,43.6,92.43,2,Tarjeta,Magdalena Miró,Centro,23.9,4.24,184.86,4.0,True,Sin Extra,Satisfecho
+2024-11-05,19:45,MORA,Mediano,3.15,66.44,209.29,2,Tarjeta,Mayte Mena Cazorla,Centro,24.8,6.3,418.58,4.0,False,Sirope de Chocolate,
+2024-05-15,17:00,Vainilla,Mediano,2.78,44.97,125.02,2,Tarjeta,Consuelo Gallo Milla,La Hechicera,27.7,5.56,250.04,1.0,False,Sin Extra,Muy Satisfecho
+2024-07-31,18:15,limón,Grande,5.55,54.37,301.75,2,Divisas,Ámbar Llorens Vilar,Ejido,26.5,11.1,603.5,5.0,False,Sirope de Chocolate,
+2024-09-14,18:45,Limón,Mediano,3.32,59.38,197.14,2,Efectivo,Marcelo Ortuño,La Hechicera,20.4,6.64,394.28,1.0,False,Sin Extra,Satisfecho
+2024-07-07,16:00,Cocada,Grande,4.21,51.85,218.29,2,Transferencia,Reina Pagès Barco,Ejido,20.1,8.42,436.58,4.0,False,Frutas Frescas,Satisfecho
+2024-08-27,10:15,Cocada ,Pequeño,1.67,55.32,92.38,3,Pago Móvil,Adela Carretero Ayllón,Centro,25.1,5.01,277.14,4.0,False,Sin Extra,Satisfecho
+2024-07-07,20:30,Guanábana,Pequeño,2.01,50.95,102.41,3,Transferencia,Faustino Agustí Perales,Centro,21.0,6.03,307.23,4.0,False,Frutas Frescas,Satisfecho
+2024-04-17,10:45,Pistacho,Pequeño,2.27,43.12,97.88,3,Tarjeta,Pascual de Canals,Centro,24.6,6.81,293.64,5.0,False,Sin Extra,Insatisfecho
+2024-04-18,20:45,Csfé,Mediano,3.21,44.33,142.3,3,Pago Móvil,Fortunato Cabrero-Valera,Centro,26.5,9.63,426.9,4.0,False,Frutas Frescas,
+2024-09-20,20:00, Guanabana ,Pequeño,2.4,60.27,144.65,3,Tarjeta,Águeda Estévez-Beltran,El Valle,21.1,7.2,433.95,4.0,False,Sin Extra,Muy Satisfecho
+2024-04-07,13:00,,Grande,4.68,42.88,200.68,3,Divisas,Calixta Pereira Caro,Belén,22.1,14.04,602.04,4.0,False,Frutas Frescas,Satisfecho
+2024-07-07,17:30,Mango,Grande,5.45,50.3,274.13,2,Tarjeta,Julio César Ureña,El Valle,18.6,10.9,548.26,2.0,False,Sin Extra,Insatisfecho
+2024-06-26,16:45,Cocada ,Mediano,2.93,49.17,144.07,1,Efectivo,Ámbar Noguera Lorenzo,La Hechicera,25.3,2.93,144.07,3.0,False,Chispas de Chocolate,Insatisfecho
+2024-07-18,18:30,Chocolate,Mediano,2.6,53.33,138.66,3,Efectivo,Amada Jerez Vara,Ejido,20.9,7.8,415.98,3.0,False,Sin Extra,Neutral
+2024-09-04,16:00,Mango,Pequeño,2.45,57.21,140.16,2,Tarjeta,Artemio Roca Cuesta,Centro,18.2,4.9,280.32,4.0,True,Sin Extra,Satisfecho
+2024-07-20,10:00, Guanabana ,Pequeño,1.61,52.8,85.01,1,Divisas,Augusto Bru Juan,Milla,19.2,1.61,85.01,3.0,False,Chispas de Chocolate,
+2024-10-17,11:00,Chocolate,Grande,4.55,63.17,287.42,2,Efectivo,Rodrigo Crespo Guijarro,Milla,24.1,9.1,574.84,3.0,False,Frutas Frescas,Neutral
+2024-03-11,10:00,Avellana,Grande,4.33,41.28,178.74,2,Efectivo,Eduardo Fuentes Gual,La Hechicera,24.7,8.66,357.48,2.0,True,Chispas de Chocolate,Satisfecho
+2024-06-26,10:30,Dulce de Leche,Pequeño,2.31,49.51,114.37,2,Pago Móvil,Arsenio Fabra Ariño,El Valle,19.2,4.62,228.74,4.0,True,Sirope de Chocolate,Satisfecho
+2024-03-18,15:15,Csfé,Mediano,2.59,41.95,108.65,2,Divisas,Carlos Villalba Colom,Ejido,20.7,5.18,217.3,1.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-02-04,20:45,Avellana,Grande,5.51,36.91,203.37,1,Divisas,Nicolasa Barral-Peinado,Ejido,24.1,5.51,203.37,2.0,False,Sin Extra,Muy Satisfecho
+2024-09-07,20:15,Fresa,Grande,3.53,56.71,200.19,1,Pago Móvil,Álvaro Aramburu,Centro,24.9,3.53,200.19,2.0,False,Sin Extra,Neutral
+2024-06-05,12:45,Parchita,Grande,3.53,48.98,172.9,3,Tarjeta,María Belén Arellano,Centro,22.9,10.59,518.7,5.0,True,Sin Extra,Neutral
+2024-02-23,17:45,Coco,Mediano,2.95,38.28,112.93,1,Divisas,Duilio Criado Zurita,El Valle,18.2,2.95,112.93,4.0,True,Chispas de Chocolate,Satisfecho
+2024-05-08,15:30, Guanabana ,Grande,4.64,45.57,211.44,3,Tarjeta,Emelina Oliva Rico,Ejido,21.3,13.92,634.32,4.0,False,Sin Extra,
+2024-10-12,15:00,VAINILLA,Grande,4.87,61.72,300.58,2,Tarjeta,Luis Ángel Barros Fuente,Ejido,25.4,9.74,601.16,1.0,False,Sirope de Chocolate,Neutral
+2024-03-06,20:00,Ron con Pasas,Pequeño,1.55,40.49,62.76,1,Divisas,Araceli Saez Huertas,Ejido,23.9,1.55,62.76,5.0,True,Sin Extra,Satisfecho
+2024-07-23,12:15,Mango,,5.23,52.83,276.3,3,Transferencia,Celso de Lara,Belén,21.2,15.69,828.9,2.0,False,Frutas Frescas,Satisfecho
+2024-09-20,18:30,,Grande,5.72,58.42,334.16,1,Transferencia,Valentín Moya Marqués,Belén,25.1,5.72,334.16,3.0,False,Sirope de Chocolate,Neutral
+2024-05-18,12:30,Cocada ,Grande,5.94,45.5,270.27,3,Pago Móvil,Hilario Durán Verdú,El Valle,23.8,17.82,810.81,1.0,False,Sin Extra,Neutral
+2024-05-29,12:30,Guayaba,Pequeño,1.77,46.32,81.99,11,Tarjeta,Lisandro Niño Garay,El Valle,24.9,19.47,901.89,4.0,True,Frutas Frescas,Insatisfecho
+2024-09-24,16:15,Csfé,Pequeño,2.15,60.15,129.32,3,Pago Móvil,Nerea Coca Cárdenas,Centro,18.5,6.45,387.96,4.0,False,Sin Extra,
+2024-05-31,15:15,RON con PAsas,Grande,5.27,48.34,254.75,2,Tarjeta,Adelia Florinda Pazos Uriarte,Ejido,19.8,10.54,509.5,5.0,False,Sin Extra,Satisfecho
+2024-09-27,17:15,tizana,Grande,3.51,59.22,207.86,2,Transferencia,Paula Cuenca Cisneros,La Hechicera,27.3,7.02,415.72,4.0,False,Sin Extra,Satisfecho
+2024-03-27,18:15,Pistacho,Pequeño,1.57,41.19,64.67,3,Transferencia,Julio Raya Sanabria,Ejido,21.5,4.71,194.01,4.0,False,Frutas Frescas,Insatisfecho
+2024-04-25,15:45,Guanábana,Grande,3.79,45.35,171.88,2,Transferencia,Ciriaco Portero Simó,El Valle,20.4,7.58,343.76,4.0,False,Chispas de Chocolate,Satisfecho
+2024-09-26,17:45,pistacho,Mediano,3.3,61.17,201.86,3,Tarjeta,Apolinar Sainz Bas,,18.8,9.9,605.58,4.0,True,Chispas de Chocolate,
+2024-10-25,21:45,Guayaba,Pequeño,2.04,63.56,129.66,3,Efectivo,María Becerra Rueda,Ejido,19.5,6.12,388.98,3.0,True,Chispas de Chocolate,
+2024-03-07,20:45,Ron con Pasas,Mediano,2.89,40.78,117.85,3,Efectivo,Manu Riera Viñas,La Hechicera,38.6,8.67,353.55,3.0,True,Sin Extra,
+2024-09-29,14:45,Vainilla,Grande,5.02,59.38,298.09,3,Efectivo,Delia Alcaraz Tudela,El Valle,23.3,15.06,894.27,3.0,False,Sirope de Chocolate,Neutral
+2024-05-22,12:00,frutilla,Pequeño,2.37,47.06,111.53,3,Divisas,Emelina Lamas Viñas,El Valle,27.5,7.11,334.59,3.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-10-31,12:00,Tizana,Grande,3.99,63.55,253.56,1,Transferencia,Rosalva Bello Molins,La Hechicera,23.5,3.99,253.56,4.0,True,Sirope de Chocolate,Satisfecho
+2024-05-03,11:15,Dulce de Leche,Pequeño,1.79,45.36,81.19,1,Divisas,Felisa Durán-Arranz,Centro,24.6,1.79,81.19,2.0,False,Frutas Frescas,Satisfecho
+2024-04-09,15:15,Ron con Pasas,Grande,4.19,43.32,181.51,1,Pago Móvil,Armida Jovita Guerra Torrens,Centro,22.6,10.829465208990358,15.363721780046301,5.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-09-12,20:00,Tizana,Pequeño,2.23,59.69,133.11,1,Efectivo,Narciso Uribe-Verdú,El Valle,24.3,2.23,133.11,3.0,False,Chispas de Chocolate,Satisfecho
+2024-03-26,19:30,Limón,Pequeño,1.89,42.01,79.4,2,Transferencia,César Cruz-Sureda,Centro,22.0,3.78,158.8,4.0,False,Sin Extra,Satisfecho
+2024-07-12,15:00,Csfé,Pequeño,2.23,52.14,116.27,3,Divisas,Che Feliciano Bauzà Izaguirre,El Valle,20.6,6.69,348.81,5.0,False,Sin Extra,Neutral
+2024-09-20,14:30,Pistacho,Grande,5.08,58.97,299.57,3,Transferencia,Anastasia Sabater Alcalá,El Valle,24.5,15.24,898.71,4.0,True,Sin Extra,Satisfecho
+2024-07-13,19:00,Avellana,Mediano,3.29,51.45,169.27,2,Tarjeta,José Verdugo Querol,El Valle,20.3,6.58,338.54,2.0,False,Sirope de Chocolate,Satisfecho
+2024-12-04,20:45,Csfé,Mediano,2.61,68.18,177.95,3,Transferencia,Milagros Escalona Milla,El Valle,26.3,7.83,533.85,4.0,False,Sirope de Chocolate,Neutral
+2024-03-08,19:00,Pistacho,Pequeño,2.46,39.55,97.29,1,Pago Móvil,Teresita Armengol Rico,Belén,20.2,2.46,97.29,4.0,False,Sirope de Chocolate,Insatisfecho
+2024-05-12,14:15,ChoColate,Pequeño,2.16,46.52,100.48,3,Pago Móvil,Camilo Valentín Arrieta,El Valle,24.0,6.48,301.44,2.0,False,Chispas de Chocolate,
+2024-09-08,17:00,ChoColate,Pequeño,1.6,57.85,92.56,3,Transferencia,Natalia Colomer Luque,La Hechicera,19.2,4.8,277.68,,True,Sin Extra,Neutral
+2024-07-19,21:00,Mora,Mediano,2.85,52.27,148.97,3,Pago Móvil,Rufina Armas Falcó,,20.3,8.55,446.91,3.0,False,Frutas Frescas,Satisfecho
+2024-09-27,13:30,Guanábana,Grande,4.44,60.4,268.18,3,Efectivo,Alcides Amador Valdés,Centro,24.5,13.32,804.54,4.0,False,Sin Extra,Satisfecho
+2024-04-08,18:45,Avellana,Grande,3.95,42.6,168.27,1,Pago Móvil,Alba del Pedraza,La Pedregosa,25.7,3.95,168.27,4.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-03-09,20:00,Frutilla,,3.11,40.31,125.36,1,Efectivo,Miguel Ángel Diaz-Goicoechea,Centro,26.2,3.11,125.36,,True,Chispas de Chocolate,Insatisfecho
+2024-04-06,14:00,ChoColate,Mediano,3.16,42.37,133.89,3,Tarjeta,Ernesto Macías Criado,Ejido,22.4,9.48,401.67,5.0,False,Sirope de Chocolate,
+2024-05-03,20:00,Parchita,Grande,4.4,45.23,199.01,1,Efectivo,Rosalina León Alsina,Milla,25.8,4.4,199.01,2.0,False,Sin Extra,
+2024-05-24,14:15,Coco,Grande,4.37,46.4,202.77,3,Tarjeta,Visitación Matilde Batalla Cabrera,,35.9,13.11,608.31,4.0,True,Sin Extra,
+2024-09-19,17:45,Coco,,4.13,60.72,250.77,3,Tarjeta,Vilma Pedrero-Alemán,Centro,27.6,12.39,752.31,2.0,True,Sin Extra,Muy Satisfecho
+2024-09-12,15:00,Fresa,Pequeño,1.91,59.06,112.8,1,Pago Móvil,María Cuevas Expósito,El Valle,18.9,1.91,112.8,3.0,True,Sin Extra,Neutral
+2024-04-10,13:45, Guanabana ,Grande,5.83,42.46,247.54,3,Tarjeta,José Mari Carbonell Seco,Centro,26.7,17.49,742.62,5.0,False,Sin Extra,
+2024-12-22,18:00,Avellana,Grande,5.03,72.26,363.47,1,Pago Móvil,Jordana Sanmartín Benítez,El Valle,22.9,5.03,363.47,5.0,False,Sin Extra,Satisfecho
+2024-02-12,16:45,Chocolate,Grande,3.64,37.73,137.34,2,Efectivo,Ricarda Aguado Morell,Centro,21.9,7.28,274.68,4.0,True,Sin Extra,Satisfecho
+2024-02-30,14:15,Fresa,Pequeño,1.86,69.8,129.83,11,Tarjeta,Moisés Perales Clavero,La Pedregosa,27.6,20.46,1428.13,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-05-15,19:15,Coco,Pequeño,1.63,45.56,74.26,2,Pago Móvil,Sebastián Falcón Barros,Belén,23.6,3.26,148.52,3.0,False,Sin Extra,Muy Satisfecho
+2024-09-18,14:30,Fresa,Grande,5.46,59.3,323.78,3, Transferencia ,Mayte Amaya Paredes,,19.0,16.38,971.34,4.0,,Sin Extra,Muy Satisfecho
+2024-07-07,14:30,FRUTILLA,Grande,5.83,50.86,296.51,2,Transferencia,Adelardo Abella Tejero,Ejido,23.8,11.66,593.02,2.0,False,Frutas Frescas,Muy Satisfecho
+2024-06-15,20:15,ChoColate,Mediano,2.79,49.96,139.39,2,Pago Móvil,Irene Escamilla,Ejido,24.1,5.58,278.78,4.0,True,Sirope de Chocolate,
+2024-03-02,17:30,Mora,Grande,4.18,39.27,164.15,3,Transferencia,Elisa Amat Mínguez,Centro,22.1,12.54,492.45,5.0,,Frutas Frescas,Satisfecho
+2024-03-06,17:00,COCADA,Pequeño,2.44,39.85,97.23,1,Efectivo,Tecla Guzmán Andreu,Centro,24.2,2.44,97.23,5.0,False,Frutas Frescas,Neutral
+2024-03-09,15:30,Guanábana,Pequeño,1.54,39.55,60.91,1,Divisas,Magdalena Gordillo Ojeda,El Valle,23.4,1.54,60.91,3.0,False,Sin Extra,Muy Satisfecho
+2024-12-28,15:45,,Grande,4.83,72.27,349.06,3,Efectivo,Amado Cordero Borrás,La Parroquia,21.7,14.49,1047.18,4.0,True,Sin Extra,Muy Satisfecho
+2024-06-25,17:30,AVELLANA,Grande,5.87,50.09,294.03,2,Pago Móvil,Cristóbal Rufino Chico Sosa,Centro,26.0,11.74,588.06,4.0,False,Sin Extra,Muy Satisfecho
+2024-02-16,18:30,Ron con Pasas,Pequeño,2.13,38.03,81.0,2,Transferencia,José Luis Cámara,La Hechicera,22.1,4.26,162.0,5.0,False,Chispas de Chocolate,Insatisfecho
+2024-02-05,18:00,Guanábana,Mediano,2.65,37.71,99.93,3,Efectivo,Maite Revilla Valero,El Valle,-5.0,7.95,299.79,5.0,False,Chispas de Chocolate,Insatisfecho
+2024-06-27,15:00,RON con PAsas,Mediano,3.29,51.44,169.24,2,Tarjeta,Evelia Lobato Jover,El Valle,25.8,6.58,338.48,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-24,10:15,Ponche Crema,Mediano,3.24,43.62,141.33,3,Efectivo,José Ángel Fuentes,Ejido,27.8,9.72,423.99,5.0,False,Frutas Frescas,Satisfecho
+2024-03-29,13:30,Avellana,Mediano,3.14,41.98,131.82,3,Tarjeta,Rosalinda Rodrigo-Mir,El Valle,20.4,9.42,395.46,4.0,False,Sin Extra,Neutral
+2024-08-28,12:30,Avellana,Grande,5.22,57.05,297.8,10,Tarjeta,Brunilda Anglada Piñeiro,Centro,18.9,60.47160104795457,2705.4069657104174,4.0,True,Chispas de Chocolate,Satisfecho
+2024-04-26,20:30,Fresa,Pequeño,2.48,43.52,107.93,1,Divisas,Daniela Hervia-Fernández,La Pedregosa,18.2,2.48,107.93,5.0,False,Chispas de Chocolate,Neutral
+2024-08-09,15:45,Mango,Grande,4.86,54.67,265.7,3,Transferencia,Rolando Cano-Llorens,Ejido,23.5,14.58,797.1,4.0,False,Frutas Frescas,Satisfecho
+2024-09-11,15:15,Guanábana,Pequeño,2.12,58.08,123.13,3,Efectivo,Virginia Vara Busquets,La Parroquia,23.4,6.36,369.39,5.0,False,Sin Extra,Muy Satisfecho
+2024-09-13,12:15, Guanabana ,Grande,3.67,57.53,211.14,2,Tarjeta,Vasco Leocadio Monreal Lerma,Ejido,19.9,7.34,422.28,5.0,,Sin Extra,Muy Satisfecho
+2024-04-05,13:45,Cocada,Grande,3.53,41.94,148.05,2,Efectivo,Eva Echevarría Sanabria,Ejido,24.4,7.06,296.1,3.0,False,Frutas Frescas,Satisfecho
+2024-07-10,13:00,Vainilla,Pequeño,1.58,50.34,79.54,3,Tarjeta,Melchor Mateo-Morales,Ejido,19.9,4.74,238.62,4.0,False,Sin Extra,Muy Satisfecho
+2024-05-11,16:00,Café,Grande,5.26,45.87,241.28,3,Tarjeta,Roque Leon Lucena,Centro,23.0,15.78,723.84,5.0,False,Frutas Frescas,Satisfecho
+2024-04-16,15:15,Ron con Pasas,Grande,5.57,43.28,241.07,2,Tarjeta,Jimena Carmona Porta,La Hechicera,23.5,11.14,482.14,,False,Sin Extra,Muy Satisfecho
+2024-08-05,14:00,Chocolate,Grande,5.98,54.52,326.03,2,Tarjeta,Adrián Anaya-Ugarte,La Hechicera,21.1,11.96,652.06,5.0,False,Sin Extra,Muy Satisfecho
+2024-08-01,15:15,Chocolate,Mediano,2.64,52.6,138.86,1,Pago Móvil,Aníbal Lorenzo Barranco,Belén,22.0,2.64,138.86,4.0,False,Sin Extra,Satisfecho
+2024-03-24,10:45,CHOCOLATE,Pequeño,2.14,42.18,90.27,3,Pago Móvil,María Manuela Gaya Llopis,La Hechicera,26.2,6.42,270.81,4.0,False,Sin Extra,Muy Satisfecho
+2024-05-07,12:30,,Pequeño,2.04,44.89,91.58,1,Tarjeta,Danilo Mayoral,La Parroquia,24.7,2.04,91.58,4.0,True,Sirope de Chocolate,Satisfecho
+2024-06-19,16:30,csfé,Grande,3.62,48.38,175.14,2,Tarjeta,Gabino Cueto Vergara,Belén,22.8,7.24,350.28,5.0,False,Sin Extra,Neutral
+2024-12-05,19:00,Fresa,Mediano,3.18,68.44,217.64,1,Divisas,Telmo Samuel Garzón Morante,El Valle,21.5,3.18,217.64,5.0,True,Frutas Frescas,
+2024-03-26,13:15,Parchita,Mediano,3.42,41.94,143.43,2,Tarjeta,Albert Lasa Araujo,El Valle,26.5,6.84,286.86,4.0,False,Frutas Frescas,
+2024-06-28,13:15,Guayaba,Mediano,3.24,50.23,162.75,2,Pago Móvil,Cornelio Barberá Gallo,La Hechicera,24.2,6.48,325.5,3.0,True,Sin Extra,Satisfecho
+2024-06-03,10:45,RON con PAsas,,2.12,46.8,99.22,1,Efectivo,Cirino del Mur,La Pedregosa,24.6,2.12,99.22,5.0,False,Chispas de Chocolate,
+2024-01-20,15:45,RON con PAsas,Grande,3.75,37.41,-140.29,1,Transferencia,Anita Porras Pinto,El Valle,20.0,3.75,140.29,4.0,True,Chispas de Chocolate,Satisfecho
+2024-08-14,15:30,Limón,Pequeño,2.18,55.92,121.91,2,Transferencia,Jacobo Asenjo Gimeno,La Parroquia,18.6,4.36,243.82,5.0,True,Sin Extra,Neutral
+2024-04-07,20:15,Csfé,Pequeño,1.88,43.03,80.9,2,Transferencia,Juan José Suarez-Pereira,Centro,27.7,3.76,161.8,2.0,False,Sirope de Chocolate,Satisfecho
+2024-04-06,18:15,RON con PAsas,Mediano,3.21,43.38,139.25,1,Tarjeta,Cipriano Espiridión Fuertes Cuesta,La Hechicera,23.6,3.21,139.25,,True,Sirope de Chocolate,Satisfecho
+2024-04-09,21:30,Ron con Pasas,Mediano,2.8,43.68,122.3,2,Tarjeta,Trini Palomar,Ejido,19.8,5.6,244.6,2.0,False,Sin Extra,Muy Satisfecho
+2024-07-31,12:45,RON con PAsas,Pequeño,2.28,52.46,119.61,3,Pago Móvil,Fabio Vallejo Carranza,El Valle,21.9,6.84,358.83,5.0,False,Chispas de Chocolate,Neutral
+2024-06-14,11:15,Guayaba,Grande,5.39,48.24,260.01,2,Divisas,Ruben Cabezas Alberola,Milla,22.9,10.78,520.02,1.0,False,Sin Extra,Satisfecho
+2024-05-16,19:00,ChoColate,Mediano,3.44,46.66,160.51,2,Divisas,Román Maldonado Bárcena,Ejido,26.8,6.88,321.02,2.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-06-14,14:45,Mora,Mediano,3.38,48.16,162.78,1,Pago Móvil,Gilberto Blanca Sarabia,La Pedregosa,18.5,3.38,162.78,4.0,False,Chispas de Chocolate,Satisfecho
+2024-04-14,10:15,Ron con Pasas,Mediano,2.82,43.4,122.39,3,Tarjeta,Marc del Pla,La Pedregosa,18.9,8.46,367.17,4.0,False,Chispas de Chocolate,
+2024-01-10,18:15,Csfé,Mediano,3.29,35.86,117.98,1, Divisas ,Guiomar de Vázquez,Milla,19.7,3.29,117.98,3.0,,Sirope de Chocolate,Muy Satisfecho
+2024-03-14,12:00,,Grande,4.22,40.31,170.11,2, Tarjeta ,Nilda Raquel Viñas Bilbao,Centro,37.5,8.44,340.22,4.0,False,Sin Extra,Neutral
+2024-05-09,11:00,Café,Mediano,2.91,45.72,133.05,1,Transferencia,Anastasia Bauzà Barón,Ejido,24.3,2.91,133.05,4.0,False,Sirope de Chocolate,
+2024-07-19,11:00,Vainilla,Grande,4.33,52.89,229.01,1,Tarjeta,Roldán Belda Riba,La Parroquia,20.8,4.33,229.01,3.0,False,Sin Extra,Muy Satisfecho
+2024-03-10,18:00,Cocada,Mediano,3.26,40.02,130.47,2,Tarjeta,Bernardo Alcolea Alba,Ejido,26.6,6.52,260.94,1.0,False,Sirope de Chocolate,Neutral
+2024-08-21,19:30,Avellana,Pequeño,2.22,56.11,124.56,3,Pago Móvil,Sol Guardia-Reig,El Valle,23.8,6.66,373.68,5.0,False,Sin Extra,Muy Insatisfecho
+2024-04-06,10:45,Guayaba,Mediano,2.5,42.05,105.12,3,Efectivo,Paola Agullo Macías,La Hechicera,20.1,7.5,315.36,5.0,True,Frutas Frescas,Neutral
+2024-12-06,14:30,Tizana,Mediano,3.29,68.35,224.87,3,Pago Móvil,Chuy Seco Torrent,Ejido,19.1,9.87,674.61,3.0,True,Sirope de Chocolate,Insatisfecho
+2024-05-06,12:45,Cocada ,Pequeño,1.64,46.18,75.74,2,Transferencia,Anastasio de Núñez,El Valle,22.6,3.28,151.48,5.0,True,Sin Extra,Muy Satisfecho
+2024-03-02,15:00, Guanabana ,Grande,4.33,38.78,167.92,3,Pago Móvil,Ramona de Pareja,Centro,21.4,12.99,503.76,4.0,False,Sin Extra,Satisfecho
+2024-03-20,16:00,RON con PAsas,Mediano,2.53,41.61,105.27,2,Tarjeta,Clemente Palomo Lucena,El Valle,26.3,5.06,210.54,3.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-05-29,12:15,Avellana,Pequeño,2.4,47.24,113.38,1,Divisas,Elodia Rocamora Canales,La Parroquia,23.2,2.4,113.38,2.0,True,Sin Extra,Neutral
+2024-03-21,10:00,Dulce de Leche,Grande,3.51,41.04,144.05,2,Efectivo,Norberto Madrid Barragán,La Parroquia,25.7,7.02,288.1,3.0,False,Sirope de Chocolate,Satisfecho
+2024-08-10,12:30,Dulce de Leche,Grande,4.18,55.55,232.2,2,Transferencia,Dulce Catalán Coloma,La Pedregosa,19.0,8.36,464.4,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-10-18,10:15,fresa,Grande,4.85,61.57,298.61,1,Efectivo,Caridad Bonilla Gallardo,El Valle,18.5,4.85,298.61,3.0,False,Sin Extra,Satisfecho
+2024-08-08,11:45,CAFÉ,Pequeño,2.07,55.43,114.74,3,Divisas,Florinda Peralta,Ejido,27.5,6.21,344.22,3.0,False,Frutas Frescas,Satisfecho
+2024-01-02,15:45,Cocada,Pequeño,1.98,35.16,69.62,2,Tarjeta,Zaira Valle Echevarría,La Pedregosa,21.5,3.96,139.24,4.0,False,Chispas de Chocolate,Satisfecho
+2024-05-19,13:15,Ron con Pasas,Grande,4.1,46.35,190.03,3,Divisas,Manuel de Barrera,El Valle,20.1,12.3,570.09,5.0,False,Sin Extra,
+2024-04-11,17:00,RON con PAsas,Grande,4.94,43.4,214.4,3,Divisas,Tomasa Gomis Paniagua,La Hechicera,19.0,14.82,643.2,5.0,False,Chispas de Chocolate,Satisfecho
+2024-11-18,13:15, Guanabana ,Grande,3.65,66.36,242.21,2,Efectivo,Tatiana María Manuela Benito Antón,Centro,24.6,7.3,484.42,5.0,,Sirope de Chocolate,Satisfecho
+2024-01-10,15:00,RON con PAsas,Mediano,3.48,35.46,123.4,3,Transferencia,Armida Cerro Santiago,La Parroquia,22.0,10.44,370.2,3.0,False,Sin Extra,Satisfecho
+2024-03-14,21:45,Guanábana,,2.74,39.91,109.35,2,Divisas,Celestino de Vidal,Ejido,22.4,5.48,218.7,3.0,False,Sirope de Chocolate,Insatisfecho
+2024-07-20,11:00,Chocolate,Grande,3.84,51.65,198.34,2,Divisas,Trinidad Tejedor,Centro,27.7,7.68,396.68,,,Sin Extra,Satisfecho
+2024-04-05,17:45,Ron con Pasas,Grande,4.88,41.85,204.23,3,Tarjeta,Dafne Benigna Belda Perera,Milla,18.1,14.64,612.69,3.0,False,Sin Extra,Muy Insatisfecho
+2024-09-25,17:00,Limón,Grande,3.78,60.29,227.9,1,Transferencia,Dalila Español Ojeda,Centro,27.8,3.78,227.9,2.0,True,Sin Extra,Satisfecho
+2024-08-16,18:30,Cocada,Grande,5.21,55.92,291.34,3,Pago Móvil,Cruz Arellano Manzano,El Valle,18.1,15.63,874.02,4.0,False,Sin Extra,
+2024-11-10,19:30,CSFÉ,Grande,4.26,64.35,274.13,1,Tarjeta,Asunción Baños Pujadas,Centro,24.6,4.26,274.13,3.0,True,Frutas Frescas,Muy Insatisfecho
+2024-04-13,14:00,Tizana,Grande,4.19,42.68,178.83,2,Transferencia,Merche Ávila Antón,La Hechicera,23.9,8.38,357.66,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-05-03,19:15,Cocada,Mediano,3.47,45.78,158.86,3,Divisas,Ceferino Juan Pablo Amo Diaz,Ejido,20.4,10.41,476.58,5.0,False,Sin Extra,Satisfecho
+2024-03-23,17:15,Mora,Mediano,2.98,40.51,120.72,1,Divisas,Natalio Botella-Menéndez,Milla,19.5,2.98,120.72,5.0,False,Sin Extra,Satisfecho
+2024-12-30,16:30,Cocada ,Grande,4.38,71.33,312.43,1,Pago Móvil,Paulino Simón Jordán Pintor,,20.6,4.38,312.43,4.0,False,Sin Extra,Muy Insatisfecho
+2024-09-24,11:00, Guanabana ,Pequeño,1.51,59.41,89.71,1,Transferencia,Iván Mayo Iborra,Milla,22.5,1.51,89.71,5.0,False,Chispas de Chocolate,
+2024-09-01,21:00,chocolate,Pequeño,2.14,58.4,124.98,3,Divisas,Priscila Ascensión Moles Mancebo,La Hechicera,27.0,6.42,374.94,5.0,True,Sirope de Chocolate,Neutral
+2024-09-14,20:30,Ron con Pasas,Mediano,3.19,58.65,187.09,3,Efectivo,Macaria Carreras Llanos,El Valle,18.6,9.57,561.27,3.0,False,Frutas Frescas,Satisfecho
+2024-04-28,12:45,Cocada ,Pequeño,1.99,44.77,89.09,1,Efectivo,Jeremías Alfonso-Barros,Ejido,25.2,1.99,89.09,3.0,False,Sin Extra,
+2024-06-19,21:30,Mora,Grande,4.17,50.47,210.46,1, Transferencia ,Angelita Alegre,Ejido,25.1,4.17,210.46,4.0,False,Chispas de Chocolate,Satisfecho
+2024-05-01,14:45,limón,Grande,4.33,43.95,190.3,2,Efectivo,Adoración Hernandez Mateos,Centro,26.5,8.66,380.6,5.0,False,Sirope de Chocolate,Neutral
+2024-08-08,15:45,dulce de leche,Mediano,3.13,54.05,169.18,1,Tarjeta,Dani Cabanillas,La Parroquia,19.9,3.13,169.18,3.0,False,Sin Extra,
+2024-06-15,10:30,Guanábana,Mediano,2.54,50.14,127.36,3,Efectivo,Amada Casado Rubio,Ejido,20.1,7.62,382.08,2.0,False,Sin Extra,Satisfecho
+2024-06-07,21:15,chocolate,Mediano,2.55,48.6,123.93,2,Pago Móvil,Esteban Folch Torres,Ejido,19.0,5.1,247.86,4.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-06-20,21:45,Fresa,Mediano,3.31,50.25,166.33,1,Transferencia,Aura Cañas Riquelme,La Hechicera,21.2,3.31,166.33,2.0,True,Sin Extra,
+2024-09-19,13:00,Frutilla,Mediano,2.67,58.39,155.9,2,Transferencia,Amando Trillo Abella,Belén,19.6,5.34,311.8,5.0,True,Sirope de Chocolate,Satisfecho
+2024-06-30,12:30,RON con PAsas,Mediano,2.63,50.29,132.26,2,Divisas,Rosalinda Ortega Suarez,El Valle,19.7,5.26,264.52,5.0,False,Sin Extra,Muy Satisfecho
+2024-02-12,18:00,Ponche Crema,Grande,3.98,38.1,151.64,2,Transferencia,Adelardo Salas Pedrosa,Ejido,22.6,7.96,303.28,3.0,True,Sirope de Chocolate,Satisfecho
+2024-04-20,10:30, Guanabana ,Pequeño,2.42,43.82,106.04,2,Divisas,Gabriela Vizcaíno Valbuena,El Valle,24.2,4.84,212.08,2.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-03-21,19:30,Ponche Crema,Pequeño,2.22,41.3,91.69,2,Pago Móvil,Leandro Che Cuervo Lozano,La Hechicera,19.1,4.44,183.38,,,Sirope de Chocolate,Satisfecho
+2024-04-26,19:45,Chocolate,Mediano,2.72,43.37,117.97,2,Pago Móvil,Nico de Vélez,Milla,25.2,5.44,235.94,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-02-01,15:15,Café,Mediano,2.92,36.7,107.16,1,Transferencia,Martín Puig,Ejido,25.9,2.92,107.16,5.0,False,Chispas de Chocolate,Satisfecho
+2024-06-09,16:15,Tizana,Mediano,2.51,48.65,122.11,1,Divisas,Edelmira Evelia Puig Villena,Ejido,26.9,2.51,122.11,5.0,True,Sin Extra,Neutral
+2024-06-15,21:00,Mora,Grande,4.7,47.87,224.99,3,Tarjeta,Jeremías Gascón-Ferrández,Belén,25.5,14.1,674.97,3.0,,Sirope de Chocolate,Muy Satisfecho
+2024-05-14,19:00,Mango,Mediano,3.2,45.93,146.98,1,Divisas,Cristina Piña,Centro,26.7,3.2,146.98,1.0,False,Sin Extra,Muy Satisfecho
+2024-08-16,16:30,Pistacho,Mediano,2.53,56.56,143.1,2,Transferencia,Armando Julián Soriano,Centro,25.9,5.06,286.2,3.0,False,Chispas de Chocolate,Satisfecho
+2024-12-21,15:30,Café,Mediano,3.12,70.11,218.74,1,Transferencia,Omar Heras Piñeiro,Centro,23.6,3.12,218.74,1.0,False,Sirope de Chocolate,Satisfecho
+2024-02-15,13:30,Guayaba,Grande,5.38,39.19,210.84,3,Pago Móvil,Fermín Lladó-Milla,El Valle,22.2,16.14,632.52,5.0,False,Sin Extra,Muy Satisfecho
+2024-02-30,15:00,Vainilla,Grande,4.63,66.72,308.91,3,Divisas,Vicenta Ribas Valencia,Centro,21.9,13.89,926.73,4.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-07-21,16:15,Cocada ,Grande,3.56,53.65,190.99,1,Divisas,Verónica Páez Pozo,Centro,24.4,3.56,190.99,4.0,False,Sin Extra,Muy Satisfecho
+2024-07-26,18:45,Coco,Mediano,3.17,53.95,171.02,3,Transferencia,Candela Merche Arnau Galván,La Parroquia,25.9,9.51,513.06,4.0,False,Frutas Frescas,Neutral
+2024-05-03,21:30,ChoColate,Pequeño,2.42,44.49,107.67,2,Tarjeta,Prudencio Pareja Gabaldón,La Hechicera,24.9,4.84,215.34,2.0,False,Chispas de Chocolate,
+2024-09-20,20:30,Frutilla,Pequeño,2.21,59.1,130.61,2,Tarjeta,Maxi Feijoo-Verdugo,,23.4,4.42,261.22,4.0,True,Sin Extra,Muy Satisfecho
+2024-12-01,15:30,Frutilla,Grande,5.94,67.52,401.07,2,Pago Móvil,Apolonia Garay-Cabanillas,La Hechicera,25.5,11.88,802.14,4.0,False,Frutas Frescas,Satisfecho
+2024-01-16,19:15,Vainilla,Pequeño,1.52,36.57,55.59,1,Efectivo,Aurelia Reyna Aguilera Belda,Centro,24.1,1.52,55.59,4.0,False,Sirope de Chocolate,
+2024-09-18,15:00,Mora,Grande,3.99,60.6,241.79,3,Pago Móvil,Pablo Castrillo Bárcena,Ejido,25.2,11.97,725.37,5.0,True,Frutas Frescas,Satisfecho
+2024-06-22,16:45,Café,Grande,5.35,48.68,260.44,3,Divisas,Fabiola María Teresa Carrión Ortega,El Valle,22.1,16.05,781.32,1.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-05-28,16:30,Mora,Grande,3.72,46.26,172.09,2,Transferencia,Mónica del Roldan,La Parroquia,23.7,7.44,344.18,5.0,False,Frutas Frescas,Satisfecho
+2024-08-22,10:00,Csfé,Grande,4.66,55.59,259.05,3,Pago Móvil,José Manuel Quero Blanch,Centro,26.3,13.98,777.15,5.0,False,Sin Extra,Muy Satisfecho
+2024-03-28,11:30,Avellana,Mediano,3.49,41.06,143.3,1,Transferencia,Isa Cózar Planas,El Valle,20.6,3.49,143.3,5.0,True,Frutas Frescas,Satisfecho
+2024-05-11,21:15,Fresa,Pequeño,1.96,45.88,89.92,1,Efectivo,Erasmo Ugarte Prado,La Pedregosa,22.2,1.96,89.92,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-12-26,18:30,ChoColate,Pequeño,2.25,71.07,159.91,3,Pago Móvil,Francisca Cerdá Tormo,Centro,25.0,6.75,479.73,5.0,False,Sirope de Chocolate,
+2024-08-05,18:15,,Pequeño,1.72,54.03,92.93,2,Transferencia,Rufina Dominguez Pizarro,La Pedregosa,26.3,3.44,185.86,4.0,True,Sin Extra,Muy Satisfecho
+2024-09-27,17:30,RON con PAsas,Mediano,2.86,60.27,172.37,1, Pago Móvil ,Palmira Gallego Jerez,El Valle,26.1,2.86,172.37,2.0,False,Sirope de Chocolate,Satisfecho
+2024-04-23,17:45,COCADA,Pequeño,1.52,44.5,67.64,2,Transferencia,Tamara Echevarría Heredia,El Valle,22.7,3.04,135.28,3.0,False,Chispas de Chocolate,Neutral
+2024-04-23,10:00,Mango,Pequeño,2.17,44.28,96.09,1,Pago Móvil,Rubén Benítez Reyes,La Parroquia,21.5,2.17,96.09,1.0,False,Sin Extra,Muy Satisfecho
+2024-05-18,12:00,Guayaba,Grande,5.91,46.41,274.28,1,Efectivo,Cebrián Mayoral Andrés,La Pedregosa,27.2,5.91,274.28,4.0,False,Sin Extra,Satisfecho
+2024-02-30,15:00,Ponche Crema,Grande,4.52,45.44,205.39,2,Transferencia,Mauricio Jerez Carlos,El Valle,25.6,9.04,410.78,5.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-03-02,16:30,Café,Grande,4.06,40.2,163.21,3,Divisas,Pablo del Correa,La Hechicera,18.7,12.18,489.63,4.0,False,Sirope de Chocolate,
+2024-08-02,12:45, Guanabana ,Grande,3.71,53.78,199.52,2,Transferencia,Kike Baeza Vizcaíno,Centro,25.4,7.42,399.04,5.0,False,Sirope de Chocolate,Satisfecho
+2024-07-10,21:30,Csfé,Mediano,3.0,50.83,152.49,1,Divisas,Berto de Zamora,Ejido,24.7,3.0,152.49,3.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-04-22,10:00,Guanábana,Pequeño,1.6,43.41,69.46,2,Efectivo,Alejandro Almagro Navarro,El Valle,21.8,3.2,138.92,5.0,True,Chispas de Chocolate,Satisfecho
+2024-07-07,14:30,Avellana,,4.73,50.45,238.63,2,Transferencia,Visitación Guerra,Ejido,27.5,9.46,477.26,4.0,True,Sin Extra,Neutral
+2024-06-24,14:15, Guanabana ,Grande,5.65,48.74,275.38,1,Tarjeta,Griselda Losada Barceló,Milla,21.9,5.65,275.38,3.0,False,Sin Extra,Neutral
+2024-05-07,16:30,Tizana,Mediano,2.99,45.35,135.6,1,Pago Móvil,León Barranco Valderrama,Centro,18.3,2.99,135.6,4.0,False,Sin Extra,
+2024-11-23,20:15,Ron con Pasas,Mediano,2.85,67.36,191.98,1,Pago Móvil,Teodora Solsona Antón,La Hechicera,27.1,2.85,191.98,,False,Sirope de Chocolate,
+2024-05-19,17:00,Tizana,Mediano,2.52,46.59,117.41,2,Divisas,Rómulo Quintero Peñalver,Centro,21.2,5.04,234.82,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-12-15,20:00,Ron con Pasas,Mediano,2.7,71.05,191.84,1,Transferencia,Maximiliano Sebastián Lastra,Milla,20.7,2.7,191.84,4.0,False,Sin Extra,Muy Satisfecho
+2024-05-01,18:45,Cocada,Mediano,3.07,45.0,138.15,1,Pago Móvil,Macarena Carreras Alcázar,Ejido,24.5,3.07,138.15,3.0,False,Sin Extra,Muy Satisfecho
+2024-07-14,20:15,Mango,Grande,5.7,51.81,295.32,3,Tarjeta,Roberto Rios Guerrero,El Valle,26.2,17.1,885.96,3.0,False,Sin Extra,Satisfecho
+2024-06-27,14:45,Csfé,Pequeño,2.19,49.32,108.01,2,Efectivo,Espiridión Tomás Oller,Ejido,26.5,4.38,216.02,4.0,False,Frutas Frescas,Insatisfecho
+2024-09-22,18:45,Vainilla,Pequeño,1.96,58.81,115.27,1,Efectivo,Aníbal Folch Daza,Centro,20.7,1.96,115.27,3.0,False,Sin Extra,Insatisfecho
+2024-07-31,14:00,Cocada,Pequeño,1.81,54.48,98.61,2,Divisas,Leandro Iker Burgos Ariza,Centro,24.7,3.62,197.22,,False,Sirope de Chocolate,Muy Satisfecho
+2024-11-21,11:15,Pistacho,Grande,4.13,67.89,280.39,3,Pago Móvil,Mateo Solís Peralta,Centro,23.8,12.39,841.17,5.0,False,Sin Extra,Satisfecho
+2024-08-19,18:30,Coco,Mediano,2.56,55.64,142.44,2,Efectivo,Asdrubal Bas Rivera,La Hechicera,22.2,5.12,284.88,4.0,False,Frutas Frescas,Satisfecho
+2024-03-09,20:00,Parchita,Grande,5.6,41.23,230.89,3,Tarjeta,Baltasar Martin Ramos,El Valle,21.8,16.8,692.67,5.0,True,Sin Extra,Satisfecho
+2024-12-09,13:30,Vainilla,Mediano,2.59,71.29,184.64,2,Tarjeta,Ángela Barón Borja,La Hechicera,24.3,5.18,369.28,3.0,False,Chispas de Chocolate,Satisfecho
+2024-06-03,11:15,Fresa,Mediano,3.22,47.78,153.85,2,Transferencia,Judith Alvarado Querol,La Hechicera,22.2,6.44,307.7,5.0,False,Sin Extra,Satisfecho
+2024-07-19,13:30,Chocolate,Grande,3.51,52.79,185.29,1,Efectivo,Vasco Montes Morante,Belén,20.5,3.51,185.29,4.0,False,Sin Extra,Muy Satisfecho
+2024-06-16,19:30,Tizana,Pequeño,1.67,50.02,83.53,2,Tarjeta,Luis Miguel del Vives,El Valle,21.7,3.34,167.06,5.0,False,Chispas de Chocolate,Satisfecho
+2024-06-10,21:15,café,Pequeño,1.7,47.87,81.38,3,Transferencia,Herminia Sandra Colomer Canet,El Valle,18.9,5.1,244.14,5.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-06-24,13:15,Dulce de Leche,,2.72,50.71,137.93,2,Pago Móvil,José Badía Cordero,Ejido,22.9,5.44,275.86,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-16,13:30,Ponche Crema,Mediano,3.12,42.45,132.44,1,Divisas,Loida Adán Marin,Ejido,22.7,3.12,132.44,5.0,False,Sirope de Chocolate,Satisfecho
+2024-01-16,13:45,Parchita,Grande,3.63,35.48,128.79,2,Transferencia,Azahar Flores Vazquez,Ejido,27.7,7.26,257.58,5.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-06-28,12:30,Frutilla,Pequeño,1.54,50.73,78.12,2,Divisas,Aarón Ribes Moles,Milla,26.8,3.08,156.24,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-08-14,16:30,Csfé,Mediano,2.86,56.27,160.93,2,Pago Móvil,Cándido Ariño-Mínguez,La Parroquia,25.6,5.72,321.86,5.0,False,Frutas Frescas,Insatisfecho
+2024-05-01,10:15,Cocada ,Grande,5.5,45.58,250.69,3,Tarjeta,Artemio Dávila-Duarte,El Valle,22.7,16.5,752.07,5.0,True,Sin Extra,
+2024-07-17,11:30,csfé,Pequeño,2.37,52.13,123.55,2,Tarjeta,Adoración Ágata Gisbert Sobrino,Milla,25.5,4.74,247.1,5.0,False,Sin Extra,Muy Satisfecho
+2024-03-08,20:00,Ponche Crema,Pequeño,2.27,40.05,90.91,1,Efectivo,Yéssica Benavente Robledo,Belén,27.8,2.27,90.91,1.0,True,Frutas Frescas,
+2024-07-08,10:30,Tizana,Grande,4.99,51.26,255.79,3,Transferencia,Olga Frías Saura,Ejido,21.2,14.97,767.37,,False,Sirope de Chocolate,Satisfecho
+2024-08-14,16:30,ChoColate,Grande,4.45,55.92,248.84,1,Divisas,Sabina Borrell Poza,El Valle,26.5,4.45,248.84,5.0,False,Sirope de Chocolate,Satisfecho
+2024-04-19,11:30,Chocolate,Grande,4.4,44.61,196.28,2,Divisas,Alejo Mendizábal Portillo,Centro,21.9,8.8,392.56,2.0,True,Sin Extra,Muy Satisfecho
+2024-06-03,20:15,Fresa,Grande,5.93,46.88,278.0,2,Tarjeta,Margarita de Ocaña,Belén,23.3,11.86,556.0,,False,Sin Extra,
+2024-03-22,14:00,Ponche Crema,Mediano,3.02,41.73,126.02,1,Efectivo,Lilia de Mateo,El Valle,23.1,3.02,126.02,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-03-27,16:00,mango,Mediano,3.29,42.27,139.07,1,Pago Móvil,Raúl Cózar Caro,La Hechicera,25.2,3.29,139.07,5.0,False,Frutas Frescas,Satisfecho
+2024-06-13,11:45,Tizana,Grande,5.68,47.79,271.45,1,Efectivo,Jeremías Diego Soto,La Hechicera,18.1,5.68,271.45,4.0,,Sin Extra,Muy Satisfecho
+2024-04-29,14:00,RON con PAsas,Grande,5.19,44.31,229.97,3,Efectivo,Luciano Alcalá Caro,La Hechicera,26.2,15.57,689.91,4.0,True,Sirope de Chocolate,Neutral
+2024-06-26,17:15,,Grande,3.72,50.99,189.68,3,Efectivo,Victoriano Casanovas Mas,Ejido,27.0,11.16,569.04,1.0,False,Sin Extra,
+2024-06-24,11:45,Parchita,Mediano,2.83,50.07,141.7,2,Divisas,Ibán Águila Losa,Centro,24.0,5.66,283.4,,False,Sin Extra,Muy Satisfecho
+2024-07-14,18:00,Ponche Crema,Mediano,3.21,52.98,170.07,3,Pago Móvil,Bibiana Almazán Hernández,Ejido,20.7,9.63,510.21,2.0,True,Sin Extra,Muy Satisfecho
+2024-10-22,15:45,Csfé,Mediano,2.69,61.91,166.54,2,Tarjeta,Gracia Bartolomé,La Parroquia,24.8,5.38,333.08,1.0,False,Sirope de Chocolate,Neutral
+2024-03-19,17:15,Cocada ,Grande,5.34,41.79,223.16,2,Pago Móvil,Petrona Contreras-Mena,Belén,18.9,10.68,446.32,5.0,False,Sin Extra,Satisfecho
+2024-05-07,10:30,,,1.55,44.89,69.58,2,Pago Móvil,Dora Pascuala Barrios Tomé,La Pedregosa,19.7,3.1,139.16,3.0,True,Frutas Frescas,Muy Satisfecho
+2024-03-20,18:30,Limón,Mediano,3.27,41.16,134.59,1,Transferencia,Nazaret Ariño Cuadrado,La Pedregosa,19.0,3.27,134.59,4.0,False,Chispas de Chocolate,Neutral
+2024-03-05,20:00,Pistacho,Pequeño,1.61,40.62,65.4,1,Pago Móvil,Amanda Zamora Conde,Centro,20.9,1.61,65.4,5.0,True,Sirope de Chocolate,Neutral
+2024-05-24,17:30,Guanábana,Mediano,2.75,46.76,128.59,1,Tarjeta,Marianela Xiomara Font Rosselló,La Hechicera,21.7,2.75,128.59,5.0,False,Sirope de Chocolate,Satisfecho
+2024-05-25,18:30,Ron con Pasas,Mediano,3.4,47.7,162.18,1,Divisas,Teobaldo Duarte-Escolano,El Valle,18.1,3.4,162.18,,True,Frutas Frescas,Neutral
+2024-09-09,12:00, Guanabana ,Pequeño,2.42,57.89,140.09,1,Transferencia,Heraclio Jose Ignacio Romero Céspedes,,22.2,2.42,140.09,5.0,False,Frutas Frescas,Satisfecho
+2024-05-01,20:15,RON con PAsas,Pequeño,1.9,45.04,85.58,3,Transferencia,Román de Roman,,24.5,5.7,256.74,4.0,False,Sirope de Chocolate,Neutral
+2024-08-01,18:30,Chocolate,Grande,4.8,54.44,261.31,2,Transferencia,Xiomara del Montes,Centro,23.2,9.6,522.62,4.0,True,Sin Extra,Muy Satisfecho
+2024-05-01,15:30,Dulce de Leche,Grande,5.33,44.62,237.82,3,Pago Móvil,Anna Núñez Botella,El Valle,25.6,15.99,713.46,3.0,True,Sin Extra,Muy Insatisfecho
+2024-03-25,19:15, Guanabana ,Grande,4.83,41.74,201.6,3,Pago Móvil,Leocadio Verdú Echeverría,Ejido,26.2,22.143607866210843,420.26421856017475,4.0,False,Sin Extra,Muy Satisfecho
+2024-06-26,21:45,Café,Mediano,2.6,50.9,132.34,1,Efectivo,Benito Machado Serra,La Pedregosa,22.2,2.6,132.34,,True,Frutas Frescas,Neutral
+2024-03-17,17:45,Avellana,Grande,5.09,41.7,212.25,2,Divisas,Luciano Varela Linares,Centro,19.4,10.18,424.5,5.0,False,Sin Extra,Muy Satisfecho
+2024-09-04,11:45,Frutilla,Pequeño,1.87,56.28,105.24,2,Pago Móvil,Jordi Osorio Piñol,Centro,18.4,3.74,210.48,5.0,False,Frutas Frescas,Satisfecho
+2024-09-15,21:45,vainilla,Mediano,2.72,58.67,159.58,3,Efectivo,Tiburcio Calvo Pi,La Hechicera,22.2,8.16,478.74,1.0,False,Sin Extra,Muy Satisfecho
+2024-03-07,12:30,,,3.17,40.14,127.24,1,Transferencia,Leopoldo Puga-Bello,Ejido,20.3,3.17,127.24,5.0,False,Frutas Frescas,Satisfecho
+2024-08-12,11:00,Vainilla,Grande,4.9,55.39,271.41,3,Transferencia,María Manuela Segura Alba,La Hechicera,25.6,14.7,814.23,2.0,False,Sin Extra,Satisfecho
+2024-04-04,21:45,guayaba,Mediano,2.75,43.42,119.41,1,Pago Móvil,Rogelio Gallart Calzada,La Pedregosa,18.4,2.75,119.41,3.0,False,Sirope de Chocolate,Satisfecho
+2024-12-03,12:15,Frutilla,Pequeño,1.67,67.57,112.84,2,Efectivo,Sancho Palacio Mayol,La Hechicera,27.5,3.34,225.68,4.0,False,Sirope de Chocolate,
+2024-03-27,11:00,Tizana,Mediano,2.88,41.03,118.17,2,Transferencia,Paola Roura Tovar,El Valle,22.9,5.76,236.34,5.0,True,Frutas Frescas,
+2024-03-14,10:30,Ponche Crema,Grande,5.78,39.74,-229.7,2,Transferencia,Íngrid Verdú-Vidal,El Valle,20.5,11.56,459.4,4.0,False,Sin Extra,Muy Insatisfecho
+2024-07-29,12:15,Limón,Pequeño,2.04,54.27,110.71,1,Divisas,Mar Olga Cabello Báez,La Hechicera,23.6,2.04,110.71,4.0,False,Sirope de Chocolate,
+2024-02-21,20:15,Mora,Grande,6.0,38.47,230.82,3,Transferencia,Eligia Rozas Vera,La Pedregosa,19.6,18.0,692.46,5.0,True,Sin Extra,Neutral
+2024-01-15,15:30,ChoColate,Pequeño,2.0,36.85,73.7,2,Divisas,José Ángel Ramírez Lloret,Ejido,24.6,4.0,147.4,5.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-05-10,18:45, Guanabana ,Pequeño,1.67,45.55,76.07,3,Transferencia,Yaiza de Márquez,La Parroquia,26.8,5.01,228.21,4.0,False,Chispas de Chocolate,Insatisfecho
+2024-06-25,15:15,Guanábana,Grande,3.81,49.72,189.43,2,Tarjeta,Manola de Chaparro,El Valle,25.6,7.62,378.86,,False,Chispas de Chocolate,Insatisfecho
+2024-11-29,17:15,limón,Mediano,2.54,67.52,171.5,1,Divisas,Dimas Vara Pazos,Belén,20.8,2.54,171.5,5.0,False,Sin Extra,Muy Satisfecho
+2024-03-28,19:15,Chocolate,Pequeño,1.76,41.08,72.3,3,Pago Móvil,Leocadia Murcia Sainz,Ejido,24.8,5.28,216.9,1.0,False,Sin Extra,Neutral
+2024-08-05,16:30,Fresa,Pequeño,1.93,55.46,107.04,3,Transferencia,Ainara Ferrero Gil,Belén,21.6,5.79,321.12,2.0,False,Chispas de Chocolate,Satisfecho
+2024-04-23,10:15,Cocada,Mediano,3.38,43.85,148.21,1,Divisas,Victoriano Yuste Company,La Parroquia,27.2,3.38,148.21,2.0,True,Chispas de Chocolate,
+2024-08-20,13:30,Ponche Crema,Mediano,2.61,57.13,149.11,15,Pago Móvil,Nayara del Fernández,El Valle,20.4,39.15,2236.65,2.0,False,Chispas de Chocolate,Satisfecho
+2024-08-25,21:00,Fresa,Mediano,3.39,57.65,195.43,1,Efectivo,Genoveva del Peinado,Ejido,22.4,3.39,195.43,5.0,True,Chispas de Chocolate,Neutral
+2024-05-31,19:00,Ron con Pasas,Grande,4.08,47.33,193.11,2,Divisas,Luis Ángel Guitart Álamo,Milla,26.8,8.16,386.22,2.0,True,Sin Extra,Satisfecho
+2024-08-17,13:15,Coco,Pequeño,2.29,55.85,127.9,1,Pago Móvil,Dalila Azeneth Mayoral Uribe,Ejido,22.8,2.29,127.9,1.0,False,Chispas de Chocolate,
+2024-05-30,12:15,Coco,Mediano,3.39,48.07,162.96,3,Transferencia,Cristian Ortega-Huertas,Centro,37.9,10.17,488.88,2.0,False,Chispas de Chocolate,Satisfecho
+2024-07-15,13:00,Guayaba,Pequeño,2.14,51.83,110.92,1,Divisas,Consuelo Roura Campos,Ejido,27.8,2.14,110.92,5.0,False,Sin Extra,Muy Satisfecho
+2024-07-16,13:45,Cocada ,Pequeño,1.72,52.13,89.66,1,Tarjeta,Lilia Olmo Alcaraz,Centro,25.7,1.72,89.66,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-02-30,14:45,Frutilla,Pequeño,1.62,42.13,68.25,10,Transferencia,Sebastián Tamarit Anglada,La Hechicera,21.6,16.2,682.5,5.0,False,Sirope de Chocolate,Satisfecho
+2024-03-31,14:00,guanábana,Pequeño,1.68,41.57,69.84,3,Divisas,Bienvenida Asenjo,Centro,26.9,5.04,209.52,4.0,False,Sirope de Chocolate,Satisfecho
+2024-06-28,11:00,Ron con Pasas,Grande,5.7,51.49,293.49,3,Tarjeta,Clarisa Heras Amor,Belén,19.9,17.1,880.47,5.0,False,Sirope de Chocolate,Insatisfecho
+2024-05-14,20:30,Fresa,Pequeño,1.75,45.5,79.62,3,Transferencia,Teresita Jennifer Fernandez Pedrosa,La Hechicera,26.9,5.25,238.86,3.0,False,Sin Extra,
+2024-05-24,12:30,Avellana,Mediano,3.02,47.49,143.42,3,Transferencia,Aránzazu Almazán Roman,Milla,25.2,9.06,430.26,5.0,False,Sin Extra,Neutral
+2024-04-11,16:15,Guayaba,Mediano,2.81,43.82,123.13,2,Pago Móvil,Eladio Valencia Pacheco,Centro,18.8,5.62,246.26,4.0,False,Sirope de Chocolate,Neutral
+2024-07-18,17:30,Ron con Pasas,,2.87,52.22,149.87,2,Efectivo,Encarnita Pérez Blasco,Centro,20.3,5.74,299.74,5.0,True,Frutas Frescas,Satisfecho
+2024-06-22,10:15,Dulce de Leche,Pequeño,1.57,50.75,79.68,2,Pago Móvil,Ambrosio Ariño Figueroa,Ejido,25.5,3.14,159.36,5.0,False,Sin Extra,Neutral
+2024-06-09,14:30,Guanábana,,3.27,48.53,158.69,3,Divisas,Duilio de Torrecilla,Centro,26.2,9.81,476.07,,False,Sin Extra,
+2024-04-01,17:30,Café,Grande,5.31,42.22,224.19,1,Pago Móvil,Manuela de Pinilla,Milla,22.3,5.31,224.19,5.0,,Sin Extra,Insatisfecho
+2024-06-09,20:30,Guanábana,Grande,4.75,47.96,227.81,1,Divisas,Ezequiel Moraleda Parra,La Parroquia,25.5,4.75,227.81,3.0,False,Frutas Frescas,Satisfecho
+2024-08-03,19:45,Coco,Mediano,3.13,53.12,166.27,1,Tarjeta,Concepción Marqués Salvador,Centro,18.6,3.13,166.27,5.0,False,Sin Extra,Muy Satisfecho
+2024-04-29,21:45,,Grande,3.58,43.74,156.59,1,Divisas,Jacinto Perez Casado,La Pedregosa,20.3,3.58,156.59,4.0,True,Frutas Frescas,Satisfecho
+2024-09-26,17:00,Chocolate,Pequeño,2.04,59.88,122.16,2,Tarjeta,Josefa Paniagua Cruz,Centro,20.1,4.08,244.32,1.0,,Sirope de Chocolate,Muy Satisfecho
+2024-11-21,12:45,TIZANA,Mediano,2.7,68.06,183.76,3,Tarjeta,Asunción del Perales,Ejido,27.1,8.1,551.28,4.0,True,Chispas de Chocolate,Muy Satisfecho
+2024-11-20,12:45,Mora,Mediano,3.11,68.35,212.57,3,Transferencia,Pía Alemany Toro,,22.6,14.25809947493079,443.13276259591447,5.0,True,Sin Extra,Muy Satisfecho
+2024-07-29,11:15,Frutilla,Grande,4.23,52.91,223.81,1,Divisas,Cebrián Feijoo Alcolea,La Pedregosa,23.5,4.23,223.81,3.0,True,Sin Extra,Satisfecho
+2024-03-22,20:45,Café,Pequeño,1.53,40.75,62.35,2,Divisas,Concha España Hervia,Centro,35.6,3.06,124.7,3.0,False,Frutas Frescas,Satisfecho
+2024-03-17,12:45,RON con PAsas,Pequeño,2.45,41.04,100.55,1,Tarjeta,Galo Segura Ariño,Ejido,18.2,2.45,100.55,5.0,False,Sirope de Chocolate,
+2024-03-06,20:15,Guayaba,Pequeño,2.21,39.93,88.25,1,Efectivo,Aarón Elorza Valera,La Hechicera,26.1,2.21,88.25,5.0,True,Sin Extra,Muy Satisfecho
+2024-07-03,13:15,PONCHE CREMA,Pequeño,1.87,51.49,96.29,1,Efectivo,Tadeo Cristian Canals Cuadrado,Milla,19.9,1.87,96.29,3.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-07-01,18:45,Guayaba,Grande,5.06,50.15,253.76,2,Efectivo,Timoteo Cabeza Tur,Milla,19.1,10.12,507.52,5.0,False,Chispas de Chocolate,Satisfecho
+2024-06-14,13:45,Parchita,Mediano,2.57,49.28,126.65,2,Transferencia,Dimas Toro Herrero,El Valle,27.9,5.14,253.3,5.0,False,Frutas Frescas,Satisfecho
+2024-08-01,20:30,Chocolate,Grande,4.33,53.54,231.83,3,Divisas,Clotilde Valera,Belén,18.2,12.99,695.49,4.0,False,Sin Extra,Satisfecho
+2024-01-19,16:15,Vainilla,Pequeño,1.74,36.93,64.26,3,Efectivo,Dora Río Alcaraz,Milla,23.0,5.22,192.78,4.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-05-29,10:45,Tizana,Pequeño,1.82,48.26,87.83,3,Pago Móvil,Juan Luis Calleja-Palmer,El Valle,20.3,5.46,263.49,5.0,False,Sin Extra,
+2024-01-30,18:30,ChoColate,Pequeño,2.37,37.64,89.21,3,Efectivo,Ester del Carbajo,El Valle,22.9,7.11,267.63,5.0,False,Sirope de Chocolate,Insatisfecho
+2024-09-19,14:15,Ron con Pasas,Pequeño,2.22,58.59,130.07,1,Tarjeta,Hernán Galvez,Centro,24.1,2.22,130.07,4.0,False,Frutas Frescas,Neutral
+2024-03-31,18:45,Avellana,Pequeño,1.94,41.89,81.27,2, Divisas ,Paca Gámez,La Hechicera,21.8,3.88,162.54,3.0,False,Sin Extra,Satisfecho
+2024-06-27,19:45,,Mediano,2.88,50.11,144.32,2,Divisas,Lorenza Solera,El Valle,39.3,5.76,288.64,5.0,False,Sin Extra,Satisfecho
+2024-03-27,19:00,Vainilla,Mediano,3.14,41.51,130.34,3,Efectivo,Ildefonso Santos Parejo Sacristán,El Valle,19.2,9.42,391.02,5.0,False,Frutas Frescas,Muy Satisfecho
+2024-03-16,20:45,Limón,Grande,5.24,40.84,214.0,3,Tarjeta,Hipólito Trillo-Campillo,Milla,18.3,15.72,642.0,3.0,True,Sirope de Chocolate,Muy Insatisfecho
+2024-07-29,10:00, Guanabana ,Grande,5.6,52.84,295.9,2,Divisas,Socorro Cadenas Barrio,Ejido,23.9,11.2,591.8,5.0,False,Sin Extra,Satisfecho
+2024-09-14,21:45,Mora,Grande,4.97,60.15,298.95,3,Efectivo,Cloe Suárez Vila,Centro,23.7,22.78545157247782,623.2043062428783,5.0,False,Sirope de Chocolate,Satisfecho
+2024-05-30,21:45,Dulce de Leche,Pequeño,1.57,48.21,75.69,1,Pago Móvil,Atilio Bejarano Azorin,Centro,19.7,1.57,75.69,3.0,False,Sin Extra,Insatisfecho
+2024-10-10,13:30,Csfé,Pequeño,1.68,60.95,102.4,1,Divisas,María José Montoya Fernandez,El Valle,27.1,1.68,102.4,2.0,True,Frutas Frescas,
+2024-06-24,11:00,avellana,Mediano,3.17,50.11,158.85,1,Efectivo,Flor Vidal Saura,Belén,25.9,8.19317534904521,13.445690070852047,5.0,True,Sin Extra,Muy Insatisfecho
+2024-09-19,15:30,ChoColate,Mediano,2.93,59.29,173.72,2,Tarjeta,Irene Taboada-Acero,La Hechicera,24.7,5.86,347.44,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-05-28,18:30,Guanábana,Pequeño,2.1,47.81,100.4,2,Tarjeta,Emma Uriarte Plana,El Valle,24.2,4.2,200.8,4.0,,Sirope de Chocolate,
+2024-02-22,21:30,Parchita,Mediano,3.47,38.09,132.17,2,Tarjeta,Edmundo Pomares Losada,,22.0,6.94,264.34,2.0,False,Sin Extra,Muy Satisfecho
+2024-01-27,18:00,Guayaba,Grande,5.28,36.84,194.52,3,Efectivo,Baldomero Collado-Lastra,Centro,24.7,15.84,583.56,1.0,False,Sin Extra,Muy Satisfecho
+2024-03-19,16:00,RON con PAsas,Grande,3.72,40.52,150.73,1,Pago Móvil,Maximiliano de Gascón,Ejido,25.7,3.72,150.73,5.0,False,Chispas de Chocolate,Satisfecho
+2024-11-28,19:00,Fresa,Grande,5.68,66.89,379.94,2,Divisas,Samuel Marcos Barrena,Belén,25.4,11.36,759.88,4.0,False,Sirope de Chocolate,Satisfecho
+2024-06-21,11:30,Guayaba,Grande,5.36,49.21,263.77,1,Pago Móvil,Alfonso Alcides Catalán Díez,La Hechicera,35.3,5.36,263.77,1.0,False,Sin Extra,Neutral
+2024-05-13,19:15,Pistacho,Pequeño,2.16,46.87,101.24,3,Efectivo,Aroa Cabeza Francisco,Ejido,22.6,6.48,303.72,3.0,False,Sin Extra,Satisfecho
+2024-06-03,14:00,Parchita,Grande,5.0,48.24,241.2,3,Transferencia,Ceferino Campo,Centro,26.3,15.0,723.6,2.0,False,Chispas de Chocolate,Satisfecho
+2024-06-21,12:45,RON con PAsas,Pequeño,2.24,50.46,113.03,1,Pago Móvil,Bernabé Peñas,La Pedregosa,24.6,2.24,113.03,5.0,False,Frutas Frescas,Neutral
+2024-09-01,21:15,Csfé,Grande,4.21,56.96,239.8,2,Transferencia,Pancho Castillo,Ejido,19.3,8.42,479.6,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-04-14,21:15,Guayaba,Pequeño,1.72,43.26,74.41,3,Efectivo,Violeta Gascón,Ejido,26.6,5.16,223.23,4.0,False,Sin Extra,Satisfecho
+2024-04-23,11:30,Mango,Mediano,3.45,43.2,149.04,1,Tarjeta,Ángel Cobos Corbacho,Centro,22.0,3.45,149.04,4.0,False,Frutas Frescas,Muy Insatisfecho
+2024-08-21,17:45,,Grande,3.72,56.8,211.3,2,Divisas,Darío Martín Madrid,Centro,19.2,7.44,422.6,5.0,False,Chispas de Chocolate,Satisfecho
+2024-02-07,20:45,Mango,Grande,4.46,38.34,171.0,3,Tarjeta,Francisco Javier del Suárez,El Valle,18.6,13.38,513.0,5.0,False,Sin Extra,Satisfecho
+2024-08-27,19:00,Avellana,Grande,3.66,57.5,210.45,3,Tarjeta,Osvaldo Sabater Arroyo,Ejido,27.0,10.98,631.35,2.0,False,Chispas de Chocolate,Satisfecho
+2024-02-30,14:00,MANGO,Grande,3.72,60.43,224.8,1,Pago Móvil,María Belén Sanabria Arenas,Centro,23.4,3.72,224.8,1.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-01-16,21:30,Chocolate,Mediano,3.08,36.53,112.51,2,Pago Móvil,Leticia Aparicio Mercader,La Pedregosa,23.1,6.16,225.02,5.0,True,Sirope de Chocolate,
+2024-07-01,15:30,Frutilla,Grande,4.04,51.75,209.07,1,Transferencia,Rafael Ramírez Figuerola,Centro,23.5,4.04,209.07,4.0,,Sin Extra,Muy Satisfecho
+2024-10-07,14:15,Cocada,Pequeño,2.13,60.45,128.76,3,Transferencia,Martirio Alvarado Parejo,Centro,26.2,6.39,386.28,4.0,False,Frutas Frescas,Neutral
+2024-04-02,20:45,dulce de leche,Mediano,3.03,41.74,126.47,14,Pago Móvil,Nuria Clavero,Ejido,25.8,42.42,1770.58,5.0,False,Chispas de Chocolate,
+2024-10-03,14:45,MANGO,Pequeño,2.03,61.91,125.68,1,Transferencia,Antonio Mena Camacho,Centro,23.5,2.03,125.68,5.0,False,Frutas Frescas,Satisfecho
+2024-06-15,16:45,Frutilla,Grande,4.99,49.44,246.71,3, Pago Móvil ,Águeda Exposito Olivares,Centro,23.1,14.97,740.13,2.0,False,Sin Extra,Satisfecho
+2024-07-04,21:45, Guanabana ,Pequeño,2.11,51.43,108.52,2,Pago Móvil,Florinda Leal Adán,La Parroquia,23.0,7.563501573023784,117.70556050669728,4.0,False,Frutas Frescas,Satisfecho
+2024-06-27,13:00,Cocada,Grande,3.69,51.06,188.41,2,Efectivo,Nilo Miró Bueno,El Valle,20.9,7.38,376.82,5.0,True,Sin Extra,Satisfecho
+2024-01-13,16:00,Frutilla,Grande,5.24,36.06,188.95,2,Efectivo,Rufino Nogueira Sans,La Pedregosa,25.0,10.48,377.9,3.0,True,Sin Extra,Satisfecho
+2024-04-10,12:30,Cocada,Pequeño,1.87,43.82,81.94,3,Divisas,Joaquín Pons Zabaleta,El Valle,19.7,5.61,245.82,2.0,False,Sin Extra,Satisfecho
+2024-09-12,19:45,Guanábana,Pequeño,2.24,57.95,129.81,2,Pago Móvil,Yolanda Roberta Guerrero Canales,,27.6,4.48,259.62,5.0,False,Sin Extra,Satisfecho
+2024-06-25,21:15,Dulce de Leche,Mediano,2.51,49.57,124.42,13,Efectivo,Itziar Casandra Hernandez Tejero,El Valle,22.9,32.63,1617.46,5.0,False,Sin Extra,Satisfecho
+2024-07-13,15:45,Mora,Mediano,2.87,51.18,146.89,3,Transferencia,Nydia Seguí Juárez,La Pedregosa,19.1,8.61,440.67,1.0,False,Sirope de Chocolate,Neutral
+2024-04-28,16:45,Vainilla,Pequeño,1.54,43.86,67.54,3,Efectivo,Elisabet Sedano Díaz,El Valle,20.0,4.62,202.62,4.0,False,Chispas de Chocolate,Satisfecho
+2024-06-16,21:45,Pistacho,Mediano,3.23,48.2,155.69,3,Efectivo,Virgilio Alcázar,Belén,19.3,9.69,467.07,5.0,,Chispas de Chocolate,Muy Satisfecho
+2024-05-22,11:45,Vainilla,Mediano,2.78,45.57,126.68,3,Tarjeta,Teófila Arjona Cervera,Centro,19.9,8.34,380.04,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-03-01,19:15,,Grande,3.95,40.05,158.2,1,Tarjeta,Eladio Gras Mate,La Parroquia,20.7,3.95,158.2,3.0,True,Sin Extra,Muy Insatisfecho
+2024-04-22,16:45,,Grande,4.05,43.57,176.46,3,Efectivo,Chucho Vila Mayo,Ejido,20.7,12.15,529.38,5.0,False,Sirope de Chocolate,Neutral
+2024-09-01,14:00,Guayaba,Mediano,2.79,57.73,161.07,1,Pago Móvil,Concha Arroyo Rosa,Centro,21.6,2.79,161.07,2.0,True,Sin Extra,Muy Satisfecho
+2024-04-24,13:30,Pistacho,Grande,5.01,44.71,224.0,2,Divisas,África Larrañaga Valverde,El Valle,19.1,10.02,448.0,2.0,True,Sin Extra,Satisfecho
+2024-10-07,19:30,Cocada,Pequeño,2.44,62.17,151.69,1,Divisas,Hermenegildo del Coello,El Valle,20.0,2.44,151.69,3.0,False,Sin Extra,Neutral
+2024-06-24,11:45,CAFÉ,Mediano,3.13,51.08,159.88,3,Transferencia,Maricruz Saldaña-Pastor,Centro,19.7,9.39,479.64,4.0,False,Chispas de Chocolate,Neutral
+2024-08-19,18:00,Avellana,Mediano,3.18,56.47,179.57,1,Transferencia,Lidia Dalmau Rosselló,Ejido,25.8,3.18,179.57,5.0,False,Chispas de Chocolate,Neutral
+2024-06-28,14:15,Csfé,Grande,4.81,50.19,241.41,3,Pago Móvil,Eleuterio Albero Acevedo,La Pedregosa,19.7,14.43,724.23,2.0,True,Sirope de Chocolate,Neutral
+2024-08-17,10:30,Guayaba,Pequeño,2.03,55.98,113.64,1,Pago Móvil,Guiomar Carbonell-Almazán,Ejido,27.5,2.03,113.64,3.0,False,Sin Extra,Satisfecho
+2024-07-04,14:15,Ponche Crema,Mediano,3.23,51.71,167.02,3,Efectivo,Ana Belén Codina,Ejido,27.8,9.69,501.06,2.0,True,Sin Extra,Satisfecho
+2024-07-24,13:45,Ponche Crema,Mediano,2.82,53.11,149.77,3,Tarjeta,Javier Olmo Palomino,El Valle,22.3,8.46,449.31,,False,Sirope de Chocolate,Satisfecho
+2024-08-26,10:30,Mango,Grande,5.12,56.56,289.59,3,Tarjeta,Apolinar Vazquez Blazquez,Centro,24.9,15.36,868.77,4.0,False,Sirope de Chocolate,Muy Insatisfecho
+2024-08-29,16:45,guanábana,Grande,5.01,57.01,285.62,3,Efectivo,Otilia Cerdá Barrera,Ejido,25.7,15.03,856.86,,True,Chispas de Chocolate,Satisfecho
+2024-08-26,19:45,Guayaba,Pequeño,1.64,57.58,94.43,2,Pago Móvil,Jose Manuel Vicens-Carballo,Centro,19.5,3.28,188.86,5.0,True,Chispas de Chocolate,Neutral
+2024-03-17,13:00,Chocolate,Mediano,2.5,41.73,104.32,3,Divisas,Patricia Esteve Vall,El Valle,24.6,7.5,312.96,5.0,False,Chispas de Chocolate,Satisfecho
+2024-05-04,11:00,Fresa,Grande,3.8,44.74,170.01,2,Tarjeta,Jacinto Infante Mateu,Centro,21.3,7.6,340.02,5.0,False,Sin Extra,Satisfecho
+2024-08-02,10:15,RON con PAsas,Mediano,3.3,54.38,179.45,2,Tarjeta,María Pilar Manjón Tamarit,El Valle,21.9,6.6,358.9,5.0,False,Chispas de Chocolate,Neutral
+2024-06-28,15:30,Mango,Pequeño,2.27,49.27,111.84,1,Divisas,Gabriel Calzada Oller,Centro,22.1,2.27,111.84,4.0,False,Sin Extra,
+2024-04-30,21:45,Mora,Pequeño,1.58,44.79,70.77,3,Tarjeta,Edelmira Díez Baquero,La Hechicera,40.0,4.74,212.31,5.0,True,Frutas Frescas,Satisfecho
+2024-12-07,12:45,Chocolate,Mediano,2.79,70.95,197.95,1,Tarjeta,Reyna de Giralt,,19.4,2.79,197.95,3.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-05-29,12:00,Avellana,Pequeño,2.34,47.76,111.76,1,Tarjeta,Francisca Ojeda Alberdi,Centro,18.8,2.34,111.76,3.0,False,Sirope de Chocolate,Insatisfecho
+2024-04-11,20:00,Fresa,Grande,4.61,42.98,198.14,2,Tarjeta,Carmelita Barco Nicolás,La Parroquia,24.4,9.22,396.28,5.0,False,Chispas de Chocolate,Satisfecho
+2024-08-30,21:15,Coco,Mediano,3.0,57.2,171.6,2,Tarjeta,Sosimo Lozano,Belén,18.9,6.0,343.2,3.0,False,Sin Extra,Satisfecho
+2024-02-30,17:45,Cocada,Grande,5.54,61.51,340.77,3,Divisas,Chuy Edgardo Múñiz Morante,Ejido,19.6,16.62,1022.31,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-04-23,11:15,Mango,Mediano,3.04,43.05,130.87,2,Pago Móvil,René Varela Arnaiz,La Hechicera,20.0,6.08,261.74,5.0,True,Sin Extra,Satisfecho
+2024-09-22,15:30,Vainilla,Pequeño,1.51,58.39,88.17,1,Transferencia,América Alegre Tena,La Pedregosa,25.5,1.51,88.17,5.0,True,Frutas Frescas,Satisfecho
+2024-06-01,10:30,Avellana,Mediano,3.09,46.53,143.78,1,Divisas,María Jesús Ayuso Alemán,Centro,24.3,3.09,143.78,2.0,False,Sirope de Chocolate,Insatisfecho
+2024-09-28,15:45,Cocada ,Grande,4.81,61.93,297.88,3,Pago Móvil,Leonor Feliu Jáuregui,Ejido,24.2,14.43,893.64,4.0,False,Sirope de Chocolate,Neutral
+2024-09-17,12:30,Dulce de Leche,Mediano,3.3,59.33,195.79,1,Efectivo,Ramón del Ponce,La Hechicera,22.5,3.3,195.79,2.0,True,Frutas Frescas,Muy Satisfecho
+2024-03-23,17:15,Avellana,Mediano,3.48,42.0,146.16,3,Transferencia,Vilma Roldán Gomila,Milla,21.6,10.44,438.48,4.0,False,Sin Extra,Neutral
+2024-05-16,20:00,Pistacho,Mediano,2.95,45.2,133.34,2,Efectivo,Maricruz de Blanch,El Valle,-5.0,10.57456381062567,144.62642312903628,2.0,False,Sin Extra,Satisfecho
+2024-03-10,17:45,Cocada,Grande,4.37,41.13,179.74,2,Tarjeta,Gala Seguí,La Hechicera,27.2,8.74,359.48,5.0,False,Sin Extra,Neutral
+2024-04-30,17:00,Avellana,Grande,3.79,44.07,167.03,2,Divisas,Adela Carretero Gibert,Belén,20.1,7.58,334.06,5.0,False,Chispas de Chocolate,Satisfecho
+2024-03-24,20:45,Guanábana,Pequeño,2.45,40.93,100.28,2,Tarjeta,Gala Vall Moreno,Belén,18.7,4.9,200.56,4.0,False,Sin Extra,Neutral
+2024-02-28,14:15,Fresa,Mediano,3.46,38.7,133.9,1,Divisas,Luisa Valcárcel Alegria,,23.4,3.46,133.9,,,Frutas Frescas,Satisfecho
+2024-09-14,20:15,Guayaba,Grande,3.69,59.61,219.96,3, Pago Móvil ,Blas Sobrino Diego,Ejido,27.0,11.07,659.88,5.0,False,Chispas de Chocolate,Satisfecho
+2024-11-02,20:00,chocolate,Mediano,3.13,63.23,197.91,3,Tarjeta,Odalys Andrés Arnau,La Hechicera,23.5,9.39,593.73,4.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-07-26,14:00,Guanábana,,2.8,52.85,147.98,1,Divisas,Maricruz Roma,Milla,21.5,2.8,147.98,5.0,False,Chispas de Chocolate,Neutral
+2024-03-18,20:45,Ron con Pasas,Grande,4.45,41.22,183.43,3,Transferencia,Salvador Ripoll Méndez,Belén,27.1,13.35,550.29,2.0,True,Chispas de Chocolate,Satisfecho
+2024-02-01,17:00,Frutilla,Grande,3.75,37.89,142.09,2,Divisas,Alejandro Baró Tamarit,Centro,25.8,7.5,284.18,4.0,False,Chispas de Chocolate,Satisfecho
+2024-09-26,15:15,Mora,Grande,3.52,60.82,214.09,3,Pago Móvil,Manu del Iglesia,Centro,20.6,16.13778461471266,446.3014213866459,5.0,False,Sirope de Chocolate,
+2024-08-10,19:30,Pistacho,Mediano,3.32,53.87,-178.85,1,Transferencia,Celso Tapia,El Valle,20.4,3.32,178.85,4.0,False,Chispas de Chocolate,Neutral
+2024-04-30,15:15,Mango,Grande,4.51,44.46,200.51,3,Efectivo,Valerio Rivas Macias,,19.3,13.53,601.53,5.0,,Frutas Frescas,Satisfecho
+2024-09-03,19:15,guanábana,Mediano,3.13,56.34,176.34,1,Efectivo,Roque Costa Mesa,Centro,18.3,3.13,176.34,4.0,False,Sirope de Chocolate,Satisfecho
+2024-07-28,20:00,Mora,,5.43,54.31,294.9,3,Tarjeta,Segismundo Madrid,La Hechicera,24.4,16.29,884.7,5.0,False,Sin Extra,Insatisfecho
+2024-03-08,13:45,Limón,Mediano,3.41,39.4,134.35,1,Efectivo,Simón Primitivo Ferrández Solís,Centro,22.9,3.41,134.35,5.0,False,Sin Extra,Muy Satisfecho
+2024-06-18,20:00,,Pequeño,2.16,48.52,104.8,1,Pago Móvil,Beatriz Sotelo-Martínez,La Parroquia,22.8,2.16,104.8,4.0,False,Sin Extra,Neutral
+2024-07-21,13:30,Pistacho,Grande,5.4,52.76,284.9,1, Tarjeta ,Francisca Elvira Nogueira Díez,El Valle,19.4,5.4,284.9,2.0,False,Frutas Frescas,Muy Satisfecho
+2024-06-03,17:45,Café,Mediano,3.25,47.97,155.9,3,Divisas,Maxi Leon Cuervo,Ejido,20.5,9.75,467.7,4.0,,Sin Extra,Satisfecho
+2024-11-16,17:45,Avellana,Grande,4.58,67.64,309.79,1,Pago Móvil,Leonor Villena-Martínez,La Pedregosa,24.2,4.58,309.79,5.0,False,Frutas Frescas,Satisfecho
+2024-08-26,19:30,Coco,Mediano,2.91,57.88,168.43,1,Efectivo,Ámbar Saura Cuenca,,21.2,2.91,168.43,4.0,True,Sirope de Chocolate,Muy Satisfecho
+2024-04-24,13:45,Guanábana,Grande,5.29,43.1,228.0,1,Pago Móvil,Angélica Gaya Abellán,Centro,23.6,5.29,228.0,3.0,False,Chispas de Chocolate,Muy Satisfecho
+2024-09-29,16:30,Ron con Pasas,Grande,5.21,59.29,308.9,3,Tarjeta,Mercedes de Paniagua,La Hechicera,26.0,15.63,926.7,5.0,False,Chispas de Chocolate,Satisfecho
+2024-05-03,19:00,,Pequeño,1.52,44.38,67.46,2,Pago Móvil,Emelina Peinado Godoy,Centro,27.7,3.04,134.92,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-03-05,16:00,Fresa,Mediano,3.25,40.42,131.37,2,Pago Móvil,Perla Barroso Garmendia,Centro,18.5,6.5,262.74,4.0,False,Chispas de Chocolate,Insatisfecho
+2024-03-11,15:45,Chocolate,Pequeño,1.61,39.55,63.68,1,Efectivo,Eugenia Soria Lamas,La Pedregosa,27.0,1.61,63.68,3.0,True,Chispas de Chocolate,Satisfecho
+2024-11-02,16:30,,Mediano,3.11,63.46,197.36,2,Tarjeta,Vicente Blanch Cámara,El Valle,19.2,6.22,394.72,,False,Sin Extra,Satisfecho
+2024-09-05,17:15,fresa,Mediano,3.27,58.2,190.31,2,Efectivo,Carlos Ballester Costa,Centro,26.4,6.54,380.62,2.0,False,Chispas de Chocolate,
+2024-07-08,15:15,Guayaba,Mediano,2.99,50.59,151.26,3,Transferencia,Bartolomé del Llorens,Centro,21.1,8.97,453.78,5.0,False,Sin Extra,Satisfecho
+2024-08-02,16:15,PISTACHO,Grande,4.01,55.22,221.43,2,Pago Móvil,Nidia Lago Gargallo,Ejido,23.8,8.02,442.86,5.0,True,Chispas de Chocolate,Neutral
+2024-08-15,11:00,Café,Grande,4.38,55.3,242.21,1,Tarjeta,María Paredes Seguí,Belén,23.0,11.320538810352687,20.50160901517831,4.0,False,Frutas Frescas,
+2024-02-16,14:45,Mora,,1.68,37.97,63.79,2,Efectivo,Angelino Perera Sabater,La Hechicera,24.5,3.36,127.58,4.0,True,Chispas de Chocolate,Insatisfecho
+2024-05-03,16:45,RON con PAsas,Grande,5.29,44.36,234.66,2,Pago Móvil,Borja Téllez Peláez,La Parroquia,19.7,10.58,469.32,2.0,False,Chispas de Chocolate,
+2024-04-24,20:00,Ponche Crema,Grande,3.93,44.7,175.67,2,Pago Móvil,Raimundo Damián Alemany Román,Centro,37.4,7.86,351.34,4.0,False,Chispas de Chocolate,
+2024-08-15,17:00,ChoColate,Pequeño,1.85,56.08,103.75,3,Tarjeta,Eusebia Cayetana Menendez Estrada,La Pedregosa,38.4,5.55,311.25,4.0,False,Sirope de Chocolate,Satisfecho
+2024-04-20,21:30,Fresa,Grande,4.63,42.95,198.86,1,Pago Móvil,Estrella Acevedo Amores,,20.5,4.63,198.86,2.0,False,Frutas Frescas,Satisfecho
+2024-04-24,20:00, Guanabana ,Mediano,3.02,44.14,133.3,3,Divisas,Plinio Josué Torrens Baquero,El Valle,24.6,9.06,399.9,5.0,False,Sin Extra,
+2024-06-25,14:45,Cocada ,Mediano,2.61,48.98,127.84,3,Transferencia,Luciano Estévez Cabrero,Milla,27.1,7.83,383.52,2.0,False,Frutas Frescas,Muy Satisfecho
+2024-03-18,19:30,Ron con Pasas,Pequeño,2.3,41.71,95.93,2,Efectivo,Zaida Campos Alcalá,La Pedregosa,24.9,4.6,191.86,2.0,False,Sin Extra,Muy Satisfecho
+2024-05-22,14:00,CAFÉ,,1.54,47.41,73.01,1,Divisas,Sergio Zabala,La Hechicera,26.3,1.54,73.01,5.0,False,Sin Extra,Muy Satisfecho
+2024-12-25,19:00,Csfé,Pequeño,1.7,72.83,123.81,1,Efectivo,Fabián España,El Valle,21.5,1.7,123.81,2.0,False,Sin Extra,Insatisfecho
+2024-09-12,15:15,Coco,Pequeño,1.94,58.83,114.13,2,Tarjeta,Clímaco Reguera Posada,El Valle,22.2,3.88,228.26,2.0,False,Sin Extra,Satisfecho
+2024-09-17,18:30,Café,Grande,5.24,57.95,303.66,2,Divisas,Tomasa Arteaga Borja,,27.6,10.48,607.32,4.0,True,Sin Extra,
+2024-05-31,19:30,chocolate,Mediano,3.12,47.75,148.98,1,Tarjeta,Cesar Gil Benet,Centro,18.1,3.12,148.98,5.0,False,Chispas de Chocolate,
+2024-05-15,21:30,Vainilla,Pequeño,2.07,45.68,94.56,1,Efectivo,Ramón Segovia Morales,Ejido,24.7,2.07,94.56,4.0,False,Sin Extra,Satisfecho
+2024-10-24,14:00,Chocolate,,4.25,64.92,275.91,1,Transferencia,Manuel Lledó,Belén,38.0,4.25,275.91,4.0,True,Sin Extra,
+2024-06-16,17:15,Dulce de Leche,Pequeño,1.8,48.97,88.15,3,Transferencia,Aureliano Calderón-Perez,,24.1,5.4,264.45,5.0,True,Sin Extra,Satisfecho
+2024-08-06,18:15,Pistacho,Pequeño,2.24,54.8,122.75,3,Pago Móvil,Sancho Patricio Armas Blanco,Milla,19.0,6.72,368.25,4.0,False,Sin Extra,Satisfecho
+2024-04-08,16:00,Café,Mediano,2.62,42.03,110.12,2,Efectivo,Catalina Niño Lobo,Centro,26.9,5.24,220.24,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-06-25,20:45,CHOCOLATE,Pequeño,2.35,50.44,118.53,3,Pago Móvil,Dominga Arranz Aragonés,La Hechicera,27.5,7.05,355.59,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-12-15,20:00,Ron con Pasas,,2.7,71.05,191.84,1,Transferencia,Maximiliano Sebastián Lastra,Milla,20.7,2.7,191.84,4.0,False,Sin Extra,Muy Satisfecho
+2024-06-02,15:45, Guanabana ,Grande,5.12,47.9,245.25,1,Efectivo,Iris Riquelme-Guardiola,Centro,23.1,5.12,245.25,2.0,False,Sin Extra,Neutral
+2024-09-14,20:30,Ron con Pasas,Mediano,3.19,58.65,187.09,3,Efectivo,Macaria Carreras Llanos,El Valle,18.6,9.57,561.27,3.0,False,Frutas Frescas,Satisfecho
+2024-08-20,13:30,Ponche Crema,Mediano,2.61,57.13,149.11,15,Pago Móvil,Nayara del Fernández,El Valle,20.4,39.15,2236.65,2.0,False,Chispas de Chocolate,Satisfecho
+2024-09-14,14:30,VAINILLA,Mediano,3.27,57.52,188.09,2,Pago Móvil,Nicolasa Rivero Escobar,Ejido,23.6,6.54,376.18,4.0,False,Frutas Frescas,
+2024-04-29,21:45,MANGO,Grande,3.58,43.74,156.59,1,Divisas,Jacinto Perez Casado,La Pedregosa,20.3,3.58,156.59,4.0,True,Frutas Frescas,Satisfecho
+2024-07-07,16:00,Cocada,Grande,4.21,51.85,218.29,2,Transferencia,Reina Pagès Barco,Ejido,20.1,8.42,436.58,4.0,False,Frutas Frescas,Satisfecho
+2024-04-01,11:45,Frutilla,Grande,4.32,42.37,183.04,1,Divisas,Anunciación del Gutierrez,Ejido,25.2,4.32,183.04,4.0,False,Chispas de Chocolate,Neutral
+2024-11-28,19:00,Fresa,Grande,5.68,66.89,379.94,2,Divisas,Samuel Marcos Barrena,Belén,25.4,11.36,759.88,4.0,False,Sirope de Chocolate,Satisfecho
+2024-11-18,13:15, Guanabana ,Grande,3.65,66.36,242.21,2,Efectivo,Tatiana María Manuela Benito Antón,Centro,24.6,7.3,484.42,5.0,False,Sirope de Chocolate,Satisfecho
+2024-09-04,11:45,Frutilla,Pequeño,1.87,56.28,105.24,2,Pago Móvil,Jordi Osorio Piñol,Centro,18.4,3.74,210.48,5.0,False,Frutas Frescas,Satisfecho
+2024-05-03,20:00,,Grande,4.4,45.23,199.01,1,Efectivo,Rosalina León Alsina,Milla,25.8,4.4,199.01,2.0,False,Sin Extra,
+2024-06-16,17:15,Dulce de Leche,Pequeño,1.8,48.97,88.15,3,Transferencia,Aureliano Calderón-Perez,La Hechicera,24.1,5.4,264.45,5.0,True,Sin Extra,Satisfecho
+2024-12-26,13:45,guayaba,Pequeño,2.29,72.24,165.43,2,Pago Móvil,Bernarda del Zurita,Centro,27.8,4.58,330.86,5.0,True,Frutas Frescas,
+2024-04-20,21:30,Fresa,Grande,4.63,42.95,198.86,1,Pago Móvil,Estrella Acevedo Amores,La Pedregosa,20.5,4.63,198.86,2.0,False,Frutas Frescas,Satisfecho
+2024-09-19,15:00,Ponche Crema,Pequeño,2.32,60.35,140.01,1,Divisas,Florentina Ferrándiz Mate,Milla,20.4,2.32,140.01,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-02-30,15:30,ChoColate,Mediano,2.93,59.29,173.72,2,Tarjeta,Irene Taboada-Acero,La Hechicera,24.7,5.86,347.44,4.0,False,Frutas Frescas,Muy Satisfecho
+2024-06-01,21:15,Mango,Mediano,2.66,47.7,126.88,1,Transferencia,María Carmen del Ramis,Ejido,26.5,2.66,126.88,5.0,False,Sirope de Chocolate,Muy Satisfecho
+2024-02-02,13:45,Mango,Grande,4.41,38.06,167.84,1,Divisas,Ernesto Yuste Seco,Centro,24.4,4.41,167.84,5.0,True,Frutas Frescas,Insatisfecho
+2024-03-20,18:30,Limón,Mediano,3.27,41.16,134.59,1,Transferencia,Nazaret Ariño Cuadrado,La Pedregosa,19.0,3.27,134.59,4.0,False,Chispas de Chocolate,Neutral
+2024-07-21,19:30,Ponche Crema,Mediano,3.14,52.94,166.23,1,Tarjeta,Constanza Mendez,Ejido,27.0,3.14,166.23,5.0,False,Chispas de Chocolate,Satisfecho
+2024-08-14,15:30,Limón,Pequeño,2.18,55.92,121.91,2,Transferencia,Jacobo Asenjo Gimeno,La Parroquia,18.6,4.36,243.82,5.0,True,Sin Extra,Neutral
+2024-11-15,20:45,Ponche Crema,Grande,5.23,66.22,346.33,3,Efectivo,Esperanza Quintero-Casals,El Valle,20.2,23.977447026973646,721.9747361802844,4.0,False,Sin Extra,Muy Satisfecho
+2024-05-07,18:45,Café,Pequeño,2.41,46.14,111.2,2,Transferencia,Lara del Mariño,Ejido,21.9,4.82,222.4,5.0,True,Sin Extra,Satisfecho
+2024-09-14,18:45,Limón,Mediano,3.32,59.38,197.14,2,Efectivo,Marcelo Ortuño,La Hechicera,20.4,6.64,394.28,1.0,False,Sin Extra,Satisfecho
+2024-02-21,20:15,Mora,Grande,6.0,38.47,230.82,3,Transferencia,Eligia Rozas Vera,La Pedregosa,19.6,18.0,692.46,5.0,True,Sin Extra,Neutral
+2024-03-01,10:45,Cocada ,Mediano,3.46,39.7,137.36,3,Divisas,Enrique de Amo,El Valle,22.9,10.38,412.08,5.0,True,Frutas Frescas,Muy Satisfecho
+2024-04-25,15:45,Guanábana,Grande,3.79,45.35,171.88,2,Transferencia,Ciriaco Portero Simó,El Valle,20.4,7.58,343.76,4.0,False,Chispas de Chocolate,Satisfecho
+2024-09-27,13:30,Guanábana,Grande,4.44,60.4,268.18,3,Efectivo,Alcides Amador Valdés,Centro,24.5,13.32,804.54,4.0,False,Sin Extra,Satisfecho
