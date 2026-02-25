@@ -1,0 +1,201 @@
+﻿ID_Usuario,Artista_Favorito,Genero,Pais_Origen,Decada,Nivel_Satisfaccion,Calidad_Audio,Frecuencia_Escucha,Tipo_Suscripcion,Edad_Usuario,Canciones_Escuchadas_Mes,Artistas_Seguidos,Playlists_Creadas,Horas_Escucha_Semanal,Conciertos_Asistidos_Anio,Gasto_Mensual_USD,Precio_Suscripcion_Anual,Tiempo_Escucha_Total_Horas,Puntuacion_Artista,BPM_Promedio
+11001,Kendrick Lamar,  Hip Hop,ESTADOS UNIDOS, 2010s ,MUY INSATISFECHO,media,Mensual,PREMIUM,54,151,25,7,14,1,,72.25,6.1,5.6,116.0
+11002,ed sheeran,pop,Reino Unido, 2010s ,MUY INSATISFECHO, baja ,mensual, estudiante ,44,145,27,11,20,1,7.49,8.89,92.7,9.5,125.0
+11003,ac/dc,  Rock,Australia ,1970S, insatisfecho , Premium ,MENSUAL, gratis ,30,183,15,6,34,1,0.44,79.6,144.3,8.2,95.0
+11004, Queen ,Rock,Reino Unido,1970s ,Satisfecho, Premium , Diaria ,Premium,58,150,30,17,17,3,13.13,47.8,74.1,7.0,95.0
+11005, Travis Scott ,HIP HOP,ESTADOS UNIDOS, 2010s ,INSATISFECHO, alta ,Diaria,ESTUDIANTE,23,142,20,7,16,2,0.17,93.43,25.7,5.9,85.0
+11006, Jay-Z ,Hip Hop ,Estados Unidos ,1990S,muy insatisfecho,Alta, ocasional , Premium ,36,154,23,7,16,2,23.22,49.22,109.8,6.1,80.0
+11007,beethoven,  Clasica,  Alemania,1800s , insatisfecho ,Baja,ocasional,ESTUDIANTE,54,123,27,11,23,0,5.49,27.48,8.3,11.6,90.0
+11008, Justin Bieber ,  Pop, Canada ,2010s , Neutral,BAJA,semanal,Gratis,34,169,24,7,19,1,0.62,9.98,58.3,7.5,
+11009,Bad Bunny,Reggaeton , Puerto Rico ,2010s,NEUTRAL, media ,Semanal,Gratis,38,135,12,8,18,2,13.31,37.82,17.8,9.1,98.0
+11010,ed sheeran,POP,  Reino Unido,2010s ,muy insatisfecho,baja,Ocasional,premium,26,156,25,6,25,0,7.6,10.16,20.4,5.9,133.0
+11011, Queen ,Rock,reino unido,  1970s,muy insatisfecho,Alta, semanal ,estudiante,26,140,18,7,18,4,54.63,19.47,22.6,5.9,121.0
+11012,Ozuna,reggaeton,Puerto Rico,2010s,Insatisfecho,baja, mensual , familiar ,39,145,25,10,24,5,11.79,,48.9,,71.0
+11013, Ed Sheeran ,  Pop,Reino Unido ,2010s,INSATISFECHO, Premium ,DIARIA,Gratis,51,155,21,7,21,0,4.83,58.72,5.3,4.8,136.0
+11014,ADELE,POP,  Reino Unido,  2000s,NEUTRAL, baja ,Ocasional, familiar ,55,130,20,11,12,0,18.54,,50.7,6.7,140.0
+11015, Kendrick Lamar ,hip hop,  Estados Unidos,2010s,SATISFECHO,baja,diaria,FAMILIAR,39,143,26,8,23,6,4.75,206.85,71.7,7.6,95.0
+11016,SHAKIRA,pop latino,colombia,1990S, satisfecho ,Media,ocasional,Premium,18,156,30,7,24,0,5000.0,541.91,66.0,7.7,131.0
+11017, Queen ,rock,Reino Unido,  1970s,MUY INSATISFECHO,premium,Diaria,PREMIUM,37,150,17,8,30,1,,87.4,48.3,,99.0
+11018, Juanes ,Pop Latino,  Colombia,2000s,Insatisfecho, media ,OCASIONAL,Premium,17,155,26,8,17,0,11.97,167.38,182.7,8.3,122.0
+11019,david guetta,Electronica,FRANCIA,2000s, satisfecho ,ALTA,DIARIA,Estudiante,39,157,24,3,17,3,0.78,39.59,15.7,8.9,88.0
+11020,taylor swift,pop,  Estados Unidos,2000s,insatisfecho,BAJA,MENSUAL,GRATIS,59,174,22,4,24,2,8.33,36.49,70.5,9.0,75.0
+11021,  Taylor Swift  , Electronica ,Francia ,2000s,muy satisfecho,BAJA,ocasional,Gratis,45,144,27,8,20,3,,51.53,6.4,5.5,110.0
+11022,jay-z,Hip Hop ,Estados Unidos,1990s ,NEUTRAL, alta ,Ocasional,familiar,53,172,27,9,18,5,24.57,111.63,7.4,6.9,117.0
+11023,Metallica,Rock,Estados Unidos ,1980s, insatisfecho , media ,ocasional, Premium ,17,141,17,8,25,5,3.81,114.63,85.3,,110.0
+11024,Bruno Mars, Pop ,Estados Unidos,2010s,Insatisfecho, Premium ,mensual,estudiante,36,163,21,8,23,2,3.84,37.87,83.5,9.3,90.0
+11025,CHOPIN, Clasica ,POLONIA,1800s,Insatisfecho, media , Diaria , gratis ,48,151,20,9,28,3,25.5,14.3,210.4,4.8,110.0
+11026,BAD BUNNY,  Rock,Estados Unidos , 1980s ,Satisfecho, media ,Ocasional,estudiante,27,131,16,7,17,6,39.97,,81.6,8.2,127.0
+11027,Justin Bieber,Pop , Canada , 2010s , insatisfecho ,premium,Diaria, Premium ,37,169,18,11,15,3,1.5,13.73,321.4,3.5,119.0
+11028, Justin Bieber ,pop,  Canada,  2010s,muy satisfecho,Baja,MENSUAL,premium,59,144,30,10,23,2,8.97,86.39,5.0,7.6,125.0
+11029,marshmello,  Electronica,ESTADOS UNIDOS,2010s ,Satisfecho,Media,semanal, gratis ,40,158,19,10,30,3,6.17,118.23,10.3,11.3,103.0
+11030,Eminem,  Hip Hop,Estados Unidos, 1990s ,Muy Insatisfecho,ALTA,OCASIONAL,familiar,64,167,34,9,18,1,30.68,120.6,4.5,5.6,149.0
+11031,David Guetta, Electronica ,Francia ,2000S,MUY INSATISFECHO, Premium , mensual ,FAMILIAR,42,155,26,6,24,1,-100.0,140.03,20.5,5.8,91.0
+11032,travis scott, Hip Hop ,  Estados Unidos,2010s,NEUTRAL,BAJA,DIARIA,PREMIUM,57,154,29,5,18,4,3.56,206.25,77.9,,132.0
+11033,Shakira, Pop Latino ,COLOMBIA,1990s, Muy Satisfecho ,PREMIUM,ocasional, Premium ,43,131,22,9,25,0,20.94,69.31,103.7,4.4,150.0
+11034,Chopin,clasica,Polonia,1800S,INSATISFECHO,ALTA, Diaria , familiar ,31,152,25,6,19,6,0.79,131.03,4.7,6.2,132.0
+11035,foo fighters,rock, Estados Unidos ,  1990s, Muy Satisfecho ,Premium, semanal ,Premium,30,155,18,5,15,2,10.17,96.54,291.8,8.7,115.0
+11036, Ricky Martin ,  Pop Latino, Puerto Rico ,1990S,Muy Insatisfecho,premium,ocasional, gratis ,62,158,22,8,21,3,,20.66,184.6,6.2,107.0
+11037,Marshmello,  Electronica,Estados Unidos,  2010s,INSATISFECHO,MEDIA,Ocasional,Gratis,59,144,19,9,15,2,6.11,2.6,,7.0,146.0
+11038,eminem,Hip Hop, Estados Unidos , 1990s ,Muy Satisfecho, alta ,DIARIA,estudiante,18,155,25,12,17,0,7.53,33.48,8.0,9.0,84.0
+11039,Tiesto,Electronica,PAISES BAJOS,1990s,Satisfecho,Alta,Ocasional,familiar,52,156,22,8,22,1,11.32,58.53,18.6,8.3,96.0
+11040,Juanes, Pop Latino ,  Colombia,  2000s,insatisfecho,ALTA,mensual,Premium,22,131,22,14,16,4,2.64,96.0,13.6,8.0,110.0
+11041,Kanye West,Pop   , Estados Unidos ,2000s,Satisfecho,PREMIUM,MENSUAL, estudiante ,36,141,21,3,21,3,12.73,189.68,13.2,6.8,151.0
+11042, Ed Sheeran ,pop,  Reino Unido,2010S,MUY SATISFECHO,ALTA, semanal , gratis ,24,168,29,6,27,3,24.55,21.85,73.1,8.2,129.0
+11043,THE BEATLES,  Rock,reino unido,  1960s, insatisfecho ,ALTA,MENSUAL,familiar,54,161,25,8,22,5,21.42,13.42,28.2,7.3,96.0
+11044,AC/DC,Rock , Australia ,1970s ,Neutral, alta ,semanal,gratis,33,153,23,10,21,1,2.51,330.99,44.3,8.4,112.0
+11045,justin bieber, Pop ,canada,  2010s,NEUTRAL,MEDIA,DIARIA,PREMIUM,19,138,18,4,17,4,2.42,11.43,455.7,6.5,105.0
+11046,THE BEATLES,Rock,  Reino Unido,1960s, Muy Insatisfecho ,Alta, Diaria , estudiante ,40,142,35,6,22,1,4.68,10000.0,115.3,7.1,102.0
+11047,dua lipa,Pop ,Reino Unido , 2010s ,Insatisfecho,Premium,SEMANAL,PREMIUM,29,155,26,9,23,1,6.72,88.08,297.6,5.5,144.0
+11048,AC/DC,rock,  Australia,1970s,MUY SATISFECHO,Media, mensual ,Premium,24,170,19,7,12,1,7.88,77.95,15.4,7.4,86.0
+11049, Kendrick Lamar ,Hip Hop,ESTADOS UNIDOS,2010s ,NEUTRAL,Alta, mensual ,Familiar,41,147,20,11,17,0,,9.0,48.1,5.9,160.0
+11050,coldplay, Rock ,Reino Unido ,2000s,muy insatisfecho,Alta,Semanal, familiar ,17,142,27,11,22,1,0.88,5.87,80.9,5.3,141.0
+11051,COLDPLAY,reggaeton,Reino Unido ,  2000s,Insatisfecho,Media, semanal ,premium,35,165,23,8,11,4,0.53,11.15,8.0,8.0,147.0
+11052, Queen , Rock , Reino Unido ,1970s,NEUTRAL,alta, Diaria ,Familiar,43,137,23,10,29,2,7.46,88.09,0.4,7.9,108.0
+11053,LED ZEPPELIN,  Rock, Reino Unido ,1970S, insatisfecho , Premium ,Semanal, estudiante ,62,174,24,8,22,1,17.92,,111.0,9.1,116.0
+11054,Bach,Clasica , Alemania ,1700s,muy insatisfecho,Premium,Mensual,Estudiante,22,152,24,5,16,1,3.22,26.62,102.7,6.6,84.0
+11055,Kendrick Lamar,Hip Hop ,  Estados Unidos,2010s,muy satisfecho,Alta,SEMANAL,Premium,59,135,29,5,23,1,,101.55,52.9,8.3,107.0
+11056, Eminem ,Hip Hop ,Estados Unidos ,1990s, Muy Insatisfecho ,Premium,semanal, estudiante ,23,166,21,12,17,2,4.51,171.52,67.3,8.6,132.0
+11057,Bruno Mars,POP,ESTADOS UNIDOS,2010s,MUY SATISFECHO, media ,Semanal,PREMIUM,62,157,23,7,11,2,32.58,4.25,53.7,,152.0
+11058,Travis Scott, Hip Hop ,ESTADOS UNIDOS,2010S, satisfecho , alta ,DIARIA, estudiante ,50,145,33,13,14,0,33.91,68.94,2.4,5.8,92.0
+11059,bruno mars,Pop ,estados unidos,2010s ,neutral,MEDIA,semanal, gratis ,29,162,27,6,23,2,5.29,116.9,40.9,7.8,111.0
+11060,FOO FIGHTERS,  Rock,Estados Unidos,  1990s, satisfecho ,Premium, ocasional , Premium ,32,150,19,7,19,1,3.92,29.08,19.5,8.2,116.0
+11061,vivaldi,Clasica ,ITALIA,1700s ,MUY SATISFECHO,alta,OCASIONAL,ESTUDIANTE,51,162,27,12,19,2,7.95,-500.0,10.4,7.5,
+11062,KENDRICK LAMAR, Hip Hop , Estados Unidos ,2010S,insatisfecho,Media,OCASIONAL,Gratis,55,157,32,8,16,2,4.13,95.1,314.0,3.3,135.0
+11063,Ricky Martin,Pop Latino ,puerto rico, 1990s , Muy Satisfecho ,premium,MENSUAL,premium,19,168,19,12,17,0,16.74,228.21,91.5,7.8,102.0
+11064,jay-z, Hip Hop , Estados Unidos ,1990s, Muy Satisfecho ,Alta,MENSUAL, estudiante ,17,145,21,3,21,2,26.24,,,11.9,
+11065,MARSHMELLO,electronica,Estados Unidos , 2010s ,INSATISFECHO,baja,Semanal,ESTUDIANTE,21,153,23,9,17,0,16.77,87.5,37.9,6.8,109.0
+11066,CALVIN HARRIS,  Electronica,  Estados Unidos,  2000s,satisfecho, Premium ,OCASIONAL,gratis,57,149,18,6,21,3,26.09,131.02,49.9,6.0,100.0
+11067,the beatles, Rock ,  Reino Unido,1960S,neutral,PREMIUM,DIARIA,FAMILIAR,19,142,18,6,22,4,7.59,45.39,27.0,8.2,120.0
+11068, Ed Sheeran , Pop , Reino Unido ,  2010s,Muy Satisfecho, baja , ocasional , familiar ,44,112,30,8,16,4,2.55,102.43,10.2,8.1,115.0
+11069,NIRVANA,ROCK,ESTADOS UNIDOS, 1990s ,muy satisfecho,BAJA,OCASIONAL,gratis,33,163,21,8,23,3,20.09,62.77,19.7,9.9,111.0
+11070,Led Zeppelin,rock,Reino Unido,1970S,NEUTRAL, media ,mensual,Gratis,41,134,28,6,17,3,6.71,21.06,159.7,5.0,102.0
+11071,QUEEN,  Rock,COLOMBIA,1970s ,muy satisfecho, Premium ,Mensual,PREMIUM,59,160,28,5,21,2,16.69,120.98,113.2,9.0,128.0
+11072,Bach,CLASICA,ALEMANIA,1700s ,neutral,BAJA,diaria,FAMILIAR,49,154,21,9,30,0,4.73,81.3,79.2,8.7,161.0
+11073,beethoven,Clasica ,alemania, 1800s , Neutral, alta , mensual ,premium,25,123,20,11,16,2,1.27,44.41,64.5,7.2,123.0
+11074,NIRVANA, Rock , Estados Unidos , 1990s , Neutral,premium,DIARIA,estudiante,51,151,26,7,23,3,73.56,242.29,255.7,8.2,145.0
+11075,Drake,  Hip Hop,canada,2010s,insatisfecho,media,mensual,GRATIS,29,150,24,9,19,1,2.55,2.12,7.6,9.6,85.0
+11076,Foo Fighters,rock,ESTADOS UNIDOS,1990s ,Satisfecho,BAJA,OCASIONAL,premium,46,161,19,4,21,2,66.88,37.95,10000.0,9.2,124.0
+11077,mozart,CLASICA,AUSTRIA,1700s, satisfecho ,Premium,OCASIONAL,GRATIS,63,148,25,4,19,1,56.77,5.86,43.1,5.2,93.0
+11078,J BALVIN, Reggaeton ,COLOMBIA, 2010s ,Muy Insatisfecho,premium,diaria,premium,30,164,34,6,15,1,23.68,145.47,152.5,9.1,83.0
+11079,LED ZEPPELIN,Rock,REINO UNIDO,  1970s,insatisfecho, baja ,diaria,ESTUDIANTE,23,147,28,4,36,2,16.16,121.1,489.5,7.4,102.0
+11080,the beatles,  Rock,Reino Unido ,1960S,MUY INSATISFECHO,Baja, mensual ,estudiante,29,136,26,10,13,3,12.93,40.25,,,150.0
+11081,RICKY MARTIN,POP LATINO,  Puerto Rico,1990s ,satisfecho,baja,mensual,Familiar,38,152,24,10,27,2,30.16,112.6,207.4,7.6,144.0
+11082,led zeppelin,rock,REINO UNIDO,1970S,satisfecho, Premium ,DIARIA, familiar ,55,156,24,9,17,0,5.13,50.41,177.6,7.2,126.0
+11083,JUANES,POP LATINO,Colombia ,2000s,satisfecho, baja ,DIARIA,Estudiante,36,152,32,15,23,3,9.46,141.16,25.4,9.9,82.0
+11084, Beethoven ,CLASICA,Alemania,1800s,MUY SATISFECHO,BAJA,Ocasional,premium,31,147,26,7,21,2,14.49,60.55,51.0,7.3,
+11085,FOO FIGHTERS,ROCK,Estados Unidos ,1990s, Muy Insatisfecho ,PREMIUM,OCASIONAL,GRATIS,60,145,14,13,22,2,7.94,53.15,52.7,5.3,128.0
+11086,Queen,Rock ,reino unido,2010s  ,Insatisfecho,PREMIUM,diaria,estudiante,33,121,30,5,23,0,8.37,272.92,382.7,6.7,124.0
+11087,Vivaldi,Clasica,Italia,1700s , Muy Insatisfecho ,MEDIA,OCASIONAL, estudiante ,62,165,22,10,16,4,6.01,28.89,20.0,7.9,74.0
+11088, Ozuna ,reggaeton,puerto rico,2010s , satisfecho ,Alta,SEMANAL,premium,39,149,25,7,23,2,12.46,12.83,160.5,,98.0
+11089,JUSTIN BIEBER,pop,  Canada,2010s, insatisfecho ,PREMIUM,MENSUAL,ESTUDIANTE,41,150,23,11,16,2,28.51,87.84,40.7,8.7,118.0
+11090,Ed Sheeran,pop, Reino Unido ,  2010s,MUY INSATISFECHO,Alta, ocasional ,Estudiante,40,137,29,7,17,1,3.38,348.42,131.3,5.8,133.0
+11091,Dua Lipa, Pop , Reino Unido ,2010S,Satisfecho,Media,Semanal, Premium ,60,146,21,10,11,2,40.87,47.46,-100.0,12.5,65.0
+11092,KENDRICK LAMAR,  Hip Hop,Estados Unidos ,2010s , satisfecho ,MEDIA,diaria, estudiante ,56,155,19,9,23,2,17.52,6.4,86.4,8.0,116.0
+11093,calvin harris,electronica,reino unido,2000s,INSATISFECHO,Baja,OCASIONAL,familiar,44,145,25,12,22,2,26.0,41.45,178.7,10.1,124.0
+11094,BAD BUNNY,  Reggaeton,  Puerto Rico,2010s,Neutral,media, Diaria ,Familiar,30,150,33,5,24,4,12.19,70.51,163.0,7.2,141.0
+11095,ariana grande,pop, Estados Unidos , 2010s ,INSATISFECHO,BAJA,MENSUAL,FAMILIAR,60,156,26,6,28,0,22.68,17.66,201.3,8.6,137.0
+11096, Foo Fighters ,Rock,  Estados Unidos,1990s,Neutral,baja,DIARIA,Familiar,16,127,19,8,16,1,0.24,107.32,6.1,9.2,135.0
+11097, Vivaldi , Clasica ,  Italia,  1700s,Muy Satisfecho, Premium ,semanal,ESTUDIANTE,40,175,25,11,23,4,25.59,609.66,117.8,9.9,100.0
+11098,Shakira, Pop Latino , Colombia , 1990s ,INSATISFECHO, Premium ,diaria,gratis,22,146,20,5,20,0,0.61,60.1,15.1,9.6,72.0
+11099,Chopin,CLASICA, Polonia ,1800S,neutral,ALTA, semanal , familiar ,24,148,26,6,18,0,33.1,,53.8,9.2,110.0
+11100,Tiësto,Electronica ,Paises Bajos,1990s,muy insatisfecho,baja,OCASIONAL, familiar ,39,175,29,7,21,3,72.36,51.2,79.5,6.9,145.0
+11101,taylor swift, Pop ,Estados Unidos,2000s ,satisfecho,BAJA,OCASIONAL, estudiante ,16,138,25,10,17,0,5.22,12.23,51.5,6.4,155.0
+11102,Kanye West, Hip Hop ,ESTADOS UNIDOS, 2000s ,MUY SATISFECHO, alta ,semanal,Estudiante,59,131,23,7,27,1,3.54,214.79,73.3,8.2,138.0
+11103,JAY-Z,Hip Hop,estados unidos,  1990s,INSATISFECHO,baja, mensual ,PREMIUM,23,131,19,8,24,0,21.75,53.58,566.3,9.4,131.0
+11104,shakira,pop latino, Colombia , 1990s , Neutral,MEDIA, mensual ,familiar,39,127,23,9,22,1,4.38,,14.5,7.1,
+11105, Led Zeppelin , Rock ,  Reino Unido,1970s,MUY INSATISFECHO,BAJA,mensual,PREMIUM,26,164,27,7,23,2,30.1,107.79,112.5,,106.0
+11106,kendrick lamar, Hip Hop ,estados unidos, 2010s ,neutral,Baja,Ocasional,familiar,32,162,28,7,19,2,1.63,58.35,50.4,15.0,117.0
+11107,Dua Lipa,Pop ,REINO UNIDO,2010S,insatisfecho,baja,ocasional,gratis,23,133,21,8,29,1,2.02,104.48,14.3,5.7,162.0
+11108,DADDY YANKEE,  Reggaeton,  Puerto Rico, 2000s ,Neutral, Premium ,MENSUAL,estudiante,50,155,30,11,25,2,58.06,6.34,17.3,,96.0
+11109,J BALVIN,Reggaeton,Colombia ,2010S,INSATISFECHO,MEDIA,diaria,ESTUDIANTE,50,159,27,12,19,3,16.81,168.05,298.1,7.2,160.0
+11110,Chopin,Clasica ,POLONIA,1800S,neutral,baja,MENSUAL, Premium ,48,142,17,8,17,0,28.15,282.18,211.7,8.1,112.0
+11111,BEETHOVEN, Clasica , Alemania ,  1800s,  Muy Satisfecho  ,MEDIA,DIARIA,PREMIUM,20,159,28,11,11,3,5.88,104.63,237.6,6.5,153.0
+11112,led zeppelin, Rock ,Reino Unido ,1970s,Insatisfecho,Media,MENSUAL,ESTUDIANTE,57,145,30,5,28,1,16.93,309.15,477.2,10.2,85.0
+11113,ozuna,Reggaeton,Puerto Rico ,2010s, insatisfecho , media , Diaria ,estudiante,54,144,27,10,24,4,13.53,16.42,23.4,8.3,135.0
+11114,Adele,POP,REINO UNIDO,2000S, Muy Satisfecho ,Alta,Ocasional,estudiante,56,165,22,9,22,5,13.86,64.9,43.9,7.6,102.0
+11115,MOZART,CLASICA, Austria , 1700s , satisfecho , baja ,mensual,FAMILIAR,43,159,20,9,15,1,17.21,92.08,110.6,4.6,85.0
+11116,Tiesto, Electronica ,  Paises Bajos,  1990s,satisfecho,PREMIUM,Mensual,familiar,22,132,20,7,12,1,,87.16,66.1,4.9,125.0
+11117, AC/DC , Rock ,Australia , 1970s ,MUY INSATISFECHO,PREMIUM,Semanal,gratis,24,150,24,9,22,4,8.41,51.33,54.2,8.1,145.0
+11118,kendrick lamar,Hip Hop ,ESTADOS UNIDOS,2010S, Neutral,PREMIUM,MENSUAL,FAMILIAR,23,143,30,12,25,1,4.84,41.26,44.3,3.2,99.0
+11119,eminem,  Hip Hop,ESTADOS UNIDOS,  1990s,MUY INSATISFECHO,PREMIUM,DIARIA, estudiante ,27,146,21,7,13,1,21.95,13.56,90.1,9.5,83.0
+11120,bruno mars,  Pop,  Estados Unidos, 2010s ,neutral,baja,Semanal,FAMILIAR,49,169,26,10,17,3,3.85,49.72,85.7,7.2,118.0
+11121,daft punk,Electronica , Francia ,1990s ,neutral, Premium , mensual ,premium,48,178,27,7,20,2,17.68,17.75,,-5.0,118.0
+11122, Shakira ,Pop Latino ,COLOMBIA,1990s,Muy Satisfecho, media ,mensual, estudiante ,63,155,26,4,18,0,3.99,132.56,63.8,,134.0
+11123,Calvin Harris,electronica,REINO UNIDO, 2000s ,Insatisfecho,Alta,Ocasional,familiar,38,142,22,9,30,1,14.73,23.42,80.6,7.1,144.0
+11124,shakira, Pop Latino ,COLOMBIA,1990s,Neutral,premium,Semanal,Estudiante,39,156,29,4,18,2,20.62,6.04,84.5,7.3,119.0
+11125,TAYLOR SWIFT,pop,estados unidos,2000S,Muy Satisfecho,MEDIA,DIARIA,premium,52,161,31,7,13,1,3.7,80.38,23.6,9.5,166.0
+11126, Nirvana ,ROCK,Estados Unidos,1990S,MUY INSATISFECHO, Premium ,mensual,PREMIUM,50,130,32,15,21,4,0.93,90.44,135.6,10.9,126.0
+11127,taylor swift, Pop ,  Estados Unidos,2000S,muy satisfecho,baja,Ocasional,Familiar,59,125,24,10,22,3,2.11,205.5,,4.2,111.0
+11128,BACH, Clasica ,alemania,1700s, Muy Insatisfecho , media ,MENSUAL, estudiante ,55,148,21,5,19,0,13.97,86.03,43.8,3.9,
+11129,beethoven,Clasica,ALEMANIA, 1800s , insatisfecho ,baja,Semanal,gratis,37,145,27,7,15,2,28.4,42.39,151.5,6.3,113.0
+11130,Marshmello, Electronica ,Estados Unidos,2010s ,neutral,premium,DIARIA,Premium,42,135,19,3,15,4,0.69,162.46,83.0,8.7,112.0
+11131, Nirvana ,ROCK,  Estados Unidos,1990s, satisfecho ,Premium  ,ocasional,Gratis,50,154,19,3,16,2,19.87,77.71,30.3,8.5,144.0
+11132,Ariana Grande,  Pop,Estados Unidos ,  2010s, Muy Insatisfecho ,media, mensual ,FAMILIAR,16,129,18,8,15,1,6.26,8.26,118.7,9.6,132.0
+11133, Beethoven ,  Clasica,  Alemania,1800s , Neutral, media ,Diaria,premium,50,128,21,9,23,2,9.77,83.44,83.8,5.1,91.0
+11134,bach, Clasica ,alemania, 1700s , satisfecho , Premium , mensual ,Gratis,52,158,27,8,20,2,39.65,238.62,159.1,2.9,124.0
+11135,justin bieber,  Pop,canada, 2010s ,SATISFECHO,ALTA,mensual,PREMIUM,62,130,20,4,12,2,6.05,50.47,132.8,9.2,137.0
+11136, Karol G ,reggaeton,colombia,2010s, Muy Insatisfecho ,Alta,semanal, gratis ,29,145,19,6,16,1,9.39,35.14,94.2,5.8,500.0
+11137,ARIANA GRANDE, Pop ,  Estados Unidos,2010s,Neutral, baja ,SEMANAL, estudiante ,18,145,32,7,13,0,0.21,,67.0,3.5,142.0
+11138,DAFT PUNK,electronica, Francia ,1990s ,Satisfecho, alta ,MENSUAL, estudiante ,16,161,26,7,20,3,1.28,16.42,14.3,7.8,139.0
+11139,daft punk,Electronica ,FRANCIA,1990S, Muy Satisfecho , Premium , ocasional ,Familiar,20,147,24,4,16,6,4.49,56.7,,9.1,122.0
+11140,the weeknd,Pop ,  Canada,2010s ,muy satisfecho, media ,SEMANAL,premium,41,132,25,5,18,1,0.42,90.55,54.3,7.3,130.0
+11141,Karol G,Reggaeton,Colombia , 2010s ,neutral,ALTA, semanal ,Gratis,29,124,19,13,22,2,14.97,8.41,91.5,6.6,151.0
+11142,shakira, Pop Latino ,Colombia ,  1990s,INSATISFECHO, Premium ,Semanal,FAMILIAR,54,133,16,11,19,2,8.34,280.62,72.1,7.2,87.0
+11143, Led Zeppelin ,Rock ,Reino Unido , 1970s ,muy satisfecho,Media,Semanal, estudiante ,42,159,21,4,20,2,11.92,140.7,34.0,6.8,111.0
+11144,TIËSTO,Electronica ,PAISES BAJOS,1990s,MUY INSATISFECHO, alta ,DIARIA, estudiante ,24,183,22,8,23,2,2.88,88.34,0.6,4.8,101.0
+11145,BAD BUNNY,  Reggaeton,Puerto Rico,2010s, Neutral,baja,mensual,FAMILIAR,30,142,28,6,20,2,5.26,176.28,,6.1,129.0
+11146,Queen,Rock,reino unido,1970S,Satisfecho,Premium, Diaria ,PREMIUM,30,128,26,4,26,1,16.35,8.36,33.6,8.5,151.0
+11147,SHAKIRA,Pop Latino,COLOMBIA,1990s ,MUY SATISFECHO,Media,diaria,Gratis,41,155,29,5,20,4,,64.79,,8.1,105.0
+11148,TRAVIS SCOTT,  Hip Hop,estados unidos,2010s,neutral,Premium,MENSUAL, estudiante ,57,148,26,12,21,3,0.78,99.45,2.4,7.8,60.0
+11149, Queen , Rock ,REINO UNIDO,1970S,NEUTRAL,alta,Semanal,Familiar,28,153,25,9,18,0,33.16,176.41,87.9,5.5,110.0
+11150,NIRVANA,rock,estados unidos, 1990s ,insatisfecho,Media,Ocasional,ESTUDIANTE,47,121,22,7,23,2,12.9,153.0,283.8,7.1,143.0
+11151,Vivaldi, Clasica ,ITALIA,  1700s,satisfecho,media,Semanal,Estudiante,54,148,18,11,18,2,12.45,32.44,19.2,3.1,-50.0
+11152,Kendrick Lamar,hip hop,Estados Unidos, 2010s ,SATISFECHO,MEDIA,semanal, gratis ,64,142,28,10,16,3,10.41,282.82,63.8,7.9,131.0
+11153,DADDY YANKEE,Reggaeton,  Puerto Rico,2000s,Satisfecho, media ,semanal, Premium ,47,149,28,11,19,1,1.08,13.28,9.6,10.4,113.0
+11154,ozuna,REGGAETON,Puerto Rico ,2010s,muy insatisfecho,Premium,semanal,Premium,19,153,21,13,24,2,1.41,208.05,98.3,4.6,88.0
+11155,DUA LIPA, Pop ,reino unido,  2010s, Neutral,alta,OCASIONAL,gratis,45,157,30,9,20,0,13.78,353.84,80.0,6.3,133.0
+11156,Queen,ROCK,REINO UNIDO,1970s ,Muy Insatisfecho,Alta,  Diaria  , familiar ,52,143,21,7,22,3,6.25,19.5,52.3,8.2,99.0
+11157,Metallica,rock,Estados Unidos,1980s,Muy Insatisfecho,Baja,ocasional,Familiar,38,157,23,5,16,3,37.38,128.04,73.7,10.0,175.0
+11158, Juanes , Pop Latino ,Colombia,  2000s,Neutral,PREMIUM, mensual , Premium ,54,170,33,8,23,2,7.83,4.11,,6.6,134.0
+11159,THE BEATLES,ROCK,Reino Unido ,1960s,satisfecho,Alta, semanal ,Estudiante,60,177,36,9,25,0,2.32,51.99,21.9,6.1,105.0
+11160,QUEEN,ROCK,REINO UNIDO,1970S,Neutral,Premium,OCASIONAL,Estudiante,30,154,20,6,18,3,18.81,72.63,2.3,3.6,105.0
+11161, Ariana Grande , Pop ,  Estados Unidos,2010s , insatisfecho ,PREMIUM,semanal,FAMILIAR,58,173,30,7,19,2,,86.9,197.8,7.7,
+11162,Kendrick Lamar,HIP HOP,estados unidos,2010s,neutral,ALTA,OCASIONAL,GRATIS,44,121,21,7,19,4,11.18,,86.1,11.6,114.0
+11163, The Beatles , Rock ,  Reino Unido,1960s ,NEUTRAL,Baja, semanal ,estudiante,51,146,35,10,18,1,17.95,111.55,221.3,8.1,148.0
+11164,mozart,CLASICA, Austria , 1700s , Muy Satisfecho ,baja, semanal , familiar ,28,153,20,10,27,3,34.58,65.64,90.9,7.5,125.0
+11165,TIËSTO,Electronica,Paises Bajos,1990s,INSATISFECHO,BAJA,mensual,GRATIS,47,164,33,6,18,2,23.57,165.9,166.2,8.1,102.0
+11166,Ariana Grande, Pop ,Estados Unidos,2010s,MUY SATISFECHO,MEDIA, ocasional , Premium ,-5,147,28,4,33,4,16.92,300.64,56.2,7.5,167.0
+11167, The Beatles ,Rock,Reino Unido ,1960s,Satisfecho,alta,SEMANAL,Gratis,37,165,35,4,22,0,17.07,2.23,138.6,5.9,121.0
+11168,Drake,  Hip Hop,CANADA, 2010s , satisfecho , media , mensual ,PREMIUM,43,148,22,4,18,2,43.76,404.68,244.2,9.1,139.0
+11169,queen,Rock , Reino Unido ,1970s,Insatisfecho,media,OCASIONAL,FAMILIAR,17,179,21,9,21,1,5.26,9.01,84.9,8.0,105.0
+11170,THE WEEKND,Pop, Canada ,  2010s,muy insatisfecho,MEDIA,OCASIONAL,gratis,57,140,16,7,16,1,0.02,168.41,19.9,7.5,129.0
+11171, Bach ,CLASICA, Alemania ,1700s, Neutral,PREMIUM,mensual,FAMILIAR,100,154,22,11,18,1,4.76,32.9,,5.5,128.0
+11172,Ricky Martin,pop latino,PUERTO RICO, 1990s ,MUY SATISFECHO,premium,Ocasional,PREMIUM,21,133,15,8,18,0,3.69,,22.1,10.1,73.0
+11173,J BALVIN,  Reggaeton,colombia,  2010s,Insatisfecho,Alta,ocasional,ESTUDIANTE,43,151,26,12,23,1,16.26,57.96,28.4,8.8,170.0
+11174,CALVIN HARRIS,Electronica,Reino Unido,2000S,Muy Satisfecho,alta,semanal, estudiante ,43,151,22,10,23,2,15.07,103.27,36.6,6.4,152.0
+11175,David Guetta,  Electronica,FRANCIA,2000s ,Neutral,premium,SEMANAL,PREMIUM,59,152,32,4,16,3,13.5,47.96,81.0,9.5,110.0
+11176,ADELE,Pop, Reino Unido ,  2000s,muy insatisfecho,PREMIUM,Semanal,Premium  ,59,-100,21,3,20,5,0.25,5.61,88.7,6.5,92.0
+11177,JUSTIN BIEBER,Pop,Canada,2010S, Muy Satisfecho ,Media,Mensual,estudiante,35,134,32,5,24,3,19.57,91.49,55.6,5.9,129.0
+11178, Daddy Yankee ,reggaeton,Puerto Rico, 2000s ,INSATISFECHO,BAJA,diaria,gratis,45,160,32,10,21,2,5.86,232.69,95.6,6.0,122.0
+11179,BAD BUNNY,reggaeton, Puerto Rico , 2010s , Neutral,baja, ocasional ,gratis,26,157,35,5,24,4,16.41,48.32,8.5,4.0,129.0
+11180, J Balvin ,Reggaeton, Colombia , 2010s ,Neutral, baja , mensual , estudiante ,43,134,29,4,24,3,12.2,24.38,9.2,8.4,125.0
+11181,TRAVIS SCOTT,Hip Hop ,Estados Unidos,2010s,MUY INSATISFECHO,BAJA, Diaria , gratis ,40,10000,25,10,24,2,6.29,58.44,18.9,3.8,133.0
+11182,drake,hip hop,Canada , 2010s ,Insatisfecho,baja, Diaria , Premium ,54,146,29,6,14,1,2.17,4.96,73.0,5.0,156.0
+11183,vivaldi,clasica,  Italia,1700s , Neutral,Media,mensual,GRATIS,48,169,24,10,22,1,1.49,171.75,24.1,3.3,134.0
+11184, Justin Bieber ,pop,  Canada,2010s, Muy Satisfecho ,ALTA,DIARIA,Gratis,16,150,21,11,15,4,26.71,175.07,33.3,7.3,94.0
+11185, Bad Bunny , Reggaeton ,Puerto Rico, 2010s , satisfecho , Premium ,semanal, gratis ,42,146,23,5,26,5,37.59,88.67,51.1,7.2,154.0
+11186,metallica,  Rock,estados unidos,1980s, insatisfecho , media ,Mensual, familiar ,28,150,22,8,-10,1,,43.56,167.1,6.8,161.0
+11187,Tiesto,Electronica,paises bajos,1990s ,Muy Satisfecho,baja,OCASIONAL,Premium,56,148,13,6,21,3,1.64,160.84,1.4,5.4,199.0
+11188,THE BEATLES,Rock ,Reino Unido ,1960s , Muy Insatisfecho , Premium ,Semanal, estudiante ,18,150,23,9,26,2,7.71,80.9,104.8,5.2,92.0
+11189, Adele ,pop,REINO UNIDO,  2000s,muy insatisfecho,media,ocasional, estudiante ,54,155,30,11,22,1,19.58,174.83,110.5,8.4,126.0
+11190,Daddy Yankee, Reggaeton ,Puerto Rico,2000s,NEUTRAL, baja ,DIARIA,FAMILIAR,21,128,24,13,20,2,22.7,99.82,160.3,6.4,68.0
+11191,BAD BUNNY,  Reggaeton,puerto rico,2010s, Muy Insatisfecho ,media, semanal ,Gratis,23,134,35,4,200,1,1.89,153.44,269.9,8.1,134.0
+11192,AC/DC,ROCK,Australia,1970S, satisfecho ,premium,OCASIONAL,PREMIUM,42,135,27,8,17,2,0.0,91.27,2.0,5.7,
+11193,the beatles,ROCK,Reino Unido , 1960s ,MUY SATISFECHO, alta , mensual ,PREMIUM,24,137,35,5,16,1,18.68,53.47,16.7,7.9,168.0
+11194, Mozart ,clasica, Austria ,1700S,INSATISFECHO,Baja,Diaria,estudiante,52,168,27,11,27,0,6.61,316.88,217.3,10.1,101.0
+11195,DADDY YANKEE,Reggaeton ,Puerto Rico ,2000s ,neutral,premium,ocasional,Familiar,48,156,21,8,15,2,4.41,77.9,61.3,8.7,78.0
+11196, Tiësto ,Electronica ,Paises Bajos ,1990S,insatisfecho,Premium,diaria, familiar ,57,138,20,3,23,50,0.19,92.91,83.1,6.7,108.0
+11197, Ricky Martin ,  Pop Latino,Puerto Rico ,1990s, Muy Satisfecho ,ALTA,Ocasional,familiar,59,136,29,10,25,2,11.66,24.91,108.8,8.0,71.0
+11198, Ariana Grande ,  Pop,estados unidos,2010S,Satisfecho,media, mensual ,familiar,39,137,23,12,24,3,28.57,98.26,113.7,7.0,139.0
+11199,vivaldi,Clasica,Italia ,  1700s,muy satisfecho,ALTA, semanal ,PREMIUM,30,133,28,7,23,0,47.42,84.77,268.4,7.5,
+11200, Marshmello ,electronica, Estados Unidos ,2010S,muy satisfecho,Alta,Ocasional,Gratis,47,138,30,8,29,0,12.51,20.44,579.2,6.8,121.0

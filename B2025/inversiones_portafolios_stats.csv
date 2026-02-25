@@ -1,0 +1,201 @@
+﻿ID_Inversion,Tipo_Inversion,Categoria,Nivel_Riesgo,Pais_Origen,Sector,Nivel_Rentabilidad,Horizonte_Tiempo,Perfil_Inversionista,Estado_Inversion,Edad_Inversionista,Numero_Activos_Portafolio,Anos_Experiencia,Numero_Operaciones_Anio,Meses_Inversion_Activo,Monto_Invertido_USD,Valor_Actual_USD,Rentabilidad_Porcentaje,Comision_Pagada_USD,Patrimonio_Total_USD,ROI_Anual
+14001,Apartamento Caracas,  Bienes Raices, muy alto ,Venezuela ,INMOBILIARIO,ALTA,largo plazo, arriesgado , En Perdidas ,60,8,8,11,102,16249.45,20286.54,32.33,464.55,166293.73,5.75
+14002,apple inc,Acciones,Medio,Estados Unidos,Tecnologia , media ,MEDIANO PLAZO, Conservador , En Perdidas ,50,6,1,23,63,16537.55,46808.86,37.27,124.54,217550.62,40.08
+14003,mercado libre,ACCIONES,MUY ALTO,ARGENTINA, Tecnologia ,Media,Largo Plazo, moderado , Finalizada ,36,11,6,22,38,165331.17,,-3.6,491.28,227304.33,9.8
+14004, Vale ,Acciones , muy alto ,Brasil ,MINERIA,MEDIA,corto plazo,arriesgado,Finalizada,64,6,3,24,92,516.89,2203.37,8.01,423.86,536887.45,15.93
+14005, Terreno Madrid ,  Bienes Raices, alto ,  España,Inmobiliario ,BAJA,MEDIANO PLAZO,Moderado,ACTIVA,29,8,8,28,53,62947.85,17459.88,10.94,102.18,1158484.54,14.97
+14006, Casa Miami ,  Bienes Raices,ALTO, Estados Unidos ,Inmobiliario ,MEDIA,Mediano Plazo, arriesgado ,en perdidas,42,9,6,16,94,61250.66,351.97,-3.97,30.72,254705.64,-22.51
+14007,oro,Materias Primas ,Muy Alto, Global ,Commodities,MEDIA, Largo Plazo , moderado ,ACTIVA,60,11,2,23,67,48734.35,210813.4,17.43,463.62,67716.83,15.77
+14008, Amazon ,ACCIONES,MUY ALTO,  Estados Unidos,Tecnologia , media ,mediano plazo, Conservador ,en perdidas,40,5,6,20,28,230805.72,185569.3,4.41,721.31,,-1.25
+14009,Bonos Colombia,Bonos,ALTO,colombia,  Gobierno,ALTA, Corto Plazo ,Arriesgado,en pausa,44,9,6,18,3,18689.56,27653.09,-8.01,370.54,10094.71,-18.42
+14010,apple inc,acciones,MEDIO,Estados Unidos,Tecnologia,Media,mediano plazo, Conservador ,finalizada,32,8,6,21,109,20773.64,71682.47,3.81,128.59,52553.89,-0.34
+14011, Vale ,  Acciones, medio ,Brasil ,mineria,Baja,CORTO PLAZO,Moderado,FINALIZADA,32,9,5,17,118,4111.47,23339.33,,549.09,455355.63,-0.51
+14012,Ethereum,CRIPTOMONEDAS,Muy Alto,  Global,  Cripto,Alta,corto plazo, moderado , Activa ,45,8,2,27,98,29241.38,61158.94,23.55,41.75,59194.34,30.6
+14013, Apple Inc ,acciones, medio ,  Estados Unidos,tecnologia,Media,Largo Plazo, Conservador ,ACTIVA,57,12,5,24,80,15126.15,90032.99,,291.55,49859.28,-11.28
+14014,PETROBRAS,acciones,muy alto,brasil,ENERGIA,Media,LARGO PLAZO,moderado,FINALIZADA,61,15,3,22,22,21033.0,161308.11,11.67,89.18,29729.07,-5.8
+14015, Casa Miami ,bienes raices,bajo,Estados Unidos,  Inmobiliario,Alta,corto plazo,ARRIESGADO,finalizada,45,9,3,23,96,89960.9,28114.87,9.67,101.95,391957.66,14.71
+14016,RIPPLE,Criptomonedas,ALTO,  Global,Cripto,media,Largo Plazo,arriesgado,finalizada,24,5,3,19,38,10000000.0,84107.76,,113.01,138652.74,-16.52
+14017, Vale ,Acciones, muy alto ,BRASIL,mineria, Baja ,Largo Plazo, moderado ,EN PERDIDAS,43,7,6,29,72,10273.35,17003.18,25.73,244.46,224720.31,-3.18
+14018, Cardano ,criptomonedas,Muy Alto,  Global,cripto,Baja, Corto Plazo , moderado ,en perdidas,23,9,6,25,119,23301.29,255143.09,25.41,26.25,54641.83,-23.29
+14019,fondo emergentes, Fondos Mutuales ,Muy Alto,Global ,diversificado,Media,mediano plazo,Moderado,en pausa,45,6,4,19,72,131994.28,1435.91,6.27,253.58,283796.92,
+14020,apple inc,Acciones ,Medio,Estados Unidos,Tecnologia ,Baja,mediano plazo,MODERADO,EN PERDIDAS,65,9,5,17,62,3190.06,50883.35,11.79,358.42,285427.89,3.97
+14021,  Bitcoin  ,Fondos Mutuales, muy alto ,Global ,Diversificado, alta , Largo Plazo ,Arriesgado, Finalizada ,51,5,5,11,57,4845.4,59254.67,17.79,330.14,74967.21,9.68
+14022,local comercial bogota, Bienes Raices ,bajo,Colombia,inmobiliario, media ,LARGO PLAZO,Arriesgado,EN PERDIDAS,59,2,7,28,6,8884.08,64069.4,-9.07,241.27,105758.08,28.32
+14023,Bonos Alemanes, Bonos ,Medio,ALEMANIA,Gobierno,ALTA,CORTO PLAZO,MODERADO,activa,23,8,5,24,78,45219.69,7055.06,26.19,913.63,47066.07,-4.45
+14024,Tesla,  Acciones,ALTO,Estados Unidos , Automotriz ,Baja, Corto Plazo ,CONSERVADOR, Finalizada ,42,8,3,22,32,8153.73,,34.02,78.52,750670.99,3.76
+14025,PETROLEO,Materias Primas , Bajo , Global , Commodities ,media,corto plazo, Conservador ,en perdidas,54,6,4,15,99,172220.46,10994.23,25.48,352.3,207467.27,-11.13
+14026,ETHEREUM,bonos,MUY ALTO,  Alemania,  Gobierno,Alta,CORTO PLAZO,arriesgado,Finalizada,33,9,7,12,10,29594.06,53617.09,-10.68,32.02,545275.06,-11.17
+14027,Amazon,  Acciones, Bajo ,ESTADOS UNIDOS,Tecnologia ,baja,Mediano Plazo,CONSERVADOR,activa,43,3,5,22,3,34809.39,13854.4,-21.55,36.91,72304.63,-8.41
+14028, Amazon ,  Acciones,MUY ALTO,Estados Unidos, Tecnologia ,Media, Corto Plazo ,Moderado,ACTIVA,65,5,7,25,59,14161.84,20187.07,18.63,426.5,304551.99,0.15
+14029,fondo renta fija, Fondos Mutuales ,Bajo,Global ,DIVERSIFICADO,muy alta,CORTO PLAZO,Conservador,En Perdidas,46,13,8,13,76,31834.59,43486.77,-3.4,417.38,290366.05,2.3
+14030,Cardano, Criptomonedas ,Medio,  Global,Cripto, Baja ,largo plazo,ARRIESGADO, Finalizada ,48,12,7,17,49,54222.69,29694.5,12.31,1052.0,235307.62,15.77
+14031,Fondo Emergentes, Fondos Mutuales ,muy alto,GLOBAL,diversificado,BAJA,CORTO PLAZO, moderado ,en pausa,63,10,5,20,59,-50000.0,9604.21,31.03,408.08,674166.47,-7.82
+14032,terreno madrid,bienes raices,Medio,España,INMOBILIARIO, muy alta ,LARGO PLAZO,moderado,Activa,49,7,8,18,31,70094.38,10310.21,-1.85,1606.83,100028.36,16.39
+14033,Ripple,criptomonedas,BAJO, Global ,  Cripto,MUY ALTA,corto plazo,Arriesgado,En Pausa,37,6,4,30,93,43124.6,29784.35,2.34,24.96,28017.38,
+14034,Cobre,  Materias Primas, muy alto , Global ,COMMODITIES, alta ,CORTO PLAZO,conservador,EN PERDIDAS,36,5,6,18,69,117358.09,77872.25,12.15,51.57,222770.89,0.64
+14035,bonos venezuela,  Bonos,Alto,Venezuela,  Gobierno, Baja ,LARGO PLAZO, arriesgado ,activa,68,9,8,13,62,85025.01,125533.98,-11.46,22.53,261356.06,-6.09
+14036, Ripple ,Criptomonedas,ALTO, Global , Cripto ,MUY ALTA, Mediano Plazo ,Arriesgado,En Pausa,65,6,6,21,52,70744.59,4833.31,-3.37,102.45,171161.73,11.7
+14037,Fondo Renta Fija,Fondos Mutuales,Muy Alto,GLOBAL,Diversificado, media , Mediano Plazo ,conservador,ACTIVA,24,4,3,22,89,2860.57,27466.87,8.37,389.65,46340.49,5.94
+14038,apartamento caracas, Bienes Raices ,BAJO,  Venezuela,  Inmobiliario,baja,largo plazo,Moderado, En Pausa ,58,8,8,19,41,345.09,5809.84,3.49,518.63,140419.8,14.41
+14039,Oro,materias primas,ALTO, Global ,commodities,alta,largo plazo,conservador, Finalizada ,28,9,4,15,31,11941.25,920.24,17.13,23.33,74848.45,
+14040,Cardano,criptomonedas,Muy Alto,  Global,CRIPTO,MUY ALTA, Mediano Plazo ,CONSERVADOR, Finalizada ,42,10,7,15,85,54461.36,59613.26,49.49,1459.12,111536.82,11.37
+14041, Local Comercial Bogota ,Acciones   ,ALTO,colombia,  Inmobiliario,Baja,LARGO PLAZO,Moderado,En Perdidas,30,8,2,16,84,26483.22,50733.82,9.49,923.1,207250.68,-2.78
+14042,MICROSOFT,Acciones , muy alto , Estados Unidos ,Tecnologia ,baja,largo plazo, moderado ,activa,60,13,10,15,103,25742.21,9787.47,-4.63,175.92,273466.84,-7.82
+14043,VALE, Acciones ,bajo,brasil,  Mineria, muy alta ,LARGO PLAZO,Arriesgado,En Pausa,39,6,6,23,22,107961.87,14648.08,29.27,40.16,52851.63,-7.04
+14044,bonos del tesoro usa,Bonos,BAJO,  Estados Unidos,gobierno,Muy Alta,LARGO PLAZO,CONSERVADOR,EN PERDIDAS,25,15,4,20,4,112958.49,1319.63,-15.83,93.1,103948.17,-19.26
+14045,AMAZON,Acciones , medio ,Estados Unidos , Tecnologia ,muy alta,largo plazo,MODERADO, Finalizada ,46,8,5,12,13,119941.18,99081.94,-12.83,67.88,62712.57,28.65
+14046,vale,acciones,alto,  Brasil,Mineria, Baja ,mediano plazo,conservador, Finalizada ,35,10,6,16,45,,50000000.0,-0.93,65.79,44286.91,-34.67
+14047,AMAZON,Acciones, medio ,ESTADOS UNIDOS,Tecnologia , muy alta ,LARGO PLAZO, Conservador ,EN PERDIDAS,30,5,4,13,42,58729.73,8005.64,3.76,365.49,305928.79,19.76
+14048, Mercado Libre , Acciones ,BAJO,Argentina ,tecnologia,MUY ALTA,mediano plazo, moderado ,ACTIVA,47,12,5,20,114,15847.52,14480.54,-1.29,141.08,479935.3,-7.36
+14049,apartamento caracas,bienes raices,muy alto,Venezuela ,  Inmobiliario,BAJA,CORTO PLAZO,moderado,En Pausa,23,9,6,16,49,10573.71,111543.33,7.53,221.69,92480.82,-0.25
+14050,BONOS VENEZUELA, Bonos , Bajo , Venezuela ,gobierno,BAJA, Mediano Plazo ,Conservador, Finalizada ,41,4,3,18,20,10205.81,143548.76,12.12,2278.44,278284.64,-7.96
+14051, Bonos Venezuela ,bonos, Bajo , Venezuela ,GOBIERNO,ALTA,corto plazo,MODERADO,En Perdidas,49,7,7,22,116,20935.7,29924.67,24.03,576.5,454596.11,38.92
+14052,PETROBRAS,Acciones ,MUY ALTO, Brasil ,energia,Media, Mediano Plazo ,Conservador,FINALIZADA,68,4,7,19,77,28102.23,2857.18,9.37,1487.78,374321.91,10.33
+14053,Mercado Libre,Acciones ,medio,  Argentina,Tecnologia,BAJA, Mediano Plazo ,MODERADO,Finalizada,28,7,8,20,81,88877.79,2210.38,-0.43,76.9,40377.56,25.81
+14054,Petroleo,Materias Primas ,alto,Global ,Commodities,Media,LARGO PLAZO,Arriesgado, En Pausa ,65,7,4,23,54,6385.48,46925.9,23.22,240.75,626044.28,36.01
+14055, Casa Miami ,BIENES RAICES,Bajo,ESTADOS UNIDOS,inmobiliario,Alta,Mediano Plazo,moderado, Activa ,29,7,7,20,36,66387.28,27447.95,-4.27,404.54,94537.91,13.27
+14056,Apartamento Caracas, Bienes Raices ,bajo,VENEZUELA,INMOBILIARIO,ALTA,Mediano Plazo, Conservador ,Activa,68,8,3,26,97,37906.15,1598.9,-16.49,39.93,82873.12,-13.91
+14057,Tesla,Acciones ,ALTO,estados unidos,Automotriz ,Muy Alta,largo plazo,MODERADO,en pausa,56,4,4,20,1,16980.03,48140.1,26.09,2.1,12893.05,5.59
+14058,terreno madrid,  Bienes Raices,bajo,España,  Inmobiliario,alta,Corto Plazo,conservador, En Perdidas ,35,8,4,21,15,33944.42,625.18,25.13,554.99,133173.98,-4.84
+14059,TESLA,Acciones ,alto,ESTADOS UNIDOS,Automotriz ,MUY ALTA,mediano plazo,moderado,En Perdidas,38,8,0,18,77,17829.61,85151.6,-3.88,513.36,23085.23,-0.07
+14060,bonos venezuela, Bonos , alto , Venezuela ,GOBIERNO,muy alta,Largo Plazo, Conservador , Activa ,57,6,1,23,17,45327.16,20124.89,2.01,264.49,,8.11
+14061,COBRE,Materias Primas , alto ,global, Commodities , Baja ,corto plazo,Conservador,Finalizada,61,6,1,18,24,28444.27,-100000.0,-5.75,336.32,76235.28,7.32
+14062,Apartamento Caracas, Bienes Raices ,muy alto, Venezuela ,Inmobiliario, Baja ,Mediano Plazo,moderado,Finalizada,25,11,7,16,58,8980.59,48817.3,12.9,268.45,,18.24
+14063,ripple,criptomonedas,Medio,Global , Cripto ,MEDIA, Mediano Plazo ,conservador,EN PERDIDAS,23,7,5,19,72,,27883.56,33.98,12.15,416671.68,21.15
+14064,LOCAL COMERCIAL BOGOTA,  Bienes Raices, medio ,Colombia ,  Inmobiliario,muy alta, Mediano Plazo , arriesgado ,EN PAUSA,27,6,5,24,114,39559.58,200310.64,18.54,204.26,72040.9,7.32
+14065,FONDO RENTA FIJA, Fondos Mutuales ,muy alto,  Global,DIVERSIFICADO,MUY ALTA,Corto Plazo,ARRIESGADO,finalizada,63,6,8,20,91,116350.57,43213.4,23.54,97.45,391371.34,18.07
+14066,fondo indexado s&p500, Fondos Mutuales ,medio,  Estados Unidos,  Diversificado, media ,Corto Plazo,moderado, En Perdidas ,25,12,3,22,109,21076.5,17705.25,20.3,51.81,389305.38,-0.99
+14067, Vale ,ACCIONES,medio,BRASIL, Mineria ,muy alta,mediano plazo,CONSERVADOR,EN PAUSA,50,7,5,16,23,66025.35,67976.77,8.0,1570.04,289337.11,36.3
+14068,apple  inc,acciones,medio,Estados Unidos,TECNOLOGIA,ALTA,Mediano Plazo,CONSERVADOR, Activa ,39,11,3,23,46,53744.01,17421.62,24.25,457.35,31727.67,-1.31
+14069,BONOS DEL TESORO USA,  Bonos,BAJO, Estados Unidos ,Gobierno ,MUY ALTA,corto plazo,Conservador,En Pausa,47,11,5,25,72,134086.18,129026.95,19.18,652.18,234444.99,33.94
+14070,Mercado Libre,ACCIONES,Muy Alto,ARGENTINA,Tecnologia ,Muy Alta,LARGO PLAZO,Moderado,ACTIVA,65,8,1,18,8,86013.17,25825.74,29.59,189.43,580171.95,-19.52
+14071,PETROBRAS,Acciones , medio ,VENEZUELA, Energia ,muy alta,corto plazo, moderado ,EN PERDIDAS,55,7,7,19,59,41805.32,43901.86,1.11,249.73,229480.99,2.39
+14072,Petroleo, Materias Primas , muy alto , Global , Commodities , Baja ,largo plazo, arriesgado ,en pausa,31,9,2,19,90,53505.69,2854.32,-18.07,135.2,80578.74,3.38
+14073,oro,  Materias Primas,Medio,global,Commodities,ALTA,largo plazo,CONSERVADOR,EN PERDIDAS,57,9,4,18,111,114328.93,30543.54,23.68,51.0,138861.3,15.58
+14074,BONOS DEL TESORO USA,bonos, medio ,ESTADOS UNIDOS,Gobierno ,muy alta,Largo Plazo, arriesgado ,ACTIVA,35,10,6,27,59,25501.2,98227.67,13.25,98.64,207536.39,27.24
+14075,Casa Miami,BIENES RAICES,MUY ALTO,ESTADOS UNIDOS,Inmobiliario,ALTA,MEDIANO PLAZO, moderado ,FINALIZADA,52,13,7,18,13,19785.25,90094.87,3.56,798.54,142902.93,-14.99
+14076,Bonos Colombia, Bonos ,Alto,COLOMBIA, Gobierno ,Alta, Mediano Plazo , moderado , Finalizada ,69,5,9,33,39,543.5,13970.73,500.0,565.9,25555.98,-12.16
+14077,plata,Materias Primas,MUY ALTO,GLOBAL,  Commodities, alta ,largo plazo,arriesgado,ACTIVA,36,9,4,22,101,87593.6,14095.71,46.32,395.85,74811.91,-18.04
+14078,BONOS MEXICO,  Bonos,Alto,Mexico ,GOBIERNO,Media,Largo Plazo,Conservador,finalizada,29,8,1,18,113,80717.67,93496.64,-1.63,322.26,324298.08,36.4
+14079,MERCADO LIBRE,ACCIONES,Bajo,  Argentina,Tecnologia , muy alta , Largo Plazo ,conservador,finalizada,35,7,4,21,28,5516.11,146573.24,-4.8,1278.31,395258.68,15.95
+14080,vale,acciones,MUY ALTO,BRASIL,MINERIA,BAJA,Corto Plazo,Conservador,en pausa,44,6,6,16,89,43002.3,5512.06,9.28,37.76,29537.66,-11.69
+14081,RIPPLE,CRIPTOMONEDAS,alto,Global ,Cripto,BAJA, Mediano Plazo ,Moderado,en pausa,61,5,3,18,61,31179.35,32886.9,25.71,164.67,608928.85,
+14082,mercado libre,ACCIONES,medio,Argentina,Tecnologia,BAJA,largo plazo, Conservador , Finalizada ,42,9,4,18,16,6318.38,22641.61,42.18,215.34,79744.36,33.64
+14083,CARDANO,CRIPTOMONEDAS,BAJO,Global ,cripto,BAJA,LARGO PLAZO,CONSERVADOR, En Pausa ,37,6,2,23,119,197042.29,112504.19,17.86,762.61,,4.44
+14084, Plata ,Materias Primas ,MUY ALTO,global,  Commodities,muy alta, Corto Plazo ,Arriesgado, Activa ,66,4,6,23,2,12084.21,4797.12,-11.06,2447.4,278724.34,3.26
+14085,BONOS COLOMBIA,Bonos, alto ,Colombia,Gobierno , Baja ,mediano plazo, arriesgado ,EN PAUSA,39,7,8,16,118,3480.06,13043.17,37.56,137.66,,-5.63
+14086,Vale,acciones,alto,brasil,Tecnologia  , alta ,largo plazo,arriesgado,En Pausa,68,6,7,20,82,45174.57,76791.92,7.71,1036.96,582829.36,-10.5
+14087,Cobre,materias primas,muy alto,  Global,Commodities,Media, Mediano Plazo ,Arriesgado, En Pausa ,45,3,2,24,17,67136.21,2896.09,-4.57,887.81,75060.78,33.67
+14088, Ethereum ,criptomonedas,Alto, Global ,  Cripto,baja,Largo Plazo,MODERADO, En Perdidas ,47,10,6,21,30,1649.07,37308.06,-8.19,127.23,391100.24,43.48
+14089,AMAZON, Acciones ,MUY ALTO, Estados Unidos ,TECNOLOGIA,ALTA,CORTO PLAZO,conservador,Activa,46,11,9,24,103,53752.26,32097.35,20.54,254.86,28240.58,-9.7
+14090,Microsoft,  Acciones,alto,Estados Unidos ,Tecnologia , Baja ,Corto Plazo,Moderado, Finalizada ,66,8,3,24,13,37995.54,22388.75,11.58,263.54,244183.72,38.1
+14091,Google,acciones,MEDIO,estados unidos,Tecnologia,muy alta, Mediano Plazo , Conservador , Finalizada ,62,4,8,24,96,5449.74,27600.11,-100.0,1913.4,270941.88,0.25
+14092,APARTAMENTO CARACAS,  Bienes Raices,Muy Alto,  Venezuela,inmobiliario, alta ,corto plazo,Moderado,EN PERDIDAS,50,5,7,14,114,9468.75,41519.29,27.3,99.77,226468.92,20.67
+14093,fondo emergentes,fondos mutuales, muy alto , Global , Diversificado ,muy alta,mediano plazo,conservador,En Pausa,36,11,6,22,93,41963.51,9679.04,-4.03,802.62,58154.63,38.2
+14094,BONOS COLOMBIA,Bonos, Bajo ,  Colombia,Gobierno ,baja, Largo Plazo ,Conservador,ACTIVA,66,6,10,15,110,17574.25,46674.23,28.49,203.38,412781.6,7.1
+14095,microsoft, Acciones , medio ,  Estados Unidos,  Tecnologia,alta,corto plazo, Conservador ,ACTIVA,22,9,5,26,94,139286.32,90033.64,0.21,656.28,36991.04,3.44
+14096, Bonos Venezuela , Bonos ,Muy Alto, Venezuela ,inmobiliario,alta,Largo Plazo,MODERADO,finalizada,46,7,5,27,82,85391.2,78528.29,40.46,272.37,,26.02
+14097, Cobre ,MATERIAS PRIMAS, alto , Global ,COMMODITIES, alta ,LARGO PLAZO,ARRIESGADO,En Perdidas,28,9,5,21,13,,9191.47,16.98,431.8,252790.56,-12.2
+14098,eth,Criptomonedas ,alto,Global,cripto, Baja ,CORTO PLAZO,arriesgado, En Perdidas ,30,7,5,26,43,15033.02,8890.0,-5.8,893.72,129052.71,32.94
+14099,Cobre, Materias Primas ,alto,Global,Commodities ,MEDIA,Corto Plazo, moderado ,en perdidas,45,12,4,22,85,174869.39,17171.72,-22.38,815.24,378224.96,12.86
+14100,Oro, Materias Primas ,Bajo,GLOBAL, Commodities ,Media, Corto Plazo ,conservador,en perdidas,22,11,10,20,94,28214.3,24638.23,20.13,1006.54,96706.03,-1.56
+14101,Apple Inc,Acciones,Muy Alto,estados unidos,  Tecnologia, muy alta , Largo Plazo ,conservador,ACTIVA,65,7,3,17,21,21348.65,28876.02,2.39,30.73,36851.55,-2.08
+14102,terreno madrid,bienes raices,Alto, España , Inmobiliario , media , Mediano Plazo , moderado ,En Pausa,29,5,2,17,112,2583.06,,5.67,588.91,362117.76,-17.67
+14103,Local Comercial Bogota, Bienes Raices ,Bajo,  Colombia,Inmobiliario, Baja , Mediano Plazo ,arriesgado,FINALIZADA,45,7,6,16,55,2710.42,3209.26,19.49,75.4,159217.52,-0.72
+14104,RIPPLE, Criptomonedas ,bajo,global, Cripto , alta ,Largo Plazo,Arriesgado,ACTIVA,32,10,4,27,81,58884.6,1940.84,,268.77,41945.73,4.72
+14105,mercado libre,Acciones , muy alto ,ARGENTINA,TECNOLOGIA, alta ,Largo Plazo,Conservador,EN PERDIDAS,38,10,4,15,40,30617.91,27358.83,26.36,397.69,254867.61,-11.23
+14106, Apartamento Caracas ,  Bienes Raices,alto,  Venezuela, Inmobiliario , Baja ,largo plazo,ARRIESGADO,EN PERDIDAS,29,3,8,23,83,12842.88,65700.96,-200.0,257.7,143125.04,9.09
+14107,google,Acciones, medio ,Estados Unidos ,TECNOLOGIA,Alta,CORTO PLAZO,Arriesgado, Finalizada ,56,11,5,25,116,47592.05,11823.42,29.39,366.58,185426.35,19.46
+14108,Bonos Mexico,Bonos , alto ,MEXICO,GOBIERNO, media ,mediano plazo,arriesgado,En Pausa,56,9,4,24,15,14575.01,56421.15,-0.69,2831.27,123570.22,5.73
+14109,BONOS MEXICO, Bonos , medio , Mexico ,  Gobierno,muy alta,mediano plazo, Conservador ,en pausa,54,9,7,23,73,43093.89,16548.01,-25.84,72.64,352878.26,23.25
+14110,PETROLEO, Materias Primas ,MEDIO,Global ,Commodities,Baja,Mediano Plazo, arriesgado ,En Pausa,26,9,4,29,52,,119477.19,-9.68,562.67,353877.58,-6.14
+14111,Oro,Materias Primas,  Muy Alto  ,Global ,commodities,Alta,MEDIANO PLAZO,CONSERVADOR,en perdidas,63,10,2,18,74,,124321.31,11.27,252.09,247153.81,
+14112,MERCADO LIBRE,ACCIONES,Medio,ARGENTINA,TECNOLOGIA,Baja,MEDIANO PLAZO,Moderado,activa,60,6,2,15,108,85933.67,19404.39,-6.68,71.36,22276.03,12.44
+14113,ethereum,CRIPTOMONEDAS, Bajo , Global , Cripto ,media,mediano plazo,MODERADO, Activa ,62,10,3,16,95,32442.2,14374.62,6.68,86.43,365088.73,40.91
+14114,petrobras, Acciones ,bajo,  Brasil,  Energia,Alta,LARGO PLAZO,Conservador,En Pausa,49,14,3,17,53,21602.19,29141.49,13.07,1490.65,222347.4,58.28
+14115,Plata, Materias Primas ,alto,Global , Commodities ,alta,largo plazo,arriesgado,finalizada,28,8,8,24,87,22514.74,15132.51,5.28,1058.47,238820.45,0.6
+14116,ORO,Materias Primas ,bajo,GLOBAL,COMMODITIES,ALTA,Corto Plazo,moderado,en pausa,30,11,6,13,52,,61375.19,0.58,1187.8,90191.74,1.42
+14117, Bonos del Tesoro USA ,  Bonos,bajo,ESTADOS UNIDOS,  Gobierno, alta ,LARGO PLAZO, Conservador ,en pausa,29,7,0,18,30,19888.2,96198.95,-10.76,2385.78,422855.56,5.08
+14118,apartamento caracas,  Bienes Raices, alto ,  Venezuela, Inmobiliario ,Baja,LARGO PLAZO,arriesgado,FINALIZADA,33,5,8,16,33,11726.62,61494.23,8.33,116.8,258467.27,21.91
+14119,apartamento caracas,Bienes Raices ,Medio, Venezuela ,Inmobiliario ,media,mediano plazo,MODERADO, En Pausa ,55,7,5,26,57,4424.53,95659.54,-22.97,219.59,23889.74,36.52
+14120,tesla,Acciones ,BAJO,ESTADOS UNIDOS,Automotriz,Media,corto plazo,CONSERVADOR, Finalizada ,54,9,4,16,52,,27820.38,-2.29,553.15,104774.75,-3.06
+14121,fondo indexado s&p500,fondos mutuales,alto,ESTADOS UNIDOS, Diversificado ,Muy Alta,mediano plazo,ARRIESGADO,finalizada,69,8,5,11,9,32901.75,9348.81,-5.92,330.63,1000000000.0,17.62
+14122, Ripple , Criptomonedas ,ALTO,GLOBAL,Cripto,BAJA,corto plazo,ARRIESGADO,ACTIVA,44,10,7,23,54,91913.85,73657.3,4.41,270.98,9669.36,7.28
+14123,Fondo Indexado S&P500,fondos mutuales,muy alto,estados unidos,DIVERSIFICADO,Media,Largo Plazo,conservador,Finalizada,45,9,6,16,111,12502.53,24586.58,4.8,221.44,650986.73,22.36
+14124,ethereum,CRIPTOMONEDAS,medio,Global,CRIPTO,Baja,LARGO PLAZO,Arriesgado,EN PAUSA,58,9,3,19,1,23981.8,61188.66,22.4,450.43,227364.15,40.19
+14125,APPLE INC, Acciones ,MEDIO,  Estados Unidos,TECNOLOGIA,BAJA,MEDIANO PLAZO,moderado,Finalizada,56,5,4,24,44,82618.77,17357.63,31.75,428.53,199595.61,5.19
+14126, Bonos Alemanes , Bonos ,Medio,alemania,Gobierno,MEDIA,Mediano Plazo,conservador,En Pausa,65,5,2,17,99,86756.75,4659.55,,88.05,63095.43,-23.4
+14127,apple inc,Acciones, alto ,ESTADOS UNIDOS, Tecnologia ,Muy Alta,Mediano Plazo,Arriesgado,finalizada,61,8,4,16,75,24275.04,269710.0,37.89,319.08,57214.48,24.88
+14128,PETROLEO, Materias Primas ,Alto,Global,Commodities ,muy alta, Largo Plazo ,Arriesgado,ACTIVA,43,8,1,24,98,30728.26,9341.29,-3.69,403.13,569663.31,-6.65
+14129,oro,MATERIAS PRIMAS,medio,  Global,Commodities,MUY ALTA,LARGO PLAZO,Arriesgado,en pausa,48,3,9,24,80,18069.01,245220.89,10.59,422.32,70842.01,7.14
+14130,Fondo Renta Fija,  Fondos Mutuales,Alto,Global ,  Diversificado,ALTA,largo plazo,Arriesgado,En Pausa,56,4,3,25,9,134822.05,208147.87,15.66,117.93,298780.63,25.74
+14131, Bonos del Tesoro USA ,  Bonos, muy alto ,  Estados Unidos,Gobierno ,Alta  ,CORTO PLAZO,Arriesgado,en pausa,22,8,1,21,32,6314.67,86844.81,44.67,677.92,99885.43,15.95
+14132,Microsoft, Acciones ,alto,estados unidos, Tecnologia , alta ,mediano plazo,Conservador,FINALIZADA,56,9,5,26,15,135715.56,59241.27,-0.13,12.76,29991.18,
+14133, Oro ,  Materias Primas,ALTO,global, Commodities ,alta,corto plazo,MODERADO,activa,58,8,4,24,12,57579.53,47426.11,-18.95,219.12,2154.62,-1.52
+14134,petroleo,materias primas, Bajo ,global,Commodities,ALTA,largo plazo, moderado ,Activa,68,8,6,23,97,37918.66,110587.05,30.36,757.55,157165.39,-48.0
+14135,amazon, Acciones ,MUY ALTO,  Estados Unidos,tecnologia,BAJA,LARGO PLAZO,Conservador,ACTIVA,35,9,5,16,109,,18793.57,-4.5,414.93,744105.55,23.97
+14136, Bitcoin ,criptomonedas,BAJO, Global ,Cripto ,baja,CORTO PLAZO,ARRIESGADO,activa,24,7,8,18,78,32274.66,,2.58,151.34,-500000.0,4.94
+14137,MICROSOFT,Acciones ,Medio,ESTADOS UNIDOS,TECNOLOGIA,Media,mediano plazo,MODERADO,Finalizada,22,11,5,24,57,26191.16,53128.9,,593.64,88381.94,40.27
+14138,FONDO INDEXADO S&P500,Fondos Mutuales , medio ,  Estados Unidos,Diversificado ,media,Mediano Plazo,moderado,EN PAUSA,26,10,7,21,8,8790.27,29130.89,2.62,418.96,84346.83,17.96
+14139,fondo indexado s&p500,Fondos Mutuales,Muy Alto,Estados Unidos , Diversificado ,baja,LARGO PLAZO,Moderado,en perdidas,47,10,4,19,72,53415.25,,-4.61,795.42,,-0.82
+14140,google, Acciones , alto ,Estados Unidos ,  Tecnologia,BAJA, Largo Plazo , arriesgado ,Activa,35,9,1,22,27,177283.84,22049.64,18.15,664.06,116201.3,31.34
+14141,Bitcoin,Criptomonedas ,BAJO,Global , Cripto ,MUY ALTA,LARGO PLAZO,Conservador, En Perdidas ,60,6,5,29,62,41298.38,45685.47,9.21,470.94,423910.47,33.02
+14142,ripple,Criptomonedas ,Muy Alto,GLOBAL,Cripto,MUY ALTA,MEDIANO PLAZO,moderado,finalizada,48,5,4,20,12,62720.04,104552.66,-2.22,334.89,140850.03,5.62
+14143, Mercado Libre ,  Acciones,Bajo,Argentina,tecnologia,muy alta,CORTO PLAZO,conservador,finalizada,30,9,3,23,65,3545.29,12378.07,22.94,71.46,141756.9,33.87
+14144,ORO,Materias Primas,Alto,global,COMMODITIES, muy alta ,largo plazo,moderado, En Perdidas ,36,6,2,17,107,27035.64,149857.58,11.82,151.45,29786.24,-1.11
+14145,BONOS COLOMBIA,Bonos, Bajo ,COLOMBIA,Gobierno ,MUY ALTA, Largo Plazo , Conservador , En Pausa ,36,5,12,22,104,6185.19,64253.43,-19.69,271.59,811867.4,
+14146,Petrobras,  Acciones,MUY ALTO,brasil,energia,muy alta,corto plazo, arriesgado ,En Perdidas,47,8,5,15,42,47440.16,95323.27,21.8,457.27,57529.19,21.43
+14147,RIPPLE, Criptomonedas , alto ,GLOBAL,CRIPTO,Alta,Mediano Plazo,ARRIESGADO,finalizada,63,9,10,19,62,139421.4,44679.82,10.77,360.47,15238.91,
+14148,TERRENO MADRID,bienes raices,Alto,españa, Inmobiliario ,MEDIA,Largo Plazo,ARRIESGADO,EN PERDIDAS,34,12,6,25,115,54202.6,83156.33,28.86,169.97,217621.28,22.43
+14149, Petrobras , Acciones ,Muy Alto,BRASIL,  Energia, Baja ,MEDIANO PLAZO,conservador,ACTIVA,53,8,1,21,11,3995.63,898.32,9.86,3.24,180954.65,3.35
+14150,BONOS DEL TESORO USA,bonos, alto ,Estados Unidos, Gobierno , alta ,LARGO PLAZO,arriesgado,activa,60,14,6,31,103,21899.38,93821.26,-3.88,342.83,107278.49,31.87
+14151,Cobre,Materias Primas, Bajo ,  Global,Commodities,muy alta,mediano plazo, arriesgado ,en pausa,53,3,2,20,43,39999.15,2253.17,4.94,168.17,109702.81,1000.0
+14152,Casa Miami,BIENES RAICES, medio ,Estados Unidos ,Inmobiliario, Baja ,CORTO PLAZO,moderado,EN PERDIDAS,25,6,4,15,95,25809.31,121356.83,20.06,663.27,307482.92,-1.38
+14153,BONOS MEXICO, Bonos , muy alto ,mexico,  Gobierno,alta,LARGO PLAZO,CONSERVADOR,en perdidas,51,8,5,17,17,89681.26,265301.74,-3.56,12.12,43559.73,-1.09
+14154,ethereum,CRIPTOMONEDAS,Bajo,GLOBAL,Cripto , muy alta , Largo Plazo ,Conservador, En Perdidas ,58,10,8,21,97,84281.13,19152.96,1.4,439.53,343241.35,48.8
+14155,GOOGLE,acciones,ALTO,Estados Unidos,tecnologia,alta, Largo Plazo ,moderado,EN PERDIDAS,44,4,4,18,32,47315.73,12986.91,4.67,1419.14,209249.77,-4.84
+14156,Vale, Acciones , medio ,Brasil,  Mineria,baja,  Largo Plazo  ,Arriesgado,EN PAUSA,60,6,2,12,93,23376.97,79734.45,-9.24,95.83,108590.5,35.83
+14157,Bonos Alemanes,BONOS,BAJO,Alemania ,gobierno, media ,Largo Plazo,moderado,FINALIZADA,66,9,1,22,85,14741.13,16044.89,,319.0,122508.42,-12.71
+14158, Cardano ,CRIPTOMONEDAS,MUY ALTO,GLOBAL,CRIPTO,Muy Alta,corto plazo,ARRIESGADO,En Pausa,36,7,8,15,85,5595.45,110366.03,10.59,47.94,59316.9,19.76
+14159,VALE, Acciones ,alto,  Brasil,Mineria ,baja,LARGO PLAZO,CONSERVADOR,FINALIZADA,64,11,8,17,40,21917.32,5968.82,26.04,491.32,278957.53,15.94
+14160,VALE,ACCIONES,muy alto,brasil,Mineria,Baja,LARGO PLAZO,ARRIESGADO,FINALIZADA,50,11,4,27,23,26651.22,7404.3,12.76,399.84,143846.8,42.42
+14161, Microsoft , Acciones , Bajo ,  Estados Unidos,Tecnologia ,MEDIA,corto plazo, moderado , Finalizada ,57,8,1,25,56,56323.27,212876.18,7.31,261.59,77383.99,-3.09
+14162,Apartamento Caracas,BIENES RAICES,Medio, Venezuela , Inmobiliario ,alta,Largo Plazo, arriesgado ,En Perdidas,34,10,9,18,6,53670.6,61620.01,,368.42,181292.89,-8.61
+14163, Vale ,Acciones,bajo,Brasil,Mineria,MEDIA,mediano plazo, moderado ,En Pausa,53,8,4,12,86,3634.35,103211.93,24.43,1134.45,1091436.93,7.67
+14164,plata, Materias Primas ,bajo,Global,commodities,Media,Corto Plazo,ARRIESGADO, Finalizada ,28,5,2,12,50,25147.78,,14.5,109.26,114278.77,43.3
+14165,ORO,Materias Primas,alto,Global ,Commodities,Alta,mediano plazo,CONSERVADOR, Activa ,43,5,4,16,102,10031.13,62067.83,-2.6,11.41,506881.74,-7.68
+14166,Microsoft,  Acciones, muy alto ,ESTADOS UNIDOS, Tecnologia ,alta,Mediano Plazo,CONSERVADOR,FINALIZADA,49,12,3,17,37,8528.31,49609.89,21.48,989.04,84629.15,-500.0
+14167, Vale ,Acciones , Bajo , Brasil ,Mineria,ALTA,CORTO PLAZO,conservador, En Pausa ,23,7,8,15,109,87810.59,50830.85,16.39,430.33,11257.51,11.2
+14168,Casa Miami,Bienes Raices, Bajo , Estados Unidos ,  Inmobiliario, Baja , Corto Plazo , arriesgado ,EN PERDIDAS,63,13,9,17,64,2140.95,63105.88,-4.2,1106.64,45692.06,28.99
+14169,petrobras,ACCIONES, medio , Brasil ,energia,Baja,mediano plazo, moderado , Activa ,66,6,4,18,115,27165.97,47108.14,6.48,454.34,108495.99,-10.28
+14170,GOOGLE,acciones,Medio,ESTADOS UNIDOS, Tecnologia , muy alta , Mediano Plazo ,Conservador,Finalizada,27,7,4,16,54,9208.38,30826.14,0.61,830.79,49598.69,26.96
+14171, Petroleo ,  Materias Primas,Muy Alto,global,  Commodities,muy alta, Corto Plazo ,Moderado,EN PERDIDAS,-5,12,5,16,72,105734.88,,47.5,280.77,45.41,-10.72
+14172,Ripple,Criptomonedas,MUY ALTO,Global,CRIPTO,media, Corto Plazo , Conservador , En Pausa ,49,8,11,22,105,40713.85,80493.97,15.98,692.87,493024.42,7.07
+14173,BITCOIN,  Criptomonedas, alto ,GLOBAL,Cripto ,Media,CORTO PLAZO,Conservador,En Pausa,65,12,8,16,49,13157.97,,,1221.16,371425.31,25.05
+14174,FONDO INDEXADO S&P500,Fondos Mutuales,muy alto, Estados Unidos ,  Diversificado,Muy Alta,CORTO PLAZO, Conservador , Activa ,65,3,6,14,99,,64834.36,15.09,424.46,271185.8,-13.75
+14175,Fondo Emergentes,Fondos Mutuales,Medio,Global,DIVERSIFICADO, media ,corto plazo,Conservador,activa,41,9,2,26,115,65742.68,14613.64,28.69,99.7,36740.0,13.63
+14176,PETROBRAS,acciones,muy alto,Brasil, Energia , alta ,Mediano Plazo,Arriesgado  ,finalizada,100,6,8,12,11,158644.97,53994.06,6.75,156.53,25649.32,34.3
+14177,AMAZON,acciones, Bajo , Estados Unidos , Tecnologia ,BAJA,corto plazo,Moderado,En Perdidas,32,6,7,17,88,12451.67,75607.14,-0.85,110.73,13999.69,19.48
+14178, Bonos Mexico ,Bonos, muy alto , Mexico , Gobierno ,Muy Alta,Largo Plazo,Arriesgado,en perdidas,49,8,6,24,49,108657.63,13574.76,20.66,141.75,257492.04,-4.41
+14179,BONOS COLOMBIA,Bonos ,muy alto,Colombia,gobierno,baja,Largo Plazo,MODERADO, En Pausa ,46,8,5,21,21,136135.95,3399.83,5.38,182.94,528474.85,
+14180, Bitcoin ,criptomonedas,Alto,Global , Cripto ,muy alta, Largo Plazo ,Arriesgado,en pausa,60,6,3,14,115,124097.88,7721.01,-8.05,404.99,112611.88,23.17
+14181,TERRENO MADRID,bienes raices,bajo,  España,Inmobiliario ,Baja,Largo Plazo,moderado,FINALIZADA,54,5,5,17,66,50449.69,51226.82,-10.97,-1000.0,25371.47,-27.21
+14182,casa miami,bienes raices, alto ,  Estados Unidos,inmobiliario,MUY ALTA,Corto Plazo,Moderado,FINALIZADA,22,9,3,12,63,49688.38,104138.99,30.94,278.0,143649.03,27.28
+14183,cobre, Materias Primas ,MEDIO,Global, Commodities ,BAJA,LARGO PLAZO,Conservador,EN PAUSA,48,11,3,17,104,25809.55,2532.23,9.97,477.8,85797.49,-1.43
+14184, Amazon ,  Acciones,MUY ALTO,estados unidos,tecnologia,ALTA,mediano plazo,ARRIESGADO,en pausa,34,7,7,11,83,69796.61,72865.53,-0.84,42.55,,13.93
+14185, Bonos Colombia ,Bonos,MUY ALTO,colombia,Gobierno ,muy alta,largo plazo, Conservador , En Perdidas ,62,9,4,19,103,37888.98,22963.35,4.48,45.94,,30.16
+14186,bonos alemanes,Bonos , medio ,Alemania ,Gobierno ,Muy Alta,CORTO PLAZO,Moderado,EN PERDIDAS,24,4,4,21,28,56573.01,35810.52,20.11,100000.0,253679.59,-0.99
+14187,ORO,materias primas, alto ,GLOBAL,  Commodities,muy alta,largo plazo,moderado, En Perdidas ,60,4,6,17,17,27970.86,145370.46,3.6,364.99,,-22.91
+14188, Vale , Acciones , Bajo ,Brasil,mineria,alta,MEDIANO PLAZO,Conservador,finalizada,27,6,6,26,6,65744.56,22188.34,,120.4,7247.8,40.11
+14189,Petrobras,  Acciones, alto ,brasil,Energia, Baja ,CORTO PLAZO,ARRIESGADO, En Perdidas ,29,4,3,15,19,86997.7,34436.52,12.89,166.54,1034523.91,33.29
+14190,BONOS MEXICO,BONOS, alto ,Mexico,GOBIERNO,Muy Alta,CORTO PLAZO,moderado,Activa,48,10,4,23,56,7916.75,757.73,26.13,255.67,52982.87,8.25
+14191,BONOS COLOMBIA,BONOS,bajo,Colombia , Gobierno ,Baja,CORTO PLAZO,Moderado,  Activa  ,30,10,6,20,-10,89467.03,4681.65,25.12,835.3,11066.72,27.07
+14192,mercado libre,acciones,Muy Alto, Argentina ,TECNOLOGIA,ALTA, Largo Plazo ,conservador,En Perdidas,58,9,6,18,28,38858.68,16456.2,-0.39,6.98,42113.43,2.61
+14193, Vale ,Acciones ,Alto,Brasil ,Mineria ,media,largo plazo,moderado,EN PERDIDAS,54,15,6,19,66,93108.85,1553.61,27.04,524.02,7947.4,11.94
+14194,PLATA,Materias Primas ,MEDIO,Global ,COMMODITIES,MUY ALTA,CORTO PLAZO,MODERADO, En Pausa ,63,7,6,19,38,28220.26,54888.7,11.19,552.63,99453.88,
+14195, Bonos Mexico ,  Bonos, Bajo ,Mexico ,Gobierno, alta , Largo Plazo ,MODERADO,EN PAUSA,65,13,3,14,119,23824.47,,26.62,801.37,324303.9,3.42
+14196, Oro ,  Materias Primas,MUY ALTO,global,COMMODITIES,BAJA, Mediano Plazo , arriesgado ,en perdidas,45,5,5,30,500,,,16.61,1349.69,83480.55,17.19
+14197, Ripple ,Criptomonedas,BAJO,Global ,  Cripto,muy alta,Corto Plazo, moderado ,activa,36,-5,2,21,115,14462.12,10556.94,-14.82,10.17,117463.38,-14.16
+14198,microsoft,acciones,MEDIO, Estados Unidos ,TECNOLOGIA, Baja ,MEDIANO PLAZO,MODERADO,activa,53,200,5,20,116,92963.06,19298.42,34.2,83.49,225147.44,4.97
+14199, Cobre ,MATERIAS PRIMAS,Bajo, Global ,Commodities , media ,mediano plazo,moderado,finalizada,53,11,80,16,68,33084.42,59956.7,8.78,1086.53,142219.09,16.29
+14200,fondo renta fija,Fondos Mutuales,bajo, Global ,Diversificado ,muy alta,LARGO PLAZO,CONSERVADOR, En Perdidas ,45,7,3,1000,86,36087.15,184860.17,16.65,306.72,395298.57,46.76

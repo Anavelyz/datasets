@@ -1,0 +1,201 @@
+﻿ID_Jugador,Nombre_Jugador,Equipo,Liga,Pais_Origen,Posicion,Nivel_Rendimiento,Estado_Fisico,Valoracion_Tecnica,Edad_Jugador,Goles_Temporada,Asistencias_Temporada,Partidos_Jugados,Tarjetas_Amarillas,Tarjetas_Rojas,Valor_Mercado_Millones,Salario_Semanal_Miles,Minutos_Jugados,Distancia_Recorrida_Km,Precision_Pases_Porcentaje
+8001,kevin de bruyne,Manchester City,Premier League,Belgica,mediocampista,REGULAR,lesionado,1-2,22,1,14,36,3,0,44.61,65.36,1359.0,218.5,87.9
+8002, Marco Reus ,  Borussia Dortmund,bundesliga,Alemania ,Mediocampista , Excelente ,REGULAR, 3-4 ,18,18,12,39,7,0,7.45,10.37,2295.0,214.2,72.2
+8003,bukayo saka,Arsenal,Premier League,Inglaterra,DELANTERO,bueno ,Regular,7-8,35,8,3,16,4,0,71.99,306.67,1834.0,171.8,65.9
+8004,RAFAEL LEAO,ac milan, Serie A , Portugal ,Delantero , Excelente , Optimo ,7-8,39,19,4,26,4,1,35.14,59.59,2160.0,229.4,89.3
+8005,LEROY SANE,BAYERN MUNICH,BUNDESLIGA,  Alemania,  Delantero,BAJO,Bueno,3-4,34,11,7,22,3,0,11.93,56.44,1558.0,177.7,81.9
+8006, Gregor Kobel ,borussia dortmund,bundesliga,  Suiza,portero, Excelente , Optimo ,1-2,37,14,12,28,5,0,,9.94,1168.0,214.6,75.5
+8007,lautaro martinez,  Inter Milan, Serie A ,ARGENTINA,  Delantero,Regular, Optimo ,1-2,35,14,11,31,3,0,11.87,64.15,1649.0,214.5,73.7
+8008,PAULO DYBALA,AS ROMA, Serie A ,  Argentina,  Delantero, bajo ,optimo,1-2,20,13,15,17,3,1,21.78,70.99,1369.0,246.2,70.1
+8009,erling  haaland,Manchester City ,premier league,noruega,Delantero ,Regular,optimo,5-6,32,15,1,10,5,1,25.2,,1083.0,269.9,98.8
+8010,Victor Osimhen,  Napoli,  Serie A,  Nigeria,delantero, Excelente ,Lesionado,5-6,18,12,10,29,2,1,10.97,12.25,2134.0,161.9,73.0
+8011,karim benzema,REAL MADRID,  La Liga,  Francia, Delantero ,bueno ,bueno,3-4,21,8,6,26,2,0,19.74,22.82,2106.0,158.3,63.0
+8012,LIONEL MESSI,psg,Ligue 1 ,argentina, Delantero ,BUENO,bueno,9-10,36,8,11,11,7,0,158.69,22.65,1736.0,191.2,84.2
+8013,khvicha kvaratskhelia,Napoli ,Serie A ,GEORGIA,Delantero,BAJO, bueno , 5-6 ,29,10,13,35,0,0,25.31,11.12,1453.0,196.0,
+8014,serge gnabry,Bayern Munich ,Bundesliga,Alemania,DELANTERO, Regular,optimo,3-4,19,10,8,34,3,0,3.44,27.02,2067.0,214.2,76.7
+8015,victor osimhen,Napoli ,SERIE A, Nigeria ,DELANTERO, bajo ,bueno,1-2,33,12,9,13,0,0,31.86,81.12,3235.0,237.9,71.3
+8016,virgil van dijk, Liverpool ,  Premier League,Paises Bajos, Defensa ,REGULAR,Optimo,3-4,20,13,9,20,3,0,500.0,138.67,1601.0,170.5,90.1
+8017,lionel messi, PSG ,ligue 1,Argentina,Delantero ,BAJO, Optimo ,9-10,29,17,9,21,1,1,1.37,,2718.0,149.1,82.8
+8018,Kylian Mbappé,PSG ,Ligue 1,FRANCIA,delantero, bajo , bueno ,7-8,20,10,3,26,8,1,14.7,10.63,3203.0,204.9,
+8019,karim benzema,Real Madrid, La Liga , Francia , Delantero ,excelente,bueno, 5-6 ,21,4,13,21,1,0,0.53,34.62,,238.6,84.7
+8020,HARRY KANE,TOTTENHAM,premier league,INGLATERRA,DELANTERO,EXCELENTE,bueno,1-2,39,10,6,21,3,0,6.3,311.06,2439.0,238.3,54.9
+8021,  Erling Haaland  ,  AS Roma,  Serie A,argentina,  Delantero, bajo ,OPTIMO,9-10,22,14,6,21,3,0,16.03,20.7,2802.0,229.8,59.9
+8022, Paulo Dybala ,as roma,Serie A,  Argentina, Delantero ,bajo, bueno ,1-2,22,10,10,13,1,0,28.54,10.75,3164.0,203.1,84.3
+8023,gregor kobel,Borussia Dortmund ,Bundesliga ,  Suiza,  Portero,regular, lesionado ,5-6,34,14,10,36,3,0,0.03,18.34,2087.0,190.2,81.2
+8024,MIKE MAIGNAN,AC MILAN,SERIE A,  Francia, Portero , Regular,LESIONADO,3-4,39,14,8,19,1,1,38.29,102.33,3375.0,235.4,79.2
+8025,Paulo Dybala,AS ROMA, Serie A ,argentina,DELANTERO,bueno ,Lesionado,9-10,30,11,8,15,2,1,13.57,225.35,2156.0,257.7,89.2
+8026,KYLIAN MBAPPE,Juventus ,SERIE A,  Serbia,DELANTERO,regular, regular ,3-4,33,12,9,33,4,0,121.14,150.08,2531.0,307.3,100.6
+8027,karim benzema,  Real Madrid,la liga,FRANCIA,Delantero,Excelente, lesionado ,7-8,18,12,12,32,5,1,7.53,27.11,1403.0,200.2,88.2
+8028,Kevin De Bruyne,  Manchester City, Premier League ,  Belgica,Mediocampista,EXCELENTE, regular ,1-2,28,17,6,23,1,0,2.03,315.92,1372.0,172.7,
+8029, mohamed salah ,Liverpool, Premier League ,egipto,delantero,EXCELENTE, Optimo ,1-2,34,13,10,29,3,0,23.72,59.6,,184.0,54.9
+8030,DIMITRI PAYET,Marseille ,ligue 1, Francia , Mediocampista ,EXCELENTE,BUENO,5-6,27,15,9,10,5,1,13.52,99.41,2131.0,241.3,70.1
+8031,NEYMAR JR,PSG , Ligue 1 ,Brasil,DELANTERO,Bueno,lesionado,5-6,20,5,6,14,3,0,-50.0,93.31,3443.0,169.9,71.0
+8032,Antoine Griezmann,atletico madrid,La Liga ,Francia,Delantero,Excelente,regular,9-10,34,9,13,36,0,0,21.97,214.57,1787.0,200.5,67.7
+8033,achraf hakimi,PSG,Ligue 1,MARRUECOS,Defensa,BAJO,Bueno,3-4,38,13,9,21,3,0,65.0,8.83,3087.0,176.8,91.6
+8034, Nicolo Barella ,INTER MILAN,Serie A, Italia , Mediocampista ,Bajo,Optimo,5-6,22,13,3,18,3,3,121.33,20.82,1267.0,291.5,65.9
+8035,Bruno Fernandes,  Manchester United, Premier League ,Portugal,MEDIOCAMPISTA,excelente,BUENO,5-6,27,14,10,35,1,1,14.95,68.38,2079.0,121.4,82.7
+8036, Lionel Messi ,psg,  Ligue 1,Argentina,DELANTERO,EXCELENTE,LESIONADO,7-8,25,11,6,16,4,0,12.03,76.78,1997.0,158.9,78.3
+8037, Dusan Vlahovic ,Juventus,Serie A,SERBIA,Delantero, bajo , bueno ,5-6,38,19,5,24,5,0,9.87,116.92,1539.0,196.5,76.3
+8038, Dimitri Payet , Marseille , Ligue 1 ,francia, Mediocampista ,EXCELENTE,Lesionado,3-4,33,11,8,29,3,1,34.32,392.06,,189.5,84.0
+8039, Leroy Sane ,  Bayern Munich,Bundesliga,Alemania ,Delantero ,Regular,bueno,3-4,26,13,7,32,2,0,43.58,199.97,1469.0,219.2,71.7
+8040,Harry Kane,TOTTENHAM,  Premier League,  Inglaterra,Delantero,Bueno,Lesionado,3-4,39,13,8,34,2,0,16.94,43.66,,186.7,83.1
+8041,Thomas Muller,Manchester City   ,  Bundesliga,alemania,Delantero ,Regular,REGULAR, 7-8 ,18,14,9,34,4,0,,215.36,2546.0,227.8,61.4
+8042, Gregor Kobel ,borussia dortmund,BUNDESLIGA, Suiza ,Portero ,Bueno,lesionado, 5-6 ,21,11,11,24,3,0,89.36,757.88,2139.0,233.3,95.5
+8043, Alexandre Lacazette ,  Lyon,Ligue 1 ,FRANCIA, Delantero ,regular,Regular,9-10,20,11,7,20,2,1,4.38,4.31,1676.0,247.0,73.6
+8044,Luka Modric,real madrid,  La Liga,Croacia ,MEDIOCAMPISTA,regular,REGULAR,9-10,27,8,11,28,5,1,12.92,116.0,2588.0,168.4,80.3
+8045,NICOLO BARELLA,Inter Milan,  Serie A,Italia ,Mediocampista, Regular,LESIONADO,9-10,29,17,11,20,3,0,2.84,214.83,2351.0,161.1,71.2
+8046,Marco Reus,  Borussia Dortmund, Bundesliga ,alemania,MEDIOCAMPISTA,bueno ,Optimo,1-2,34,13,12,30,2,0,35.33,5000.0,1479.0,277.9,88.9
+8047,virgil van dijk,Liverpool,PREMIER LEAGUE,Paises Bajos ,Defensa ,Regular,Optimo,7-8,39,18,11,12,0,2,89.58,323.06,,250.0,86.5
+8048, Lionel Messi ,PSG,ligue 1,Argentina,DELANTERO,REGULAR,bueno, 1-2 ,39,15,6,34,7,0,5.56,90.03,1768.0,271.5,66.7
+8049,Gregor Kobel,BORUSSIA DORTMUND,BUNDESLIGA,Suiza ,portero,Bajo,lesionado, 1-2 ,39,13,10,31,1,0,1.21,148.91,2489.0,248.2,84.2
+8050, Kevin De Bruyne ,manchester city,premier league,BELGICA, Mediocampista ,BUENO, bueno ,1-2,26,11,6,17,2,0,2.73,83.2,2351.0,182.0,59.6
+8051, Mike Maignan ,real madrid,SERIE A,  Francia,portero,Bueno,Lesionado,3-4,28,10,7,16,3,0,38.97,93.04,1486.0,170.4,65.1
+8052,karim benzema, Real Madrid , La Liga ,Francia ,Delantero ,BUENO, lesionado , 5-6 ,25,19,6,23,3,0,18.76,238.76,2914.0,266.5,89.8
+8053,rodri,Manchester City ,  Premier League,España,MEDIOCAMPISTA,bueno,lesionado, 1-2 ,21,11,5,14,2,0,13.42,233.67,1651.0,166.4,
+8054,MIKE MAIGNAN,AC Milan,Serie A ,Francia ,Portero ,REGULAR,REGULAR,1-2,37,7,9,35,3,0,65.32,,2170.0,283.1,65.2
+8055,Wissam Ben Yedder,monaco,Ligue 1 , Francia ,  Delantero,bajo, bueno ,9-10,20,10,9,33,8,0,15.82,13.51,606.0,226.5,77.6
+8056,Khvicha Kvaratskhelia,Napoli,Serie A ,  Georgia,Delantero ,REGULAR, lesionado ,1-2,32,10,14,28,0,0,15.34,2.31,1195.0,149.4,80.2
+8057,BRUNO FERNANDES, Manchester United ,PREMIER LEAGUE, Portugal ,Mediocampista,excelente,REGULAR,1-2,28,11,5,31,4,0,14.3,209.72,1984.0,183.1,59.7
+8058,PAULO DYBALA,AS ROMA,  Serie A,ARGENTINA,DELANTERO,excelente,OPTIMO, 7-8 ,38,11,11,26,3,0,7.57,279.85,2069.0,240.0,
+8059,Gregor Kobel,Borussia Dortmund ,Bundesliga ,Suiza ,PORTERO,Excelente,lesionado, 7-8 ,36,15,9,15,1,0,22.9,0.71,3011.0,254.6,56.4
+8060,Wissam Ben Yedder,  Monaco,Ligue 1 ,Francia,  Delantero, Excelente , lesionado ,3-4,21,14,15,32,6,0,14.3,59.4,1735.0,132.6,72.5
+8061,MARCO REUS,  Borussia Dortmund, Bundesliga ,  Alemania,MEDIOCAMPISTA,BAJO, Optimo ,1-2,24,14,6,36,5,0,37.73,-100.0,1619.0,258.2,69.8
+8062,kevin de bruyne,Manchester City ,Premier League,BELGICA,Mediocampista ,REGULAR,regular,9-10,37,13,7,31,3,1,11.94,2.25,2235.0,196.8,90.2
+8063,Wissam Ben Yedder,monaco,LIGUE 1,francia,Delantero,BUENO,lesionado,1-2,24,14,10,28,2,0,13.92,32.03,2075.0,170.8,87.5
+8064,MIKE MAIGNAN,AC Milan ,SERIE A,francia,portero,EXCELENTE,LESIONADO,3-4,30,8,7,19,1,0,24.82,547.01,2408.0,165.1,96.9
+8065,harry kane,  Tottenham,PREMIER LEAGUE,INGLATERRA,Delantero ,EXCELENTE,Regular,9-10,22,15,5,27,6,0,21.13,3.75,1918.0,270.0,79.8
+8066,BRUNO FERNANDES,MANCHESTER UNITED,  Premier League,PORTUGAL,mediocampista,bueno ,Regular,1-2,39,12,7,27,1,1,1.74,96.33,2071.0,168.4,78.5
+8067,Harry Kane,Tottenham,premier league, Inglaterra ,Delantero,bajo,LESIONADO,7-8,32,8,9,25,4,0,,101.97,1728.0,227.0,92.8
+8068, Jamal Musiala ,BAYERN MUNICH,BUNDESLIGA, Alemania ,Mediocampista ,BUENO,regular,7-8,37,9,7,38,5,0,20.03,133.54,1227.0,231.1,64.0
+8069, Virgil van Dijk ,Liverpool ,Premier League ,Paises Bajos, Defensa , bajo , Optimo ,5-6,39,10,13,20,6,0,18.53,32.81,2408.0,305.0,71.8
+8070,Kylian Mbappe, PSG , Ligue 1 ,Francia ,DELANTERO,regular,Regular,3-4,37,14,8,38,4,0,17.27,9.77,3033.0,210.3,63.0
+8071,Bruno Fernandes,  Manchester United,SERIE A,Portugal, Mediocampista , Regular,Lesionado,5-6,26,13,6,31,1,1,7.09,13.3,2082.0,206.6,75.1
+8072,Nicolo Barella,INTER MILAN,Serie A ,  Italia,  Mediocampista,Bueno, lesionado , 5-6 ,37,10,5,34,6,2,2.68,165.73,,286.1,92.0
+8073,lautaro martinez,Inter Milan,Serie A , Argentina ,Delantero, bajo ,REGULAR, 1-2 ,39,11,12,25,1,0,28.53,292.3,1426.0,210.8,39.5
+8074,Kevin De Bruyne,  Manchester City,Premier League,Belgica, Mediocampista ,BAJO,BUENO,7-8,28,13,5,27,2,0,24.95,315.97,2947.0,108.2,81.4
+8075,erling haaland, Manchester City ,Premier League ,  Noruega,Delantero,bueno,regular,7-8,35,9,11,20,3,0,10.27,311.16,1999.0,192.3,73.0
+8076,alexandre lacazette,Lyon ,ligue 1,francia,delantero,REGULAR,regular,5-6,24,6,9,38,2,1,,58.22,10000.0,230.4,80.7
+8077,gianluigi donnarumma,PSG,  Ligue 1, Italia ,Portero,REGULAR,OPTIMO,5-6,34,8,12,19,1,0,19.77,80.2,2100.0,263.3,103.4
+8078,Bruno Fernandes,Manchester United,Premier League, Portugal ,Mediocampista, bajo , Optimo ,7-8,34,14,11,12,1,0,16.52,59.68,1818.0,209.1,92.9
+8079, Joshua Kimmich ,bayern munich,Bundesliga ,ALEMANIA,Mediocampista ,excelente,bueno,9-10,30,18,7,32,2,0,38.75,17.75,1202.0,198.3,
+8080,Gianluigi Donnarumma,psg, Ligue 1 ,Italia ,Portero,Excelente,BUENO,7-8,32,11,10,25,1,0,,294.43,2936.0,266.5,79.3
+8081,Alexandre Lacazette, Lyon ,Ligue 1,  Francia,Delantero,BAJO,Optimo,3-4,25,13,6,28,3,1,23.84,70.02,1864.0,246.9,74.5
+8082,Achraf Hakimi, PSG ,Ligue 1,MARRUECOS,  Defensa, bajo , lesionado ,7-8,35,10,9,25,2,0,3.23,56.8,654.0,224.9,88.1
+8083,PEDRI,BARCELONA,La Liga , España ,Mediocampista ,BAJO,bueno,5-6,37,10,9,14,1,0,25.23,44.81,1016.0,201.6,60.6
+8084,Marco Reus,BORUSSIA DORTMUND,BUNDESLIGA, Alemania ,mediocampista,bajo,Lesionado,3-4,19,10,6,12,4,0,2.64,,1449.0,223.8,85.1
+8085,Paulo Dybala,AS ROMA,Serie A,  Argentina, Delantero ,bajo,Bueno,9-10,23,15,13,39,5,0,42.67,74.83,2523.0,242.0,88.8
+8086,dimitri payet,Marseille,  Ligue 1,Noruega  ,Mediocampista,REGULAR, regular ,9-10,31,9,8,32,5,0,6.35,41.91,1594.0,120.9,87.9
+8087,MARCO REUS, Borussia Dortmund ,bundesliga,ALEMANIA, Mediocampista , Regular,REGULAR, 9-10 ,26,17,6,38,2,0,5.89,203.0,2531.0,228.1,76.8
+8088,NEYMAR JR,psg,Ligue 1 ,Brasil, Delantero , Regular, bueno , 7-8 ,18,14,6,32,3,0,5.85,65.32,1760.0,211.6,62.7
+8089, Lionel Messi ,  PSG,Ligue 1,Argentina ,delantero,bajo,lesionado,9-10,37,8,7,31,1,0,12.19,42.11,1452.0,269.9,81.8
+8090,jan oblak, Atletico Madrid , La Liga , Eslovenia ,Portero,Excelente, regular ,7-8,27,8,6,29,4,0,64.22,223.23,2110.0,222.1,104.2
+8091,marco reus,Borussia Dortmund ,bundesliga,  Alemania,MEDIOCAMPISTA, Excelente , Optimo , 3-4 ,22,12,10,32,4,0,4.78,34.9,-500.0,132.7,74.6
+8092,HARRY KANE,  Tottenham, Premier League ,  Inglaterra,Delantero ,BAJO,regular,7-8,32,7,6,10,3,0,72.26,286.17,2579.0,160.1,62.0
+8093, Robert Lewandowski ,  Barcelona, La Liga ,  Polonia,Delantero,BAJO,optimo, 7-8 ,24,10,8,23,3,0,67.22,94.84,1539.0,225.9,83.0
+8094, Dimitri Payet ,Marseille ,Ligue 1 ,Francia,MEDIOCAMPISTA,excelente,Regular,7-8,30,15,7,24,7,0,12.71,186.08,1785.0,247.9,80.1
+8095, Jan Oblak ,Atletico Madrid ,la liga,Eslovenia ,PORTERO,Bajo,Lesionado,5-6,29,16,7,36,7,0,26.36,12.52,1757.0,254.0,105.7
+8096,LEROY SANE,BAYERN MUNICH,bundesliga,argentina,Delantero,excelente,regular,9-10,38,15,6,24,4,0,52.09,9.99,2123.0,246.1,83.6
+8097, Dusan Vlahovic ,JUVENTUS,Serie A , Serbia ,  Delantero, Regular,Regular, 7-8 ,39,9,7,29,7,0,46.97,16.12,1634.0,236.5,78.1
+8098,JUDE BELLINGHAM,  Borussia Dortmund, Bundesliga ,Inglaterra ,mediocampista,Regular,Lesionado, 5-6 ,22,10,6,28,0,0,125.03,34.25,2567.0,151.1,91.4
+8099,dusan vlahovic,Juventus ,Serie A ,Serbia ,Delantero,Regular,lesionado,3-4,22,11,8,38,6,0,48.93,131.68,1804.0,170.8,71.5
+8100, Alexandre Lacazette ,Lyon,ligue 1,Francia, Delantero ,Excelente,Bueno,7-8,36,15,11,31,4,0,29.2,251.26,1823.0,188.4,63.9
+8101, Luka Modric ,real madrid,La Liga,Croacia,MEDIOCAMPISTA,bajo,Regular,7-8,26,10,9,25,0,0,17.22,82.94,1997.0,153.9,82.3
+8102, Pedri ,barcelona,la liga,España,Mediocampista , Regular,Lesionado,7-8,19,12,3,27,0,0,7.77,539.26,1964.0,137.8,87.1
+8103,Rodri,manchester city,premier league,españa,Mediocampista,bueno,LESIONADO,1-2,26,8,10,24,4,0,56.29,138.24,1167.0,241.6,80.0
+8104,virgil van dijk,  Liverpool,Premier League ,PAISES BAJOS,DEFENSA,bueno,OPTIMO,7-8,27,12,12,35,2,0,11.88,247.97,,185.2,77.3
+8105, Neymar Jr ,PSG,LIGUE 1, Brasil ,  Delantero,bueno , bueno ,3-4,30,13,14,35,2,0,,56.93,1530.0,185.5,112.9
+8106,Marco Reus,Borussia Dortmund,Bundesliga,ALEMANIA,Mediocampista,regular,bueno, 7-8 ,33,16,6,33,1,0,1.7,82.65,2587.0,5000.0,73.3
+8107,wissam ben yedder,  Monaco,Ligue 1,  Francia,DELANTERO,Regular,Lesionado,3-4,23,20,6,26,1,0,21.64,170.45,1720.0,249.5,68.2
+8108,Leroy Sane,Bayern Munich ,bundesliga,Alemania ,Delantero,BAJO,Regular,1-2,39,12,14,34,6,0,79.72,45.39,1834.0,245.7,74.3
+8109,Wissam Ben Yedder, Monaco ,LIGUE 1,francia, Delantero ,Bajo,LESIONADO,9-10,28,14,12,33,1,1,77.57,24.93,2095.0,148.2,83.6
+8110, Robert Lewandowski ,  Barcelona,LA LIGA,polonia,DELANTERO,bueno,regular, 9-10 ,37,17,9,28,5,2,57.13,81.31,3215.0,247.0,61.1
+8111,Rodri,  Manchester City,  Premier League,España,  Delantero  ,regular,BUENO,7-8,22,8,5,34,3,1,34.48,26.81,744.0,223.6,62.6
+8112, Robert Lewandowski ,Barcelona, La Liga ,Polonia ,DELANTERO,Bajo,BUENO,5-6,28,7,6,35,6,1,5.34,90.2,2615.0,199.9,81.3
+8113,Karim Benzema, Real Madrid ,LA LIGA,FRANCIA, Delantero ,Bajo,regular,1-2,20,16,7,33,1,0,72.5,106.94,2245.0,188.7,75.8
+8114,Gianluigi Donnarumma,PSG,Ligue 1 ,ITALIA,portero,Bajo,bueno, 3-4 ,21,13,8,39,4,0,35.89,111.42,1931.0,188.0,94.2
+8115,Robert Lewandowski,BARCELONA,La Liga,Polonia,  Delantero,excelente,Bueno,3-4,35,15,13,33,3,0,,355.9,1843.0,166.9,66.9
+8116,LAUTARO MARTINEZ,Inter Milan , Serie A ,  Argentina,mediocampista,bueno , lesionado ,1-2,38,11,4,26,3,0,18.22,40.51,2982.0,216.1,76.9
+8117, mohamed salah ,liverpool,PREMIER LEAGUE,Egipto , Delantero , Excelente ,LESIONADO, 7-8 ,36,19,8,37,1,0,7.34,200.09,1156.0,204.3,90.9
+8118,kevin de bruyne,manchester city,Premier League,Belgica,Mediocampista ,bueno, regular , 1-2 ,36,11,11,34,2,0,111.35,38.27,2498.0,182.9,65.5
+8119, Khvicha Kvaratskhelia ,napoli,SERIE A,  Georgia,DELANTERO, bajo , Optimo ,5-6,19,12,11,31,4,0,6.35,10.25,1887.0,274.3,75.1
+8120,Mike Maignan, AC Milan ,Serie A,Francia,PORTERO,BUENO,Lesionado,3-4,38,13,12,34,2,1,127.36,43.28,2424.0,194.7,82.1
+8121,paulo dybala,AS Roma ,Serie A,argentina, Delantero ,excelente, lesionado ,1-2,39,12,7,26,3,0,45.84,135.28,1701.0,-100.0,79.9
+8122,ALEXANDRE LACAZETTE,Lyon ,Ligue 1, Francia ,Delantero,BUENO, Optimo ,1-2,23,10,5,19,3,0,12.66,309.35,1468.0,238.1,95.1
+8123,LIONEL MESSI,PSG ,LIGUE 1,ARGENTINA,  Delantero,EXCELENTE, bueno ,3-4,34,12,14,22,3,1,25.29,278.07,1694.0,291.9,66.9
+8124,Wissam Ben Yedder, Monaco ,  Ligue 1, Francia ,Delantero ,Excelente,Lesionado,5-6,21,9,6,36,2,2,50.26,111.72,685.0,206.9,64.8
+8125, Dusan Vlahovic ,JUVENTUS,Serie A,serbia,Delantero ,REGULAR, regular ,3-4,38,12,6,31,1,0,30.82,,2224.0,212.3,69.9
+8126,Jude Bellingham,borussia dortmund,  Bundesliga,Inglaterra ,MEDIOCAMPISTA,REGULAR,lesionado,3-4,30,16,14,17,1,1,41.03,94.27,2256.0,183.6,75.8
+8127,bukayo saka,  Arsenal,Premier League ,  Inglaterra,delantero,Regular, lesionado ,3-4,33,10,5,15,3,0,8.96,30.1,1963.0,219.2,84.0
+8128,Serge Gnabry,bayern munich,bundesliga,alemania,DELANTERO,Bajo,LESIONADO,1-2,19,13,5,24,5,0,19.27,87.96,1688.0,250.7,84.7
+8129,Virgil van Dijk,LIVERPOOL,PREMIER LEAGUE,  Paises Bajos,  Defensa,bueno,Lesionado, 7-8 ,29,9,12,17,2,0,34.08,89.01,383.0,232.0,91.5
+8130,Erling Haaland,manchester city,Premier League ,  Noruega,  Delantero,BUENO, bueno , 9-10 ,20,13,9,29,4,0,1.25,242.1,2144.0,146.3,67.5
+8131, Marco Reus , Borussia Dortmund ,Bundesliga,ALEMANIA,MEDIOCAMPISTA,Excelente  ,Regular,3-4,33,7,7,20,7,0,7.44,437.0,1804.0,210.7,89.9
+8132,Bruno Fernandes,Manchester United,  Premier League,Portugal,MEDIOCAMPISTA, bajo ,lesionado,1-2,27,13,7,22,3,0,7.86,,1705.0,163.3,112.4
+8133,Thomas Muller,BAYERN MUNICH,BUNDESLIGA,Alemania,Delantero,Regular,bueno,3-4,21,14,4,12,8,1,2.22,161.32,2691.0,155.6,62.6
+8134,rodri,MANCHESTER CITY,  Premier League,España, Mediocampista ,Bajo,OPTIMO,1-2,19,9,12,27,2,0,20.4,,1986.0,300.2,70.5
+8135,Victor Osimhen,Napoli, Serie A ,Nigeria,delantero,REGULAR,Regular,1-2,32,15,9,29,6,0,22.73,9.42,2899.0,304.2,76.1
+8136,erling  haaland, Manchester City ,premier league,noruega,delantero,BAJO,Lesionado,7-8,35,11,6,23,8,0,3.12,4.43,2445.0,238.2,150.0
+8137, Karim Benzema ,  Real Madrid,La Liga,  Francia,Delantero ,EXCELENTE,bueno,5-6,37,10,12,31,3,0,3.57,156.74,2079.0,186.1,77.5
+8138,Luka Modric,REAL MADRID,La Liga,CROACIA,  Mediocampista,REGULAR, lesionado ,1-2,39,11,11,27,3,2,21.97,161.4,3081.0,225.6,89.9
+8139,JUDE BELLINGHAM,Borussia Dortmund,bundesliga,Inglaterra ,Mediocampista , Regular,Bueno,3-4,28,9,6,16,2,0,43.49,47.81,2923.0,222.4,79.6
+8140,BUKAYO SAKA, Arsenal ,PREMIER LEAGUE,Inglaterra ,delantero,EXCELENTE,REGULAR,9-10,27,10,6,30,8,0,41.83,40.82,1508.0,202.9,78.5
+8141,DUSAN VLAHOVIC,Juventus,Serie A ,Serbia,delantero,Bueno, lesionado , 5-6 ,30,8,7,30,3,0,8.67,157.73,1719.0,179.3,77.0
+8142,MARCO REUS,Borussia Dortmund,Bundesliga ,Alemania, Mediocampista , Regular, regular ,7-8,31,11,11,29,3,1,22.31,131.63,940.0,192.8,79.4
+8143, Rodri ,MANCHESTER CITY, Premier League ,ESPAÑA, Mediocampista ,EXCELENTE,Lesionado, 3-4 ,26,10,14,19,2,1,1.6,415.17,1587.0,269.9,63.0
+8144,Kevin De Bruyne,MANCHESTER CITY,premier league,Belgica ,Mediocampista ,EXCELENTE, regular ,7-8,34,12,11,35,2,0,9.11,240.36,2641.0,286.4,87.2
+8145, Jude Bellingham ,borussia dortmund,Bundesliga ,inglaterra,MEDIOCAMPISTA,Regular, Optimo , 7-8 ,39,14,10,13,2,0,2.55,4.25,2668.0,259.3,88.3
+8146,Marco Reus,BORUSSIA DORTMUND,BUNDESLIGA,  Alemania,Mediocampista,BUENO,REGULAR,7-8,31,14,7,17,3,1,11.1,6.74,2466.0,236.9,95.1
+8147,Jude Bellingham,Borussia Dortmund,BUNDESLIGA,Inglaterra , Mediocampista , Regular,regular,7-8,34,12,6,12,5,0,4.87,260.56,1866.0,242.4,
+8148,Jamal Musiala, Bayern Munich ,Bundesliga,alemania,Mediocampista,regular, regular , 7-8 ,24,13,13,39,3,1,39.93,97.23,1477.0,169.9,69.8
+8149,Mohamed Salah,Liverpool ,PREMIER LEAGUE,  Egipto,Delantero, Excelente ,BUENO,1-2,25,15,6,11,4,0,20.14,123.88,,215.4,64.0
+8150,Marco Reus,Borussia Dortmund,Bundesliga,  Alemania,Mediocampista,Bajo,OPTIMO, 3-4 ,31,10,11,28,4,0,,10.52,,202.4,87.8
+8151, Bukayo Saka ,  Arsenal, Premier League ,Inglaterra,DELANTERO,REGULAR,LESIONADO,7-8,19,10,12,20,3,1,31.35,291.14,2678.0,225.4,-20.0
+8152,ROBERT LEWANDOWSKI,Barcelona ,  La Liga,Polonia,  Delantero,BUENO,BUENO,9-10,27,14,11,37,4,0,27.81,78.13,2450.0,206.2,94.9
+8153,JOSHUA KIMMICH,BAYERN MUNICH,Bundesliga,Alemania ,  Mediocampista,bajo, Optimo , 7-8 ,29,14,12,32,1,0,13.24,184.02,2581.0,226.2,55.9
+8154,RAFAEL LEAO,AC Milan,serie a,Portugal , Delantero ,excelente,Optimo,3-4,38,10,11,26,3,1,36.05,102.44,2054.0,186.0,82.3
+8155,Thomas Muller,Bayern Munich,BUNDESLIGA, Alemania ,delantero,BUENO, Optimo , 7-8 ,27,9,8,28,5,0,2.84,39.31,1942.0,173.0,92.9
+8156,ANTOINE GRIEZMANN, Atletico Madrid ,La Liga ,Francia ,DELANTERO,REGULAR,  Optimo  ,3-4,19,13,6,26,5,0,27.2,35.77,2739.0,302.7,
+8157, Leroy Sane , Bayern Munich ,bundesliga,alemania,Delantero, Regular,Regular,1-2,24,16,6,28,3,0,43.98,229.16,2054.0,206.7,
+8158,ANTOINE GRIEZMANN,Atletico Madrid,LA LIGA,FRANCIA,  Delantero,EXCELENTE,BUENO,3-4,29,14,14,16,4,0,16.26,254.32,1514.0,203.1,101.3
+8159,Rafael Leao,ac milan, Serie A ,Portugal,  Delantero, Regular,lesionado, 3-4 ,37,12,10,16,3,0,2.78,42.71,1871.0,186.6,83.2
+8160,Lautaro Martinez,  Inter Milan, Serie A ,ARGENTINA, Delantero ,bueno, lesionado ,7-8,34,14,3,29,3,0,6.74,39.71,3105.0,208.7,87.2
+8161, Alexandre Lacazette ,lyon,  Ligue 1,  Francia, Delantero ,regular, bueno ,3-4,29,7,8,10,5,0,12.11,234.04,2122.0,188.7,89.5
+8162,SERGE GNABRY,Bayern Munich,  Bundesliga,ALEMANIA,Delantero,BAJO, lesionado , 9-10 ,19,16,5,16,1,3,51.48,111.73,2103.0,260.0,75.5
+8163,KHVICHA KVARATSKHELIA,  Napoli,Serie A ,Georgia ,DELANTERO,regular,optimo,5-6,26,13,12,13,1,0,9.52,17.27,2699.0,169.0,55.4
+8164,NEYMAR JR,  PSG, Ligue 1 ,Brasil,  Delantero,excelente, Optimo ,1-2,21,8,8,11,6,0,80.95,,2457.0,235.3,80.7
+8165,Mike Maignan,AC Milan ,Serie A,Francia ,PORTERO,BUENO, lesionado ,9-10,20,12,4,35,2,1,1.58,33.61,1384.0,223.3,68.3
+8166,JOSHUA KIMMICH, Bayern Munich ,BUNDESLIGA, Alemania ,  Mediocampista,Bajo, lesionado ,1-2,-5,12,12,14,3,0,58.79,1.63,2384.0,205.4,77.3
+8167,Nicolo Barella,INTER MILAN, Serie A , Italia ,Mediocampista,REGULAR,LESIONADO, 3-4 ,37,15,9,29,3,1,43.44,116.76,2007.0,253.7,74.8
+8168,dusan vlahovic,Juventus,SERIE A,serbia,DELANTERO,regular, bueno ,9-10,36,10,17,32,0,0,44.15,,2355.0,245.7,109.9
+8169,Robert Lewandowski,Barcelona , La Liga ,Polonia, Delantero ,excelente, Optimo ,1-2,34,17,11,19,4,0,61.32,129.58,2150.0,261.8,63.2
+8170, Dimitri Payet ,marseille,Ligue 1,Francia, Mediocampista ,Bajo, Optimo ,3-4,36,13,9,27,1,0,8.62,69.33,1560.0,212.3,
+8171,THOMAS MULLER,Bayern Munich,  Bundesliga,Alemania ,  Delantero,BUENO,OPTIMO,1-2,60,22,6,37,7,1,16.43,116.54,1705.0,233.9,75.5
+8172,KYLIAN MBAPPE,PSG,Ligue 1 ,Francia,delantero,BUENO,Lesionado,7-8,25,14,14,33,4,0,1.9,99.54,859.0,216.1,68.1
+8173, Mike Maignan ,AC Milan,Serie A, Francia ,PORTERO, Excelente ,BUENO,5-6,22,10,6,33,1,1,16.23,87.01,2766.0,248.7,74.3
+8174,ERLING HAALAND, Manchester City ,Premier League,noruega,delantero,BAJO,regular,7-8,27,12,11,23,4,0,13.6,40.28,2597.0,255.1,93.9
+8175,Bruno Fernandes,Manchester United, Premier League ,Portugal,  Mediocampista,bueno,regular,5-6,22,13,5,21,2,0,31.3,58.67,816.0,274.8,51.9
+8176, Achraf Hakimi ,psg, Ligue 1 ,Marruecos ,defensa,Bueno,optimo,7-8,24,-10,8,30,2,0,48.07,58.63,3157.0,234.7,81.7
+8177,MARCO REUS,BORUSSIA DORTMUND,BUNDESLIGA,Alemania, Mediocampista ,Bueno,OPTIMO,5-6,34,5,8,25,2,0,,14.43,2431.0,247.3,82.0
+8178,alexandre lacazette,  Lyon,ligue 1,Francia ,Delantero ,excelente,bueno,7-8,22,12,9,36,1,1,4.61,148.17,2323.0,244.6,76.6
+8179,Achraf Hakimi,  PSG,ligue 1,Marruecos, Defensa ,bueno ,OPTIMO,9-10,18,9,1,28,3,0,21.49,32.06,2213.0,156.5,86.8
+8180, Vinicius Junior , Real Madrid , La Liga , Brasil ,Delantero ,excelente,OPTIMO,5-6,38,4,4,27,3,0,6.35,8.75,2168.0,214.2,68.5
+8181, Gianluigi Donnarumma ,PSG , Ligue 1 ,Italia,Portero ,bajo,OPTIMO,3-4,29,100,4,11,0,0,25.55,327.25,3348.0,148.2,79.3
+8182, Mike Maignan , AC Milan ,Serie A,Francia ,Portero ,BAJO,REGULAR, 5-6 ,37,15,9,13,1,0,4.72,17.7,1519.0,214.6,86.4
+8183, Joshua Kimmich ,Bayern Munich ,Bundesliga ,alemania,Mediocampista , Excelente ,lesionado,3-4,29,11,2,14,5,0,33.51,157.8,1257.0,256.0,68.1
+8184,nicolo barella,  Inter Milan,serie a,Italia,Mediocampista ,Regular,Lesionado,7-8,24,13,3,22,5,0,27.63,1.72,916.0,237.2,80.0
+8185,vinicius junior,  Real Madrid,  La Liga,Brasil, Delantero ,Bajo,Regular,7-8,19,11,12,36,5,0,24.66,118.4,1560.0,181.8,74.6
+8186,RAFAEL LEAO,AC MILAN,  Serie A,Portugal, Delantero ,Excelente,REGULAR, 5-6 ,32,13,4,20,50,1,58.62,44.73,2186.0,190.1,83.7
+8187,RAFAEL LEAO,  AC Milan,  Serie A,Portugal ,Delantero ,Bajo,LESIONADO,7-8,22,14,8,38,1,0,6.63,137.04,1654.0,287.7,47.4
+8188, Antoine Griezmann ,ATLETICO MADRID,La Liga , Francia ,DELANTERO,bueno ,BUENO,1-2,23,12,8,12,2,0,33.3,181.77,1856.0,201.0,98.3
+8189, Pedri ,Barcelona,  La Liga,españa, Mediocampista ,REGULAR, Optimo ,1-2,19,10,13,36,1,1,33.29,326.96,2855.0,208.2,90.2
+8190,Lautaro Martinez, Inter Milan ,Serie A ,Argentina,DELANTERO, bajo ,Optimo,3-4,18,10,7,10,4,0,57.96,4.83,1521.0,273.6,68.1
+8191,JUDE BELLINGHAM,BORUSSIA DORTMUND,BUNDESLIGA,INGLATERRA,Mediocampista, Regular,Optimo,9-10,36,9,10,20,0,10,17.51,280.72,2927.0,200.3,71.6
+8192,BUKAYO SAKA,arsenal, Premier League ,  Inglaterra,DELANTERO,Bueno, regular ,9-10,20,14,11,14,3,0,17.03,34.01,3066.0,195.6,82.4
+8193,KYLIAN MBAPPE,PSG,ligue 1,francia,Delantero ,bueno,REGULAR,3-4,25,11,13,32,1,0,57.92,38.65,2835.0,167.8,80.2
+8194,Pedri,Barcelona ,la liga,ESPAÑA,  Mediocampista,Bueno,Optimo,9-10,33,10,5,34,5,0,0.01,92.69,782.0,263.5,95.7
+8195, Karim Benzema , Real Madrid ,La Liga,Francia ,Delantero ,excelente,Regular, 1-2 ,39,11,10,32,4,1,30.12,161.69,1854.0,140.9,79.9
+8196, Gregor Kobel , Borussia Dortmund ,bundesliga,Suiza , Portero , bajo , lesionado ,1-2,30,15,9,18,4,0,22.6,553.17,2448.0,164.4,89.2
+8197,MARCO REUS,Borussia Dortmund ,Bundesliga,ALEMANIA,Mediocampista,BUENO,REGULAR,5-6,34,8,15,30,1,1,,32.11,,229.8,101.8
+8198, Lautaro Martinez ,Inter Milan,Serie A,argentina,Delantero, Excelente ,lesionado,9-10,32,18,12,25,1,0,0.13,146.41,1169.0,306.2,64.7
+8199, Luka Modric ,  Real Madrid, La Liga ,Croacia,Mediocampista,BAJO,bueno, 5-6 ,31,17,5,20,2,0,61.97,265.34,1768.0,242.5,75.9
+8200,Kylian Mbappe,PSG ,  Ligue 1, Francia ,DELANTERO,Bueno,regular,1-2,38,15,7,23,1,0,42.18,,1372.0,239.9,86.6

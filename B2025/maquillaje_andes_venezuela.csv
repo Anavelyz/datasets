@@ -1,0 +1,201 @@
+﻿ID_Transaccion,Ciudad,Marca_Preferida,Tipo_Piel,Edad,Cant_Productos,Precio_Total_USD,Descuento_Aplicado,Nivel_Satisfaccion,Metodo_Pago
+1001,ejido,Natura,Mixta,56.0,7,7.22,0.04,baja,efectivo
+1002,merida,maybelline,Mixta,46.0,2,5.09,0.44,Media,Pago Móvil
+1003,Mérida,l beltran,seca,32.0,3,,0.28, BAJA,pago movil
+1004,El Vigía,natura,mixta,60.0,1,13.98,0.08,Media,pago movil
+1005,san cristobal,MAYBELLINE,seca,25.0,5,29.16,0.21,media,pago movil
+1006,San Cristóbal,MAC,Mixta,38.0,1,500.0,0.39,baja,Efectivo
+1007,San Cristóbal,Maybelline,normal,56.0,8,61.69,0.24, BAJA,Pago Móvil
+1008,MERIDA,l beltran,Mixta,36.0,1,14.6,0.49,Alta,pago movil
+1009,El Vigía,mac ,Grasa,40.0,1,6.85,0.19,baja,Pago Móvil
+1010,merida,MAYBELLINE,grasa,28.0,2,2.46,0.37,Baja,zelle
+1011,ejido,mac ,Normal,28.0,2,5.05,0.2,baja,zelle
+1012,El Vigía,maybelline,Mixta,41.0,6,68.19,0.41,ALTA,efectivo
+1013,bocono,l beltran,Grasa,,7,25.42,0.28, BAJA,Efectivo
+1014,Valera ,mac ,Grasa,57.0,5,18.18,0.03,ALTA,zelle
+1015,merida,L Beltrán,mixta,41.0,1,26.76,0.02,Alta,Zelle
+1016,Ejido,MAYBELLINE,Seca,20.0,1,,0.07,baja,Pago Móvil
+1017,Valera,Natura,Mixta,39.0,3,32.74,0.01,Alta,pago movil
+1018,Mérida,MAYBELLINE,Seca,19.0,2,1.22,0.04,alta,Zelle
+1019,Mérida,mac ,normal,41.0,5,,0.35,baja,efectivo
+1020,merida,mac ,Normal,61.0,6,4.32,0.27,ALTA,Zelle
+1021,San Cristóbal,Maybelline,Grasa,47.0,7,3.2,0.37, BAJA,efectivo
+1022,San Cristóbal,Natura,grasa,55.0,4,10.46,0.46,ALTA,zelle
+1023,Valera ,MAC,grasa,,7,2.41,0.29,Alta,Pago Móvil
+1024,Ejido,Maybelline,Seca,38.0,8,2.47,0.36,media,efectivo
+1025,Mérida,maybelline,Grasa,50.0,1,9.33,0.38,baja,pago movil
+1026,Valera ,Natura,mixta,29.0,6,97.2,0.19,Baja,Zelle
+1027,San Cristóbal,l beltran,Seca,39.0,8,4.82,0.12,Media,efectivo
+1028,El Vigía,L Beltrán,Normal,61.0,5,0.43,0.1, BAJA,Efectivo
+1029,ejido,Maybelline,Seca,42.0,4,36.03,0.13,Baja,efectivo
+1030,El Vigía,L Beltrán,Grasa,44.0,2,41.12,0.14,Baja,pago movil
+1031,Valera ,maybelline,Mixta,59.0,6,10.63,0.1,baja,zelle
+1032,Valera,maybelline,mixta,45.0,6,15.62,0.44,media,Pago Móvil
+1033,San Cristóbal,MAC,Grasa,33.0,1,26.23,0.38,baja,Efectivo
+1034,valera ,maybelline,mixta,32.0,9,1.23,0.02,media,pago movil
+1035,Ejido,mac ,seca,64.0,6,74.47,0.13,alta,efectivo
+1036,san cristobal,MAYBELLINE,seca,61.0,3,54.44,0.01, BAJA,pago movil
+1037,el vigia,MAYBELLINE,grasa,20.0,4,7.56,0.25,Alta,Zelle
+1038,Boconó,MAC,mixta,54.0,4,0.39,0.24,Alta,pago movil
+1039,Mérida,mac ,Normal,24.0,3,67.74,0.42,Baja,Pago Móvil
+1040,el vigia,MAYBELLINE,Seca,38.0,3,17.38,0.15,Media,Pago Móvil
+1041,el vigia,l beltran,seca,26.0,3,19.38,0.41,alta,pago movil
+1042,MERIDA,mac ,Seca,56.0,4,28.8,0.48,Alta,Zelle
+1043,El Vigía,natura,Seca,35.0,7,23.92,0.04,Alta,Efectivo
+1044,Valera,L Beltrán,Normal,21.0,4,72.01,0.4,Media,efectivo
+1045,SAN CRISTOBAL,mac ,Grasa,42.0,9,72.17,0.29,Media,Efectivo
+1046,san cristobal,L Beltrán,Seca,31.0,1,50.47,0.24,Alta,Zelle
+1047,MERIDA,l beltran,mixta,26.0,8,25.29,0.21,ALTA,zelle
+1048,San Cristóbal,natura,Normal,43.0,7,,0.39,Media,Pago Móvil
+1049,el vigia,Natura,seca,19.0,2,28.27,0.32,ALTA,zelle
+1050,SAN CRISTOBAL,MAC,Mixta,37.0,8,21.3,0.4, BAJA,efectivo
+1051,merida,mac ,Seca,45.0,1,3.44,0.45,alta,Zelle
+1052,merida,MAC,grasa,64.0,9,41.68,0.31,Media,efectivo
+1053,Valera,maybelline,Normal,24.0,9,42.96,0.49, BAJA,zelle
+1054,merida,L Beltrán,Grasa,61.0,2,24.58,0.3,media,Zelle
+1055,SAN CRISTOBAL,L Beltrán,normal,25.0,7,42.93,0.32,Baja,Efectivo
+1056,Boconó,maybelline,seca,64.0,3,26.35,0.28,ALTA,Efectivo
+1057,SAN CRISTOBAL,Natura,seca,52.0,7,5.79,0.05,alta,zelle
+1058,Ejido,Maybelline,normal,31.0,9,8.0,0.36,ALTA,zelle
+1059,san cristobal,mac ,mixta,34.0,4,,0.27,media,Pago Móvil
+1060,el vigia,L Beltrán,Mixta,53.0,1,11.84,0.23,alta,Efectivo
+1061,Mérida,L Beltrán,seca,57.0,2,0.99,0.46,Alta,Pago Móvil
+1062,El Vigía,Maybelline,seca,21.0,1,24.07,0.15,media,zelle
+1063,valera ,maybelline,Grasa,19.0,5,10.26,0.26,baja,efectivo
+1064,Valera ,Maybelline,seca,23.0,5,26.66,0.35,baja,Zelle
+1065,merida,L Beltrán,Normal,59.0,7,12.17,0.4,Media,Efectivo
+1066,bocono,maybelline,mixta,21.0,9,28.61,0.23,alta,Zelle
+1067,Valera,Maybelline,Mixta,46.0,9,10.41,0.42,Media,Pago Móvil
+1068,merida,Natura,grasa,35.0,3,7.55,0.38,alta,Pago Móvil
+1069,Valera ,maybelline,Mixta,43.0,3,17.13,0.03,media,pago movil
+1070,san cristobal,mac ,mixta,61.0,3,29.51,0.02,alta,efectivo
+1071,Boconó,L Beltrán,Normal,51.0,4,10.71,0.31,Alta,Efectivo
+1072,ejido,l beltran,mixta,27.0,8,68.98,0.17,Baja,Efectivo
+1073,Ejido,MAC,Grasa,53.0,6,1.0,0.1,baja,Pago Móvil
+1074,bocono,L Beltrán,grasa,31.0,8,13.53,0.29,Baja,efectivo
+1075,Boconó,mac ,Mixta,48.0,1,85.72,0.17,alta,Zelle
+1076,SAN CRISTOBAL,MAYBELLINE,Seca,32.0,8,19.85,0.27,Baja,Efectivo
+1077,Ejido,MAC,Mixta,25.0,4,13.77,0.23,Alta,Pago Móvil
+1078,San Cristóbal,L Beltrán,Grasa,31.0,1,21.01,0.29,baja,pago movil
+1079,El Vigía,MAC,grasa,40.0,8,21.45,0.2, BAJA,zelle
+1080,merida,natura,Normal,57.0,4,32.89,0.35,alta,Efectivo
+1081,Mérida,L Beltrán,mixta,38.0,6,3.42,0.09,baja,efectivo
+1082,ejido,maybelline,mixta,33.0,8,7.19,0.35,Baja,zelle
+1083,San Cristóbal,maybelline,Normal,62.0,4,21.72,0.21, BAJA,Zelle
+1084,el vigia,natura,grasa,35.0,3,50.46,0.44,ALTA,pago movil
+1085,san cristobal,Natura,Normal,64.0,9,,0.26,baja,Efectivo
+1086,merida,natura,seca,41.0,3,6.81,0.49,ALTA,zelle
+1087,Boconó,natura,Mixta,43.0,9,28.47,0.3,media,efectivo
+1088,San Cristóbal,MAC,Grasa,42.0,2,33.67,0.11, BAJA,zelle
+1089,Boconó,Maybelline,Normal,62.0,2,6.8,0.41, BAJA,Pago Móvil
+1090,merida,maybelline,Grasa,58.0,2,11.86,0.17,baja,zelle
+1091,Valera,Maybelline,seca,46.0,6,19.11,0.17,media,Zelle
+1092,san cristobal,natura,mixta,32.0,3,17.16,0.02,Baja,zelle
+1093,valera ,Natura,Normal,62.0,9,12.34,0.27,Media,Zelle
+1094,ejido,maybelline,grasa,18.0,4,8.83,0.27,alta,Zelle
+1095,Boconó,L Beltrán,mixta,42.0,1,2.63,0.18,media,efectivo
+1096,SAN CRISTOBAL,L Beltrán,mixta,24.0,4,1.37,0.45, BAJA,Pago Móvil
+1097,MERIDA,L Beltrán,grasa,26.0,1,79.58,0.06,Media,pago movil
+1098,SAN CRISTOBAL,mac ,Mixta,41.0,5,46.96,0.17, BAJA,Zelle
+1099,SAN CRISTOBAL,MAC,Mixta,18.0,4,10.96,0.16,baja,zelle
+1100,San Cristóbal,MAYBELLINE,Normal,61.0,8,78.55,0.05,Baja,efectivo
+1101,ejido,natura,mixta,25.0,8,28.23,0.24,Alta,zelle
+1102,san cristobal,MAYBELLINE,Normal,41.0,7,16.47,0.34, BAJA,Zelle
+1103,El Vigía,l beltran,Mixta,28.0,3,16.98,0.26,Baja,efectivo
+1104,bocono,MAC,Seca,34.0,1,2.17,0.08,ALTA,zelle
+1105,ejido,L Beltrán,seca,25.0,1,2.4,0.19, BAJA,Efectivo
+1106,ejido,maybelline,Normal,52.0,3,23.06,0.0,Media,Pago Móvil
+1107,merida,MAC,Normal,52.0,6,20.17,0.43,Baja,zelle
+1108,Ejido,mac ,Seca,50.0,7,5.98,0.04,media,Pago Móvil
+1109,ejido,maybelline,Mixta,22.0,6,73.06,0.3,Baja,Zelle
+1110,MERIDA,Maybelline,Normal,59.0,6,38.0,0.49,media,Zelle
+1111,Valera ,mac ,Grasa,56.0,6,3.01,0.27,media,Zelle
+1112,El Vigía,Maybelline,Mixta,58.0,3,66.82,0.46,Alta,Pago Móvil
+1113,San Cristóbal,maybelline,Mixta,45.0,6,91.48,0.12,Media,zelle
+1114,MERIDA,L Beltrán,seca,24.0,8,137.61,0.38,alta,Efectivo
+1115,valera ,MAYBELLINE,Normal,26.0,2,1.44,0.27,Media,Pago Móvil
+1116,Valera,natura,mixta,25.0,5,33.39,0.36,baja,efectivo
+1117,san cristobal,MAC,normal,29.0,1,19.74,0.03, BAJA,Efectivo
+1118,bocono,MAC,normal,51.0,1,30.59,0.07,Media,zelle
+1119,ejido,L Beltrán,normal,50.0,5,86.57,0.07, BAJA,zelle
+1120,El Vigía,natura,seca,40.0,3,29.12,0.34, BAJA,Pago Móvil
+1121,Valera ,Maybelline,normal,,4,45.34,0.42, BAJA,pago movil
+1122,San Cristóbal,MAYBELLINE,Seca,54.0,3,50.41,0.37,Alta,Efectivo
+1123,ejido,natura,grasa,52.0,1,45.58,0.02,alta,Zelle
+1124,SAN CRISTOBAL,Maybelline,Mixta,61.0,1,13.88,0.43,media,Efectivo
+1125,Boconó,natura,mixta,57.0,5,6.29,0.18,Media,zelle
+1126,el vigia,l beltran,grasa,39.0,6,12.63,0.2,baja,efectivo
+1127,el vigia,MAC,seca,44.0,3,55.62,0.05,Media,zelle
+1128,Mérida,l beltran,Mixta,52.0,9,3.96,0.37,media,Pago Móvil
+1129,San Cristóbal,natura,seca,18.0,5,18.0,0.09,Baja,pago movil
+1130,Boconó,mac ,seca,52.0,8,6.64,0.28, BAJA,Zelle
+1131,Mérida,MAC,Seca,54.0,1,21.77,0.42,Baja,Efectivo
+1132,el vigia,MAYBELLINE,Grasa,64.0,5,49.72,0.04,baja,pago movil
+1133,SAN CRISTOBAL,L Beltrán,Grasa,,3,53.08,0.27,Baja,Zelle
+1134,Valera,l beltran,seca,20.0,1,6.75,0.12,Baja,zelle
+1135,san cristobal,L Beltrán,normal,18.0,4,59.57,0.17, BAJA,efectivo
+1136,merida,Maybelline,grasa,22.0,5,22.41,0.24,media,zelle
+1137,San Cristóbal,mac ,normal,43.0,7,10.78,0.18,media,Pago Móvil
+1138,bocono,Maybelline,Normal,31.0,1,30.79,0.32,media,Pago Móvil
+1139,Ejido,Natura,seca,56.0,3,16.43,0.24,Media,efectivo
+1140,bocono,Maybelline,Normal,44.0,2,11.87,0.29,alta,Efectivo
+1141,El Vigía,Maybelline,normal,26.0,9,30.53,0.37,Media,pago movil
+1142,SAN CRISTOBAL,MAC,Normal,32.0,6,7.15,0.28,Baja,efectivo
+1143,San Cristóbal,mac ,seca,32.0,3,10.02,0.29,alta,pago movil
+1144,ejido,mac ,Seca,43.0,8,,0.28,ALTA,Zelle
+1145,valera ,MAYBELLINE,Grasa,59.0,8,7.32,0.19,Media,Efectivo
+1146,Valera,Maybelline,grasa,30.0,2,12.99,0.17,Media,Pago Móvil
+1147,bocono,mac ,Normal,49.0,6,21.19,0.45, BAJA,Efectivo
+1148,bocono,maybelline,seca,56.0,7,33.77,0.3,media,zelle
+1149,ejido,MAYBELLINE,Seca,49.0,2,36.44,0.12,media,Pago Móvil
+1150,valera ,maybelline,normal,,2,43.26,0.25,alta,pago movil
+1151,MERIDA,maybelline,Grasa,47.0,1,34.09,0.17,Media,Pago Móvil
+1152,san cristobal,L Beltrán,seca,54.0,8,28.57,0.47,media,zelle
+1153,MERIDA,natura,grasa,40.0,1,6.78,0.0,Media,Pago Móvil
+1154,San Cristóbal,maybelline,normal,56.0,9,12.78,0.11,Baja,efectivo
+1155,El Vigía,L Beltrán,Seca,62.0,6,16.24,0.18,ALTA,pago movil
+1156,Valera ,Maybelline,normal,32.0,7,2.16,0.24,media,zelle
+1157,Valera ,maybelline,mixta,60.0,7,18.79,0.43,Alta,efectivo
+1158,san cristobal,natura,normal,46.0,3,14.33,0.04,ALTA,Zelle
+1159,El Vigía,mac ,Normal,53.0,2,40.5,0.4,media,Efectivo
+1160,Ejido,Natura,normal,30.0,9,95.31,0.03,Alta,efectivo
+1161,Valera,l beltran,Seca,49.0,8,20.3,0.42,Alta,Zelle
+1162,bocono,L Beltrán,normal,24.0,7,9.74,0.03,media,zelle
+1163,Ejido,Natura,normal,39.0,9,1.11,0.01,ALTA,zelle
+1164,Valera,L Beltrán,Mixta,45.0,4,,0.35, BAJA,zelle
+1165,SAN CRISTOBAL,l beltran,seca,19.0,4,62.87,0.5,alta,pago movil
+1166,San Cristóbal,natura,Mixta,59.0,1,,0.45,Alta,zelle
+1167,MERIDA,MAYBELLINE,normal,62.0,8,29.72,0.29,media,Efectivo
+1168,Valera ,l beltran,seca,23.0,3,1.96,0.46, BAJA,pago movil
+1169,valera ,MAC,Mixta,45.0,7,4.54,0.0, BAJA,zelle
+1170,merida,Natura,normal,45.0,2,6.11,0.49, BAJA,pago movil
+1171,el vigia,maybelline,grasa,61.0,2,8.72,0.25,Baja,Efectivo
+1172,Mérida,Maybelline,Mixta,61.0,7,137.0,0.36,ALTA,Efectivo
+1173,Boconó,MAC,seca,37.0,6,,0.41,Alta,efectivo
+1174,merida,maybelline,Mixta,47.0,3,12.12,0.36,media,pago movil
+1175,MERIDA,maybelline,mixta,28.0,9,33.4,0.27, BAJA,Pago Móvil
+1176,ejido,mac ,mixta,45.0,6,61.7,0.24,alta,Zelle
+1177,MERIDA,L Beltrán,grasa,42.0,6,79.67,0.42,alta,zelle
+1178,el vigia,mac ,Seca,56.0,1,1.49,0.1,baja,Zelle
+1179,ejido,l beltran,Seca,50.0,4,12.54,0.48, BAJA,Efectivo
+1180,Valera,MAYBELLINE,seca,18.0,6,2.82,0.36,alta,Zelle
+1181,Ejido,Natura,Normal,44.0,6,10.22,0.1,Alta,Pago Móvil
+1182,merida,maybelline,Seca,30.0,5,4.65,0.37,ALTA,Zelle
+1183,Valera,L Beltrán,seca,58.0,1,26.02,0.26,ALTA,efectivo
+1184,Valera,Natura,grasa,20.0,8,12.29,0.35,media,Zelle
+1185,Ejido,l beltran,Normal,56.0,5,6.51,0.38,alta,Efectivo
+1186,valera ,MAYBELLINE,Normal,23.0,5,7.73,0.04,Media,Efectivo
+1187,Valera ,MAC,mixta,25.0,7,11.17,0.25,alta,efectivo
+1188,san cristobal,mac ,normal,44.0,4,7.53,0.47,baja,zelle
+1189,Valera ,l beltran,Normal,26.0,6,15.09,0.16,Media,pago movil
+1190,Boconó,mac ,Grasa,54.0,4,0.82,0.3,baja,zelle
+1191,Mérida,Maybelline,seca,50.0,3,8.2,0.18, BAJA,Efectivo
+1192,ejido,mac ,Normal,59.0,7,13.24,0.23, BAJA,zelle
+1193,El Vigía,l beltran,Normal,61.0,8,23.08,0.27,media,Zelle
+1194,merida,maybelline,Grasa,41.0,4,7.9,0.27,baja,Zelle
+1195,ejido,MAYBELLINE,Normal,32.0,2,3.57,0.1,media,Efectivo
+1196,bocono,l beltran,normal,49.0,3,1.98,0.34,Alta,Efectivo
+1197,Valera ,maybelline,Grasa,49.0,1,70.56,0.04,alta,zelle
+1198,el vigia,maybelline,mixta,41.0,8,13.47,0.07,Media,zelle
+1199,san cristobal,mac ,Mixta,58.0,3,21.76,0.0,Media,Zelle
+1200,el vigia,MAYBELLINE,Normal,29.0,7,62.89,0.06,media,pago movil

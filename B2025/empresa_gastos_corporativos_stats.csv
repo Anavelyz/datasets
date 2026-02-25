@@ -1,0 +1,201 @@
+﻿ID_Gasto,Categoria_Gasto,Departamento,Subcategoria,Nivel_Aprobacion_Requerido,Estado_Aprobacion,Prioridad_Gasto,Nivel_Autorizacion,Tipo_Proveedor,Metodo_Pago,Numero_Facturas,Cantidad_Items,Dias_Proceso_Pago,Numero_Empleados_Beneficiados,Meses_Contrato,Monto_Gasto_USD,Monto_Presupuestado_USD,Porcentaje_Desviacion,Tasa_Cambio,Impuestos_Aplicados_USD,Descuento_Obtenido_Porcentaje
+17001,Seguros, Operaciones ,Proteccion ,Director ,Rechazado,Critica,Supervisor,nacional,Cheque,5,11,9,25,28,2783.9,15919.49,21.7,0.9004,565.37,7.4
+17002,capacitacion,  Recursos Humanos,  Desarrollo,Gerente ,Aprobado,Alta,CEO,Nacional, Tarjeta Corporativa ,4,11,7,21,13,3289.35,25586.72,-1.1,1.0983,1101.73,22.8
+17003,servidores,tecnologia,  Infraestructura,director,rechazado,MEDIA,SUPERVISOR,Internacional, Transferencia ,4,6,16,15,15,,769.69,-0.8,0.8854,3155.59,13.7
+17004, Hardware ,Tecnologia ,Equipos,Director ,rechazado, Baja ,DIRECTOR, Nacional ,Transferencia,5,8,16,16,23,4033.19,,20.8,0.9496,64.59,18.3
+17005, Hospedaje , Ventas ,alojamiento, Gerente , En Revision ,CRITICA,ceo,NACIONAL,tarjeta corporativa,5,9,14,20,26,3558.11,449.22,-6.4,1.063,3046.99,8.7
+17006, Viajes ,  Ventas,MOVILIDAD, Gerente ,Pendiente,BAJA,CEO,Local, efectivo ,3,9,20,25,4,3762.65,6600.17,8.7,0.7961,549.06,10.2
+17007,auditoria,finanzas,Control, Director ,EN REVISION,MEDIA,ceo, local ,PayPal,5,13,11,14,26,28296.96,239.09,-19.9,1.0174,311.69,3.1
+17008, Beneficios Empleados ,  Recursos Humanos,Bienestar ,DIRECTOR, En Revision ,Baja,director,local,Efectivo,4,7,14,27,9,8519.48,1204.25,32.3,0.8961,245.92,
+17009,Material Impreso,Marketing,Impresion,Supervisor , rechazado ,baja, Supervisor ,Local,paypal,6,12,15,21,5,,36315.17,23.1,1.0017,55.26,20.7
+17010,capacitacion,RECURSOS HUMANOS,DESARROLLO, Gerente ,RECHAZADO,ALTA,CEO,INTERNACIONAL, Transferencia ,7,6,12,19,32,791.71,6574.34,46.3,0.9648,1482.94,14.6
+17011, Hardware ,Tecnologia ,Equipos ,DIRECTOR,En Revision, media ,Supervisor,nacional,Cheque,2,16,10,19,20,1004.54,8294.82,25.1,1.2106,492.47,8.4
+17012,Alquiler Oficina,  Operaciones,  Inmuebles,Director ,EN REVISION,Media,DIRECTOR,Internacional,Cheque,5,11,11,21,11,6163.91,3637.66,-11.9,0.9607,,20.1
+17013, Capacitación ,  Recursos Humanos, Desarrollo ,Gerente ,RECHAZADO,MEDIA,gerente, Nacional ,EFECTIVO,5,9,15,19,15,19232.1,13635.85,15.0,1.1843,1708.68,6.2
+17014,SOFTWARE,Tecnologia , Licencias ,Gerente,PENDIENTE,BAJA,CEO,Internacional,TARJETA CORPORATIVA,6,7,15,22,32,2081.83,13550.74,-8.8,1.0587,296.73,24.4
+17015, Seguros ,OPERACIONES,  Proteccion,Director , pendiente ,MEDIA, director ,nacional, PayPal ,4,9,20,23,28,,6983.01,28.7,0.9199,2334.4,8.6
+17016,SERVICIOS PUBLICOS,Operaciones,servicios,  Gerente,En Revision,MEDIA,SUPERVISOR,Nacional,cheque,6,7,15,20,22,5000000.0,6075.26,-11.5,1.0331,4560.54,8.4
+17017, Hardware ,tecnologia,Equipos,Director, pendiente , media ,ceo, Nacional , efectivo ,6,11,13,18,17,5864.36,32437.69,-12.2,0.9696,2734.39,7.8
+17018, Mantenimiento ,  Operaciones,Reparaciones ,supervisor,en revision,ALTA, Supervisor ,INTERNACIONAL,TARJETA CORPORATIVA,1,11,15,21,26,243.08,7250.21,-19.1,1.0242,159.04,3.1
+17019,entretenimiento clientes,VENTAS,  Relaciones,  Gerente,aprobado,Media, gerente ,LOCAL, Transferencia ,7,10,14,20,7,718.72,10203.49,-2.3,0.9286,4524.5,2.8
+17020,capacitacion,recursos humanos,  Desarrollo,gerente,RECHAZADO,Baja,ceo,local,Tarjeta Corporativa,2,6,13,12,26,1338.09,4996.57,-5.3,1.169,3159.07,16.2
+17021,  Capacitación  ,ventas,relaciones,GERENTE, En Revision ,Alta,CEO, internacional ,TRANSFERENCIA,11,9,14,18,25,2102.6,23180.72,-13.9,1.0925,344.67,21.9
+17022,viajes,ventas,Movilidad,  Gerente,En Revision,Media,SUPERVISOR,nacional,EFECTIVO,4,10,19,9,10,83.55,7598.72,34.8,1.0032,106.35,19.8
+17023,Publicidad Digital,Marketing,  Digital,Gerente,En Revision,Media,CEO,nacional,tarjeta corporativa,3,11,21,18,19,1880.21,10811.2,12.9,1.1729,1629.77,3.5
+17024,Nómina,Recursos Humanos,SALARIOS,director,Pendiente,Alta,director, internacional ,EFECTIVO,8,13,17,15,11,18224.35,4382.53,11.2,1.0074,339.29,13.6
+17025,Consultoría,finanzas,  Asesoria,director, En Revision ,media,DIRECTOR,local,TRANSFERENCIA,3,9,21,17,13,2348.49,65923.14,28.8,1.1098,3598.67,
+17026,SOFTWARE, Marketing ,Digital ,gerente,aprobado, Baja , gerente ,Local,CHEQUE,3,4,16,20,8,5940.17,5168.99,8.8,1.0038,887.38,1.1
+17027,BENEFICIOS EMPLEADOS,Recursos Humanos ,Bienestar,Director ,Pendiente,Baja,DIRECTOR,Nacional, cheque ,5,10,15,8,4,3287.62,22093.64,-6.2,1.0394,4881.22,16.4
+17028,Beneficios Empleados,Recursos Humanos,Bienestar ,Director,En Revisión,Media,gerente,LOCAL,TRANSFERENCIA,8,8,18,18,31,2244.81,8366.02,-20.5,0.9919,1667.99,13.4
+17029,Impuestos, Finanzas ,Tributario,director,RECHAZADO,Baja,SUPERVISOR,Local,paypal,3,5,17,21,28,59600.58,3464.18,-7.1,1.0095,403.43,2.1
+17030, Mantenimiento , Operaciones ,REPARACIONES,Supervisor, Aprobado , alta , Supervisor ,local,paypal,2,10,8,19,11,1500.16,,27.6,1.0171,,0.9
+17031,entretenimiento clientes,  Ventas,Relaciones , Gerente ,EN REVISION, media ,GERENTE, Nacional ,cheque,5,12,18,22,1,-50000.0,6088.13,-13.8,0.933,1718.27,24.7
+17032,Hospedaje,Ventas , Alojamiento , Gerente , Aprobado ,ALTA, director , local ,cheque,3,10,12,18,24,2052.97,30058.71,10.3,0.9599,2869.99,0.8
+17033,Alquiler Oficina,operaciones,  Inmuebles,  Director,En Revisión,Baja, director ,NACIONAL,tarjeta corporativa,8,8,18,26,31,22761.9,37022.01,,0.9783,3041.99,11.1
+17034,intereses,  Finanzas,CREDITOS,Director ,EN REVISION,media,Gerente,Internacional,tarjeta corporativa,10,4,11,14,26,6163.4,29472.83,9.3,1.023,645.26,12.6
+17035,Eventos,  Marketing,Promocion, Director ,Aprobado,Alta, gerente ,INTERNACIONAL, cheque ,3,6,9,19,5,1888.5,534.53,11.0,0.9969,456.93,2.9
+17036,Servicios Públicos, Operaciones ,Servicios ,GERENTE,Pendiente,baja, Supervisor ,Nacional,PayPal,2,7,18,19,20,8976.66,23223.26,14.8,1.1173,33.8,4.2
+17037,Entretenimiento Clientes, Ventas ,  Relaciones,Gerente,en revision,Media,Gerente,local, Tarjeta Corporativa ,5,5,26,23,11,893.52,7948.58,10.7,1.0847,2273.87,8.8
+17038,mantenimiento, Operaciones ,REPARACIONES,supervisor,Pendiente,critica,Director,internacional, Transferencia ,7,12,18,17,33,259.79,31039.15,29.1,0.9804,159.32,19.0
+17039, Impuestos ,finanzas,Tributario,DIRECTOR,APROBADO,Crítica,GERENTE, Nacional ,TARJETA CORPORATIVA,6,16,14,30,27,3973.79,15239.77,-10.6,1.1382,1092.08,12.7
+17040,Servicios Publicos,operaciones, Servicios ,  Gerente, En Revision , Baja ,gerente,local,Tarjeta Corporativa,6,10,10,10,34,,26904.3,8.6,1.1873,1841.01,15.9
+17041,viajes,Recursos Humanos   , Movilidad ,GERENTE,Rechazado,BAJA,Gerente,INTERNACIONAL, Tarjeta Corporativa ,2,14,18,11,15,6508.74,10380.17,-22.3,0.7956,5532.7,24.6
+17042,Reclutamiento,  Recursos Humanos,Contratacion,  Gerente,RECHAZADO, critica ,SUPERVISOR,NACIONAL, efectivo ,4,13,15,23,32,195.22,11486.59,-26.1,1.0932,747.36,19.2
+17043,Hardware,Tecnologia, Equipos , Director ,En Revision,CRITICA,gerente,LOCAL,Transferencia,9,13,16,18,21,1002.56,2339.07,,0.9307,574.76,10.9
+17044, Servidores ,Tecnologia,INFRAESTRUCTURA,Director,APROBADO, alta , ceo ,LOCAL, cheque ,7,15,17,18,5,23753.36,22986.28,13.2,1.0801,2123.56,11.2
+17045,RECLUTAMIENTO, Recursos Humanos ,  Contratacion,  Gerente,RECHAZADO,Crítica,CEO,nacional,paypal,11,13,13,19,6,633.77,8155.13,29.5,1.1238,1931.17,15.5
+17046,HARDWARE,tecnologia, Equipos ,director,En Revision, Baja ,CEO,Local,PAYPAL,8,11,11,12,22,235.08,10000000.0,41.3,0.9123,807.26,16.6
+17047,beneficios empleados,recursos humanos,  Bienestar,DIRECTOR,RECHAZADO,CRITICA,DIRECTOR,internacional, cheque ,3,12,14,18,18,266.45,23063.58,24.8,0.8148,5265.01,12.5
+17048,SERVIDORES,  Tecnologia,infraestructura,  Director, En Revision ,Crítica,DIRECTOR,nacional,EFECTIVO,2,4,12,22,14,1916.87,13701.13,15.9,1.0835,3726.88,16.1
+17049,seguros,Operaciones , Proteccion ,Director ,aprobado, media ,Gerente,Local,paypal,3,8,17,18,10,1800.2,3367.77,7.4,1.0135,,0.6
+17050,PUBLICIDAD DIGITAL, Marketing ,digital,  Gerente,APROBADO,baja,CEO,Local,Tarjeta Corporativa,4,13,12,27,13,6564.37,13382.49,-18.0,0.8332,546.62,10.7
+17051, Publicidad Digital ,marketing,  Digital,gerente, pendiente ,Crítica,SUPERVISOR,Local, PayPal ,5,10,14,26,31,1027.05,7854.43,,1.253,1436.11,7.0
+17052,hardware,Tecnologia ,Equipos , Director ,rechazado,alta, ceo ,Local,TRANSFERENCIA,5,12,17,11,30,949.16,9509.75,24.4,1.0624,2970.66,3.2
+17053,SERVIDORES,tecnologia,  Infraestructura,Director, pendiente ,CRITICA,CEO,Local,TRANSFERENCIA,4,11,23,14,3,18087.19,430.8,,1.067,90.08,2.5
+17054, Consultoria ,Finanzas,ASESORIA,Director ,APROBADO,Baja,director,Nacional,cheque,3,12,10,19,30,8338.99,3536.39,-14.3,1.1366,2364.0,15.1
+17055,SEGUROS, Operaciones ,Proteccion ,director,en revision,baja,Director,INTERNACIONAL,Efectivo,8,10,11,20,6,4286.28,4949.2,14.2,0.9419,2089.59,13.1
+17056,Mantenimiento,operaciones,Reparaciones ,  Supervisor, Aprobado , critica ,supervisor, internacional , efectivo ,2,12,19,9,29,1195.46,18722.01,12.9,1.013,526.58,6.3
+17057,Software, Tecnologia , Licencias ,gerente, Aprobado ,Critica, director ,Nacional,PayPal,1,9,15,21,8,1495.77,173.39,10.2,0.8681,2287.34,11.8
+17058, Hospedaje ,  Ventas, Alojamiento ,GERENTE,EN REVISION,critica,SUPERVISOR,LOCAL,efectivo,4,11,15,23,33,,7883.44,4.6,0.9392,5632.94,12.3
+17059,Nómina,Recursos Humanos , Salarios ,director,pendiente, Baja ,director,INTERNACIONAL,efectivo,5,12,16,25,17,,38660.63,15.0,1.0386,95.83,4.9
+17060,Eventos,Marketing ,  Promocion,Director,rechazado, critica ,CEO,internacional,PAYPAL,4,9,20,19,11,4897.77,1779.74,15.5,0.8335,770.3,16.3
+17061,Intereses,Finanzas ,Creditos ,Director,Aprobado,CRITICA,CEO,Internacional,TRANSFERENCIA,3,7,18,17,13,11852.83,-100000.0,-4.6,0.9364,1153.14,19.5
+17062,seguros,OPERACIONES,PROTECCION,director,aprobado,BAJA,supervisor, local ,Tarjeta Corporativa,4,11,14,24,11,121.44,23163.35,11.8,0.9072,4590.43,19.8
+17063,Servicios Públicos, Operaciones ,SERVICIOS,GERENTE,RECHAZADO,BAJA,supervisor,Nacional,CHEQUE,8,6,12,19,31,3810.12,42847.72,2.2,1.0142,6554.15,15.1
+17064,VIAJES,Ventas ,movilidad,Gerente ,aprobado,ALTA, director ,internacional,TRANSFERENCIA,2,15,14,21,28,531.31,20602.25,-17.3,1.0575,1174.39,12.8
+17065,impuestos,  Finanzas,Tributario,  Director,rechazado,Media,director,nacional,EFECTIVO,2,7,11,21,6,31944.99,19124.81,-3.4,1.0742,2772.82,1.5
+17066,COMISIONES,Ventas ,  Desarrollo,Director , rechazado ,BAJA,SUPERVISOR,internacional,EFECTIVO,2,10,18,23,16,,26272.64,-18.5,1.0999,1517.13,
+17067,Hardware, Tecnologia , Equipos ,DIRECTOR, rechazado ,Media,SUPERVISOR, Nacional ,PayPal,7,14,11,15,4,13899.62,8864.31,19.7,1.1372,1543.44,2.3
+17068,capacitacion,Recursos Humanos ,desarrollo, Gerente ,en revision,Alta,CEO, local , cheque ,6,10,19,18,35,256.51,24586.44,10.3,1.0607,651.74,24.1
+17069,MANTENIMIENTO TI, Tecnologia , Soporte ,Gerente,Pendiente,ALTA,CEO,LOCAL,Tarjeta Corporativa,7,11,13,22,26,2046.67,119.94,-0.3,1.1887,489.13,3.4
+17070,SERVIDORES,tecnologia,Infraestructura , Director , pendiente ,Critica,supervisor,LOCAL,paypal,6,7,10,12,12,8691.57,38766.47,26.3,1.012,679.37,3.8
+17071,hardware,  Tecnologia,LICENCIAS,  Director,En Revisión,Crítica,CEO,nacional,PAYPAL,7,8,13,17,11,9186.25,8786.11,6.0,0.9827,1625.34,22.2
+17072, Consultoria , Finanzas ,  Asesoria,DIRECTOR,en revision,alta,GERENTE,local,tarjeta corporativa,6,9,16,21,25,5731.45,12090.71,,1.0607,59.18,23.6
+17073,Auditoría, Finanzas , Control ,  Director,pendiente,CRITICA,DIRECTOR, local ,Tarjeta Corporativa,4,4,14,19,18,9726.59,4413.2,-1.6,0.9784,4755.67,19.1
+17074,MANTENIMIENTO TI,TECNOLOGIA,SOPORTE, Gerente ,pendiente,Crítica, ceo ,internacional,efectivo,2,10,13,14,19,1403.53,20352.83,29.5,1.1853,339.88,0.1
+17075,Seguros,operaciones,Proteccion,DIRECTOR,pendiente,critica,Gerente,NACIONAL,PayPal,3,13,9,32,23,2770.32,,-5.0,1.1131,497.15,0.0
+17076,EVENTOS,  Marketing, Promocion ,Director ,APROBADO, Baja ,supervisor,Nacional,transferencia,4,7,15,8,18,6582.91,30910.57,1000.0,1.075,1460.77,9.5
+17077,Auditoria,FINANZAS,CONTROL,Director ,En Revision, Baja ,CEO,internacional, Transferencia ,7,12,16,18,26,1576.52,26414.1,16.2,1.0131,2476.54,3.6
+17078,redes sociales,Marketing ,digital, Supervisor , pendiente ,MEDIA, Supervisor ,Local,PayPal,4,6,16,19,6,8143.61,3651.34,13.8,0.9593,201.25,0.5
+17079,SERVIDORES, Tecnologia , Infraestructura , Director , En Revision ,critica,DIRECTOR,internacional,Tarjeta Corporativa,3,12,19,27,4,15665.01,24857.73,41.7,1.0701,764.56,11.6
+17080,Hardware,  Tecnologia,equipos,Director,Pendiente,CRITICA,SUPERVISOR,LOCAL,cheque,2,10,19,31,29,22847.5,23151.78,-12.6,0.8873,6926.65,23.6
+17081,Servicios Publicos,operaciones,SERVICIOS,Gerente , pendiente , media ,gerente,NACIONAL,tarjeta corporativa,6,13,8,26,34,642.81,15003.92,-11.1,1.1534,608.55,8.1
+17082,servidores,TECNOLOGIA,INFRAESTRUCTURA,Director,EN REVISION,critica,supervisor,LOCAL,tarjeta corporativa,3,14,13,18,17,26434.84,7014.58,-12.4,0.9822,750.99,16.5
+17083,MANTENIMIENTO, Operaciones ,REPARACIONES, Supervisor ,Rechazado,ALTA, gerente , internacional ,CHEQUE,5,5,17,18,16,2481.57,4751.49,0.6,1.0305,3621.87,16.3
+17084,AUDITORIA,Finanzas,CONTROL,  Director,EN REVISION,CRITICA,CEO, local , Tarjeta Corporativa ,9,16,15,15,2,14132.19,3955.26,21.5,0.909,103.04,6.3
+17085,eventos,  Marketing,Promocion ,DIRECTOR,Rechazado,Critica,CEO, internacional , cheque ,6,6,10,20,34,9809.07,5754.28,-10.5,1.0723,,16.3
+17086,HARDWARE,TECNOLOGIA,  Equipos,Director ,Aprobado  ,critica,gerente,LOCAL,PayPal,6,16,14,25,8,2854.51,,21.7,0.9546,,5.3
+17087,intereses,finanzas,CREDITOS,DIRECTOR,EN REVISION, Baja , director ,NACIONAL,cheque,9,10,11,17,13,8475.27,1212.31,5.5,1.0649,761.31,3.1
+17088,ALQUILER OFICINA,OPERACIONES,Inmuebles ,Director,rechazado,ALTA, director ,NACIONAL,TRANSFERENCIA,4,18,22,15,8,10442.74,26480.09,-11.6,1.0757,672.9,17.5
+17089, Beneficios Empleados ,RECURSOS HUMANOS,Bienestar,Director,pendiente,critica,director,nacional,Cheque,9,17,14,18,30,367.65,6436.15,-21.3,0.9352,191.64,2.8
+17090,RECLUTAMIENTO,RECURSOS HUMANOS,Contratacion ,gerente,APROBADO,ALTA,CEO, local ,TARJETA CORPORATIVA,2,14,19,32,32,562.83,11059.6,-17.9,0.8876,756.16,24.9
+17091,Beneficios Empleados,Recursos Humanos ,bienestar,  Director,EN REVISION,Alta,ceo, internacional ,paypal,10,10,14,18,30,13689.75,23733.59,-200.0,1.1532,88.01,4.6
+17092,Seguros,Operaciones,Proteccion,Director , rechazado , alta ,DIRECTOR,Nacional,Cheque,6,12,14,14,1,14262.49,32361.25,2.5,0.9808,3037.04,14.9
+17093, Entretenimiento Clientes ,ventas,relaciones,Gerente ,rechazado,Media,supervisor,Internacional,Tarjeta Corporativa,9,12,16,22,17,6018.24,6341.8,25.2,1.0225,1015.75,10.3
+17094,MATERIAL IMPRESO,marketing,  Impresion,Supervisor,en revision, critica ,DIRECTOR, Nacional ,cheque,4,5,13,26,20,988.84,9294.09,17.0,1.0485,1173.63,
+17095,Reclutamiento,recursos humanos, Contratacion ,  Gerente,Rechazado,BAJA,SUPERVISOR,Nacional, PayPal ,1,9,19,21,24,426.55,8029.75,-7.6,0.8746,4481.0,0.7
+17096,Eventos, Marketing , Promocion ,DIRECTOR,pendiente,BAJA,DIRECTOR, Nacional ,paypal,6,12,15,16,22,1777.1,200.09,11.1,1.0463,2146.21,15.6
+17097,INTERESES,  Finanzas,Creditos ,Director ,rechazado,BAJA, Supervisor ,Nacional,TRANSFERENCIA,8,11,23,21,29,1034.59,5263.44,29.8,1.0099,16.18,20.2
+17098,alquiler oficina,operaciones,inmuebles,Director,PENDIENTE,BAJA,CEO,internacional,PayPal,6,16,14,23,22,299.91,9220.29,33.1,0.9356,5735.55,21.1
+17099,INTERESES,  Finanzas,  Creditos,director,En Revision,critica,director,Internacional,tarjeta corporativa,2,12,19,26,9,2477.08,7942.32,0.3,0.8843,541.37,12.1
+17100,impuestos,finanzas, Tributario , Director , En Revision , Baja ,Director,Local,PAYPAL,3,12,19,24,10,4249.7,19198.19,19.4,1.0606,227.71,19.4
+17101, Capacitación ,Recursos Humanos,  Desarrollo,Gerente , Aprobado , alta ,Gerente,INTERNACIONAL,PAYPAL,5,11,15,24,28,,7287.21,25.8,1.1128,2923.14,16.8
+17102, Hospedaje , Ventas ,  Alojamiento,  Gerente, pendiente ,Media,DIRECTOR,Local,Tarjeta Corporativa,3,9,15,14,28,6833.21,10081.84,-17.6,1.0179,1388.2,18.1
+17103,Viajes, Ventas , Movilidad , Gerente ,En Revision,baja,SUPERVISOR, internacional ,tarjeta corporativa,3,13,10,26,21,2252.27,8421.49,-2.7,0.8566,1137.51,12.3
+17104,Alquiler Oficina,OPERACIONES, Inmuebles ,DIRECTOR, rechazado ,ALTA,Gerente,Internacional, PayPal ,5,9,10,18,24,31554.11,20242.27,38.3,0.8943,574.04,15.8
+17105,Servidores,Tecnologia ,Infraestructura,director,rechazado, Baja , director ,Nacional, PayPal ,6,9,8,16,2,11626.85,29813.59,0.5,0.9568,1585.81,20.1
+17106,seguros, Operaciones ,Proteccion,Director ,rechazado,critica,director,LOCAL,CHEQUE,5,6,12,18,8,2128.99,11385.75,-38.9,1.1565,500000.0,9.9
+17107,Beneficios Empleados, Recursos Humanos ,BIENESTAR, Director ,Aprobado, alta ,CEO, Nacional ,PAYPAL,3,9,12,20,27,2199.16,23369.21,3.2,0.9753,,20.1
+17108,MATERIAL IMPRESO,Marketing,impresion,  Supervisor,En Revision,critica,Gerente,Internacional,transferencia,5,12,12,19,22,87.65,5281.42,21.9,0.9531,,14.8
+17109,material impreso,marketing, Impresion , Supervisor ,Rechazado,baja,SUPERVISOR,internacional,Transferencia,3,9,18,24,27,405.66,11692.66,5.1,0.8327,4314.46,4.1
+17110, Consultoria , Finanzas ,  Asesoria,Director,Aprobado,alta,director,Nacional,TRANSFERENCIA,3,9,18,31,29,8488.34,6352.07,15.7,0.9343,1639.26,0.6
+17111,auditoria, Finanzas ,control, Director ,aprobado,  Alta  ,CEO,LOCAL,transferencia,6,12,15,19,3,935.54,8021.68,19.1,0.8767,,9.1
+17112,Servidores,Tecnologia ,INFRAESTRUCTURA,DIRECTOR, En Revision , alta ,DIRECTOR,internacional,PAYPAL,5,10,10,27,13,2873.98,19774.71,-0.3,0.8997,2495.47,13.7
+17113,ALQUILER OFICINA,  Operaciones,  Inmuebles, Director ,rechazado, Baja ,Gerente,Internacional,Cheque,6,14,14,26,10,7205.44,32013.22,-2.8,1.012,2386.03,21.0
+17114,SOFTWARE,Tecnologia,Licencias ,GERENTE, pendiente ,Crítica,SUPERVISOR,nacional,TARJETA CORPORATIVA,2,10,21,20,9,16080.56,1943.01,7.3,0.9599,784.15,3.2
+17115,Auditoria,Finanzas ,CONTROL,DIRECTOR, rechazado ,MEDIA,ceo,internacional,PAYPAL,4,8,7,28,27,19205.93,,7.7,1.1699,532.88,20.0
+17116,IMPUESTOS, Finanzas , Tributario ,  Director, pendiente ,CRITICA, director ,INTERNACIONAL,efectivo,7,9,12,20,34,26446.63,13089.27,5.8,1.1078,473.69,21.6
+17117,mantenimiento ti, Tecnologia ,Soporte ,Gerente,PENDIENTE, critica ,Supervisor,INTERNACIONAL, PayPal ,6,10,17,23,1,308.79,1890.51,6.4,0.9391,3892.5,3.8
+17118,seguros,Operaciones,Proteccion ,director,Rechazado, media , director , local ,Transferencia,5,15,16,14,32,11389.99,3571.85,-6.2,0.9083,3434.34,21.3
+17119,Mantenimiento,OPERACIONES,REPARACIONES,SUPERVISOR,Pendiente, Baja ,director, internacional , efectivo ,4,16,13,18,25,2307.55,5587.76,16.3,1.1383,1161.69,24.8
+17120,NOMINA,RECURSOS HUMANOS, Salarios , Director , Aprobado , alta ,gerente,INTERNACIONAL,paypal,3,16,10,17,29,22976.28,2739.58,14.0,1.166,284.06,18.2
+17121, Comisiones , Ventas ,  Incentivos,  Director,aprobado, alta ,GERENTE,internacional,cheque,3,5,12,31,7,46420.19,4190.34,-15.0,0.7806,-10000.0,19.6
+17122,alquiler oficina, Operaciones ,Inmuebles , Director ,rechazado, Baja ,DIRECTOR,NACIONAL,cheque,7,7,16,25,3,5901.28,4671.44,-0.8,1.0093,1931.72,24.9
+17123,comisiones,Ventas ,INCENTIVOS,DIRECTOR,EN REVISION,Alta, ceo , internacional , efectivo ,7,8,18,25,20,28348.46,6134.73,6.4,0.9748,1211.75,15.1
+17124,alquiler oficina,  Operaciones,INMUEBLES,  Director,aprobado, media ,GERENTE, local , Tarjeta Corporativa ,6,10,17,24,20,,20757.89,-3.0,1.0649,3029.98,7.7
+17125,capacitacion,  Recursos Humanos,  Desarrollo, Gerente , rechazado ,critica, gerente , internacional ,Efectivo,6,11,8,21,30,28.87,12726.4,14.6,1.1943,12083.68,20.9
+17126, Mantenimiento TI ,Tecnologia , Soporte ,Gerente ,Pendiente,Baja,Gerente,internacional,cheque,7,8,15,20,35,1495.12,64297.12,4.0,0.9516,424.24,15.4
+17127,Capacitación,Recursos Humanos ,DESARROLLO,Gerente,APROBADO,Alta,Gerente,Local,EFECTIVO,8,6,17,19,35,9442.01,8035.38,,0.7939,1231.08,14.5
+17128,consultoria,finanzas,ASESORIA, Director ,rechazado,Baja,SUPERVISOR,Internacional,TRANSFERENCIA,6,12,14,11,27,816.26,21028.13,-1.0,1.0579,1127.69,6.3
+17129,AUDITORIA, Finanzas ,CONTROL,Director,RECHAZADO,media,director,nacional,transferencia,3,10,15,30,26,9919.96,30773.71,-24.9,1.139,726.23,18.9
+17130, Entretenimiento Clientes ,ventas,relaciones,GERENTE,en revision,Alta, Supervisor , local ,tarjeta corporativa,7,5,15,30,14,5791.82,17043.71,-25.8,0.9696,441.53,2.0
+17131,mantenimiento ti,TECNOLOGIA,Soporte,GERENTE,pendiente,alta,Gerente  ,INTERNACIONAL,EFECTIVO,5,10,14,17,17,2026.99,7961.97,13.8,0.9295,135.9,23.1
+17132,RECLUTAMIENTO, Recursos Humanos ,  Contratacion,GERENTE,PENDIENTE,ALTA,DIRECTOR,nacional,efectivo,5,10,19,20,18,315.74,21011.66,9.0,0.9563,4362.85,8.1
+17133,auditoria, Finanzas ,control,Director,Pendiente, alta ,Gerente,INTERNACIONAL, efectivo ,7,11,12,23,29,10908.9,3416.07,11.6,1.085,1088.93,3.2
+17134,Consultoria,Finanzas,ASESORIA, Director , rechazado ,Baja,CEO,local,EFECTIVO,4,14,13,12,20,1715.32,5952.46,7.0,0.9546,1373.91,11.1
+17135, Beneficios Empleados , Recursos Humanos ,Bienestar,Director ,En Revisión,media,Gerente,NACIONAL,TARJETA CORPORATIVA,9,7,15,17,27,3666.77,11867.53,8.2,1.0329,4976.43,
+17136,Redes Sociales,MARKETING,  Digital,Supervisor,En Revisión,Media,gerente,Local,CHEQUE,4,9,20,17,18,192.32,12849.45,19.5,1.0028,2994.81,150.0
+17137, Reclutamiento ,  Recursos Humanos,Contratacion ,  Gerente,Rechazado,Critica,gerente,Internacional, PayPal ,5,15,18,28,4,1395.14,,11.7,0.9925,279.68,22.6
+17138,comisiones,  Ventas,  Incentivos,Director ,pendiente,BAJA,gerente,internacional,Tarjeta Corporativa,2,7,7,27,1,7273.04,43537.51,20.6,1.0701,1666.75,20.9
+17139,comisiones, Ventas ,incentivos, Director ,Rechazado,Media,CEO,nacional,CHEQUE,6,8,21,20,1,13476.94,17891.9,7.6,0.9521,1167.7,3.2
+17140, Nomina ,  Recursos Humanos,salarios, Director , En Revision ,Baja,supervisor,nacional,CHEQUE,3,9,15,21,26,24903.68,10268.87,0.5,0.9569,3191.18,3.2
+17141,REDES SOCIALES,marketing,digital,Supervisor,rechazado,BAJA,director,internacional, cheque ,6,5,17,22,20,1994.08,40574.45,7.9,1.0798,,
+17142,SERVICIOS PUBLICOS, Operaciones ,  Servicios,gerente,RECHAZADO,Crítica, director ,LOCAL,Efectivo,2,9,14,26,23,2926.17,8673.07,-7.5,0.9013,2344.99,23.1
+17143,servidores,tecnologia, Infraestructura ,Director , Aprobado ,MEDIA, gerente ,Internacional,Tarjeta Corporativa,3,14,25,19,10,1942.71,59010.63,-0.7,0.912,832.68,11.5
+17144,impuestos,Finanzas ,TRIBUTARIO,DIRECTOR,EN REVISION,Critica,CEO,Internacional, cheque ,5,5,15,22,11,18095.13,10770.35,7.7,0.874,3269.14,12.5
+17145,Material Impreso,Marketing ,  Impresion,Supervisor ,APROBADO,critica,director, internacional ,PayPal,3,11,19,22,5,188.88,1820.41,7.5,1.0849,107.63,8.0
+17146,hardware,Tecnologia,Equipos , Director ,Pendiente,CRITICA,CEO,local,paypal,4,10,17,24,1,19479.41,21709.85,3.4,0.9895,347.81,22.4
+17147, Alquiler Oficina , Operaciones ,Inmuebles ,  Director, pendiente ,ALTA, gerente , local , Transferencia ,5,9,14,20,17,1061.72,17039.93,-15.8,0.8686,817.81,16.1
+17148,HOSPEDAJE,Ventas ,Alojamiento , Gerente ,En Revision,media, gerente ,INTERNACIONAL,CHEQUE,6,6,15,24,22,1406.94,,14.5,1.0854,159.83,7.2
+17149,SOFTWARE,Tecnologia ,LICENCIAS,Gerente, rechazado , alta ,director,NACIONAL, Tarjeta Corporativa ,3,9,17,20,34,4760.25,45374.95,17.5,0.9444,535.74,7.5
+17150,Mantenimiento TI,  Tecnologia,Soporte,gerente,APROBADO,alta, ceo , local ,EFECTIVO,3,12,13,14,29,1531.33,22474.44,29.7,0.9128,3545.69,22.3
+17151,INTERESES,Finanzas,creditos,DIRECTOR,En Revision,ALTA,GERENTE, internacional , Transferencia ,4,11,21,17,4,483.08,14175.62,11.6,0.9804,5922.72,-20.0
+17152,SEGUROS,Operaciones,PROTECCION,Director ,Aprobado,BAJA, director ,internacional,Cheque,5,4,11,20,5,6045.34,29206.1,5.0,1.1479,726.54,8.1
+17153, Material Impreso ,  Marketing,impresion,supervisor,Rechazado,baja,CEO, internacional ,EFECTIVO,4,15,21,17,11,1026.19,16778.24,-10.2,0.9605,614.45,13.9
+17154,ALQUILER OFICINA, Operaciones ,INMUEBLES,DIRECTOR, Aprobado ,Media,CEO,Nacional, Tarjeta Corporativa ,2,8,10,23,21,18250.42,7866.75,27.4,1.0575,656.71,3.7
+17155,Beneficios Empleados,recursos humanos,bienestar, Director ,EN REVISION,media,director, local ,Tarjeta Corporativa,6,9,16,13,35,2336.12,32523.4,8.7,1.0727,650.68,2.3
+17156,Hardware, Tecnologia ,EQUIPOS,  Director, rechazado ,baja,CEO,  Nacional  , Transferencia ,6,10,20,17,12,6220.0,3763.51,7.9,1.0443,73.18,20.4
+17157,PUBLICIDAD DIGITAL,marketing,Digital, Gerente ,Rechazado,BAJA,ceo,local,transferencia,8,13,17,17,26,3594.52,18810.12,1.2,1.1271,5232.3,22.4
+17158,mantenimiento,Operaciones,  Reparaciones,Supervisor,En Revision,Alta,gerente,INTERNACIONAL,cheque,1,10,11,27,19,1672.37,32000.67,0.2,0.9293,480.83,20.6
+17159,HARDWARE,TECNOLOGIA,Equipos ,Director, rechazado ,CRITICA,GERENTE,Internacional,Efectivo,6,11,14,27,7,6570.04,19713.32,15.3,0.8957,1089.47,
+17160,Hardware, Tecnologia ,equipos,  Director, Aprobado ,critica,Gerente,LOCAL, PayPal ,2,8,15,32,7,5595.25,17923.98,-10.3,0.8937,19.47,13.8
+17161,Reclutamiento,RECURSOS HUMANOS,CONTRATACION,Gerente , pendiente , critica ,Director,internacional,efectivo,5,12,21,23,26,430.57,20953.55,29.4,0.9856,3903.22,20.3
+17162, Seguros ,operaciones,Proteccion,director, En Revision ,CRITICA,supervisor,nacional, Tarjeta Corporativa ,2,12,18,18,5,15.15,9383.88,26.1,0.9053,2627.26,9.6
+17163,HARDWARE, Tecnologia ,Equipos,  Director,Aprobado,critica, ceo ,LOCAL,tarjeta corporativa,6,4,15,23,21,1434.45,31092.43,-0.3,1.0148,5865.74,16.7
+17164,AUDITORIA,FINANZAS,Control ,director,RECHAZADO,Alta, director ,LOCAL,CHEQUE,4,18,13,15,14,1556.31,,-8.0,1.0077,3043.0,24.7
+17165, Impuestos ,FINANZAS,TRIBUTARIO,DIRECTOR, pendiente ,MEDIA, Supervisor ,INTERNACIONAL,PAYPAL,3,12,19,23,4,11923.49,2043.94,-25.2,1.1019,752.9,5.6
+17166,Reclutamiento, Recursos Humanos ,  Contratacion,Gerente ,APROBADO,Crítica, Supervisor ,internacional,CHEQUE,5,10,13,22,23,1421.12,5042.77,-13.8,10.0,569.7,9.7
+17167, Hardware ,TECNOLOGIA,equipos,Director,EN REVISION, Baja ,director,Local,TARJETA CORPORATIVA,6,9,19,20,20,1797.26,11375.77,15.9,0.9584,2392.78,12.0
+17168,viajes, Ventas ,  Movilidad,Gerente ,rechazado, alta ,SUPERVISOR, local ,tarjeta corporativa,3,8,11,19,15,11191.27,10717.46,9.7,1.0411,905.47,3.5
+17169,HARDWARE,TECNOLOGIA, Equipos , Director ,en revision,critica,gerente,LOCAL, efectivo ,4,7,19,18,29,50.28,25771.96,12.4,0.897,1670.41,2.0
+17170,Nomina,Recursos Humanos,Salarios,Director, Aprobado , Baja ,Director,NACIONAL,PayPal,8,16,12,19,8,36993.27,7777.04,-22.7,0.9962,12.55,20.7
+17171, Consultoria , Finanzas ,Asesoria,director,Pendiente,alta,CEO,Nacional,EFECTIVO,4,14,13,25,19,7360.32,9934.74,-0.9,-0.5,127.77,
+17172,Servicios Publicos,Operaciones,Servicios ,Gerente,aprobado, critica ,Gerente,NACIONAL, efectivo ,10,11,18,22,28,,201.87,25.5,1.0129,1533.02,10.1
+17173,redes sociales,  Marketing,DIGITAL, Supervisor ,aprobado,Crítica,ceo,local,cheque,4,13,16,26,27,129.52,7907.86,,1.0415,1669.75,2.2
+17174,COMISIONES,Ventas , Incentivos ,Director,rechazado,alta,SUPERVISOR,LOCAL, efectivo ,5,13,19,22,4,9874.82,15652.24,-14.1,0.9356,2784.25,1.6
+17175, Entretenimiento Clientes ,Ventas, Relaciones ,  Gerente, En Revision ,baja, gerente , internacional ,Transferencia,10,12,10,17,15,730.7,234.45,3.3,1.1152,283.05,22.3
+17176,Software,TECNOLOGIA, Licencias ,gerente, Aprobado , media ,CEO,Nacional,Transferencia  ,3,8,-10,22,35,11012.22,4945.95,-6.6,1.1822,1439.73,11.6
+17177,BENEFICIOS EMPLEADOS,recursos humanos,BIENESTAR, Director , Aprobado ,Critica, director ,NACIONAL,Efectivo,4,9,8,17,1,3904.32,3497.08,10.0,0.8397,432.45,8.0
+17178,MATERIAL IMPRESO,  Marketing,impresion,  Supervisor, pendiente ,baja,Supervisor,nacional,PayPal,7,16,20,19,3,2807.62,643.38,5.3,0.8784,195.66,11.9
+17179,Material Impreso,Marketing,Impresion,SUPERVISOR,Pendiente,Baja,ceo, Nacional ,EFECTIVO,5,8,19,16,24,249.08,9787.57,13.1,1.0043,,8.0
+17180,REDES SOCIALES,  Marketing,DIGITAL,Supervisor ,En Revision,MEDIA,supervisor,LOCAL, Tarjeta Corporativa ,10,9,17,17,27,3234.07,3008.32,-13.3,0.9743,356.67,12.2
+17181,HOSPEDAJE,Ventas, Alojamiento ,  Gerente,EN REVISION,alta,CEO,internacional,paypal,4,14,500,11,34,2400.93,20384.95,-1.7,1.1896,501.5,21.5
+17182, Viajes ,Ventas,Movilidad,GERENTE, rechazado ,MEDIA, director ,internacional,PAYPAL,2,16,11,20,29,5379.2,28251.01,21.4,1.022,764.15,14.8
+17183,INTERESES,finanzas,Creditos, Director ,en revision,Media, gerente ,INTERNACIONAL, cheque ,3,13,13,25,24,1208.24,11831.17,-15.3,1.1393,600.56,17.4
+17184, Beneficios Empleados ,recursos humanos, Bienestar , Director ,Pendiente,Alta,CEO,local,transferencia,5,8,18,18,24,5468.04,60018.83,,0.7951,183.33,9.1
+17185,EVENTOS,Marketing, Promocion , Director ,en revision,alta,SUPERVISOR,Nacional,transferencia,8,9,17,19,4,6892.36,,8.0,1.0814,188.44,18.5
+17186,publicidad digital,Marketing ,Digital,gerente, Aprobado ,ALTA, director ,local,cheque,-5,12,21,19,3,8147.99,10803.71,9.3,0.9284,429.48,16.7
+17187,impuestos,finanzas,Tributario , Director , En Revision , Baja , gerente ,NACIONAL, efectivo ,3,13,16,21,34,7921.53,67947.82,-2.3,0.9268,103.76,3.0
+17188, Hardware ,tecnologia,  Equipos,Director ,en revision,Baja,Supervisor,LOCAL, PayPal ,8,10,14,20,23,16558.45,3950.67,,0.9752,1969.44,14.3
+17189, Software ,tecnologia,  Licencias,gerente,Rechazado, critica ,DIRECTOR, internacional , efectivo ,6,13,20,17,23,352.27,42851.54,13.0,0.8575,677.46,6.4
+17190,material impreso, Marketing ,Impresion, Supervisor ,aprobado,critica, Supervisor ,internacional,cheque,8,10,9,24,5,1646.05,656.73,17.7,1.0443,656.3,20.1
+17191,MATERIAL IMPRESO,  Marketing,impresion,supervisor, rechazado ,media,DIRECTOR,internacional,paypal,200,6,22,35,31,1975.58,,-11.0,1.0191,806.93,10.6
+17192, Servidores ,Tecnologia,infraestructura,Director ,PENDIENTE,Media,Gerente, internacional ,Transferencia,3,4,20,24,6,21245.61,1088.62,10.5,1.0266,2174.14,24.9
+17193,Hardware,Tecnologia ,Equipos ,Director ,EN REVISION,Critica,Gerente,nacional, Transferencia ,5,9,21,17,10,5391.97,19597.55,27.7,1.0887,4090.22,2.3
+17194,CONSULTORIA,finanzas,ASESORIA,  Director,EN REVISION, media ,supervisor,local,efectivo,11,10,19,17,7,4327.04,14063.06,3.3,1.1515,2846.64,19.5
+17195,MATERIAL IMPRESO, Marketing ,Impresion,supervisor, pendiente ,Crítica,director,NACIONAL,Tarjeta Corporativa,7,5,13,20,21,5589.28,18395.03,-11.2,0.9636,2600.45,
+17196,impuestos,  Finanzas,tributario,Director, rechazado , alta , ceo ,Local,Cheque,4,-10,15,18,20,5205.8,7037.59,-11.9,1.0477,1324.81,19.2
+17197, Servicios Publicos ,OPERACIONES,Servicios,GERENTE, Aprobado ,BAJA,Gerente,internacional, cheque ,3,10000,12,17,3,1978.97,6918.2,2.6,1.0293,2367.07,
+17198,RECLUTAMIENTO,RECURSOS HUMANOS,Contratacion , Gerente , rechazado ,Critica, ceo ,INTERNACIONAL,Efectivo,8,10,15,5000,22,1666.07,695.67,20.5,1.0378,1609.33,12.3
+17199, Intereses ,finanzas, Creditos ,DIRECTOR, rechazado ,baja,CEO,internacional, cheque ,8,7,16,17,-6,6034.35,6460.47,4.4,1.0393,487.33,19.9
+17200, Impuestos ,Finanzas ,Tributario ,Director ,aprobado,critica,Supervisor,LOCAL,transferencia,3,6,13,16,200,4563.74,39737.19,7.8,1.1591,467.87,5.8

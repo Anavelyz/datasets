@@ -1,0 +1,201 @@
+﻿ID_Compra,Marca,Pais_Origen,Categoria,Segmento,Ano_Fundacion,Nivel_Satisfaccion,Calidad_Percibida,Frecuencia_Compra,Tipo_Cliente,Metodo_Pago,Edad_Cliente,Cantidad_Productos,Visitas_Tienda_Anio,Productos_Devueltos,Anos_Cliente_Frecuente,Precio_Unitario_USD,Gasto_Total_Compra_USD,Descuento_Aplicado_Porcentaje,Puntuacion_Satisfaccion,Tienda_Tamano_M2,Distancia_Tienda_KM
+15001,Primark,  Irlanda,FAST FASHION, Gama Baja ,1969,MUY INSATISFECHO,regular,Frecuente, regular ,Efectivo,56,5,11,0,3,31.48,,9.7,3.9,841.0,21.4
+15002,louis vuitton,francia,Lujo, Alta Gama ,1854,MUY INSATISFECHO, malo ,Muy Frecuente,VIP,Efectivo,69,4,11,1,4,92.24,712.42,2.9,8.5,254.0,19.2
+15003,burberry,  Reino Unido,Lujo ,ALTA GAMA,1856, insatisfecho , Excelente ,MUY FRECUENTE,nuevo,PAYPAL,46,4,8,1,3,209.23,78.08,29.8,3.9,318.0,0.1
+15004, Versace ,Italia,Lujo,Alta Gama ,1978,Satisfecho, Excelente ,FRECUENTE,VIP,TARJETA DEBITO,32,4,7,1,3,353.93,,28.4,6.2,558.0,10.7
+15005, Adidas ,ALEMANIA,DEPORTIVO, Gama Media-Alta ,1949,INSATISFECHO, bueno ,Rara Vez, regular , transferencia ,60,7,6,1,1,270.61,592.54,9.4,,374.0,2.3
+15006, Nike ,Estados Unidos ,Deportivo ,GAMA MEDIA-ALTA,1964,muy insatisfecho,pesimo,rara vez, regular ,efectivo,25,8,9,1,4,32.89,501.97,30.0,8.8,-78.0,30.2
+15007,wrangler,  Estados Unidos,  Denim,Gama Media ,1947, insatisfecho ,Bueno,RARA VEZ,nuevo, PayPal ,38,7,11,1,3,87.28,346.03,36.7,8.4,887.0,30.8
+15008, Prada ,  Italia, Lujo ,Alta Gama ,1913, Neutral,Malo,OCASIONAL, vip ,TARJETA DEBITO,56,7,4,1,4,,5.89,4.3,10.1,285.0,8.1
+15009,Tory Burch,Estados Unidos , Premium ,Gama Media-Alta,2004,NEUTRAL,MALO,frecuente,REGULAR, Tarjeta Credito ,36,6,4,1,0,46.07,178.75,9.3,8.6,612.0,8.8
+15010,louis vuitton,FRANCIA,  Lujo,Alta Gama ,1854,muy insatisfecho, regular , ocasional , nuevo ,Tarjeta Debito,40,9,6,1,4,105.04,371.39,30.0,3.5,249.0,5.4
+15011, Dior ,Francia,lujo,  Alta Gama,1946,muy insatisfecho,pesimo,ocasional,VIP,TARJETA CREDITO,28,10,7,1,5,10.58,196.05,11.0,6.8,327.0,18.9
+15012,H&M,suecia,Fast Fashion,Gama Media,1947,Insatisfecho,malo,OCASIONAL,VIP,PAYPAL,28,4,7,0,2,36.92,796.51,25.0,7.4,175.0,6.7
+15013, Louis Vuitton ,  Francia,Lujo ,alta gama,1854,INSATISFECHO,PESIMO,MUY FRECUENTE,nuevo,tarjeta debito,41,5,6,1,7,410.88,147.73,3.2,7.2,352.0,4.7
+15014,DIOR,FRANCIA,  Lujo,  Alta Gama,1946,NEUTRAL,Bueno,muy frecuente,VIP,PAYPAL,53,8,13,3,6,94.14,138.99,18.1,6.3,371.0,8.5
+15015, Primark ,irlanda,  Fast Fashion,gama baja,1969,SATISFECHO,malo,Frecuente,vip,TARJETA CREDITO,57,7,8,1,2,88.42,123.7,29.6,5.4,473.0,
+15016,MANGO,españa,fast fashion,GAMA MEDIA,1984, satisfecho , Excelente ,frecuente,regular,EFECTIVO,41,3,13,3,6,50000.0,161.85,27.5,12.3,425.0,20.6
+15017, Dior ,francia,Lujo,  Alta Gama,1946,MUY INSATISFECHO, malo ,muy frecuente,REGULAR, efectivo ,20,7,6,1,5,42.63,326.04,32.6,6.7,212.0,0.2
+15018, Uniqlo ,Japon,  Fast Fashion,Gama Media,1984,Insatisfecho, pesimo ,MUY FRECUENTE,Regular,TARJETA CREDITO,39,4,11,1,4,301.82,491.05,35.1,12.2,395.0,
+15019,under armour,Estados Unidos,DEPORTIVO,gama media,1996, satisfecho ,malo,Ocasional,Nuevo,transferencia,19,4,12,2,3,26.98,434.56,30.9,5.2,789.0,3.0
+15020,louis vuitton,francia,  Lujo,alta gama,1854,insatisfecho,Regular,RARA VEZ,premium,transferencia,41,4,8,0,3,80.45,659.52,26.9,,766.0,4.0
+15021,  Louis Vuitton  , Estados Unidos ,Deportivo ,gama media,1996,muy satisfecho,excelente,rara vez, vip ,efectivo,61,5,10,1,2,2.17,868.32,1.3,8.0,591.0,15.1
+15022,nike,Estados Unidos ,Deportivo,Gama Media-Alta ,1964,NEUTRAL, regular , rara vez , nuevo ,efectivo,47,3,8,1,2,97.61,677.3,21.4,5.7,633.0,74.3
+15023,Coach,Estados Unidos,Premium ,Gama Media-Alta,1941, insatisfecho ,BUENO,RARA VEZ, Premium ,tarjeta debito,55,3,1,0,7,3.19,7.65,1.5,6.6,912.0,
+15024,Hermès, Francia ,Lujo,alta gama,1837,Insatisfecho,MALO,rara vez, Premium ,tarjeta debito,19,2,11,0,7,256.89,532.6,32.3,7.5,614.0,3.8
+15025,Diesel, Italia ,DENIM,Gama Media-Alta,1978,Insatisfecho,MALO,Ocasional,nuevo, efectivo ,38,7,10,1,4,261.32,93.48,12.8,5.8,629.0,2.9
+15026,GUCCI,  Estados Unidos,Premium , Gama Media-Alta ,1941,Satisfecho, bueno ,FRECUENTE,PREMIUM,Transferencia,50,2,6,2,3,232.49,57.05,22.5,7.0,187.0,30.2
+15027,Prada,Italia , Lujo , Alta Gama ,1913, insatisfecho , regular , Muy Frecuente ,regular, Tarjeta Debito ,29,7,6,3,3,49.98,406.98,11.2,2.8,277.0,8.8
+15028,Prada,italia,  Lujo,  Alta Gama,1913,muy satisfecho, Excelente , ocasional ,Nuevo, Tarjeta Credito ,39,3,6,2,6,272.32,154.11,31.3,8.9,493.0,2.2
+15029, Reebok ,  Reino Unido,DEPORTIVO,Gama Media ,1958,Satisfecho, regular ,rara vez,VIP,TARJETA DEBITO,61,4,12,1,5,117.46,23.53,35.5,10.0,339.0,29.7
+15030,forever 21,  Estados Unidos,Fast Fashion, Gama Media-Baja ,1984,Muy Insatisfecho,pesimo, Muy Frecuente ,Regular,Tarjeta Debito,42,3,7,2,2,70.21,59.23,,8.4,300.0,25.4
+15031,Under Armour, Estados Unidos ,Deportivo ,GAMA MEDIA,1996,MUY INSATISFECHO, regular ,ocasional,vip, Tarjeta Debito ,66,5,10,0,3,-500.0,0.37,34.5,12.0,324.0,61.9
+15032,Adidas, Alemania ,  Deportivo,Gama Media-Alta,1949,NEUTRAL,excelente, rara vez ,PREMIUM, PayPal ,44,4,3,1,6,1.86,934.14,10.7,8.9,215.0,36.1
+15033,mango, España ,FAST FASHION,gama media,1984, Muy Satisfecho ,Malo,ocasional, regular ,Tarjeta Credito,59,4,6,2,1,23.14,9.97,21.4,,342.0,28.6
+15034,Gap,estados unidos,Denim,GAMA MEDIA,1969,INSATISFECHO,Regular,muy frecuente,VIP, efectivo ,45,2,10,2,2,203.39,94.01,34.4,10.0,568.0,0.8
+15035,Kate Spade,estados unidos, Premium ,  Gama Media-Alta,1993, Muy Satisfecho ,BUENO, frecuente , nuevo ,transferencia,33,2,4,0,1,41.99,215.32,13.0,2.0,859.0,1.7
+15036,mango,  España, Fast Fashion ,GAMA MEDIA,1984,Muy Insatisfecho, Excelente ,Rara Vez,Premium,TRANSFERENCIA,32,2,10,0,3,136.7,176.38,38.2,8.3,659.0,
+15037, Reebok ,  Reino Unido,Deportivo,  Gama Media,1958,INSATISFECHO,MALO,muy frecuente,vip, efectivo ,64,5,9,0,4,72.94,970.92,4.9,4.7,627.0,11.4
+15038,Forever 21,Estados Unidos, Fast Fashion , Gama Media-Baja ,1984,Muy Satisfecho,EXCELENTE,Muy Frecuente,premium,PAYPAL,68,3,4,1,5,289.45,16.45,0.7,5.1,175.0,9.2
+15039,Levi's,Estados Unidos,DENIM,Gama Media,1853,Satisfecho,BUENO,FRECUENTE,VIP,transferencia,61,12,14,1,3,456.79,287.15,36.2,5.5,524.0,7.6
+15040,uniqlo, Japon ,  Fast Fashion,  Gama Media,1984,insatisfecho, pesimo ,ocasional, nuevo ,Tarjeta Debito,69,7,6,2,2,322.56,456.37,2.7,6.9,487.0,8.5
+15041,Adidas,alemania,Lujo   ,gama media-alta,1949,Satisfecho,Excelente,FRECUENTE, regular , transferencia ,20,3,4,0,5,47.33,1073.53,39.7,8.8,558.0,12.6
+15042,Gucci,italia,  Lujo,ALTA GAMA,1921,MUY SATISFECHO,excelente,Frecuente,VIP,TARJETA CREDITO,54,6,5,1,1,32.38,387.42,38.1,8.4,428.0,0.0
+15043, Versace ,  Italia,lujo,  Alta Gama,1978, insatisfecho ,REGULAR,Ocasional,PREMIUM,TARJETA CREDITO,68,3,7,0,3,96.49,651.36,5.5,7.5,832.0,
+15044,BURBERRY,Reino Unido , Lujo ,Alta Gama ,1856,Neutral, bueno ,ocasional, nuevo ,efectivo,24,7,8,0,2,1.1,34.98,21.5,8.9,511.0,11.0
+15045,PRADA, Italia ,lujo,  Alta Gama,1913,NEUTRAL,Bueno,OCASIONAL, regular ,PayPal,38,7,10,1,2,3.92,195.06,7.4,9.1,530.0,19.2
+15046,versace,Italia,  Lujo,alta gama,1978, Muy Insatisfecho ,PESIMO, Muy Frecuente ,Premium, PayPal ,26,4,8,1,1,120.88,200000.0,17.1,8.4,108.0,2.9
+15047,PRADA,Italia ,Lujo , Alta Gama ,1913,Insatisfecho,BUENO,Muy Frecuente,NUEVO,Transferencia,56,6,6,1,1,110.24,869.64,2.5,4.1,479.0,11.9
+15048,burberry,reino unido,  Lujo,Alta Gama,1856,MUY SATISFECHO,EXCELENTE, rara vez , Premium ,paypal,35,2,6,2,6,782.7,65.65,9.0,6.0,730.0,18.8
+15049,PRIMARK,Irlanda,FAST FASHION,Gama Baja ,1969,NEUTRAL,pesimo,rara vez,NUEVO,paypal,21,5,9,1,3,33.82,65.9,14.5,7.6,611.0,8.8
+15050, Coach , Estados Unidos ,Premium ,gama media-alta,1941,muy insatisfecho,BUENO,frecuente,Regular,TRANSFERENCIA,42,11,10,1,1,44.78,159.33,17.5,9.0,69.0,0.4
+15051,coach,estados unidos,fast fashion,  Gama Media-Alta,1941,Insatisfecho,PESIMO,Frecuente,Regular,TARJETA CREDITO,31,4,8,1,6,18.08,22.4,39.1,4.8,410.0,8.9
+15052,DIOR, Francia , Lujo ,alta gama,1946,NEUTRAL,BUENO,Rara Vez,premium,Tarjeta Debito,67,7,5,1,3,374.32,80.58,32.3,7.5,846.0,5.3
+15053, Burberry ,  Reino Unido, Lujo ,ALTA GAMA,1856, insatisfecho , bueno , frecuente ,nuevo,EFECTIVO,26,6,11,2,4,225.63,1343.37,29.5,4.4,470.0,39.8
+15054,DIESEL,Italia , Denim ,gama media-alta,1978,muy insatisfecho,REGULAR, ocasional , vip ,TARJETA CREDITO,43,8,8,0,0,259.18,223.58,21.5,9.6,564.0,2.0
+15055,Primark,Irlanda ,  Fast Fashion,Gama Baja,1969,muy satisfecho,Bueno,MUY FRECUENTE,Regular,PAYPAL,19,3,7,0,1,349.59,399.89,,8.0,824.0,15.9
+15056,Forever 21,Estados Unidos ,Fast Fashion ,Gama Media-Baja,1984, Muy Insatisfecho , pesimo ,Rara Vez, vip ,PAYPAL,37,6,7,0,3,111.63,518.01,13.6,4.8,469.0,0.8
+15057, Hermes ,FRANCIA,LUJO,alta gama,1837,MUY SATISFECHO,Excelente,muy frecuente,VIP,Transferencia,45,5,6,0,4,90.0,182.89,28.4,4.8,658.0,8.9
+15058,Adidas, Alemania ,DEPORTIVO,GAMA MEDIA-ALTA,1949, satisfecho ,Regular,rara vez,Premium, efectivo ,64,8,7,0,2,60.16,63.7,39.8,8.3,582.0,12.1
+15059,Hermes,Francia ,lujo,Alta Gama ,1837,neutral,Bueno,Muy Frecuente,PREMIUM,Tarjeta Debito,24,3,9,0,1,133.45,92.56,12.6,10.2,625.0,5.3
+15060,kate spade,  Estados Unidos,Premium,  Gama Media-Alta,1993, satisfecho ,Bueno,RARA VEZ,Premium,transferencia,61,4,7,3,2,90.85,150.32,27.0,5.3,576.0,9.1
+15061,GAP,Estados Unidos ,DENIM,Gama Media ,1969,MUY SATISFECHO,pesimo,MUY FRECUENTE,Nuevo,TRANSFERENCIA,25,2,9,2,7,,-1000.0,33.8,9.1,390.0,2.7
+15062,primark, Irlanda , Fast Fashion ,GAMA BAJA,1969,insatisfecho,Regular,OCASIONAL,REGULAR,tarjeta debito,64,4,9,1,3,414.52,203.19,36.6,6.4,410.0,5.4
+15063,UNIQLO,Japon ,fast fashion, Gama Media ,1984, Muy Satisfecho ,bueno,rara vez,Regular,Tarjeta Debito,52,5,14,0,1,620.57,2.74,28.7,9.1,329.0,14.6
+15064,Nike, Estados Unidos , Deportivo ,Gama Media-Alta,1964, Muy Satisfecho , Excelente ,Rara Vez,vip,paypal,31,7,11,1,2,,296.44,11.3,8.9,172.0,
+15065,reebok,reino unido,Deportivo , Gama Media ,1958,INSATISFECHO,Excelente,rara vez, Premium ,Transferencia,34,5,2,0,1,212.05,1017.93,13.1,7.8,749.0,34.5
+15066,PUMA,  Francia,Deportivo ,  Gama Media,1948,satisfecho,Bueno,ocasional,nuevo,tarjeta credito,53,1,3,1,4,171.18,668.69,0.8,3.8,502.0,14.8
+15067,VERSACE, Italia ,  Lujo,ALTA GAMA,1978,neutral,Excelente, Muy Frecuente , regular , Tarjeta Credito ,67,7,8,3,3,27.24,697.67,30.4,8.9,739.0,8.7
+15068,louis vuitton, Francia , Lujo ,  Alta Gama,1854,Muy Satisfecho, regular ,Rara Vez,nuevo,Transferencia,57,3,6,0,3,9.14,634.01,1.7,8.5,813.0,0.6
+15069, Michael Kors ,ESTADOS UNIDOS,PREMIUM, Gama Media-Alta ,1981,muy satisfecho, bueno ,Muy Frecuente, Premium ,Tarjeta Debito,21,4,10,4,3,176.03,156.47,34.6,8.3,511.0,10.4
+15070,BURBERRY,reino unido,Lujo,ALTA GAMA,1856,NEUTRAL,PESIMO,OCASIONAL,premium,efectivo,19,1,8,1,3,195.73,,4.7,7.9,237.0,21.7
+15071,Dior,ESTADOS UNIDOS, Lujo ,Alta Gama ,1946,muy satisfecho,REGULAR,frecuente, regular ,tarjeta debito,23,6,15,1,4,7.22,61.8,6.9,5.7,461.0,4.6
+15072,DIESEL,ITALIA,DENIM,Gama Media-Alta ,1978,neutral,Excelente,RARA VEZ,vip,tarjeta debito,59,12,9,0,0,,428.85,19.1,9.7,366.0,24.7
+15073,Levis,Estados Unidos ,denim, Gama Media ,1853, Neutral,bueno, ocasional ,VIP,EFECTIVO,21,5,4,3,2,14.33,410.41,29.5,,104.0,4.4
+15074,michael kors, Estados Unidos , Premium , Gama Media-Alta ,1981, Neutral,Regular,MUY FRECUENTE,PREMIUM, Tarjeta Debito ,46,6,5,1,3,50.51,10.36,5.6,5.3,400.0,26.0
+15075,PRIMARK,  Irlanda,fast fashion,Gama Baja,1969,insatisfecho,excelente,rara vez, Premium , efectivo ,35,3,3,1,5,167.39,620.41,17.6,10.1,486.0,1.3
+15076,Kate Spade,estados unidos,PREMIUM,Gama Media-Alta ,1993,Satisfecho,Bueno, Muy Frecuente , vip ,Transferencia,43,7,9,0,3,27.93,934.24,150.0,7.8,371.0,30.2
+15077,Wrangler,ESTADOS UNIDOS,DENIM,Gama Media,1947, satisfecho ,malo, frecuente ,Premium,efectivo,61,8,8,0,5,8.55,124.47,8.5,,346.0,10.4
+15078,zara, España ,FAST FASHION, Gama Media ,1975,Muy Insatisfecho,Pesimo,rara vez, regular ,TARJETA CREDITO,51,2,10,1,5,60.33,669.36,4.6,7.1,244.0,5.3
+15079,BURBERRY,Reino Unido,LUJO,  Alta Gama,1856,insatisfecho, Excelente ,Rara Vez,Regular,Efectivo,27,5,6,1,3,217.85,34.4,33.5,7.3,539.0,4.6
+15080,VERSACE,  Italia,Lujo ,ALTA GAMA,1978,MUY INSATISFECHO,EXCELENTE,MUY FRECUENTE,nuevo,TARJETA DEBITO,53,4,9,1,2,80.08,366.48,,10.2,874.0,8.5
+15081,uniqlo,JAPON,  Fast Fashion,Gama Media ,1984,satisfecho, malo ,Rara Vez,vip,transferencia,31,1,7,1,2,158.75,265.94,0.6,9.6,756.0,104.4
+15082,BURBERRY,reino unido,LUJO,ALTA GAMA,1856,satisfecho,MALO,ocasional,Premium,Efectivo,48,6,11,0,2,129.99,315.8,,9.5,631.0,3.7
+15083,uniqlo,JAPON,Fast Fashion ,Gama Media,1984,satisfecho, regular ,OCASIONAL, nuevo ,Tarjeta Debito,65,4,6,0,3,3.37,1042.59,39.2,7.9,635.0,1.6
+15084,WRANGLER,ESTADOS UNIDOS,Denim,Gama Media,1947,MUY SATISFECHO,Pesimo, frecuente , regular ,efectivo,32,4,8,0,1,,820.16,24.2,9.3,473.0,13.2
+15085, Kate Spade ,ESTADOS UNIDOS,Premium ,gama media-alta,1993, Muy Insatisfecho ,PESIMO,OCASIONAL,vip, transferencia ,25,5,7,0,3,6.35,615.0,20.1,5.8,139.0,10.1
+15086,DIOR,Francia ,lujo,Alta Gama  ,1946,Insatisfecho, Excelente ,frecuente,regular,transferencia,31,4,6,1,1,515.38,127.92,35.1,8.7,426.0,11.1
+15087,Gap,Estados Unidos,Denim,Gama Media ,1969, Muy Insatisfecho ,MALO,MUY FRECUENTE,PREMIUM,TARJETA CREDITO,40,7,9,2,0,119.73,971.34,38.1,7.2,306.0,16.5
+15088,H&M,suecia,fast fashion,Gama Media ,1947, satisfecho ,Pesimo, Muy Frecuente , nuevo ,Transferencia,57,6,10,2,5,495.17,41.04,30.2,3.4,531.0,4.7
+15089, Prada ,italia,  Lujo,Alta Gama,1913, insatisfecho , bueno ,FRECUENTE,PREMIUM,tarjeta debito,38,3,10,1,2,18.28,767.83,17.8,,747.0,36.2
+15090,GUCCI,italia, Lujo ,  Alta Gama,1921,MUY INSATISFECHO, pesimo , ocasional ,Premium,TRANSFERENCIA,33,4,4,1,3,101.12,159.09,23.7,6.2,895.0,8.6
+15091,Prada, Italia , Lujo ,ALTA GAMA,1913,Satisfecho,excelente, ocasional ,VIP,TRANSFERENCIA,62,3,11,1,3,27.86,22.11,-20.0,8.3,513.0,2.1
+15092,Forever 21,  Estados Unidos,Fast Fashion ,Gama Media-Baja ,1984, satisfecho ,Pesimo,Frecuente, vip ,Tarjeta Debito,35,4,7,2,6,7.85,442.69,7.8,6.2,167.0,20.3
+15093,UNDER ARMOUR,estados unidos,deportivo,Gama Media,1996,INSATISFECHO,regular, frecuente ,premium,tarjeta debito,64,1,10,1,4,144.17,105.21,17.9,6.3,513.0,15.5
+15094,tory burch,  Estados Unidos,  Premium,gama media-alta,2004,Neutral,MALO, Muy Frecuente ,VIP, transferencia ,41,10,3,0,5,34.94,111.66,33.2,9.0,518.0,5.7
+15095,GUCCI,italia, Lujo , Alta Gama ,1921,INSATISFECHO,Excelente,Frecuente, nuevo , transferencia ,43,5,6,0,3,132.9,146.14,26.2,6.4,636.0,14.6
+15096,kate spade,Estados Unidos,  Premium,gama media,1993,Neutral,excelente,Ocasional,Nuevo,EFECTIVO,42,7,8,1,2,17.88,26.32,16.4,10.2,496.0,3.7
+15097, Gap , Estados Unidos ,  Denim,  Gama Media,1969,Muy Satisfecho, malo ,FRECUENTE,Premium,TRANSFERENCIA,62,3,5,2,3,60.52,77.98,26.5,9.8,513.0,8.8
+15098, Mango , España , Fast Fashion , Gama Media ,1984,INSATISFECHO,Malo,frecuente, nuevo ,tarjeta credito,58,1,5,1,5,228.24,2.06,4.7,7.5,374.0,34.5
+15099,Gap,ESTADOS UNIDOS, Denim ,GAMA MEDIA,1969,neutral,malo,Frecuente,PREMIUM,Tarjeta Credito,46,4,5,0,1,86.19,235.81,16.1,9.0,438.0,2.1
+15100,Levis,Estados Unidos ,Denim,gama media,1853,muy insatisfecho, Excelente ,MUY FRECUENTE, nuevo ,TARJETA CREDITO,32,9,14,0,2,148.23,35.21,31.7,8.7,603.0,7.3
+15101,Louis Vuitton, Francia ,Lujo,Alta Gama ,1854,satisfecho, malo ,frecuente, regular ,tarjeta credito,62,9,3,1,4,156.39,459.1,8.8,7.0,98.0,25.8
+15102,adidas, Alemania ,DEPORTIVO, Gama Media-Alta ,1949,MUY SATISFECHO,MALO, rara vez , Premium ,TRANSFERENCIA,18,9,7,1,2,278.45,107.48,,,437.0,52.3
+15103,Nike,Estados Unidos,deportivo,  Gama Media-Alta,1964,INSATISFECHO,EXCELENTE,RARA VEZ,NUEVO,Efectivo,42,3,13,0,3,58.94,1149.93,38.0,9.5,638.0,9.1
+15104,MANGO,españa, Fast Fashion , Gama Media ,1984, Neutral,EXCELENTE,RARA VEZ,Regular,TARJETA DEBITO,24,5,6,2,5,,819.96,8.4,5.6,828.0,10.6
+15105,burberry, Reino Unido ,  Lujo,Alta Gama,1856,MUY INSATISFECHO,REGULAR,OCASIONAL,premium,TRANSFERENCIA,26,9,4,0,3,489.02,136.68,10.4,7.8,420.0,12.7
+15106, Primark , Irlanda ,fast fashion, Gama Baja ,1969,neutral, pesimo ,OCASIONAL, nuevo ,paypal,41,5,7,1,1,196.54,611.54,38.8,15.0,737.0,40.4
+15107,chanel,Francia ,LUJO,ALTA GAMA,1910,insatisfecho,Bueno,Frecuente,NUEVO, transferencia ,18,7,9,1,3,100.96,650.32,29.4,9.2,838.0,29.3
+15108,Tory Burch,  Estados Unidos,  Premium, Gama Media-Alta ,2004,Neutral,EXCELENTE,RARA VEZ,regular,Tarjeta Credito,61,8,4,1,1,149.43,1723.9,28.0,6.6,423.0,2.8
+15109,ZARA,España,Fast Fashion ,GAMA MEDIA,1975,INSATISFECHO,Bueno,MUY FRECUENTE,VIP, PayPal ,25,4,7,0,2,201.88,,34.1,6.3,388.0,8.6
+15110,DIESEL,Italia ,DENIM,GAMA MEDIA-ALTA,1978,neutral,Regular, rara vez , vip ,transferencia,41,6,9,1,2,142.12,34.21,4.6,7.8,464.0,9.4
+15111,Levis, Estados Unidos , Denim ,  Gama Media,1853,  Muy Satisfecho  , pesimo ,RARA VEZ,regular,efectivo,28,4,5,2,1,2.52,416.33,28.2,9.9,484.0,23.3
+15112,BURBERRY, Reino Unido ,Lujo ,Alta Gama,1856,Insatisfecho,PESIMO,ocasional,Regular,efectivo,68,4,8,1,1,32.49,392.31,20.1,5.1,718.0,13.9
+15113,h&m,Suecia,Fast Fashion ,gama media,1947, insatisfecho ,pesimo,Ocasional,PREMIUM, PayPal ,34,4,12,1,2,249.48,406.83,33.2,5.5,345.0,15.9
+15114,hermes,FRANCIA,LUJO,ALTA GAMA,1837, Muy Satisfecho ,REGULAR,muy frecuente,VIP, Tarjeta Debito ,25,5,4,1,7,47.75,146.77,20.3,6.5,808.0,94.8
+15115,Wrangler,ESTADOS UNIDOS, Denim , Gama Media ,1947, satisfecho ,Malo, ocasional ,premium,PayPal,52,6,10,0,3,197.27,785.53,24.8,6.8,340.0,1.2
+15116,LEVIS, Estados Unidos ,  Denim,  Gama Media,1853,satisfecho, pesimo ,MUY FRECUENTE,nuevo,efectivo,52,4,9,3,3,69.81,1282.31,19.1,4.0,247.0,3.8
+15117, Michael Kors , Estados Unidos ,Premium , Gama Media-Alta ,1981,MUY INSATISFECHO,Pesimo,ocasional,REGULAR,PAYPAL,50,2,11,2,3,110.69,98.21,19.1,10.5,605.0,7.9
+15118,primark,Irlanda ,FAST FASHION,GAMA BAJA,1969, Neutral,regular,RARA VEZ,premium,TARJETA CREDITO,22,4,9,0,4,10.56,36.91,,7.2,746.0,6.4
+15119,forever 21,  Estados Unidos,FAST FASHION,  Gama Media-Baja,1984,MUY INSATISFECHO,MALO,RARA VEZ,REGULAR,tarjeta credito,59,7,10,1,1,29.99,,25.1,6.9,536.0,0.3
+15120,hermes,  Francia,  Lujo, Alta Gama ,1837,neutral,Pesimo,muy frecuente,premium,tarjeta debito,56,6,5,2,4,472.67,687.15,,10.7,587.0,1.4
+15121,puma,Alemania , Deportivo ,Gama Media ,1948,neutral, pesimo ,muy frecuente,NUEVO,PAYPAL,58,7,7,1,2,331.28,451.6,18.0,-5.0,891.0,17.1
+15122, Mango ,España ,FAST FASHION,Gama Media,1984,Muy Satisfecho,malo, ocasional ,nuevo,paypal,45,4,9,1,2,158.45,404.29,21.2,6.4,749.0,31.7
+15123,Under Armour,estados unidos,DEPORTIVO, Gama Media ,1996,Insatisfecho, Excelente ,ocasional,VIP, PayPal ,24,10,6,2,0,92.33,205.53,29.8,7.8,506.0,10.8
+15124,mango, España ,FAST FASHION,Gama Media,1984,Neutral, Excelente ,MUY FRECUENTE, vip ,PAYPAL,26,6,7,0,1,168.94,,33.0,7.4,414.0,11.6
+15125,LOUIS VUITTON,francia,lujo,ALTA GAMA,1854,Muy Satisfecho,pesimo,MUY FRECUENTE,Nuevo,TARJETA DEBITO,25,9,9,2,2,144.59,147.19,27.9,10.4,719.0,
+15126, Michael Kors ,ESTADOS UNIDOS,Premium,GAMA MEDIA-ALTA,1981,MUY INSATISFECHO,BUENO,Rara Vez,premium,EFECTIVO,29,4,7,2,2,126.09,259.42,37.0,,666.0,21.9
+15127,louis vuitton, Francia ,  Lujo,ALTA GAMA,1854,muy satisfecho,malo,RARA VEZ,REGULAR, transferencia ,51,8,10,4,5,9.15,630.14,32.8,4.6,584.0,20.9
+15128,DIESEL, Italia ,denim,Gama Media-Alta,1978, Muy Insatisfecho ,MALO,muy frecuente,nuevo,Tarjeta Debito,50,8,10,0,4,150.28,1590.45,22.5,3.7,435.0,
+15129,levis,Estados Unidos,DENIM, Gama Media ,1853, insatisfecho , bueno ,RARA VEZ, nuevo ,EFECTIVO,65,7,10,1,2,219.75,1078.19,26.9,10.5,485.0,3.6
+15130,Reebok, Reino Unido ,Deportivo,Gama Media ,1958,neutral,malo,FRECUENTE,premium,EFECTIVO,40,4,5,2,2,769.45,1086.43,37.1,5.9,470.0,1.5
+15131, Michael Kors ,ESTADOS UNIDOS,  Premium,Gama Media-Alta,1981, satisfecho ,Excelente  ,OCASIONAL,NUEVO, efectivo ,41,7,10,3,3,1.67,205.82,24.8,8.8,438.0,1.0
+15132,Gucci,  Italia,Lujo ,  Alta Gama,1921, Muy Insatisfecho ,MALO, rara vez ,Nuevo,PayPal,54,4,12,0,5,196.5,253.04,33.0,7.6,380.0,13.5
+15133, Levis ,  Estados Unidos,  Denim,Gama Media ,1853, Neutral,Malo,Frecuente, Premium ,Tarjeta Debito,52,5,3,2,1,127.22,489.17,27.6,6.7,553.0,26.1
+15134,diesel, Italia ,denim, Gama Media-Alta ,1978, satisfecho ,malo,muy frecuente, nuevo , efectivo ,61,7,6,1,2,85.39,1021.4,22.1,7.0,371.0,29.3
+15135,prada,  Italia,lujo, Alta Gama ,1913,SATISFECHO, Excelente ,RARA VEZ,vip,Transferencia,57,2,12,2,3,20.47,61.26,9.7,10.7,535.0,9.3
+15136, H&M ,suecia,fast fashion,Gama Media,1947, Muy Insatisfecho ,REGULAR, Muy Frecuente ,VIP,transferencia,39,9,2,4,0,78.91,145.1,17.0,4.6,50000.0,23.0
+15137,GUCCI, Italia ,  Lujo,alta gama,1921,Neutral,malo,OCASIONAL,VIP, Tarjeta Credito ,44,6,4,1,2,,59.98,38.7,6.7,380.0,44.0
+15138,PUMA,alemania, Deportivo ,Gama Media ,1948,Satisfecho,REGULAR,MUY FRECUENTE,VIP,EFECTIVO,52,6,10,0,5,54.11,378.71,26.3,9.3,720.0,4.8
+15139,puma,Alemania ,DEPORTIVO,GAMA MEDIA,1948, Muy Satisfecho ,Regular,frecuente,NUEVO, Tarjeta Debito ,18,2,5,0,2,196.89,146.29,22.6,4.9,320.0,7.6
+15140,chanel,Francia ,  Lujo,Alta Gama ,1910,muy satisfecho, regular ,muy frecuente,regular,PAYPAL,52,1,7,1,3,180.96,157.87,37.3,10.1,618.0,40.2
+15141,Zara,España,Fast Fashion , Gama Media ,1975,neutral,BUENO, frecuente , vip , Tarjeta Credito ,54,1,8,0,2,133.38,29.42,23.5,9.3,337.0,6.2
+15142,mango, España ,Fast Fashion ,  Gama Media,1984,INSATISFECHO, malo ,RARA VEZ, vip ,Efectivo,64,7,6,0,0,418.71,172.19,21.0,8.0,655.0,36.8
+15143, Burberry ,Reino Unido ,Lujo , Alta Gama ,1856,muy satisfecho,EXCELENTE,RARA VEZ, nuevo ,PAYPAL,31,10,11,0,7,64.58,793.64,30.4,6.5,441.0,59.5
+15144,LEVIS,Estados Unidos ,DENIM,Gama Media,1853,MUY INSATISFECHO,EXCELENTE,frecuente,Nuevo, Tarjeta Debito ,20,5,10,0,5,41.92,106.15,28.5,4.7,433.0,16.3
+15145,TORY BURCH,  Estados Unidos,Premium,gama media-alta,2004, Neutral,EXCELENTE, ocasional ,PREMIUM,Tarjeta Debito,18,3,9,0,0,160.02,475.22,7.7,8.9,511.0,
+15146,Dior,Francia,lujo,ALTA GAMA,1946,Satisfecho,EXCELENTE, ocasional ,vip, Tarjeta Credito ,22,4,11,2,3,33.25,397.3,18.9,13.0,231.0,20.8
+15147,MANGO,España,FAST FASHION,Gama Media ,1984,MUY SATISFECHO,malo,ocasional,PREMIUM,tarjeta credito,43,8,8,0,8,56.75,,18.9,7.8,694.0,18.0
+15148,ADIDAS,  Alemania,deportivo,gama media-alta,1949,neutral, Excelente ,Rara Vez,vip,efectivo,31,8,7,1,4,38.16,56.76,15.1,3.8,761.0,5.5
+15149, Dior , Francia ,LUJO,ALTA GAMA,1946,NEUTRAL, regular ,rara vez,regular,PayPal,56,4,8,2,3,10.75,1519.3,20.7,8.4,428.0,0.9
+15150,MICHAEL KORS,estados unidos,premium, Gama Media-Alta ,1981,insatisfecho,Bueno,OCASIONAL,nuevo, transferencia ,44,3,4,1,2,263.6,349.51,16.5,9.2,605.0,6.3
+15151,Gap, Estados Unidos ,DENIM,  Gama Media,1969,satisfecho,pesimo,muy frecuente,NUEVO,paypal,26,1,10,1,4,44.06,2159.18,8.0,5.7,-100.0,16.5
+15152,Primark,irlanda,Fast Fashion, Gama Baja ,1969,SATISFECHO,excelente,OCASIONAL, Premium , Tarjeta Debito ,32,1,8,0,5,96.09,,16.5,6.2,482.0,1.6
+15153,TORY BURCH,Estados Unidos,  Premium,Gama Media-Alta,2004,Satisfecho,PESIMO,MUY FRECUENTE,PREMIUM,tarjeta debito,32,4,7,1,3,6.64,100.16,2.9,6.0,278.0,0.2
+15154,h&m,SUECIA,Fast Fashion ,Gama Media,1947,muy insatisfecho,pesimo,OCASIONAL,NUEVO,EFECTIVO,43,3,11,1,0,180.27,23.12,23.0,6.4,819.0,2.3
+15155,CHANEL, Francia ,lujo,  Alta Gama,1910, Neutral,pesimo, Muy Frecuente ,nuevo,TRANSFERENCIA,59,7,8,1,2,60.2,118.09,,7.2,421.0,18.9
+15156,Versace,ITALIA,LUJO,Alta Gama ,1978,Muy Insatisfecho,REGULAR,  Frecuente  ,nuevo,EFECTIVO,30,2,7,1,4,204.82,299.94,29.0,5.8,378.0,54.1
+15157,Coach,estados unidos,Premium,gama media-alta,1941,Muy Insatisfecho, Excelente ,ocasional,VIP,TARJETA DEBITO,68,10,12,1,5,79.76,75.3,14.4,5.0,828.0,61.2
+15158, Uniqlo , Japon ,Fast Fashion,  Gama Media,1984,Neutral,malo,Ocasional,vip,tarjeta debito,49,5,11,3,2,32.68,73.31,3.5,7.8,622.0,10.2
+15159,VERSACE,ITALIA,Lujo ,alta gama,1978,satisfecho, regular ,Frecuente,regular, PayPal ,56,5,13,2,3,107.98,248.4,8.1,7.1,551.0,30.5
+15160,DIOR,FRANCIA,LUJO,ALTA GAMA,1946,Neutral,malo,OCASIONAL,VIP,Transferencia,66,5,11,1,1,20.98,13.53,21.8,6.6,306.0,20.0
+15161, Gucci , Italia ,  Lujo,Alta Gama ,1921, insatisfecho ,excelente,ocasional, nuevo ,PAYPAL,69,6,10,2,4,87.12,51.99,8.3,7.7,661.0,10.4
+15162,Primark,IRLANDA,fast fashion,Gama Baja,1969,neutral,regular,Frecuente,VIP, PayPal ,49,6,10,2,5,57.26,215.05,21.8,4.5,1079.0,12.8
+15163, Versace , Italia ,  Lujo,Alta Gama ,1978,NEUTRAL, pesimo , ocasional ,premium,efectivo,21,5,10,2,2,,26.08,9.3,8.0,676.0,2.2
+15164,wrangler,ESTADOS UNIDOS, Denim , Gama Media ,1947, Muy Satisfecho ,regular,ocasional, nuevo , PayPal ,47,1,2,1,4,9.43,202.17,34.0,6.7,599.0,41.6
+15165,LEVIS,Estados Unidos,Denim,Gama Media,1853,INSATISFECHO, regular ,Rara Vez,vip,Tarjeta Credito,54,4,15,0,5,,256.99,15.9,8.0,644.0,6.5
+15166,Gucci, Italia ,Lujo,alta gama,1921,MUY SATISFECHO, Excelente ,Frecuente,Nuevo,TARJETA CREDITO,40,8,10,1,2,30.27,240.06,9.8,8.3,434.0,5000.0
+15167, Versace ,Italia,Lujo ,Alta Gama,1978,Satisfecho,PESIMO,MUY FRECUENTE,premium,PayPal,56,6,5,1,2,57.64,813.56,32.5,9.8,432.0,16.7
+15168,Nike,  Estados Unidos,DEPORTIVO, Gama Media-Alta ,1964, satisfecho ,Pesimo,ocasional,PREMIUM,Transferencia,62,4,9,1,6,80.55,302.06,13.7,7.7,430.0,6.1
+15169,dior,Francia , Lujo ,Alta Gama,1946,Insatisfecho,BUENO,Rara Vez,VIP,PAYPAL,32,5,9,0,0,357.92,252.43,4.5,9.6,385.0,
+15170,CHANEL,Francia, Lujo ,  Alta Gama,1910,muy insatisfecho,Bueno,OCASIONAL, nuevo , Tarjeta Debito ,60,3,8,1,3,41.68,211.53,22.8,6.9,430.0,15.0
+15171, Diesel ,ITALIA, Denim ,gama media-alta,1978, Neutral, malo ,Frecuente,regular,TARJETA DEBITO,46,4,8,4,3,14.36,680.67,23.3,7.0,429.0,-50.0
+15172,Uniqlo,japon,FAST FASHION, Gama Media ,1984,MUY SATISFECHO, bueno ,MUY FRECUENTE,Premium,TRANSFERENCIA,53,4,11,2,4,57.56,901.73,28.6,7.3,451.0,19.1
+15173,ZARA,  España,fast fashion,  Gama Media,1975,Insatisfecho, Excelente ,rara vez,Regular, efectivo ,30,3,7,0,10,16.59,767.59,9.6,9.0,445.0,10.8
+15174,UNDER ARMOUR,Estados Unidos,Deportivo,GAMA MEDIA,1996,Muy Satisfecho, regular , ocasional ,VIP,tarjeta credito,49,6,9,1,5,20.65,447.79,17.8,8.8,549.0,14.0
+15175,Under Armour,  Estados Unidos,DEPORTIVO,Gama Media ,1996,Neutral,pesimo,Muy Frecuente,premium,tarjeta credito,24,6,7,2,4,127.94,59.1,11.3,7.8,516.0,15.0
+15176,DIOR,Francia, Lujo ,  Alta Gama,1946,muy insatisfecho, regular , ocasional ,Premium  ,efectivo,-5,7,3,0,3,9.43,129.67,3.2,5.0,533.0,11.2
+15177,PRADA,Italia,Lujo,ALTA GAMA,1913, Muy Satisfecho , Excelente ,ocasional,PREMIUM, PayPal ,39,4,10,2,1,4.71,18.86,35.1,8.7,804.0,13.1
+15178, Tory Burch ,estados unidos,Premium, Gama Media-Alta ,2004,INSATISFECHO,Regular,frecuente, regular , transferencia ,45,1,7,1,2,187.98,1068.44,29.2,5.8,515.0,17.3
+15179,TORY BURCH,estados unidos, Premium , Gama Media-Alta ,2004, Neutral,PESIMO,FRECUENTE, nuevo , PayPal ,19,4,6,2,4,67.33,432.46,12.1,5.7,942.0,21.0
+15180, Zara ,España, Fast Fashion , Gama Media ,1975,Neutral, bueno ,OCASIONAL, nuevo ,efectivo,59,6,11,2,4,20.09,548.74,,,571.0,19.5
+15181,ADIDAS,Alemania ,Deportivo,gama media-alta,1949,MUY INSATISFECHO,malo, rara vez ,vip,transferencia,100,8,4,0,2,43.88,149.34,8.1,7.3,411.0,30.6
+15182,nike,estados unidos,Deportivo , Gama Media-Alta ,1964,Insatisfecho,pesimo,FRECUENTE,premium,Tarjeta Credito,23,6,4,0,1,154.12,747.42,35.6,9.9,770.0,3.2
+15183,gap,estados unidos,  Denim,Gama Media ,1969, Neutral, pesimo , frecuente ,Regular, Tarjeta Credito ,45,4,5,2,2,48.35,120.23,4.6,5.6,484.0,7.7
+15184, Prada ,italia,  Lujo,alta gama,1913, Muy Satisfecho , pesimo ,Frecuente,VIP,paypal,45,2,8,2,2,102.34,0.66,0.2,10.9,21.0,44.3
+15185, Kate Spade , Estados Unidos ,Premium, Gama Media-Alta ,1993, satisfecho ,pesimo,Frecuente, nuevo ,Tarjeta Debito,61,3,10,0,1,19.46,188.91,20.1,9.3,499.0,7.6
+15186,coach,  Estados Unidos,premium,gama media-alta,1941, insatisfecho ,Excelente,MUY FRECUENTE, nuevo ,Efectivo,61,-10,12,1,3,133.04,338.3,23.3,4.6,450.0,2.0
+15187,Levi's,Estados Unidos,denim,Gama Media ,1853,Muy Satisfecho, pesimo ,ocasional,VIP, efectivo ,37,5,9,2,1,56.99,260.58,23.2,6.7,821.0,11.2
+15188,VERSACE,Italia ,Lujo ,Alta Gama ,1978, Muy Insatisfecho ,Regular, Muy Frecuente ,PREMIUM,PayPal,47,6,3,2,1,147.91,792.42,2.2,5.4,320.0,1.7
+15189, Dior ,francia,LUJO,  Alta Gama,1946,muy insatisfecho,Excelente,muy frecuente,Regular, efectivo ,28,10,8,0,4,247.85,44.55,12.6,8.8,433.0,3.4
+15190,Zara, España ,Fast Fashion,gama media,1975,NEUTRAL,bueno,OCASIONAL, nuevo ,tarjeta credito,45,2,7,1,4,141.88,322.82,20.0,5.5,754.0,95.8
+15191,TORY BURCH,  Estados Unidos,premium,Gama Media-Alta,2004, Muy Insatisfecho ,Regular,Frecuente,VIP,  Tarjeta Credito  ,42,200,10,1,3,52.59,287.78,8.7,4.3,579.0,11.7
+15192,BURBERRY,REINO UNIDO,Lujo,ALTA GAMA,1856, satisfecho ,regular,Rara Vez,NUEVO,tarjeta credito,56,5,7,1,2,44.31,132.18,34.9,6.8,466.0,5.0
+15193,versace,ITALIA,Lujo , Alta Gama ,1978,MUY SATISFECHO,REGULAR,Frecuente,Nuevo,TRANSFERENCIA,50,4,10,1,4,59.5,690.9,,9.8,349.0,78.8
+15194, Wrangler ,estados unidos, Denim ,GAMA MEDIA,1947,INSATISFECHO, regular ,frecuente, regular ,transferencia,18,7,9,0,4,26.98,559.1,19.5,7.1,570.0,51.0
+15195,TORY BURCH,Estados Unidos ,Premium ,Gama Media-Alta ,2004,neutral,Excelente,frecuente, Premium ,TARJETA DEBITO,44,11,4,0,5,29.98,527.99,27.7,,494.0,8.7
+15196, Levis ,Estados Unidos ,Denim ,GAMA MEDIA,1853,insatisfecho,bueno,frecuente,Premium,paypal,69,6,500,0,4,234.59,835.61,10.5,8.4,346.0,4.5
+15197, Mango ,  España,Fast Fashion ,Gama Media,1984, Muy Satisfecho ,Bueno,RARA VEZ,regular,transferencia,30,5,9,-5,1,,,25.0,4.5,357.0,27.3
+15198, Gucci ,  Italia,lujo,ALTA GAMA,1921,Satisfecho,PESIMO,muy frecuente, vip ,efectivo,58,1,11,1,50,85.9,,33.2,5.7,337.0,18.9
+15199,gap,Estados Unidos,Denim ,  Gama Media,1969,muy satisfecho,Malo,rara vez,VIP,TARJETA CREDITO,20,4,11,0,1,135.23,489.08,7.6,7.5,301.0,17.4
+15200, Reebok ,reino unido, Deportivo ,GAMA MEDIA,1958,muy satisfecho,EXCELENTE, ocasional , Premium ,PayPal,56,4,3,1,1,133.61,147.1,36.7,6.4,687.0,33.5

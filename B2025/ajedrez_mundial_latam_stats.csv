@@ -1,0 +1,201 @@
+﻿ID_Jugador,Nombre_Jugador,Pais,Titulo_Oficial,Categoria_Torneo,Nivel_Rendimiento,Edad,Partidas_Jugadas_Anio,Torneos_Participados,Rating_ELO,Horas_Estudio_Semanal,Porcentaje_Victorias
+5001,Jose Eduardo Martinez,VENEZUELA,fm,amateur,bueno ,52,80,8,2504.0,64.8,48.3
+5002,magnus carlsen,Noruega ,SIN TITULO, Elite ,Bajo,42,74,15,,2.0,28.9
+5003,lazaro bruzon,  Cuba,CM,master , Regular,28,70,16,2732.0,3.9,29.5
+5004, Hou Yifan ,  China,CM,Master,regular,56,81,11,2645.0,0.8,32.1
+5005, Julian Betancourt ,Colombia ,I.M.,Abierto,regular,21,63,15,2461.0,15.3,
+5006, oscar castro ,COLOMBIA,G.M.,Master,Excelente,34,73,13,2542.0,3.8,53.7
+5007,bernal gonzalez,Guatemala,SIN TITULO,ELITE,Bajo,52,86,6,2359.0,3.0,65.0
+5008, Wesley So ,estados unidos,im ,elite,Regular,32,83,9,2793.0,1.4,25.1
+5009,Krikor Mekhitarian,  Brasil, GM ,master,Excelente,36,81,12,2613.0,1.6,71.7
+5010,fabiano caruana,ESTADOS UNIDOS,fm,abierto,excelente,24,81,14,2685.0,,62.4
+5011, Hou Yifan ,china, sin titulo ,abierto, bajo ,24,65,13,2636.0,17.5,47.1
+5012,Sandro Mareco,argentina, GM ,AMATEUR,regular,37,73,13,2556.0,7.6,34.2
+5013, Fabiano Caruana,estados unidos,SIN TITULO, Elite ,bueno ,49,77,13,2760.0,9.8,70.7
+5014,DING LIREN,China,gm,AMATEUR, Regular,53,89,10,2766.0,17.4,47.5
+5015, Eduardo Iturrizaga ,Venezuela, FM,abierto,bueno ,37,80,13,2618.0,0.3,51.7
+5016,MARCELO TEMPONE,argentina,sin titulo,Amateur,BUENO,16,91,12,3500.0,5.9,57.8
+5017, Hou Yifan , China ,cm,Abierto,Regular,35,72,19,2632.0,54.2,38.3
+5018, Carlos Matamoros ,Ecuador , FM,amateur ,Bueno,15,89,9,2575.0,13.0,47.8
+5019,carlos garcia,Chile,G.M.,AMATEUR, Excelente ,37,77,12,2548.0,4.4,65.0
+5020,magnus carlsen, Noruega ,Sin Titulo,ELITE,excelente,57,90,4,2795.0,11.1,63.5
+5021,  Magnus Carlsen  , Chile ,F.M.,elite,regular,43,86,17,2492.0,6.3,63.6
+5022,sergio sanabria,  Colombia,GM,amateur,BAJO,51,81,18,2525.0,11.4,34.7
+5023,Deivy Vera,Peru ,cm,ABIERTO,excelente,15,72,14,2605.0,2.0,48.5
+5024,Ian Nepomniachtchi,rusia,cm ,Abierto, Regular,34,92,14,2750.0,2.1,46.1
+5025,VIDIT GUJRATHI,  India, GM ,Elite,Bueno,46,74,12,2708.0,2.3,58.4
+5026,Deivy Vera,  Peru,cm,ELITE,EXCELENTE,25,90,14,2672.0,42.2,57.0
+5027,Wesley So, Estados Unidos , FM,master ,regular,35,77,15,2721.0,19.8,
+5028, Wesley So , Estados Unidos ,C.M.,Elite,REGULAR,57,88,14,2846.0,2.7,89.0
+5029,roberto sanchez, Costa Rica ,IM,Abierto,bajo,38,82,6,2475.0,3.1,47.6
+5030,Aldo Candia,bolivia,cm,elite,bueno,62,74,18,2466.0,19.7,45.9
+5031,Carlos Garcia,chile,im,master,BUENO,40,80,13,-100.0,2.5,34.6
+5032,julian betancourt,  Colombia,Sin Titulo,amateur ,Bueno,55,70,11,2442.0,4.0,28.9
+5033,Diego Flores,  Argentina,FM,AMATEUR, Regular,41,87,12,2558.0,49.6,33.7
+5034,Vidit Gujrathi,India, sin titulo ,Abierto,Regular,29,75,14,2776.0,4.4,41.2
+5035,jorge cori,Peru,sin titulo,master,bueno,28,80,7,2622.0,16.3,71.7
+5036, Marcelo Tempone , Argentina ,cm ,amateur,Regular,60,73,7,2487.0,57.7,52.6
+5037,Mauricio Flores,chile,C.M.,amateur , bajo ,64,94,13,2614.0,7.0,54.9
+5038,jose eduardo martinez,venezuela,cm,ELITE,regular,57,76,7,2548.0,0.3,50.6
+5039,Roberto Sanchez,  Costa Rica,SIN TITULO,amateur ,REGULAR,16,84,15,2485.0,4.2,57.5
+5040,Carlos Matamoros,Ecuador ,FM, Abierto, Excelente ,50,72,9,2525.0,26.7,73.0
+5041,Sergio  Sanabria,Venezuela   ,F.M.,amateur,BAJO,64,82,18,2542.0,30.0,22.1
+5042,FABIANO CARUANA,Estados Unidos,im ,ABIERTO,EXCELENTE,20,79,8,2755.0,21.9,70.3
+5043,HOU YIFAN,China ,G.M.,ABIERTO,Bueno,34,92,10,2614.0,1.8,14.3
+5044,leinier dominguez,cuba,FM, Elite ,bueno ,22,101,14,2767.0,23.8,52.4
+5045,WESLEY SO,Estados Unidos,C.M.,master,Bajo,52,81,13,2772.0,37.6,84.9
+5046,judit polgar, Hungria ,im ,ABIERTO, Regular,31,75,11,2747.0,13.8,150.0
+5047,WESLEY SO,estados unidos,C.M.,amateur,EXCELENTE,17,74,10,2733.0,42.4,57.6
+5048, Lazaro Bruzon , Cuba ,SIN TITULO,amateur ,Bajo,38,77,12,2757.0,26.3,82.0
+5049,jose eduardo martinez,  Venezuela, sin titulo ,abierto,Excelente,27,63,9,2494.0,16.5,41.5
+5050,JORGE CORI,Peru ,CM,Amateur,Regular,63,85,11,2591.0,12.9,58.5
+5051, jorge cori ,Peru ,F.M.,elite, Excelente ,22,73,14,2697.0,6.4,60.7
+5052,HOU YIFAN,China ,GM,AMATEUR,BAJO,39,75,12,2693.0,2.6,44.2
+5053,Lazaro Bruzon,CUBA,cm ,ELITE, Regular,15,69,15,,13.9,45.5
+5054,Parimarjan Negi, India ,F.M.,ABIERTO,Regular,33,81,9,2626.0,5.7,43.8
+5055, Eduardo Iturrizaga ,Venezuela ,im,Abierto,Bajo,41,78,12,2645.0,30.2,53.3
+5056,aldo  candia,  Bolivia,cm ,ABIERTO, Regular,60,83,7,2466.0,75.2,60.2
+5057,Ian Nepomniachtchi,Rusia ,I.M., Elite , Excelente ,20,71,11,2906.0,20.9,53.8
+5058,Julian Betancourt, Colombia , FM,Amateur,bueno ,57,77,13,2367.0,1.4,62.6
+5059,ian nepomniachtchi,Rusia ,FM,Elite, bajo ,21,93,12,2759.0,5.1,22.5
+5060,JORGE CORI, Peru ,F.M.,AMATEUR,Excelente,60,82,11,2626.0,1.7,48.7
+5061,pentala harikrishna,india,FM,amateur,REGULAR,48,85,13,2811.0,15.8,-25.0
+5062,JOSE EDUARDO MARTINEZ,  Venezuela, sin titulo ,elite,bueno ,27,73,13,2426.0,,56.5
+5063,Marcelo Tempone, Argentina ,FM,MASTER,EXCELENTE,30,75,20,2476.0,39.0,56.3
+5064,oscar castro, Colombia ,sin titulo, Abierto,BAJO,49,75,9,2537.0,8.6,50.3
+5065,MAURICIO FLORES,CHILE,GM,amateur ,regular,63,79,10,2662.0,34.7,
+5066,JOSE GONZALEZ,mexico,  GM,AMATEUR,bajo,53,71,18,2555.0,31.5,67.0
+5067,hou yifan,  China,I.M.,elite, Excelente ,17,85,7,2668.0,5.7,51.1
+5068, Fabiano Caruana,ESTADOS UNIDOS,G.M.,MASTER,Bueno,15,86,14,2701.0,30.5,36.2
+5069,JULIO GRANDA,Peru ,im ,Abierto,excelente,19,77,15,2621.0,7.1,28.3
+5070,Lazaro Bruzon, Cuba ,cm,Master,excelente,55,87,14,2657.0,5.3,
+5071,HOU YIFAN,  China,cm ,abierto,regular,17,71,11,2584.0,15.7,55.6
+5072,Parimarjan Negi,india,sin titulo,AMATEUR, bajo ,42,78,6,2698.0,6.0,37.5
+5073,bernal gonzalez,GUATEMALA,im ,amateur , Excelente ,31,78,7,2327.0,,62.9
+5074,JULIO GRANDA, Peru ,cm , Elite , Excelente ,39,66,8,2748.0,14.1,45.1
+5075,Eduardo Iturrizaga,Venezuela,cm ,Elite,bueno ,57,97,16,2718.0,12.4,27.2
+5076,Rafael Leitao,  Brasil,C.M.,master ,Bueno,47,80,10,2601.0,200.0,70.8
+5077,william morrison,PANAMA,GM,master,Bajo,23,78,13,,11.9,69.2
+5078,ANDRES RODRIGUEZ,uruguay,G.M.,abierto,BAJO,49,70,15,2516.0,13.6,21.8
+5079,LAZARO BRUZON,CUBA,fm,Elite, Regular,27,76,15,2725.0,11.8,43.6
+5080,judit polgar,HUNGRIA,im ,amateur,bajo,44,66,7,2799.0,8.8,43.0
+5081,MARCELO TEMPONE,ARGENTINA,CM,ELITE,Bueno,61,89,12,2463.0,0.2,76.6
+5082,lazaro bruzon,Cuba ,im ,master ,bajo,28,79,18,2703.0,13.3,50.5
+5083,CARLOS MATAMOROS,Ecuador,fm, Elite , Excelente ,21,93,9,2489.0,2.8,29.6
+5084, William Morrison ,panama,SIN TITULO,AMATEUR, bajo ,27,80,8,,15.4,65.2
+5085,RAFAEL LEITAO,brasil, FM, Elite ,bajo,36,85,10,2628.0,21.4,33.5
+5086,Hou Yifan,china,cm ,Elite  ,Regular,53,91,9,2604.0,10.4,48.1
+5087,Pentala Harikrishna, India ,sin titulo,amateur ,excelente,34,89,9,2729.0,11.7,40.5
+5088,Sandro  Mareco ,  Argentina,Sin Titulo,abierto, Regular,29,82,12,2581.0,45.4,43.6
+5089,WESLEY SO,estados unidos, FM,Abierto,BUENO,58,89,10,,28.2,66.1
+5090,Fabiano Caruana,  Estados Unidos,cm,amateur,BAJO,31,83,11,2723.0,36.8,74.8
+5091,Levon Aronian,armenia,sin titulo,amateur ,BAJO,-5,84,15,2743.0,25.2,32.9
+5092,JOSE EDUARDO MARTINEZ,Venezuela,F.M.,amateur ,bueno ,37,74,12,2511.0,1.7,61.4
+5093,jose gonzalez, Mexico , FM,master , Regular,39,77,11,2456.0,,41.0
+5094,KRIKOR MEKHITARIAN, Brasil ,C.M.,AMATEUR, Excelente ,38,83,13,2634.0,11.2,41.5
+5095,hikaru nakamura,ESTADOS UNIDOS,FM,Master, Regular,58,84,14,2792.0,4.2,
+5096, jorge cori ,Peru ,fm,Amateur, Regular,54,85,12,2601.0,,36.6
+5097, Pentala Harikrishna , India ,FM,MASTER,excelente,42,73,12,2748.0,7.5,59.1
+5098,Diego Flores, Argentina ,im ,Master,Bajo,28,85,7,2587.0,12.0,63.0
+5099,Vidit Gujrathi,India, GM ,ELITE,Regular,58,97,6,2805.0,20.6,45.5
+5100,Roberto Sanchez,costa rica,I.M.,Abierto,BUENO,14,78,12,2489.0,18.9,71.9
+5101,magnus carlsen, Noruega ,F.M.,amateur, Excelente ,38,81,16,2753.0,11.0,32.9
+5102,Julian Betancourt, Colombia , GM ,ABIERTO,BAJO,20,82,12,2493.0,25.9,72.2
+5103,OSCAR CASTRO,Colombia ,sin titulo,Abierto,EXCELENTE,22,86,8,2613.0,8.5,22.8
+5104,diego flores,  Argentina,im,Elite,BUENO,37,73,13,2608.0,34.1,92.5
+5105, Lazaro Bruzon ,Cuba,I.M.,abierto,Excelente,14,91,13,2663.0,1.1,45.9
+5106,jose eduardo martinez,Venezuela ,I.M.,abierto,excelente,57,-50,13,2671.0,46.4,34.6
+5107,Levon Aronian, Armenia ,cm ,amateur ,REGULAR,21,87,8,2773.0,15.9,48.5
+5108,KRIKOR MEKHITARIAN, Brasil ,FM,Master,bueno ,37,77,10,2679.0,7.2,36.3
+5109,ANDRES RODRIGUEZ,Uruguay,SIN TITULO,AMATEUR,Bueno,24,80,13,2588.0,3.3,57.8
+5110,Vidit Gujrathi,INDIA,Sin Titulo,amateur ,BUENO,64,74,16,,9.8,72.5
+5111,BERNAL GONZALEZ,GUATEMALA, sin titulo , Abierto,  Excelente  ,30,90,13,2371.0,3.2,37.1
+5112,lazaro bruzon, Cuba ,fm,ABIERTO,BUENO,21,79,16,2679.0,2.7,60.7
+5113,sandro mareco, Argentina , GM ,Amateur,BUENO,48,65,10,2589.0,14.4,29.0
+5114,Ian Nepomniachtchi,Rusia ,I.M.,AMATEUR,bueno ,48,83,10,2719.0,11.1,67.5
+5115,WILLIAM MORRISON,  Panama,fm,ABIERTO,REGULAR,46,88,15,2413.0,16.6,58.2
+5116, Roberto Sanchez ,  Costa Rica,im ,MASTER,Bueno,18,86,12,2498.0,39.8,68.1
+5117,leinier dominguez,Cuba , FM,master ,Excelente,55,85,12,2715.0,11.4,50.2
+5118,jose eduardo martinez,Venezuela ,im,Amateur,Regular,52,91,11,2658.0,13.0,45.5
+5119,aldo candia,bolivia,fm,master ,Bueno,54,78,13,2302.0,1.4,64.2
+5120,anish giri, Países Bajos ,GM,amateur,Bueno,41,77,14,2813.0,19.0,32.4
+5121, Manuel Leon ,mexico,sin titulo,elite,Regular,20,69,100,2664.0,7.7,25.9
+5122,Marcelo Tempone,ARGENTINA,IM,ABIERTO,bueno,22,72,16,2440.0,56.4,
+5123,jose gonzalez, Mexico ,FM,amateur , Excelente ,21,91,5,2471.0,26.0,46.2
+5124,DIEGO FLORES, Argentina ,gm,Amateur,Excelente,25,73,12,2632.0,11.1,60.3
+5125, Magnus Carlsen ,Noruega,gm,Amateur,Bueno,47,82,7,2855.0,2.0,68.4
+5126,julio granda, Peru ,sin titulo,Master,Excelente,46,86,9,2550.0,29.4,60.0
+5127,MAGNUS CARLSEN,NORUEGA,fm,amateur , Regular,61,77,14,2788.0,24.1,67.2
+5128,parimarjan negi,  India,IM,elite,bueno ,36,73,13,2639.0,3.1,56.8
+5129,Bernal Gonzalez,  Guatemala,cm ,Master,REGULAR,37,78,13,2332.0,5.2,59.4
+5130, mauricio flores , Chile , GM ,ABIERTO,Excelente,50,77,11,2556.0,23.7,50.3
+5131,Leinier Dominguez,  Cuba,GM, Elite ,bueno,48,87,11,2663.0,3.1,59.0
+5132,hikaru  nakamura ,estados unidos,SIN TITULO,AMATEUR,Regular,57,89,20,2741.0,37.5,
+5133,bernal gonzalez, Guatemala ,fm, Elite ,excelente,53,85,11,2383.0,8.3,56.9
+5134,parimarjan negi,india,cm ,AMATEUR,Bueno,35,77,14,2658.0,1.4,49.5
+5135, Wesley So ,Estados Unidos ,cm ,Elite,bajo,40,65,20,2745.0,25.4,64.1
+5136,BERNARDO ROSELLI,Uruguay ,C.M.,Master, Excelente ,48,78,20,2525.0,7.0,41.3
+5137,HIKARU NAKAMURA,Estados Unidos,F.M.,amateur,EXCELENTE,14,75,12,2779.0,11.2,51.7
+5138,manuel leon, Mexico ,im,Master, bajo ,48,73,12,,1.8,
+5139,manuel leon,Mexico ,gm,ELITE,BAJO,50,64,20,2624.0,0.0,37.8
+5140,Anish Giri,Países Bajos ,FM,amateur , Regular,60,72,13,2798.0,15.2,19.6
+5141,bernardo roselli,  Uruguay,cm ,Abierto, Excelente ,27,77,10,2655.0,10.9,57.5
+5142, Marcelo Tempone ,Argentina, GM ,ABIERTO,BAJO,16,61,11,2467.0,13.5,48.1
+5143,LAZARO BRUZON,Cuba,G.M.,Amateur,bueno ,14,67,13,2810.0,23.7,67.2
+5144,BERNAL GONZALEZ,  Guatemala,CM,ELITE,excelente,18,70,6,2421.0,15.6,50.0
+5145,Krikor Mekhitarian, Brasil ,cm ,ABIERTO,regular,39,77,10,2576.0,2.9,42.9
+5146,HOU YIFAN,china,G.M.,Amateur,BAJO,27,73,14,2631.0,6.7,50.9
+5147,MARCELO TEMPONE, Argentina ,SIN TITULO,ABIERTO,Excelente,52,73,15,2525.0,35.4,68.4
+5148, Julian Betancourt ,colombia,gm,amateur ,excelente,40,78,17,2532.0,22.0,60.6
+5149,DING LIREN,China,IM,elite, bajo ,22,74,14,2830.0,12.2,15.5
+5150,Julio Granda,PERU,IM,ELITE,Bajo,28,78,14,2707.0,4.4,54.8
+5151,Pentala Harikrishna, India ,SIN TITULO,master ,bajo,28,95,13,2666.0,5.4,55.5
+5152,EDUARDO ITURRIZAGA,VENEZUELA,fm,abierto, Excelente ,39,92,10,2543.0,19.7,
+5153,andres rodriguez,uruguay,G.M.,master , bajo ,55,70,14,,28.6,42.8
+5154,DIEGO FLORES, Argentina ,im ,ELITE,BAJO,26,88,7,2574.0,16.7,69.9
+5155,Levon Aronian,ARMENIA, GM ,amateur,EXCELENTE,64,87,15,2777.0,24.9,70.7
+5156,Hou Yifan,CHINA,sin titulo, Elite ,EXCELENTE,45,90,5,2614.0,21.8,19.0
+5157,Deivy  Vera, Peru ,cm, Elite ,REGULAR,52,62,12,2663.0,,40.0
+5158,CARLOS MATAMOROS,ECUADOR, sin titulo ,AMATEUR,Bueno,62,68,14,2443.0,8.3,49.8
+5159,HOU YIFAN, China , sin titulo ,master,EXCELENTE,45,64,13,2581.0,2.5,66.2
+5160, Hou Yifan ,CHINA, sin titulo ,abierto,Bueno,17,81,17,2722.0,4.0,52.5
+5161,Hikaru Nakamura,Estados Unidos,im ,Elite,Regular,43,95,11,2630.0,30.5,41.7
+5162, Jose Eduardo Martinez , Venezuela ,Sin Titulo,elite,REGULAR,50,86,13,2569.0,9.6,62.6
+5163,hou yifan,China,CM,ABIERTO,Bajo,36,77,12,2645.0,11.5,48.8
+5164,WILLIAM MORRISON,  Panama,C.M.,elite,regular,52,71,15,2343.0,2.9,50.2
+5165,Roberto Sanchez,Costa Rica ,C.M.,abierto,BAJO,58,74,11,2410.0,5.6,51.6
+5166,hikaru  nakamura ,Estados Unidos,fm, Abierto,bajo,28,92,11,2718.0,3.9,
+5167,Judit Polgar,HUNGRIA,SIN TITULO, Abierto, Excelente ,56,59,8,2812.0,3.5,47.4
+5168,oscar castro,colombia,cm,amateur, Excelente ,42,79,18,2640.0,15.2,62.3
+5169,HOU YIFAN,  China,fm,Master,BUENO,49,75,6,2616.0,4.5,50.9
+5170,Anish  Giri ,Países Bajos,SIN TITULO,master ,bajo,26,106,12,2774.0,15.0,36.0
+5171,Parimarjan Negi,  India, sin titulo ,amateur,BAJO,45,88,9,2574.0,0.9,51.4
+5172,CARLOS MATAMOROS,Ecuador,gm,master,bueno ,20,79,6,,2.3,36.8
+5173,BERNARDO ROSELLI,Uruguay, sin titulo ,master,bajo,64,88,12,2552.0,4.8,52.6
+5174,Jose Gonzalez,mexico, GM ,master,REGULAR,35,83,10,2465.0,,64.4
+5175,CARLOS GARCIA,chile,I.M.,ELITE,BAJO,41,81,14,2521.0,16.9,35.9
+5176,DING LIREN,China,I.M.,Amateur,Bajo,15,86,4,2795.0,8.8,57.5
+5177, Wesley So ,Estados Unidos ,FM,master ,bajo,55,79,11,2669.0,,39.6
+5178,KRIKOR MEKHITARIAN,brasil,G.M.,amateur , Excelente ,58,74,9,2657.0,19.3,55.0
+5179, Krikor Mekhitarian ,brasil,im,Master,REGULAR,19,85,5,2542.0,0.2,64.9
+5180,BERNARDO ROSELLI,uruguay,im ,master ,bajo,41,79,16,2462.0,6.3,20.1
+5181,julian betancourt, Colombia ,im,AMATEUR,REGULAR,41,87,16,2442.0,25.6,35.3
+5182,oscar castro,  Colombia,sin titulo,Abierto,Regular,57,76,13,2600.0,13.9,46.5
+5183, Pentala Harikrishna ,India,G.M.,AMATEUR, Regular,57,82,12,2700.0,6.2,56.7
+5184, Wesley So ,Estados Unidos ,im,Abierto,Bueno,33,81,12,2652.0,35.4,49.5
+5185,rafael leitao,brasil,GM,Elite, bajo ,43,82,12,2576.0,22.2,51.3
+5186,DEIVY VERA, Peru ,cm,AMATEUR,EXCELENTE,24,85,12,2601.0,4.6,82.6
+5187, Roberto Sanchez ,  Costa Rica,C.M.,abierto,EXCELENTE,41,85,15,2529.0,15.5,33.8
+5188,Judit Polgar,HUNGRIA, sin titulo ,master,EXCELENTE,38,92,11,2672.0,13.6,69.0
+5189,DING LIREN,CHINA,cm ,ELITE,EXCELENTE,52,72,9,2735.0,7.7,46.8
+5190,ANDRES RODRIGUEZ,uruguay,fm,AMATEUR,bajo,46,76,18,2444.0,6.9,60.2
+5191,krikor mekhitarian,Brasil ,gm, Abierto, Excelente ,14,81,10,2498.0,6.3,83.9
+5192, Lazaro Bruzon ,Cuba ,im ,abierto, Regular,40,93,21,2740.0,14.4,62.3
+5193,JUDIT POLGAR,  Hungria,fm,amateur,Bueno,26,75,12,2810.0,,57.6
+5194, Parimarjan Negi ,  India,fm,Abierto,excelente,54,66,13,2649.0,,76.0
+5195, Andres Rodriguez ,Uruguay,C.M.,AMATEUR,REGULAR,16,85,12,2497.0,16.6,68.9
+5196, Roberto Sanchez ,costa rica,G.M.,abierto, Excelente ,52,70,15,2510.0,1.1,40.0
+5197,marcelo tempone,ARGENTINA,im ,MASTER,bajo,19,65,17,2459.0,15.3,56.4
+5198, Fabiano Caruana,Estados Unidos,FM,Amateur, Regular,21,96,8,2834.0,4.7,26.2
+5199,pentala harikrishna,India ,SIN TITULO,amateur ,bajo,40,87,10,,13.5,43.9
+5200,Mauricio Flores,Chile,I.M., Elite ,excelente,22,86,18,2582.0,17.1,56.7

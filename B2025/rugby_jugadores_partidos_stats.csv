@@ -1,0 +1,201 @@
+﻿ID_Jugador,Nombre_Jugador,Equipo,Pais_Origen,Posicion,Edad_Jugador,Nivel_Rendimiento,Estado_Fisico,Nivel_Experiencia,Resultado_Partido,Partidos_Jugados_Temporada,Tries_Anotados,Tackles_Realizados,Pases_Completados,Tarjetas_Amarillas,Tarjetas_Rojas,Conversiones_Exitosas,Peso_KG,Altura_CM,Distancia_Recorrida_KM,Velocidad_Promedio_KMH,Porcentaje_Tackles_Exitosos,Puntos_Totales_Temporada,Salario_Anual_Miles
+13001,Rob Valetini,WALLABIES,AUSTRALIA, Octavo ,25,Bueno, bueno ,Leyenda, empate ,11,6,82,152,0,0,9,90.1,192.0,8.3,30.3,76.4,152.0,
+13002,aaron smith,All Blacks ,Nueva Zelanda ,MEDIO SCRUM,34,BAJO,Bueno,PRINCIPIANTE,empate,24,7,77,136,1,0,10,104.8,186.0,7.3,25.8,72.9,70.0,238.27
+13003,tom curry,  England,  Inglaterra,Ala ,25, bajo ,BUENO,Experto,Victoria,19,8,78,172,4,1,17,116.5,183.0,6.3,31.9,102.7,29.0,42.85
+13004, Owen Farrell ,  England, Inglaterra ,Apertura ,32, regular ,OPTIMO,avanzado,EMPATE,15,13,79,150,2,0,12,98.9,182.0,8.1,17.3,89.9,45.0,
+13005, Guido Petti ,Pumas , Argentina ,Segunda Linea,29,REGULAR,BUENO,AVANZADO,Victoria,12,5,69,143,1,0,8,77.1,183.0,7.9,15.0,95.6,60.0,151.95
+13006, Pablo Matera ,PUMAS,  Argentina,Ala ,30,Bajo,BUENO, intermedio ,EMPATE,11,5,82,141,2,1,10,90.5,187.0,7.1,26.3,90.6,11.0,344.79
+13007,finn russell,Scotland,escocia,  Apertura,31,BAJO, bueno ,AVANZADO,Derrota,23,8,73,155,0,1,11,84.8,183.0,5.9,26.4,85.6,30.0,21.38
+13008, Ardie Savea ,all blacks,Nueva Zelanda,Octavo,29,REGULAR,RECUPERACION,intermedio,empate,15,7,77,152,1,0,6,94.4,179.0,8.0,8.3,85.7,,313.94
+13009,Josh van der Flier,  Ireland,Irlanda ,ala,30,BUENO,Bueno,PRINCIPIANTE, Victoria ,15,3,76,124,1,0,7,113.5,187.0,7.1,21.9,81.0,53.0,333.81
+13010,aaron smith,ALL BLACKS,  Nueva Zelanda,  Medio Scrum,34, bueno ,Optimo,Leyenda,EMPATE,8,7,88,160,0,1,16,56.9,177.0,5.9,20.0,81.8,26.0,131.66
+13011, Faf de Klerk ,springboks,  Sudafrica,medio scrum,32,Bajo,Recuperacion, Principiante ,victoria,12,4,79,151,1,0,14,,188.0,8.1,18.0,70.9,54.0,11.8
+13012,Gregory Alldritt,france,francia,OCTAVO,26, bueno ,Bueno,Leyenda,empate,7,4,81,132,3,0,7,87.7,183.0,11.2,19.9,,6.0,38.37
+13013, Aaron Smith ,all blacks,Nueva Zelanda,  Medio Scrum,34,bajo,Bueno,Leyenda, Victoria ,6,4,68,150,1,0,5,76.1,192.0,7.3,28.0,66.9,26.0,245.81
+13014,EBEN ETZEBETH,Springboks,  Sudafrica,Segunda Linea,32,excelente,Recuperacion,INTERMEDIO,Victoria,16,5,72,144,0,0,12,,195.0,,19.9,74.4,79.0,248.8
+13015, James Slipper ,Wallabies,AUSTRALIA,pilar,34,REGULAR,bueno, avanzado ,empate,10,3,65,160,0,0,7,,195.0,12.2,20.1,105.1,12.0,457.25
+13016,CYRIL BAILLE,france,  Francia,pilar,30, bajo , Optimo , avanzado ,victoria,6,3,82,154,0,1,12,200.0,188.0,6.1,16.9,86.4,10.0,174.78
+13017, Faf de Klerk , Springboks ,Sudafrica ,medio scrum,32,Bajo,Optimo,Intermedio, derrota ,5,2,77,135,2,0,15,107.8,189.0,8.0,31.3,,151.0,26.5
+13018, Quade Cooper ,Wallabies ,Australia,Apertura ,35,Bajo,Bueno, intermedio ,DERROTA,16,7,85,153,4,0,5,117.5,182.0,12.2,27.2,91.4,12.0,25.89
+13019,alun wyn jones,Wales,Gales ,Segunda Linea,38,Bueno,Optimo, Principiante ,empate,16,2,82,148,1,0,7,93.9,192.0,7.8,12.5,69.6,15.0,255.4
+13020,beauden barrett, All Blacks ,Nueva Zelanda,apertura,32, bajo , recuperacion ,Intermedio,VICTORIA,21,7,80,152,1,0,7,76.7,193.0,8.1,20.1,71.1,175.0,40.62
+13021,  Antoine Dupont  , Wales ,GALES,Segunda Linea,38,excelente, bueno ,Avanzado,VICTORIA,14,3,81,159,1,0,10,84.4,169.0,4.7,27.6,80.6,66.0,79.61
+13022,nicolas sanchez,  Pumas,Argentina , Apertura ,35,Bueno,RECUPERACION,INTERMEDIO,Victoria,20,4,68,142,2,0,11,110.1,189.0,6.9,31.4,76.0,60.0,133.58
+13023,Johnny Sexton,Ireland , Irlanda , Apertura ,38,REGULAR,Optimo,intermedio,Empate,19,3,98,167,1,2,12,96.7,199.0,9.1,29.2,,96.0,5.02
+13024,Handre Pollard,springboks,  Sudafrica,  Apertura,29, Excelente ,bueno, leyenda , empate ,19,5,70,143,1,1,11,93.5,181.0,12.9,23.2,89.9,6.0,57.22
+13025,MICHELE LAMARO,  Italy,ITALIA,Ala ,26,BAJO,Recuperacion,Intermedio, derrota ,23,4,86,162,2,0,16,99.7,179.0,7.6,15.3,98.9,61.0,104.81
+13026,BEAUDEN BARRETT,  Ireland,Irlanda, Apertura ,38, Excelente ,optimo,PRINCIPIANTE,VICTORIA,16,4,73,157,0,0,9,94.4,181.0,4.7,29.4,93.1,35.0,65.6
+13027,Richie Mounga, All Blacks ,Nueva Zelanda ,APERTURA,29,BAJO,Bueno,intermedio, derrota ,24,2,87,151,1,0,10,118.2,170.0,5.2,23.5,75.1,88.0,29.32
+13028, Richie Mounga , All Blacks ,  Nueva Zelanda,Apertura,29,Excelente,lesionado, experto , empate ,7,2,83,164,2,0,10,83.8,186.0,7.9,25.3,81.3,35.0,260.4
+13029,taulupe faletau, Wales ,GALES,octavo,33,Bueno, Optimo ,EXPERTO, empate ,9,2,90,163,1,1,12,82.0,185.0,10.4,24.1,78.5,48.0,335.49
+13030,Marika Koroibete,wallabies,Australia,WING,31,bajo,OPTIMO,LEYENDA,derrota,23,5,82,159,1,1,11,74.2,187.0,9.3,18.2,74.8,32.0,59.54
+13031,Alun Wyn Jones,wales, Gales ,  Segunda Linea,38,Bueno, lesionado ,LEYENDA,Victoria,11,3,70,156,1,0,12,-50.0,189.0,8.9,26.8,72.6,33.0,297.82
+13032,julian montoya,  Pumas, Argentina ,HOOKER,29,EXCELENTE,LESIONADO,EXPERTO,victoria,13,12,75,164,1,1,10,78.6,177.0,10.6,26.1,,73.0,97.41
+13033,Cyril Baille,  France,Francia,  Pilar,30, bajo , recuperacion ,LEYENDA,Victoria,11,7,66,150,1,0,5,98.3,188.0,6.6,22.9,85.1,50.0,141.32
+13034,Michele Lamaro,Italy, Italia , Ala ,26,Regular, Optimo , leyenda ,Empate,22,3,67,146,2,0,11,95.3,189.0,8.0,27.4,82.8,50.0,387.59
+13035,bundee aki,Ireland,IRLANDA,Centro,33,REGULAR,LESIONADO,AVANZADO, Victoria ,8,6,78,161,1,0,16,,180.0,7.0,18.1,89.8,30.0,277.22
+13036, Cyril Baille , France ,  Francia,  Pilar,30,Bajo, bueno ,AVANZADO,VICTORIA,18,3,92,135,0,0,13,103.8,189.0,7.5,23.7,90.3,38.0,327.07
+13037,Louis Rees-Zammit,wales, Gales ,wing,22,EXCELENTE,optimo,Intermedio,Derrota,22,7,92,137,1,0,9,117.8,186.0,,25.1,96.2,68.0,29.43
+13038,marika koroibete,wallabies,  Australia,WING,31,REGULAR,recuperacion,EXPERTO, derrota ,13,7,74,146,1,0,11,100.4,179.0,7.3,16.3,77.6,87.0,14.45
+13039,Taulupe Faletau,  Wales,gales,  Octavo,33,Bajo,LESIONADO,PRINCIPIANTE,derrota,6,4,75,150,3,1,16,56.8,188.0,7.9,24.7,89.0,60.0,447.74
+13040,Michael Hooper,Wallabies , Australia ,Ala ,32,REGULAR,Optimo, experto ,Derrota,24,6,83,132,1,0,16,124.8,182.0,7.3,28.7,75.9,129.0,98.15
+13041, Nicolas Sanchez ,All Blacks   ,argentina,  Apertura,35, bajo ,optimo,EXPERTO,EMPATE,19,2,77,157,0,0,12,106.2,192.0,7.7,23.5,83.1,86.0,67.9
+13042,SAM WHITELOCK,All Blacks,  Nueva Zelanda,segunda linea,34,excelente, lesionado ,avanzado,victoria,11,5,82,149,1,1,12,124.3,183.0,8.8,24.8,85.6,41.0,257.98
+13043,OWEN FARRELL,England ,Inglaterra , Apertura ,32,EXCELENTE,Lesionado,Avanzado,Empate,16,11,78,154,2,0,12,111.4,172.0,10.5,27.8,86.5,56.0,362.09
+13044,marcus smith,england,  Inglaterra,Apertura,24, bueno ,lesionado,LEYENDA, Victoria ,12,4,82,143,0,0,12,114.4,188.0,10.6,23.1,86.1,130.0,396.81
+13045,ARDIE SAVEA,All Blacks,NUEVA ZELANDA,Octavo ,29,regular, Optimo ,principiante,Empate,19,7,84,135,0,0,15,98.1,187.0,9.5,23.5,93.0,48.0,75.96
+13046,owen farrell, England ,Inglaterra ,apertura,32, bueno , lesionado , avanzado ,victoria,7,6,80,139,2,1,13,91.1,174.0,50.0,19.1,79.0,87.0,382.4
+13047,RICHIE MUNGA,all blacks,Nueva Zelanda ,  Apertura,29,EXCELENTE,LESIONADO,Leyenda,Victoria,18,8,95,151,0,0,7,100.6,193.0,7.3,24.9,86.8,58.0,8.36
+13048, Tom Curry , England , Inglaterra ,ala,25,bajo,OPTIMO,PRINCIPIANTE, Victoria ,21,3,67,133,0,0,12,84.4,192.0,7.5,23.3,77.4,40.0,10.19
+13049,rob valetini,  Wallabies, Australia ,OCTAVO,25, Excelente ,OPTIMO,avanzado,EMPATE,8,6,81,140,1,0,7,101.5,176.0,6.7,27.5,114.2,14.0,195.38
+13050,JAMES RYAN,Ireland , Irlanda ,segunda linea,27, Excelente ,RECUPERACION,EXPERTO,DERROTA,22,5,79,126,1,2,13,55.6,178.0,8.7,27.8,75.9,28.0,13.04
+13051, James Ryan ,springboks,  Irlanda,Segunda Linea,27,BAJO,Bueno,EXPERTO,derrota,12,8,81,160,1,1,15,95.6,184.0,4.8,29.0,78.0,172.0,78.49
+13052,FAF DE KLERK,Springboks ,Sudafrica ,Medio Scrum,32,bueno,OPTIMO,principiante, empate ,8,3,86,143,2,0,9,115.2,177.0,11.4,22.5,93.8,54.0,223.41
+13053,Tom Curry,ENGLAND,INGLATERRA,ala,25,regular,Bueno,principiante,victoria,6,4,89,155,0,0,9,96.4,191.0,10.4,14.1,80.7,42.0,82.28
+13054,Sergio Parisse, Italy ,ITALIA,OCTAVO,40,Excelente,Recuperacion, avanzado ,victoria,10,2,93,137,1,0,7,120.9,186.0,9.0,28.7,93.8,135.0,39.59
+13055, James Slipper ,Wallabies ,australia,Pilar ,34,excelente,RECUPERACION,avanzado, empate ,14,4,101,138,0,0,11,91.0,174.0,7.9,27.2,86.5,44.0,66.08
+13056,Marika Koroibete,  Wallabies,Australia,  Wing,31,REGULAR,Lesionado,PRINCIPIANTE,derrota,8,5,77,157,3,1,9,110.0,177.0,10.5,21.8,81.0,37.0,122.34
+13057,Cheslin Kolbe,Springboks ,SUDAFRICA,Wing ,30,excelente,recuperacion,PRINCIPIANTE,Derrota,22,7,79,153,1,1,8,81.8,197.0,,27.8,,71.0,129.02
+13058,julian montoya, Pumas , Argentina ,HOOKER,29,regular,LESIONADO, leyenda ,Victoria,16,5,70,173,0,1,9,109.4,200.0,10.2,17.8,77.1,62.0,305.57
+13059,CHESLIN KOLBE,Springboks ,sudafrica, Wing ,30, regular ,lesionado, leyenda ,DERROTA,6,1,81,139,1,0,8,98.5,190.0,7.9,30.2,81.1,11.0,277.38
+13060,bundee aki, Ireland , Irlanda ,Centro,33, regular , Optimo ,Leyenda,Derrota,14,7,96,149,2,0,9,91.7,183.0,11.6,23.3,83.3,32.0,122.06
+13061,PAOLO GARBISI,italy,Italia , Apertura ,23,bajo, Optimo ,Experto,derrota,8,3,82,148,1,0,13,56.4,181.0,-5.0,20.9,76.7,,373.73
+13062,Rob Valetini,  Wallabies,Australia ,  Octavo,25,Bueno,BUENO,EXPERTO, Victoria ,18,4,86,158,0,0,14,91.2,190.0,9.0,21.9,83.9,24.0,24.26
+13063,michael hooper, Wallabies ,  Australia,ALA,32, bueno ,lesionado,LEYENDA, derrota ,20,1,81,170,2,0,13,98.2,186.0,10.5,23.8,74.1,36.0,58.97
+13064,PABLO MATERA, Pumas , Argentina ,  Ala,30,bajo,LESIONADO,leyenda,VICTORIA,19,6,91,139,2,0,14,107.4,169.0,,24.9,92.6,,352.02
+13065,LOUIS REES-ZAMMIT,WALES,GALES, Wing ,22,bueno, bueno ,principiante,Empate,12,12,71,146,1,0,14,118.4,195.0,5.7,25.2,94.5,11.0,94.96
+13066,santiago carreras,pumas,  Nueva Zelanda,FULLBACK,25,bueno,lesionado,EXPERTO,EMPATE,18,5,88,149,2,0,10,125.5,198.0,8.6,22.9,78.0,27.0,794.58
+13067, Owen Farrell ,  England, Inglaterra ,Apertura ,32,bueno,RECUPERACION,LEYENDA,Victoria,12,6,95,142,0,0,13,113.7,192.0,7.9,26.0,77.4,4.0,125.57
+13068,AARON SMITH,ALL BLACKS,NUEVA ZELANDA,Medio Scrum ,34,EXCELENTE,LESIONADO,INTERMEDIO,derrota,20,3,65,116,1,0,10,86.6,174.0,7.6,25.0,86.8,43.0,313.98
+13069,Ellis Genge,England ,inglaterra, Pilar ,28,Bajo,Lesionado,AVANZADO,empate,17,7,77,142,1,0,11,90.4,179.0,10.4,21.8,97.7,96.0,102.94
+13070,TOM CURRY, England , Inglaterra , Ala ,25, bueno ,lesionado, leyenda , Victoria ,22,8,67,147,3,1,11,106.1,166.0,8.3,21.0,99.9,65.0,
+13071,Faf de Klerk,  Springboks,INGLATERRA,Medio Scrum,32, bajo , Optimo , experto ,derrota,19,2,84,141,1,1,10,102.8,201.0,8.5,28.0,71.0,22.0,96.54
+13072,sergio parissee,italy,ITALIA,Octavo ,40,Bueno,RECUPERACION,Leyenda,EMPATE,17,5,82,165,0,2,7,119.4,181.0,7.3,27.6,95.1,5.0,253.93
+13073,STUART HOGG,SCOTLAND,ESCOCIA,Fullback,31, bueno ,lesionado,Intermedio,VICTORIA,13,4,84,154,1,0,12,,208.0,9.8,25.3,84.4,11.0,158.6
+13074,Ellis Genge, England ,INGLATERRA, Pilar ,28,BAJO,RECUPERACION,principiante,DERROTA,19,1,76,144,2,0,9,129.0,205.0,9.4,29.6,84.6,39.0,575.69
+13075,James Slipper,Wallabies,AUSTRALIA,  Pilar,34,Regular,Recuperacion,EXPERTO,DERROTA,17,6,88,160,1,0,5,117.4,176.0,9.7,15.2,90.0,12.0,57.77
+13076,bundee aki,  Ireland,Irlanda ,CENTRO,33,BAJO, recuperacion , Principiante ,victoria,5,4,73,140,0,0,12,102.9,178.0,7.0,22.2,150.0,39.0,21.2
+13077,HAMISH WATSON,SCOTLAND,  Escocia,Ala ,32,Regular,Bueno,AVANZADO,Derrota,11,4,86,152,3,0,13,115.2,190.0,10.6,19.2,96.0,13.0,99.93
+13078,ANTOINE DUPONT,france,FRANCIA,MEDIO SCRUM,27,Excelente, lesionado ,PRINCIPIANTE,empate,13,5,85,167,2,0,13,119.9,167.0,11.7,36.3,99.2,94.0,191.79
+13079,maro itoje,ENGLAND,Inglaterra ,Segunda Linea,29,BAJO,OPTIMO,Leyenda,victoria,5,4,87,163,1,0,16,92.8,181.0,9.7,28.6,99.6,25.0,394.37
+13080,MARO ITOJE,ENGLAND,Inglaterra,Segunda Linea,29,regular,OPTIMO,intermedio,Derrota,16,7,78,154,1,0,10,87.0,180.0,,24.6,,14.0,84.99
+13081,michael hooper,WALLABIES,Australia ,ala,32,bueno,OPTIMO,principiante,Derrota,12,6,73,158,2,0,12,83.5,204.0,,28.9,82.7,84.0,212.14
+13082,MARO ITOJE,England ,inglaterra,  Segunda Linea,29,EXCELENTE,OPTIMO, intermedio ,Derrota,15,3,79,144,2,1,7,81.9,187.0,7.2,30.6,65.6,21.0,86.22
+13083, Quade Cooper ,Wallabies,Australia,Apertura ,35,BAJO,lesionado,EXPERTO,Derrota,23,4,70,137,1,0,13,74.3,182.0,6.9,30.5,77.3,6.0,192.06
+13084,FINN RUSSELL,scotland,escocia,Apertura ,31, regular , Optimo ,EXPERTO,Derrota,21,3,72,158,2,0,9,98.7,179.0,7.9,29.6,61.0,,432.23
+13085,Bundee Aki,ireland,  Irlanda,Centro,33,regular, recuperacion ,Leyenda,Victoria,12,4,84,130,1,1,7,80.0,194.0,9.3,23.7,89.5,44.0,52.63
+13086,Faf de Klerk,springboks, Sudafrica ,Apertura  ,32,bajo,Bueno,Leyenda,EMPATE,7,1,83,139,0,2,15,83.2,180.0,8.6,22.5,87.2,63.0,103.58
+13087, Paolo Garbisi , Italy , Italia ,APERTURA,23,Regular,optimo, leyenda , empate ,7,10,69,151,1,1,13,105.5,184.0,8.4,20.2,80.7,14.0,1000.09
+13088,GREGORY ALLDRITT,  France,Francia ,Octavo ,26,BAJO,RECUPERACION,intermedio,Victoria,5,5,82,152,0,0,10,97.7,179.0,7.5,27.5,,29.0,405.84
+13089,Richie Mounga,all blacks,nueva zelanda,Apertura,29,regular, Optimo , avanzado ,DERROTA,9,7,78,139,0,1,14,101.4,170.0,7.9,24.2,88.1,17.0,166.32
+13090,Sam Whitelock,  All Blacks,  Nueva Zelanda,segunda linea,34,BUENO,lesionado, avanzado ,EMPATE,14,3,86,147,0,0,10,115.5,175.0,9.6,22.9,74.9,4.0,145.39
+13091,RICHIE MUNGA,all blacks, Nueva Zelanda , Apertura ,29,Bajo, recuperacion ,avanzado,empate,11,0,76,156,0,0,10,108.0,180.0,4.0,22.6,-20.0,105.0,66.98
+13092,rob valetini,Wallabies,  Australia,Octavo ,25, bajo ,lesionado,Experto,Empate,13,4,83,131,1,0,12,117.8,182.0,8.0,32.3,73.0,65.0,145.63
+13093,DAN BIGGAR, Wales ,  Gales,  Apertura,34, Excelente ,optimo,experto, derrota ,11,9,94,149,3,0,10,96.2,183.0,8.6,29.8,83.0,18.0,377.01
+13094,josh van der flier, Ireland , Irlanda , Ala ,30, bueno ,recuperacion,AVANZADO,Victoria,13,9,73,142,2,0,10,119.2,184.0,9.6,34.2,79.2,46.0,231.15
+13095, Sam Whitelock ,ALL BLACKS, Nueva Zelanda ,SEGUNDA LINEA,34,Bajo,recuperacion, leyenda ,empate,12,9,82,132,2,0,8,100.4,180.0,6.0,27.6,81.2,11.0,68.51
+13096, Bundee Aki ,Ireland ,Irlanda,medio scrum,33, regular , recuperacion ,principiante,victoria,16,3,76,150,2,0,8,97.5,198.0,5.9,25.3,90.2,110.0,45.0
+13097,Paolo Garbisi, Italy ,Italia,Apertura ,23,regular, Optimo ,AVANZADO,empate,6,5,83,166,1,1,6,116.9,194.0,9.2,24.9,94.6,6.0,61.63
+13098,Charles Ollivon, France ,FRANCIA, Ala ,30,regular,BUENO,PRINCIPIANTE, Victoria ,5,9,90,160,1,0,11,81.9,184.0,4.2,19.9,99.5,0.0,37.21
+13099,Michele Lamaro,Italy,italia,  Ala,26,Excelente,Bueno,AVANZADO, derrota ,20,5,63,156,0,1,7,125.4,188.0,10.7,18.7,85.6,35.0,20.11
+13100,taulupe faletau,wales, Gales , Octavo ,33,Bajo, lesionado , Principiante ,DERROTA,9,7,74,152,0,0,6,90.8,181.0,8.5,27.5,88.5,44.0,108.65
+13101,beauden  barrett, All Blacks ,  Nueva Zelanda,Apertura,32,Regular, bueno ,leyenda,DERROTA,7,8,85,152,0,0,8,76.7,157.0,11.1,20.3,86.9,43.0,24.05
+13102,Julian Montoya, Pumas ,argentina, Hooker ,29,Excelente, Optimo ,Experto,victoria,16,4,79,131,1,1,12,104.8,185.0,5.8,26.1,68.3,3.0,37.73
+13103,PABLO MATERA,Pumas ,ARGENTINA,ALA,30,excelente, recuperacion ,avanzado,derrota,12,6,60,142,0,0,12,89.3,188.0,7.1,30.6,81.3,19.0,158.52
+13104,cyril baille,  France,  Francia, Pilar ,30, bajo , recuperacion ,Avanzado, derrota ,7,4,79,162,5,0,13,125.4,169.0,3.2,21.7,81.3,,35.97
+13105, Tom Curry ,England,Inglaterra ,ALA,25,regular, Optimo , leyenda ,empate,5,4,82,148,1,0,8,88.5,190.0,6.4,35.1,,12.0,13.2
+13106,rob valetini,Wallabies ,AUSTRALIA,OCTAVO,25, bueno ,Recuperacion,Intermedio,VICTORIA,7,4,87,131,0,0,11,99.7,182.0,7.6,20.0,84.6,500.0,76.37
+13107,Siya Kolisi, Springboks , Sudafrica ,  Ala,32, regular , bueno ,AVANZADO,Victoria,9,5,78,138,1,0,10,73.6,188.0,4.1,30.0,82.8,5.0,49.77
+13108,TADHG FURLONG, Ireland ,Irlanda ,Pilar,31, bueno ,lesionado,PRINCIPIANTE,empate,19,6,89,131,0,0,13,107.2,182.0,7.2,27.1,,33.0,144.85
+13109,ANTOINE DUPONT,France,Francia ,medio scrum,27,BUENO,Optimo,LEYENDA,Derrota,18,4,79,160,1,0,9,83.3,198.0,4.0,31.0,83.5,59.0,
+13110,Sergio Parisse,ITALY,ITALIA,OCTAVO,40,Regular,Recuperacion,Intermedio,empate,7,2,87,143,2,0,7,105.4,187.0,7.5,19.4,78.6,15.0,278.68
+13111,STUART HOGG,SCOTLAND, Escocia , Fullback ,31,  Excelente  ,Optimo, avanzado ,DERROTA,5,4,85,138,0,0,14,88.6,195.0,10.3,36.5,58.8,49.0,473.39
+13112,maro itoje, England ,  Inglaterra,  Segunda Linea,29, Excelente ,bueno,avanzado,VICTORIA,9,7,73,151,2,1,12,64.3,196.0,7.9,24.1,71.0,88.0,272.07
+13113,gregory alldritt, France ,Francia , Octavo ,26,excelente,Recuperacion,Experto,DERROTA,18,6,91,152,1,0,10,97.0,174.0,11.3,28.4,85.9,11.0,152.21
+13114,Eben Etzebeth,Springboks ,SUDAFRICA,SEGUNDA LINEA,32,regular,recuperacion,Intermedio, empate ,11,7,80,154,1,1,7,96.3,178.0,9.6,32.2,95.9,125.0,394.18
+13115,HAMISH WATSON,  Scotland,ESCOCIA,  Ala,32,BAJO,RECUPERACION, leyenda , derrota ,13,4,62,168,2,0,8,108.2,190.0,10.7,22.0,60.7,40.0,237.44
+13116, Stuart Hogg ,  Scotland,  Escocia, Fullback ,31,bueno, recuperacion ,PRINCIPIANTE, empate ,19,10,72,150,1,0,10,118.3,181.0,6.5,29.1,76.3,18.0,2.12
+13117,marcus smith,England , Inglaterra ,Apertura ,24, regular ,Optimo,avanzado,DERROTA,19,6,77,159,0,0,9,123.7,183.0,6.4,21.1,89.3,28.0,100.2
+13118,rob valetini,Wallabies ,AUSTRALIA,Octavo,25,Bueno,bueno,leyenda,VICTORIA,14,9,73,143,0,1,11,108.0,198.0,8.7,32.0,93.8,19.0,380.7
+13119,marika koroibete,wallabies,AUSTRALIA, Wing ,31,EXCELENTE,Bueno,Experto,VICTORIA,17,4,90,133,0,0,8,99.2,182.0,4.8,21.2,80.8,65.0,
+13120,handre pollard, Springboks ,SUDAFRICA,Apertura,29,regular,Lesionado,AVANZADO,victoria,23,8,98,149,0,0,7,73.6,175.0,8.9,25.2,78.2,80.0,7.17
+13121, Santiago Carreras ,pumas,argentina,FULLBACK,25,REGULAR,OPTIMO,Intermedio, derrota ,11,8,70,158,2,0,14,98.0,177.0,7.4,26.5,97.2,-50.0,274.23
+13122,Cyril Baille,FRANCE,Francia,PILAR,30,bajo,Bueno,Leyenda, empate ,21,7,82,156,0,1,11,98.2,207.0,10.7,28.9,,213.0,323.94
+13123,dan biggar, Wales ,  Gales,APERTURA,34,bueno,Optimo,PRINCIPIANTE,Victoria,24,4,77,157,0,0,9,92.0,183.0,9.4,34.8,93.6,78.0,35.01
+13124,CHARLES OLLIVON, France ,francia,Ala,30,BUENO,OPTIMO,experto,Empate,8,7,77,139,0,0,3,104.5,171.0,10.2,22.7,80.3,46.0,
+13125, Beauden Barrett ,All Blacks,NUEVA ZELANDA, Apertura ,32,Bueno,BUENO,Leyenda, Victoria ,9,4,83,142,1,0,16,111.8,167.0,6.5,30.7,96.1,21.0,42.63
+13126,ellis genge, England ,Inglaterra,Pilar ,28, regular ,Lesionado, avanzado ,Victoria,11,5,81,132,0,0,9,82.7,179.0,10.1,34.9,65.5,39.0,254.05
+13127,BEAUDEN BARRETT,ALL BLACKS,  Nueva Zelanda,Apertura,32,Regular,lesionado,Principiante, Victoria ,17,7,69,155,2,0,5,82.5,183.0,10.9,25.8,96.3,2.0,63.37
+13128,hamish watson,  Scotland,Escocia ,  Ala,32,bueno,LESIONADO, avanzado ,Victoria,19,2,89,141,2,0,9,92.9,194.0,7.9,22.2,84.3,,76.02
+13129,Stuart Hogg,  Scotland,  Escocia,Fullback ,31,Regular,RECUPERACION,avanzado,empate,15,9,82,167,1,0,10,85.8,194.0,6.5,16.3,86.3,30.0,372.83
+13130, Louis Rees-Zammit , Wales ,gales, Wing ,22, bajo ,bueno,intermedio,Empate,8,6,82,140,0,0,12,70.4,185.0,6.6,34.4,75.5,1.0,129.38
+13131,Marcus Smith,  England,inglaterra, Apertura ,24,regular,Optimo  ,INTERMEDIO,Derrota,17,6,75,130,0,0,12,,180.0,10.5,23.8,66.9,3.0,221.58
+13132, Sam Whitelock ,all blacks,nueva zelanda,Segunda Linea,34,REGULAR,recuperacion,AVANZADO,EMPATE,11,2,69,147,0,0,9,76.5,188.0,13.4,20.0,86.1,25.0,102.96
+13133,stuart hogg, Scotland ,  Escocia,fullback,31, Excelente ,RECUPERACION, experto ,Derrota,23,0,90,159,1,1,7,113.1,168.0,6.0,18.2,90.5,44.0,70.77
+13134,sergio parissee,italy, Italia ,Octavo ,40,BAJO,OPTIMO,INTERMEDIO, empate ,6,1,84,154,2,0,9,120.5,205.0,5.9,20.0,92.0,31.0,196.42
+13135, Ardie Savea ,All Blacks ,NUEVA ZELANDA,OCTAVO,29,EXCELENTE,optimo, intermedio ,Empate,14,7,79,153,0,0,14,78.6,192.0,9.8,29.6,90.9,48.0,33.65
+13136,ROMAIN NTAMACK,France ,  Francia,Apertura ,24,Bueno,Bueno,Intermedio,Victoria,17,10,72,162,3,0,13,103.2,194.0,6.5,30.3,88.7,,5000.0
+13137,ARDIE SAVEA,All Blacks,Nueva Zelanda , Octavo ,29, bueno ,bueno,Intermedio,DERROTA,10,5,88,141,1,0,9,108.1,174.0,10.0,28.3,75.8,54.0,46.9
+13138,santiago carreras, Pumas ,Argentina ,  Fullback,25,Bajo,optimo,PRINCIPIANTE, Victoria ,16,3,82,159,0,0,9,72.6,198.0,8.9,25.7,92.7,12.0,238.01
+13139,santiago carreras,Pumas ,Argentina , Fullback ,25, regular ,OPTIMO,avanzado,Empate,16,4,92,143,2,0,7,97.4,180.0,8.0,18.8,74.6,6.0,577.23
+13140,Siya Kolisi,Springboks ,SUDAFRICA,Ala,32,EXCELENTE,Recuperacion, Principiante ,empate,24,8,91,157,2,0,12,133.0,175.0,8.9,21.4,96.1,45.0,1081.22
+13141,romain ntamack,  France,Francia,apertura,24,Bajo,LESIONADO,Leyenda,Victoria,15,8,76,128,0,1,10,105.2,185.0,8.8,19.5,84.2,33.0,119.67
+13142, Cyril Baille ,France,francia,PILAR,30,Excelente,lesionado,leyenda,DERROTA,11,4,82,144,1,0,6,91.3,184.0,7.6,27.9,84.5,1.0,58.21
+13143,MARO ITOJE,England,INGLATERRA,Segunda Linea ,29,Regular, lesionado ,Leyenda,empate,5,3,72,139,2,0,9,86.6,174.0,4.5,19.7,93.7,24.0,116.98
+13144,STUART HOGG,  Scotland,escocia,fullback,31, Excelente ,LESIONADO,principiante,Empate,5,1,87,127,2,0,10,64.7,176.0,,21.4,95.0,6.0,375.82
+13145,Tadhg Furlong, Ireland ,IRLANDA,PILAR,31,BAJO,lesionado,AVANZADO,victoria,24,1,74,147,2,0,12,102.1,175.0,11.1,24.1,92.7,38.0,46.14
+13146,FAF DE KLERK,springboks,sudafrica, Medio Scrum ,32, regular ,Recuperacion, leyenda ,empate,17,4,70,169,1,1,10,124.2,175.0,4.8,16.7,76.8,25.0,607.71
+13147,CYRIL BAILLE, France ,FRANCIA,  Pilar,30,Regular,BUENO,Intermedio,EMPATE,13,3,88,162,1,0,10,82.8,181.0,6.1,25.2,92.6,47.0,
+13148, Julian Montoya ,pumas,Argentina, Hooker ,29,Bajo, Optimo , leyenda ,EMPATE,7,7,70,168,0,0,11,66.0,171.0,8.9,24.5,76.9,82.0,850.95
+13149,FAF DE KLERK,Springboks,  Sudafrica,Medio Scrum,32, regular , recuperacion ,Experto, derrota ,11,2,83,166,3,0,13,85.0,178.0,8.1,30.9,92.9,18.0,364.78
+13150,Ellis Genge,ENGLAND,Inglaterra ,Pilar,28, Excelente ,lesionado,Intermedio, empate ,10,10,72,136,0,0,6,108.2,195.0,8.8,20.9,70.7,164.0,330.65
+13151,Paolo Garbisi, Italy ,italia,  Apertura,23, bueno , Optimo ,intermedio,EMPATE,12,5,72,146,0,0,10,88.6,193.0,,18.5,84.1,38.0,-100.0
+13152,JAMES SLIPPER,WALLABIES,AUSTRALIA,Pilar ,34, bajo ,recuperacion,intermedio,empate,13,5,84,146,1,0,9,82.7,175.0,10.3,23.1,76.8,48.0,
+13153,tadhg furlong,ireland,Irlanda,pilar,31,Excelente, lesionado , leyenda ,VICTORIA,9,5,86,147,0,0,13,,195.0,8.1,19.5,93.7,57.0,96.3
+13154,CHARLES OLLIVON, France ,Francia,  Ala,30,REGULAR,recuperacion,intermedio, empate ,5,6,77,149,0,0,9,98.4,165.0,9.4,25.2,96.2,55.0,71.85
+13155,Siya Kolisi,SPRINGBOKS,Sudafrica ,ala,32, bueno ,optimo,EXPERTO, derrota ,23,6,76,147,2,0,10,,209.0,8.6,15.7,87.0,36.0,7.62
+13156,Owen Farrell,ENGLAND,INGLATERRA,APERTURA,32,EXCELENTE, bueno ,  Leyenda  , empate ,14,5,79,185,1,0,9,91.7,198.0,8.4,22.0,86.7,28.0,140.79
+13157, Johnny Sexton , Ireland ,  Irlanda,Apertura ,38,BAJO,Lesionado,experto,empate,16,1,77,163,1,0,5,87.5,179.0,9.3,20.4,92.0,3.0,103.18
+13158,QUADE COOPER,WALLABIES,australia,Apertura,35,regular,optimo, avanzado ,Derrota,19,4,73,154,1,0,13,85.4,189.0,8.4,27.8,96.2,1.0,201.33
+13159,OWEN FARRELL, England ,  Inglaterra,Apertura ,32,bajo,Optimo, intermedio ,Empate,13,8,78,155,2,0,13,79.7,171.0,5.6,20.9,85.4,22.0,194.14
+13160, Faf de Klerk ,SPRINGBOKS, Sudafrica , Medio Scrum ,32, Excelente ,BUENO,EXPERTO,victoria,24,6,82,155,2,0,11,109.1,186.0,10.2,16.3,80.0,20.0,25.74
+13161,Ardie Savea,All Blacks,Nueva Zelanda,Octavo,29,Bueno,recuperacion,experto, derrota ,21,4,71,139,1,1,9,85.3,183.0,9.6,24.0,91.5,,754.15
+13162, Rob Valetini , Wallabies ,Australia,octavo,25,excelente,BUENO,avanzado,EMPATE,21,5,75,127,1,0,4,65.1,177.0,3.8,26.6,66.4,7.0,41.39
+13163,owen farrell,England,Inglaterra ,Apertura,32,excelente,Bueno,EXPERTO,victoria,24,3,83,121,1,0,15,99.0,180.0,6.7,23.6,94.1,67.0,117.86
+13164,FINN RUSSELL,  Scotland,ESCOCIA, Apertura ,31,regular,Recuperacion, intermedio ,EMPATE,16,4,63,142,3,0,8,105.9,179.0,10.1,21.9,77.9,97.0,133.93
+13165,Taulupe Faletau,Wales , Gales ,Octavo,33, bajo ,recuperacion,leyenda,derrota,11,4,77,128,1,0,10,83.1,174.0,4.3,21.6,82.6,140.0,335.4
+13166, Ardie Savea ,All Blacks, Nueva Zelanda ,  Octavo,-5, Excelente ,RECUPERACION, intermedio ,VICTORIA,6,3,84,159,1,0,16,86.6,176.0,9.9,25.6,94.2,34.0,20.9
+13167,Owen Farrell,ENGLAND, Inglaterra ,apertura,32, Excelente , Optimo ,avanzado,Derrota,7,6,73,166,0,1,9,85.3,171.0,7.7,20.6,80.8,60.0,111.95
+13168,pablo matera,pumas,ARGENTINA, Ala ,30, bueno ,Optimo, experto ,Empate,21,6,68,154,2,0,12,89.8,194.0,,23.4,91.5,97.0,198.04
+13169,FAF DE KLERK,  Springboks,sudafrica,  Medio Scrum,32,Bueno, lesionado ,INTERMEDIO,empate,9,7,73,164,1,0,6,111.6,176.0,8.0,28.8,96.4,27.0,48.45
+13170, Siya Kolisi ,Springboks,Sudafrica,ALA,32,Bajo,lesionado, avanzado ,victoria,21,4,89,147,1,0,9,93.3,173.0,6.6,18.5,86.1,19.0,197.49
+13171,Sergio Parisse,  Italy,ITALIA,Octavo ,60,BAJO,bueno,LEYENDA,victoria,21,0,91,161,0,0,11,107.6,193.0,,24.8,88.1,138.0,514.52
+13172,MICHAEL HOOPER,Wallabies, Australia ,  Ala,32, regular ,Bueno,EXPERTO,empate,21,4,102,156,3,0,10,80.5,189.0,7.9,16.1,83.8,36.0,1199.75
+13173,ROMAIN NTAMACK,France,Francia,APERTURA,24,bajo,Lesionado,EXPERTO,DERROTA,6,6,66,139,0,0,10,89.2,193.0,6.4,26.1,86.2,34.0,6.6
+13174,Dan Biggar,wales,Gales, Apertura ,34,Bueno, bueno ,avanzado,Empate,6,8,64,159,1,1,14,109.3,194.0,12.4,20.1,73.8,10.0,53.73
+13175,ALUN WYN JONES,wales, Gales , Segunda Linea ,38,bajo, recuperacion ,Experto,Empate,9,6,97,149,4,0,14,82.9,204.0,6.1,30.1,82.1,6.0,74.3
+13176,EBEN ETZEBETH,Springboks, Sudafrica , Segunda Linea ,32, Excelente ,OPTIMO,Leyenda,Victoria  ,5,4,-50,144,1,0,20,110.2,183.0,3.5,17.6,72.1,92.0,101.87
+13177, Richie Mounga ,All Blacks ,Nueva Zelanda,apertura,29, bajo ,Lesionado,Leyenda,derrota,5,2,80,148,1,0,10,85.6,170.0,11.2,27.2,76.0,48.0,55.48
+13178,TADHG FURLONG,ireland,Irlanda , Pilar ,31,bajo,optimo,experto, derrota ,23,3,79,155,2,0,13,90.2,188.0,6.8,31.1,65.0,20.0,45.5
+13179, Tadhg Furlong ,ireland,  Irlanda,Pilar ,31,Regular,lesionado,intermedio,EMPATE,6,4,93,134,1,0,7,120.1,178.0,7.4,19.8,87.6,11.0,618.25
+13180,ROMAIN NTAMACK,france,  Francia,apertura,24,excelente,Optimo,INTERMEDIO,VICTORIA,16,5,92,141,1,0,11,88.5,175.0,7.3,20.7,101.9,41.0,501.48
+13181,julian montoya, Pumas ,Argentina, Hooker ,29, regular ,LESIONADO, leyenda ,derrota,10,6,500,149,0,0,17,97.2,186.0,6.9,20.3,80.4,44.0,9.63
+13182,pablo matera,  Pumas,argentina,ala,30,BUENO,OPTIMO,Intermedio, empate ,8,10,87,141,0,0,12,104.2,194.0,6.5,22.6,94.7,12.0,82.74
+13183, Paolo Garbisi ,Italy,italia,Apertura ,23,BAJO,RECUPERACION,Avanzado,empate,15,2,89,168,2,0,6,98.4,177.0,6.0,27.6,96.3,95.0,103.89
+13184, Richie Mounga ,All Blacks ,Nueva Zelanda ,Apertura ,29,BAJO,lesionado,principiante, empate ,21,5,77,169,1,0,9,98.8,198.0,8.1,22.2,73.0,4.0,54.63
+13185,josh van der flier,ireland,IRLANDA,  Ala,30, bueno ,Lesionado, experto ,Victoria,10,5,98,149,0,0,15,94.2,175.0,7.2,19.4,75.2,22.0,198.24
+13186,JOHNNY SEXTON, Ireland ,Irlanda,apertura,38, regular ,lesionado, avanzado , derrota ,9,-10,76,149,1,0,11,75.5,183.0,9.5,14.9,94.9,57.0,204.54
+13187, Taulupe Faletau ,  Wales,gales,Octavo,33, Excelente ,recuperacion,leyenda,empate,24,7,81,149,0,0,11,100.2,189.0,9.0,33.0,84.1,16.0,380.1
+13188,Maro Itoje,ENGLAND,Inglaterra,SEGUNDA LINEA,29, regular , Optimo , Principiante ,derrota,6,11,63,149,1,0,12,84.0,181.0,6.1,33.4,72.1,88.0,270.08
+13189,EBEN ETZEBETH,SPRINGBOKS,Sudafrica , Segunda Linea ,32, regular ,Lesionado,Leyenda,EMPATE,10,6,65,151,1,0,11,106.6,167.0,8.2,27.8,78.6,67.0,156.43
+13190,ANTOINE DUPONT,france, Francia ,MEDIO SCRUM,27,excelente,Optimo, Principiante ,Empate,15,5,93,164,2,1,4,115.6,194.0,7.2,20.9,89.2,78.0,212.02
+13191,josh van der flier,Ireland ,Irlanda ,Ala ,30,Bajo,RECUPERACION,avanzado,DERROTA,20,50,84,149,2,0,15,,179.0,6.0,28.7,77.1,6.0,64.04
+13192, Tom Curry ,England ,Inglaterra ,ALA,25,Regular,bueno,PRINCIPIANTE,Victoria,20,4,73,139,2,0,7,115.6,192.0,9.4,29.7,57.3,,179.82
+13193,MARO ITOJE,  England,Inglaterra ,Segunda Linea,29,BUENO,LESIONADO,intermedio,victoria,5,4,79,120,0,0,11,88.8,172.0,7.8,23.7,81.8,17.0,134.37
+13194, Hamish Watson ,  Scotland,escocia,ALA,32, Excelente , recuperacion ,Avanzado,DERROTA,13,8,75,163,0,0,9,93.0,174.0,7.2,25.2,82.6,36.0,28.62
+13195, Tadhg Furlong ,Ireland,Irlanda ,  Pilar,31,BAJO,OPTIMO,EXPERTO,DERROTA,10,3,79,163,3,1,14,81.3,194.0,6.3,31.2,85.1,69.0,55.56
+13196, Taulupe Faletau ,wales, Gales ,OCTAVO,33,EXCELENTE,lesionado,Leyenda,EMPATE,20,8,80,167,1,0,7,97.8,188.0,5.9,60.0,97.6,91.0,68.98
+13197,cyril baille,FRANCE, Francia ,Pilar ,30,BUENO, Optimo ,Intermedio,empate,7,7,80,121,3,0,12,96.0,181.0,12.0,-10.0,85.5,61.0,
+13198, Sam Whitelock ,All Blacks, Nueva Zelanda ,Segunda Linea ,34,Excelente, bueno ,experto,Derrota,24,3,70,173,1,0,13,111.2,140.0,8.7,23.5,87.4,132.0,
+13199,paolo garbisi,Italy ,ITALIA,  Apertura,23,excelente,lesionado,PRINCIPIANTE, derrota ,8,5,67,146,1,0,8,83.9,230.0,5.8,19.4,95.6,,68.29
+13200,Louis Rees-Zammit,Wales,Gales , Wing ,22,REGULAR,Lesionado, intermedio ,DERROTA,100,3,66,167,1,0,9,119.9,186.0,8.6,19.8,85.1,18.0,92.2

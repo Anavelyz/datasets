@@ -1,0 +1,201 @@
+﻿ID_Jugador,Videojuego,Desarrolladora,Plataforma,Genero,Anio_Lanzamiento,Nivel_Satisfaccion,Dificultad_Juego,Frecuencia_Juego,Tipo_Jugador,Plataforma_Preferida,Edad_Jugador,Juegos_Comprados_Anio,Horas_Juego_Semanal,Logros_Desbloqueados,Amigos_Plataforma,Partidas_Jugadas_Total,Precio_Juego_USD,Gasto_Mensual_USD,Puntuacion_Metacritic,Tiempo_Juego_Total_Horas,Tasa_Victoria_Porcentaje,FPS_Promedio
+16001,Gran Turismo,Polyphony Digital ,PlayStation ,DEPORTES,1997,INSATISFECHO, fácil ,SEMANAL,PROFESIONAL,XBOX,50,4,21,54,100,465,8.38,244.43,54.8,85.7,63.1,60.0
+16002,the legend of zelda,  Nintendo,  Switch,Accion/Aventura ,2017,muy insatisfecho,muy dificil,Ocasional, intermedio , Multiplataforma ,40,9,22,35,101,523,61.12,,85.2,2.2,50.1,65.0
+16003,overwatch,  Blizzard, Multiplataforma ,Shooter ,2016, insatisfecho ,Fácil,ocasional, intermedio ,nintendo,26,13,18,54,105,492,50.22,39.91,69.1,290.3,41.2,32.0
+16004, Halo ,Bungie , Xbox ,Shooter,2001, Neutral,Difícil,OCASIONAL,hardcore, pc ,54,10,15,53,107,489,36.01,154.05,68.7,,71.2,56.0
+16005, Age of Empires ,MICROSOFT,  PC,Estrategia ,1997,NEUTRAL,DIFÍCIL,MENSUAL, profesional ,XBOX,19,14,17,47,91,538,90.43,118.66,74.2,68.5,54.0,50.0
+16006, Civilization ,Firaxis,pc,  Estrategia,1991,muy insatisfecho, media ,semanal,INTERMEDIO, PlayStation ,32,7,18,57,95,534,35.01,29.69,71.4,270.5,63.0,47.0
+16007,stardew valley,concernedape,Multiplataforma,Indie,2016,muy insatisfecho,muy dificil, mensual , hardcore ,Xbox,50,13,17,57,88,488,25.17,21.12,69.5,57.8,53.1,40.0
+16008, Uncharted 4 ,  Naughty Dog,PlayStation ,accion/aventura,2016,Insatisfecho,dificil,mensual,PROFESIONAL,PLAYSTATION,30,9,9,49,125,523,16.64,49.03,55.8,393.4,40.3,79.0
+16009,Skyrim,BETHESDA,  Multiplataforma,  RPG,2011,INSATISFECHO,MUY DIFÍCIL,MENSUAL,PROFESIONAL,PC,34,12,22,50,119,502,112.84,121.62,73.3,71.8,82.2,47.0
+16010,the legend of zelda,nintendo,  Switch,accion/aventura,2017,NEUTRAL,Fácil,DIARIA,hardcore,xbox,22,10,16,46,99,468,3.45,257.85,85.5,12.1,57.1,20.0
+16011, Halo ,bungie,xbox,SHOOTER,2001,SATISFECHO,dificil,diaria,Profesional,PC,22,7,14,56,103,515,106.88,115.37,79.0,144.7,42.9,65.0
+16012,Dark Souls,fromsoftware,Multiplataforma,  RPG,2011, satisfecho , Muy Fácil ,Semanal,profesional,PLAYSTATION,35,18,15,41,115,535,70.11,154.6,89.2,113.6,75.6,75.0
+16013, The Legend of Zelda ,Nintendo,  Switch,Accion/Aventura,2017,MUY INSATISFECHO, difícil ,semanal,intermedio,NINTENDO,47,14,17,69,111,478,5.57,73.92,64.1,148.3,23.6,44.0
+16014,CALL OF DUTY,Activision,MULTIPLATAFORMA,shooter,2003,Insatisfecho, Muy Difícil ,diaria,INTERMEDIO, Nintendo ,51,8,10,56,86,496,33.29,144.34,55.8,302.5,94.7,49.0
+16015, Civilization ,firaxis,  PC,estrategia,1991, satisfecho ,dificil,DIARIA,Intermedio,PLAYSTATION,35,9,9,46,100,516,,122.75,71.3,,46.4,47.0
+16016,FIFA, EA Sports ,Multiplataforma ,deportes,1993,insatisfecho,Media,Mensual,Hardcore,multiplataforma,14,13,16,55,83,526,5000.0,37.85,65.8,94.5,24.6,53.0
+16017, Halo ,Bungie ,Xbox,Shooter ,2001,muy satisfecho,muy facil,OCASIONAL,casual,multiplataforma,33,11,18,43,86,467,95.09,64.24,67.3,194.7,88.1,82.0
+16018, NBA 2K ,2K Sports,Multiplataforma ,Deportes,1999,NEUTRAL, media ,ocasional, profesional ,nintendo,13,8,11,55,93,475,,130.68,78.2,111.9,40.7,58.0
+16019,among us, InnerSloth ,Multiplataforma,indie,2018, insatisfecho ,FÁCIL, ocasional , hardcore ,nintendo,35,10,22,49,103,461,21.95,3.77,67.5,52.4,54.9,77.0
+16020,the legend of zelda, Nintendo ,SWITCH,Accion/Aventura,2017,Insatisfecho,DIFÍCIL,OCASIONAL, Casual ,xbox,41,6,19,42,97,529,18.95,132.05,56.2,216.8,64.4,41.0
+16021,  The Legend of Zelda  ,  InnerSloth,Multiplataforma , Indie ,2018,Insatisfecho,DIFÍCIL,ocasional, Casual ,xbox,49,12,11,39,90,491,110.16,15.67,66.6,25.1,73.7,52.0
+16022,starcraft,Blizzard , PC , Estrategia ,1998,Satisfecho, fácil ,Mensual,hardcore, Nintendo ,13,8,13,49,99,518,44.97,57.84,80.1,125.4,56.0,79.0
+16023,Apex Legends,respawn,  Multiplataforma,  Shooter,2019, insatisfecho , media ,SEMANAL,CASUAL,Multiplataforma,32,10,17,70,103,481,,132.14,85.1,213.3,37.1,44.0
+16024,Assassins Creed,  Ubisoft,MULTIPLATAFORMA,Accion/Aventura ,2007,muy satisfecho, Muy Fácil , Diaria ,intermedio, Xbox ,44,7,16,49,98,510,1.73,23.42,84.9,131.4,54.4,80.0
+16025,MORTAL KOMBAT,  NetherRealm,Multiplataforma, Lucha ,1992,Satisfecho, media , mensual ,Hardcore, PlayStation ,23,15,14,52,82,493,33.26,22.57,81.4,119.5,41.6,47.0
+16026,MINECRAFT, Respawn ,Multiplataforma ,SHOOTER,2019,Muy Insatisfecho,muy dificil,ocasional,PROFESIONAL,XBOX,33,8,13,44,93,481,106.47,41.24,72.5,139.7,55.0,54.0
+16027,Uncharted 4, Naughty Dog ,  PlayStation,Accion/Aventura,2016,MUY INSATISFECHO, media , Diaria ,Intermedio,Xbox,36,7,15,44,106,471,74.38,180.03,81.1,62.6,82.6,93.0
+16028, Uncharted 4 , Naughty Dog ,PLAYSTATION,accion/aventura,2016,NEUTRAL,muy facil,mensual,profesional, Xbox ,38,11,12,53,104,522,45.06,0.04,74.4,207.3,65.1,51.0
+16029,hollow knight,team cherry,Multiplataforma,INDIE,2017, Muy Satisfecho ,Difícil, ocasional ,CASUAL, pc ,53,10,14,52,92,471,5.99,185.32,76.7,22.7,54.1,63.0
+16030,NBA 2K,2k sports, Multiplataforma ,  Deportes,1999,INSATISFECHO,Media,mensual, intermedio ,PlayStation,39,14,18,49,89,513,11.73,13.36,60.9,13.6,64.8,72.0
+16031,Among Us,  InnerSloth, Multiplataforma ,INDIE,2018, Muy Satisfecho ,FÁCIL,diaria,PROFESIONAL, Nintendo ,27,17,11,48,112,504,-50.0,369.11,75.7,33.6,66.2,65.0
+16032,age of empires,  Microsoft,PC,  Estrategia,1997,Muy Insatisfecho, Muy Fácil , semanal , hardcore ,multiplataforma,26,10,15,55,109,502,8.08,247.82,80.7,,28.4,65.0
+16033,FIFA,EA Sports, Multiplataforma , Deportes ,1993,INSATISFECHO,DIFÍCIL,Ocasional,Casual,MULTIPLATAFORMA,14,22,18,61,104,497,13.05,54.6,80.1,71.4,50.8,59.0
+16034,Super Smash Bros,Nintendo,SWITCH,Lucha,1999,Muy Satisfecho,MUY FÁCIL,diaria,profesional, Nintendo ,48,8,18,55,101,469,5.55,57.51,55.7,171.8,101.3,34.0
+16035,the witcher 3, CD Projekt ,  Multiplataforma,  RPG,2015,Satisfecho,FÁCIL,Diaria,casual,PC,18,8,11,39,89,484,45.09,52.55,76.4,51.8,74.3,67.0
+16036, FIFA ,ea sports, Multiplataforma ,deportes,1993,insatisfecho, Muy Difícil ,SEMANAL,Profesional,multiplataforma,32,9,15,43,127,504,115.28,80.73,53.3,66.2,39.9,45.0
+16037,Hollow Knight,team cherry,  Multiplataforma,INDIE,2017,Satisfecho,Muy Fácil,mensual, hardcore ,Xbox,20,4,9,37,87,524,12.53,7.61,77.6,1.3,37.9,76.0
+16038,gran turismo,  Polyphony Digital,playstation,  Deportes,1997,MUY SATISFECHO,muy facil,SEMANAL, intermedio , Multiplataforma ,50,12,13,60,109,481,25.81,2.65,64.5,52.7,37.3,87.0
+16039,Stardew Valley,ConcernedApe , Multiplataforma ,Indie ,2016, insatisfecho ,MEDIA,Semanal,Profesional,PLAYSTATION,29,7,16,58,105,506,40.24,4.75,100.6,104.3,67.3,24.0
+16040,NBA 2K, 2K Sports ,multiplataforma,  Deportes,1999,Neutral, fácil ,Mensual,CASUAL,PLAYSTATION,15,8,15,43,103,530,301.42,47.01,,1.6,82.2,87.0
+16041, StarCraft ,Nintendo   ,  PC,estrategia,1998,NEUTRAL,Fácil,mensual, hardcore ,nintendo,36,6,14,57,111,489,4.43,25.79,87.0,33.0,61.6,
+16042,GOD OF WAR,Santa Monica Studio ,PlayStation , Accion/Aventura ,2018, Muy Insatisfecho ,MUY DIFÍCIL,MENSUAL, intermedio ,PC,25,10,16,52,90,502,27.61,77.84,106.7,23.3,53.1,57.0
+16043,HALO,bungie,  Xbox,Shooter,2001,Insatisfecho,FÁCIL, Diaria ,Casual, pc ,20,9,16,52,75,486,19.45,390.81,62.7,4.3,41.1,42.0
+16044,fortnite,Epic Games,MULTIPLATAFORMA,Shooter ,2017,MUY SATISFECHO,MUY FÁCIL,Diaria,HARDCORE,Multiplataforma,37,11,25,53,93,484,80.34,39.06,81.5,65.3,56.6,64.0
+16045,UNCHARTED 4, Naughty Dog ,PlayStation ,accion/aventura,2016,NEUTRAL,muy dificil, ocasional , Casual ,pc,13,7,12,52,100,505,25.85,68.24,57.2,20.1,33.6,61.0
+16046,halo,bungie,Xbox ,  Shooter,2001,muy insatisfecho,FÁCIL,ocasional,HARDCORE,pc,31,9,12,53,88,483,4.71,50000.0,80.2,135.9,11.3,82.0
+16047,UNCHARTED 4, Naughty Dog , PlayStation ,accion/aventura,2016,Insatisfecho,MUY DIFÍCIL,semanal,Intermedio,MULTIPLATAFORMA,39,14,21,52,113,499,40.25,150.33,101.5,188.3,82.7,45.0
+16048, Overwatch ,  Blizzard, Multiplataforma ,SHOOTER,2016,NEUTRAL,FÁCIL,Semanal,Intermedio,PLAYSTATION,18,11,9,50,104,502,58.92,186.02,65.6,78.9,29.9,93.0
+16049,gran turismo,Polyphony Digital , PlayStation ,deportes,1997, insatisfecho , fácil ,Ocasional,casual,Xbox,19,12,18,42,103,529,0.12,167.88,61.7,400.1,43.5,73.0
+16050,THE WITCHER 3,CD Projekt ,  Multiplataforma,RPG,2015,muy insatisfecho,MEDIA, semanal ,hardcore,NINTENDO,46,7,19,55,97,554,78.35,293.13,73.6,59.9,63.1,62.0
+16051, The Witcher 3 ,electronic arts,Multiplataforma ,RPG,2015,muy satisfecho,Fácil, mensual , profesional ,PLAYSTATION,25,8,17,53,87,513,8.23,2.23,105.7,72.0,78.7,56.0
+16052,CALL OF DUTY,ACTIVISION,MULTIPLATAFORMA,shooter,2003, Muy Insatisfecho , Muy Difícil ,DIARIA,Intermedio,PC,28,8,13,52,110,536,32.12,146.51,86.6,453.0,55.1,54.0
+16053,Overwatch, Blizzard ,MULTIPLATAFORMA,SHOOTER,2016,MUY SATISFECHO,Muy Fácil,Ocasional, profesional ,PC,47,10,8,49,92,472,21.5,111.47,61.4,26.3,26.1,55.0
+16054,Mortal Kombat,NetherRealm ,multiplataforma,Lucha ,1992, satisfecho ,Media,diaria,PROFESIONAL,Multiplataforma,51,7,10,59,111,475,50.87,20.77,96.8,285.7,44.0,63.0
+16055, Civilization ,  Firaxis,PC,  Estrategia,1991,neutral,Fácil,ocasional,Casual, Nintendo ,15,12,11,33,97,549,18.56,250.47,50.2,4.4,36.4,56.0
+16056,Gran Turismo,Polyphony Digital ,PLAYSTATION,Deportes ,1997, satisfecho ,Fácil,Diaria,CASUAL,Xbox,13,12,19,46,99,520,81.54,12.83,107.0,59.1,49.2,47.0
+16057,Assassins Creed, Ubisoft , Multiplataforma ,ACCION/AVENTURA,2007,MUY SATISFECHO,muy dificil,OCASIONAL,Casual,multiplataforma,17,9,13,50,98,512,52.45,91.04,87.8,7.3,74.6,63.0
+16058,age of empires,Microsoft ,pc, Estrategia ,1997,insatisfecho,Media,DIARIA,Hardcore,MULTIPLATAFORMA,53,12,16,48,105,482,41.73,20.38,101.5,130.7,-0.7,43.0
+16059,ASSASSINS CREED, Ubisoft , Multiplataforma ,Accion/Aventura,2007, Muy Satisfecho ,facil,MENSUAL,INTERMEDIO,xbox,15,7,18,48,85,484,63.63,,50.3,93.8,41.8,66.0
+16060,the witcher 3,cd projekt,Multiplataforma , RPG ,2015, Muy Satisfecho , Muy Fácil ,ocasional,Intermedio,Xbox,40,9,19,58,100,494,56.1,101.6,77.5,122.6,40.3,56.0
+16061,SUPER SMASH BROS,  Nintendo,Switch ,  Lucha,1999,INSATISFECHO,Muy Fácil,Ocasional,profesional,pc,29,9,9,68,109,507,1.46,-500.0,,46.9,24.9,74.0
+16062,Gran Turismo, Polyphony Digital ,  PlayStation,DEPORTES,1997,satisfecho,Fácil,ocasional, Casual ,Multiplataforma,37,5,15,58,97,482,20.08,,59.9,46.1,61.7,80.0
+16063,fifa, EA Sports , Multiplataforma ,  Deportes,1993,neutral,Muy Fácil,mensual,hardcore,playstation,45,16,22,55,111,497,106.83,31.6,55.6,4.6,21.7,80.0
+16064,STARCRAFT,BLIZZARD,PC, Estrategia ,1998,Muy Satisfecho, media , Diaria , intermedio , PlayStation ,21,10,12,50,98,508,5.37,146.44,82.6,43.1,24.0,66.0
+16065,HOLLOW KNIGHT,team cherry,Multiplataforma,INDIE,2017,muy satisfecho, fácil ,Ocasional,hardcore,Multiplataforma,47,9,11,50,100,497,53.44,12.42,84.0,264.9,67.0,69.0
+16066,minecraft,  Mojang,  PlayStation,Indie ,2011,NEUTRAL,MUY DIFÍCIL,Diaria, Casual ,Xbox,25,6,13,52,109,506,146.91,44.98,94.5,47.7,80.0,54.0
+16067, Halo ,BUNGIE,XBOX,Shooter ,2001,muy satisfecho,MEDIA,MENSUAL,casual,nintendo,42,8,12,57,93,527,,187.27,67.4,178.0,48.5,74.0
+16068,THE LEGEND OF ZELDA,Nintendo ,switch, Accion/Aventura ,2017,neutral,Muy Fácil,semanal, intermedio ,xbox,26,5,11,47,126,525,45.85,149.59,72.9,184.7,25.7,76.0
+16069,Fortnite, Epic Games , Multiplataforma , Shooter ,2017, Neutral,facil,OCASIONAL,profesional,xbox,19,13,16,49,115,485,25.26,40.99,54.3,,35.9,29.0
+16070,OVERWATCH,  Blizzard,multiplataforma,Shooter,2016, Neutral,Media, mensual ,PROFESIONAL,NINTENDO,25,10,15,44,87,496,34.62,115.21,98.1,100.0,70.2,68.0
+16071,Call of Duty,activision,XBOX,Shooter ,2003,insatisfecho,muy facil,DIARIA,CASUAL, Xbox ,34,14,13,48,86,493,3.57,138.6,76.0,10.0,52.3,87.0
+16072,mortal kombat,NETHERREALM,MULTIPLATAFORMA,Lucha,1992,Satisfecho,Fácil,ocasional, Casual , Nintendo ,51,10,14,53,117,485,1.76,175.78,85.8,10.9,48.0,53.0
+16073,STARDEW VALLEY, ConcernedApe ,MULTIPLATAFORMA, Indie ,2016, satisfecho ,dificil, Diaria , profesional ,Multiplataforma,32,12,19,50,103,485,43.97,62.91,86.4,,56.3,49.0
+16074,Fortnite,Epic Games,MULTIPLATAFORMA,  Shooter,2017,Muy Insatisfecho,Muy Difícil, semanal ,Casual,nintendo,27,16,15,37,76,502,69.33,18.3,96.9,87.0,49.2,52.0
+16075,Civilization,  Firaxis,PC ,ESTRATEGIA,1991,insatisfecho, Muy Fácil ,ocasional, intermedio ,PLAYSTATION,29,14,13,39,103,505,60.93,23.58,62.5,55.5,80.9,30.0
+16076,skyrim,BETHESDA,  Multiplataforma,RPG ,2011,MUY INSATISFECHO,MUY FÁCIL,Ocasional,Intermedio,Nintendo,35,13,16,52,96,511,31.39,28.04,150.0,79.4,35.0,63.0
+16077,STREET FIGHTER,capcom,MULTIPLATAFORMA,LUCHA,1987,satisfecho, difícil ,DIARIA,hardcore,XBOX,37,11,18,53,97,497,4.21,72.07,74.6,73.6,32.7,61.0
+16078,FINAL FANTASY,SQUARE ENIX,Multiplataforma ,RPG,1987,satisfecho,DIFÍCIL,Ocasional,profesional,multiplataforma,36,11,15,53,93,475,46.6,2.67,106.6,43.1,22.3,64.0
+16079,overwatch,BLIZZARD,Multiplataforma,Shooter,2016,satisfecho, media ,mensual,Casual,Nintendo,52,11,15,48,105,515,11.08,80.86,62.5,113.2,39.2,68.0
+16080,HALO,BUNGIE,Xbox ,shooter,2001,MUY SATISFECHO,Muy Difícil,MENSUAL, hardcore ,Xbox,40,8,9,52,105,511,96.8,36.25,92.6,142.1,28.2,44.0
+16081,fifa,EA Sports ,multiplataforma,  Deportes,1993, Muy Insatisfecho ,MUY DIFÍCIL, semanal , intermedio ,nintendo,26,9,15,44,114,511,72.87,27.99,80.3,1.5,54.4,65.0
+16082,OVERWATCH,Blizzard,Multiplataforma,Shooter ,2016,Insatisfecho, Muy Fácil ,MENSUAL,profesional, Multiplataforma ,12,11,20,60,101,515,49.43,169.29,79.5,23.2,50.4,69.0
+16083, NBA 2K ,2k sports,multiplataforma,Deportes ,1999, Muy Insatisfecho ,DIFÍCIL,semanal,intermedio,multiplataforma,36,11,16,46,108,524,118.92,49.3,75.8,124.9,28.4,50.0
+16084,STREET FIGHTER,capcom,  Multiplataforma,Lucha,1987, satisfecho ,Muy Difícil,DIARIA,CASUAL,PLAYSTATION,18,12,11,54,89,529,1.28,7.99,95.2,48.9,61.8,68.0
+16085,Skyrim,bethesda, Multiplataforma ,  RPG,2011, insatisfecho , fácil , Diaria , hardcore ,Multiplataforma,20,7,16,49,95,511,53.3,140.24,79.0,108.6,80.3,62.0
+16086,Halo, Bungie , Xbox ,Accion/Aventura  ,2001,MUY INSATISFECHO, Muy Difícil ,SEMANAL,CASUAL,xbox,35,12,16,65,93,511,16.03,3.91,52.1,42.6,57.2,47.0
+16087, Super Smash Bros ,  Nintendo,Switch ,Lucha ,1999,Satisfecho,muy facil, mensual ,Casual,MULTIPLATAFORMA,12,16,16,47,107,506,94.61,103.79,93.3,49.6,-0.9,66.0
+16088,DARK SOULS,fromsoftware,multiplataforma,RPG,2011, satisfecho ,Muy Difícil, mensual ,Profesional,MULTIPLATAFORMA,19,10,16,52,105,534,12.41,118.94,90.5,17.3,89.7,54.0
+16089,Uncharted 4,  Naughty Dog,  PlayStation,accion/aventura,2016,INSATISFECHO,media,Semanal, profesional ,Xbox,35,11,10,51,88,488,51.62,34.78,83.8,29.9,64.9,74.0
+16090,God of War,santa monica studio, PlayStation , Accion/Aventura ,2018,Neutral,DIFÍCIL, semanal ,casual,xbox,22,12,13,54,97,494,84.03,139.34,58.1,93.0,89.1,55.0
+16091,TOMB RAIDER,Crystal Dynamics,  Multiplataforma,Accion/Aventura ,2013,INSATISFECHO,Muy Fácil, Diaria ,Profesional, Multiplataforma ,28,7,17,59,107,509,1.7,58.0,-20.0,56.8,71.8,
+16092,gran turismo, Polyphony Digital ,  PlayStation,  Deportes,1997,Neutral,muy facil,Semanal, hardcore , Multiplataforma ,19,14,20,51,85,506,20.28,49.78,46.8,148.9,75.8,65.0
+16093,AMONG US, InnerSloth , Multiplataforma , Indie ,2018,Muy Satisfecho, difícil ,Mensual,Hardcore,NINTENDO,46,7,20,44,84,472,57.47,3.72,81.9,191.5,54.1,65.0
+16094,skyrim,BETHESDA, Multiplataforma ,RPG,2011,INSATISFECHO,Difícil,SEMANAL,Casual,MULTIPLATAFORMA,46,12,16,53,113,474,24.27,27.4,54.8,78.0,44.8,38.0
+16095, God of War ,Santa Monica Studio ,PlayStation,accion/aventura,2018,neutral,dificil,semanal, hardcore ,playstation,44,9,19,42,89,509,12.44,213.9,49.2,142.0,57.5,75.0
+16096, The Witcher 3 , CD Projekt ,Multiplataforma,rpg,2015,muy insatisfecho, Muy Fácil ,Semanal,CASUAL,PlayStation,16,10,13,39,110,502,9.93,39.78,94.1,36.7,35.8,74.0
+16097,Super Smash Bros, Nintendo ,SWITCH, Lucha ,1999,satisfecho, difícil ,DIARIA, hardcore ,PLAYSTATION,53,8,13,54,114,513,5.64,63.3,86.5,53.6,58.7,43.0
+16098,Dark Souls,FromSoftware,multiplataforma,  RPG,2011,MUY SATISFECHO,DIFÍCIL,semanal, intermedio ,playstation,50,14,18,50,90,497,,60.75,70.0,124.7,-2.5,47.0
+16099,Super Smash Bros,nintendo, Switch , Lucha ,1999,INSATISFECHO,MUY FÁCIL, ocasional , Casual ,MULTIPLATAFORMA,52,17,15,45,105,493,34.26,71.41,73.0,48.8,50.9,57.0
+16100,stardew valley, ConcernedApe ,  Multiplataforma,Indie,2016, Neutral,MUY FÁCIL,OCASIONAL,HARDCORE,Nintendo,39,10,15,47,107,522,3.18,5.06,,88.8,76.9,45.0
+16101,The Legend of Zelda, Nintendo ,switch, Accion/Aventura ,2017,MUY INSATISFECHO,MEDIA,OCASIONAL,Intermedio,XBOX,18,5,18,40,103,498,19.29,35.98,88.8,20.5,51.9,
+16102,AGE OF EMPIRES,Microsoft ,PC,ESTRATEGIA,1997,neutral, Muy Difícil ,MENSUAL,casual,MULTIPLATAFORMA,20,11,14,55,96,457,18.34,102.74,64.6,91.6,84.5,63.0
+16103,starcraft,  Blizzard,  PC, Estrategia ,1998,insatisfecho,Fácil,MENSUAL, hardcore ,pc,19,13,17,43,101,527,8.02,17.91,80.0,197.7,44.7,38.0
+16104, FIFA ,EA Sports,Multiplataforma ,DEPORTES,1993,Neutral,MUY FÁCIL,Semanal,HARDCORE, Multiplataforma ,23,12,17,42,111,461,22.87,18.21,,203.0,70.1,44.0
+16105,overwatch,Blizzard ,MULTIPLATAFORMA,SHOOTER,2016,INSATISFECHO,Fácil,OCASIONAL,intermedio,PlayStation,45,9,19,69,108,528,16.14,0.81,89.7,,32.4,84.0
+16106,Gran Turismo, Polyphony Digital , PlayStation ,  Deportes,1997,neutral,Media,DIARIA,PROFESIONAL, pc ,44,9,19,47,108,481,16.73,46.03,63.7,50000.0,69.2,91.0
+16107,TOMB RAIDER, Crystal Dynamics ,Multiplataforma ,Accion/Aventura,2013,SATISFECHO, Muy Difícil , ocasional , profesional ,multiplataforma,34,6,8,44,99,497,53.73,171.47,54.4,81.6,54.7,71.0
+16108,FINAL FANTASY,Square Enix,Multiplataforma ,rpg,1987,Insatisfecho,MUY DIFÍCIL,OCASIONAL,intermedio,nintendo,35,7,15,59,87,518,10.11,4.26,69.9,87.9,45.6,56.0
+16109,Final Fantasy,SQUARE ENIX,MULTIPLATAFORMA,RPG,1987, insatisfecho ,muy dificil,mensual,Intermedio,nintendo,48,11,9,40,104,532,41.07,16.97,66.1,14.3,-1.5,51.0
+16110,MORTAL KOMBAT,NETHERREALM, Multiplataforma , Lucha ,1992, Muy Satisfecho ,MEDIA,Mensual,CASUAL, pc ,46,12,12,62,91,491,33.82,29.69,91.1,58.7,44.9,71.0
+16111,stardew valley, ConcernedApe ,  Multiplataforma,  Indie,2016,  Muy Satisfecho  ,Difícil,diaria,PROFESIONAL, Xbox ,51,9,18,64,105,493,33.58,105.26,,59.9,54.3,62.0
+16112,overwatch, Blizzard ,Multiplataforma , Shooter ,2016,Insatisfecho, Muy Difícil , mensual ,casual,PC,33,7,17,53,89,501,43.51,81.87,95.4,318.2,66.6,28.0
+16113,Dark Souls,FromSoftware ,MULTIPLATAFORMA,RPG,2011,MUY INSATISFECHO,Muy Difícil,DIARIA,hardcore,nintendo,38,9,16,47,89,509,31.8,43.02,,56.4,81.2,
+16114,CALL OF DUTY,  Activision,MULTIPLATAFORMA,  Shooter,2003, Neutral,media,mensual,INTERMEDIO,PC,46,9,14,52,97,489,84.56,113.86,88.4,79.7,90.7,
+16115, Street Fighter ,  Capcom,  Multiplataforma, Lucha ,1987,MUY INSATISFECHO,DIFÍCIL,OCASIONAL,casual,PLAYSTATION,12,12,14,56,113,492,45.03,75.25,75.0,76.2,74.9,75.0
+16116,stardew valley,ConcernedApe , Multiplataforma ,Indie ,2016,satisfecho,Muy Difícil,OCASIONAL,INTERMEDIO,playstation,46,13,24,45,107,493,31.67,181.1,94.1,101.3,38.8,38.0
+16117,fortnite,Epic Games ,MULTIPLATAFORMA,Shooter,2017,neutral, Muy Difícil ,diaria,casual,xbox,48,12,9,53,91,506,70.82,136.31,57.7,137.9,43.9,47.0
+16118,gran turismo,polyphony digital,PLAYSTATION, Deportes ,1997,Muy Satisfecho,dificil,diaria,HARDCORE,PC,25,9,8,63,78,526,37.27,23.32,76.7,25.5,64.8,23.0
+16119,gran turismo, Polyphony Digital ,PLAYSTATION,Deportes,1997,Insatisfecho, Muy Fácil , mensual ,hardcore,pc,14,5,14,46,103,525,13.76,25.33,69.1,75.2,60.4,92.0
+16120, Assassins Creed ,ubisoft,multiplataforma,ACCION/AVENTURA,2007,Neutral, Muy Fácil ,mensual,Profesional, pc ,12,9,18,47,104,504,9.28,10.72,95.9,,82.6,53.0
+16121,Minecraft,MOJANG,Multiplataforma,INDIE,2011,Muy Satisfecho,muy dificil,DIARIA, profesional ,PC,16,8,23,53,106,502,6.61,32.87,97.5,-100.0,99.6,107.0
+16122,fifa, EA Sports ,  Multiplataforma,DEPORTES,1993,MUY INSATISFECHO,FÁCIL,DIARIA,Hardcore,XBOX,37,7,24,53,111,466,91.89,615.43,75.0,32.6,95.3,99.0
+16123,MINECRAFT, Mojang ,multiplataforma,Indie,2011,muy satisfecho,dificil,Ocasional,casual,NINTENDO,25,4,15,51,96,540,,41.64,55.6,106.3,79.9,42.0
+16124, Dark Souls ,FromSoftware,MULTIPLATAFORMA, RPG ,2011, Muy Insatisfecho ,DIFÍCIL,OCASIONAL,INTERMEDIO, Multiplataforma ,50,7,15,51,107,493,110.83,19.93,81.4,,60.6,
+16125,the legend of zelda, Nintendo ,Switch,Accion/Aventura ,2017, insatisfecho , fácil ,diaria,hardcore,Xbox,38,9,24,51,96,473,36.98,,50.0,6.5,77.0,69.0
+16126,APEX LEGENDS,RESPAWN,  Multiplataforma,Shooter,2019,neutral,dificil,OCASIONAL, hardcore ,NINTENDO,20,5,16,42,110,471,25.65,62.55,99.4,150.0,83.2,25.0
+16127,the legend of zelda,  Nintendo,Switch ,  Accion/Aventura,2017, satisfecho ,MEDIA,SEMANAL,casual,NINTENDO,26,6,13,56,107,492,2.46,12.96,67.9,172.4,47.1,51.0
+16128,Mortal Kombat,  NetherRealm,  Multiplataforma,Lucha ,1992, Muy Insatisfecho ,DIFÍCIL,MENSUAL,HARDCORE, Nintendo ,26,9,14,51,89,498,44.55,38.33,74.5,61.9,39.3,49.0
+16129, Stardew Valley , ConcernedApe ,multiplataforma, Indie ,2016, Neutral,Difícil, ocasional ,Hardcore,PC,37,8,16,57,100,463,34.91,42.82,,409.3,34.7,97.0
+16130,Hollow Knight,  Team Cherry,multiplataforma, Indie ,2017, satisfecho ,dificil,Semanal, Casual ,Xbox,53,7,8,41,108,474,185.05,112.14,61.5,154.5,32.5,63.0
+16131, Fortnite ,epic games,multiplataforma,Shooter,2017,SATISFECHO,Difícil  ,diaria, hardcore , Nintendo ,24,9,13,44,122,502,10.93,1.67,86.1,148.6,22.4,54.0
+16132,god of war, Santa Monica Studio ,  PlayStation,accion/aventura,2018, Muy Insatisfecho ,MEDIA,OCASIONAL,profesional,Multiplataforma,43,8,17,48,89,483,30.26,,72.6,137.8,55.0,47.0
+16133,stardew valley,concernedape, Multiplataforma ,Indie ,2016,Neutral,dificil, Diaria ,Profesional,multiplataforma,50,9,9,55,102,491,42.1,58.32,75.6,16.3,30.0,78.0
+16134, Mortal Kombat ,NetherRealm ,MULTIPLATAFORMA,LUCHA,1992,Satisfecho,MEDIA,MENSUAL,PROFESIONAL, PlayStation ,43,15,18,50,109,514,41.38,25.05,59.9,24.5,34.3,50.0
+16135,UNCHARTED 4,Naughty Dog ,  PlayStation,Accion/Aventura ,2016, Muy Satisfecho ,Media,DIARIA,Profesional,NINTENDO,15,14,18,48,112,500,32.96,79.2,87.8,62.4,64.0,59.0
+16136,PERSONA 5,Atlus,PlayStation , RPG ,2016,muy satisfecho, media ,semanal,HARDCORE, Xbox ,41,6,21,53,96,482,60.01,,89.4,30.7,150.0,47.0
+16137,god of war, Santa Monica Studio ,PlayStation ,  Accion/Aventura,2018,neutral,Fácil,diaria,intermedio,PC,48,13,17,43,99,503,9.18,35.92,71.9,53.7,58.6,30.0
+16138,minecraft,Mojang ,Multiplataforma , Indie ,2011,INSATISFECHO, difícil , semanal , profesional , PlayStation ,34,12,17,43,120,473,51.73,238.4,94.0,219.3,77.3,40.0
+16139,Minecraft,Mojang ,MULTIPLATAFORMA,Indie,2011,muy satisfecho,MUY FÁCIL,OCASIONAL, profesional ,Nintendo,50,13,16,52,104,479,38.68,80.01,73.4,173.9,67.3,50.0
+16140,tomb raider,  Crystal Dynamics,Multiplataforma,accion/aventura,2013,MUY INSATISFECHO,MUY FÁCIL,OCASIONAL, hardcore ,PC,26,4,13,51,109,516,90.56,11.14,86.7,99.4,80.4,55.0
+16141, Persona 5 ,Atlus,playstation,RPG,2016, Neutral,MUY DIFICIL,semanal,Hardcore, Xbox ,54,6,18,38,79,488,75.14,65.7,50.7,195.3,51.6,56.0
+16142,FIFA,EA Sports,MULTIPLATAFORMA,Deportes ,1993,Satisfecho,MUY FÁCIL, mensual ,CASUAL,Xbox,40,10,9,48,87,497,15.14,121.4,80.3,153.1,82.2,58.0
+16143,OVERWATCH,  Blizzard,multiplataforma,shooter,2016,MUY SATISFECHO,dificil, mensual ,profesional, PlayStation ,47,15,7,58,117,473,12.93,98.61,70.9,56.0,57.2,50.0
+16144,Stardew Valley, ConcernedApe ,MULTIPLATAFORMA,INDIE,2016,neutral, Muy Fácil ,mensual,CASUAL,playstation,24,12,15,57,76,514,159.93,15.11,77.3,22.4,53.4,87.0
+16145,SKYRIM,bethesda,multiplataforma, RPG ,2011,NEUTRAL, media ,Ocasional,profesional,nintendo,43,9,17,46,93,471,29.97,287.25,76.7,72.2,79.2,79.0
+16146,CALL OF DUTY, Activision ,MULTIPLATAFORMA,  Shooter,2003,insatisfecho,Fácil,ocasional,intermedio,PC,18,7,16,43,96,506,94.76,47.65,76.9,133.3,32.6,57.0
+16147, FIFA ,ea sports,Multiplataforma, Deportes ,1993,satisfecho,muy dificil,MENSUAL,hardcore, Multiplataforma ,33,8,20,48,112,497,7.16,,84.2,57.3,90.5,65.0
+16148,AGE OF EMPIRES,Microsoft,  PC,Estrategia,1997,SATISFECHO,muy facil,diaria,HARDCORE,pc,39,14,14,57,88,517,41.18,15.9,66.5,109.9,44.4,53.0
+16149,Call of Duty,ACTIVISION,Multiplataforma ,Shooter,2003,Satisfecho,MUY DIFÍCIL,MENSUAL, Casual , Xbox ,13,3,16,50,102,454,66.4,8.27,83.5,9.9,25.6,3.0
+16150,Fortnite, Epic Games ,multiplataforma,  Shooter,2017,muy insatisfecho,muy dificil,DIARIA,CASUAL,xbox,53,10,15,50,94,498,117.8,130.17,93.5,137.8,63.1,60.0
+16151,SUPER SMASH BROS,NINTENDO,SWITCH,Lucha ,1999, Neutral,muy dificil,MENSUAL,HARDCORE,NINTENDO,17,8,18,57,83,501,16.46,10.41,53.8,167.5,-30.0,66.0
+16152,civilization,firaxis,PC,estrategia,1991,Muy Insatisfecho,MEDIA, Diaria ,hardcore,MULTIPLATAFORMA,39,19,14,42,107,517,51.64,10.69,63.3,122.7,90.5,28.0
+16153,FINAL FANTASY, Square Enix ,Multiplataforma,  RPG,1987,Muy Insatisfecho, Muy Fácil ,Ocasional,hardcore,NINTENDO,39,13,14,61,87,487,30.96,152.02,63.9,341.9,41.3,70.0
+16154,Dark Souls,FROMSOFTWARE,Multiplataforma ,rpg,2011,Neutral,dificil,mensual,PROFESIONAL,XBOX,31,10,11,51,97,501,2.5,33.8,58.6,175.2,56.3,54.0
+16155,Tomb Raider,CRYSTAL DYNAMICS,MULTIPLATAFORMA,ACCION/AVENTURA,2013,satisfecho, media ,Mensual,profesional,xbox,41,13,22,46,109,496,46.85,2.51,67.9,233.4,21.5,67.0
+16156, Halo , Bungie ,  Xbox,Shooter ,2001,Neutral,dificil,  Diaria  ,intermedio, pc ,22,11,9,58,88,538,46.86,4.26,90.5,271.2,66.3,55.0
+16157,APEX LEGENDS,RESPAWN,multiplataforma,Shooter,2019, insatisfecho ,muy facil,MENSUAL,PROFESIONAL,Multiplataforma,39,10,15,57,90,515,,12.27,96.7,161.6,34.5,
+16158,NBA 2K, 2K Sports ,  Multiplataforma,Deportes ,1999,neutral,media,DIARIA, hardcore ,PC,36,12,12,41,129,497,27.51,19.2,76.6,112.2,63.9,65.0
+16159, Halo ,BUNGIE, Xbox , Shooter ,2001,NEUTRAL, Muy Difícil ,Semanal,PROFESIONAL, pc ,50,9,9,42,98,507,10.47,87.52,70.1,0.6,41.4,80.0
+16160,Halo,Bungie,Xbox,Shooter,2001, Muy Satisfecho ,media, mensual ,casual,nintendo,44,8,15,59,105,522,1.82,13.69,87.0,62.7,9.1,
+16161, God of War , Santa Monica Studio ,PlayStation,accion/aventura,2018,INSATISFECHO, media ,semanal, hardcore , pc ,12,10,18,51,97,486,21.49,10.12,39.5,84.7,52.6,38.0
+16162,gran turismo,Polyphony Digital,PlayStation ,Deportes,1997,MUY SATISFECHO, Muy Fácil ,Ocasional,profesional,PlayStation,38,13,6,46,109,487,14.38,115.76,59.2,36.2,51.7,45.0
+16163,HALO,  Bungie,XBOX, Shooter ,2001,Satisfecho,MUY DIFÍCIL,Semanal,Hardcore,PLAYSTATION,24,8,14,43,103,480,,88.95,40.2,38.3,67.6,69.0
+16164,Street Fighter,Capcom , Multiplataforma ,Lucha,1987, satisfecho ,Muy Difícil,DIARIA,casual,PC,52,11,12,45,112,502,17.49,45.72,59.0,324.8,81.1,53.0
+16165, Stardew Valley ,ConcernedApe, Multiplataforma ,  Indie,2016,Insatisfecho,FÁCIL,mensual,CASUAL,Multiplataforma,14,10,16,35,87,509,119.09,63.76,63.5,222.3,88.2,55.0
+16166,God of War,SANTA MONICA STUDIO, PlayStation ,accion/aventura,2018,muy insatisfecho,Fácil,Ocasional,Profesional,PC,50,11,7,45,91,489,,29.92,97.2,189.2,67.3,1000.0
+16167,halo,bungie,XBOX, Shooter ,2001, Neutral, difícil ,MENSUAL, hardcore , Xbox ,17,12,19,54,113,502,38.8,52.7,33.6,52.1,55.6,54.0
+16168,CIVILIZATION,  Firaxis,pc,  Estrategia,1991,MUY SATISFECHO, fácil ,Semanal,intermedio,XBOX,19,12,19,49,108,490,105.61,56.53,68.7,,21.5,41.0
+16169, Call of Duty ,Activision,Multiplataforma,SHOOTER,2003,Insatisfecho, Muy Fácil ,DIARIA,Casual,MULTIPLATAFORMA,38,14,6,57,109,458,57.23,39.18,84.3,8.4,54.0,43.0
+16170,Tomb Raider,  Crystal Dynamics,MULTIPLATAFORMA,Accion/Aventura ,2013,Muy Satisfecho, media ,ocasional,Intermedio, Nintendo ,20,7,16,46,96,544,31.66,189.65,81.2,37.4,54.3,104.0
+16171,MORTAL KOMBAT,NetherRealm, Multiplataforma ,  Lucha,1992,Neutral,muy dificil, mensual ,PROFESIONAL,playstation,48,8,15,56,109,522,7.95,1.3,96.9,1.6,46.0,-10.0
+16172,FIFA,EA Sports,Multiplataforma,DEPORTES,1993,muy insatisfecho, media ,Diaria,casual,playstation,44,10,15,53,95,513,24.54,121.92,77.4,1.7,62.7,33.0
+16173,Persona 5,atlus,PlayStation, RPG ,2016, Muy Satisfecho , Muy Fácil , mensual ,Intermedio,nintendo,53,15,15,48,101,493,32.92,10.63,80.6,,72.4,
+16174,MINECRAFT,mojang, Multiplataforma , Indie ,2011,INSATISFECHO,Media,mensual,CASUAL, pc ,35,8,15,47,108,485,79.79,127.78,47.4,122.5,33.6,48.0
+16175,AMONG US,InnerSloth, Multiplataforma , Indie ,2018, Neutral,MUY DIFÍCIL,semanal, intermedio , Multiplataforma ,26,5,18,49,87,503,26.26,,,37.0,33.3,56.0
+16176, Call of Duty ,Activision ,Multiplataforma,shooter,2003,Neutral, fácil ,SEMANAL,Hardcore  , pc ,-5,12,14,54,89,505,91.18,148.26,48.3,14.2,47.2,79.0
+16177,UNCHARTED 4,naughty dog,PlayStation , Accion/Aventura ,2016,MUY INSATISFECHO,dificil,MENSUAL, hardcore ,nintendo,43,6,12,53,122,529,,8.21,83.6,71.7,37.7,77.0
+16178, Final Fantasy ,square enix,  Multiplataforma,RPG ,1987,Insatisfecho,muy dificil, ocasional ,Profesional,multiplataforma,35,5,22,52,108,468,5.89,65.49,80.2,0.5,17.2,60.0
+16179,SKYRIM,bethesda,  Multiplataforma,rpg,2011, Neutral, Muy Difícil ,SEMANAL,casual,PlayStation,52,16,12,44,101,482,211.78,55.63,79.7,278.7,30.1,51.0
+16180,persona 5, Atlus ,PlayStation, RPG ,2016, Muy Satisfecho , Muy Difícil , semanal ,Intermedio, PlayStation ,23,13,25,43,95,473,29.97,97.99,61.8,53.6,25.4,67.0
+16181,age of empires,  Microsoft,pc,estrategia,1997, satisfecho ,muy dificil,Semanal,casual,pc,80,12,15,47,97,511,19.89,,60.4,51.5,74.2,25.0
+16182, Civilization ,Firaxis,pc,Estrategia ,1991, insatisfecho ,Muy Fácil,Semanal, hardcore ,Xbox,13,6,16,46,96,528,43.05,62.25,78.1,49.5,84.1,100.0
+16183, Super Smash Bros ,Nintendo ,Switch ,Lucha ,1999,Muy Satisfecho, Muy Difícil ,DIARIA, hardcore ,Nintendo,14,12,15,53,97,486,4.61,44.91,65.0,7.2,28.1,73.0
+16184,uncharted 4,naughty dog,PLAYSTATION,  Accion/Aventura,2016, Muy Insatisfecho ,Media,mensual,PROFESIONAL, Nintendo ,48,14,18,42,98,484,40.48,29.55,59.7,101.7,60.9,77.0
+16185,SKYRIM, Bethesda ,Multiplataforma,rpg,2011,muy insatisfecho,Muy Fácil, Diaria ,CASUAL,PC,28,9,20,48,90,505,27.59,52.66,67.4,132.1,67.5,39.0
+16186, Apex Legends ,  Respawn,multiplataforma,Shooter,2019,NEUTRAL,facil,diaria,Intermedio, Nintendo ,13,12,-20,47,96,503,20.88,10.09,65.1,112.7,20.2,86.0
+16187,Stardew Valley,CONCERNEDAPE,Multiplataforma,INDIE,2016, Muy Insatisfecho ,Media,MENSUAL, hardcore ,playstation,13,5,13,74,93,435,122.32,260.6,62.0,14.9,53.2,51.0
+16188,HALO,BUNGIE,Xbox , Shooter ,2001, satisfecho ,media,Semanal,Profesional,PC,39,7,22,55,104,495,29.57,100.26,56.6,86.5,100.7,41.0
+16189,CALL OF DUTY,activision, Multiplataforma ,SHOOTER,2003,MUY SATISFECHO,MEDIA,Ocasional,HARDCORE,playstation,34,10,17,44,115,477,9.89,243.71,81.7,84.3,63.5,59.0
+16190,final fantasy,Square Enix ,Multiplataforma ,RPG ,1987,INSATISFECHO, media ,Semanal,Hardcore,MULTIPLATAFORMA,48,11,15,39,98,529,24.57,20.57,98.3,202.8,45.1,
+16191, Skyrim ,Bethesda ,Multiplataforma ,RPG,2011,neutral,Muy Fácil,semanal, intermedio ,  PC  ,43,11,200,56,89,523,100.72,169.18,74.4,47.7,38.8,38.0
+16192,OVERWATCH,  Blizzard,Multiplataforma ,Shooter,2016,insatisfecho,facil,semanal, Casual ,XBOX,44,10,18,52,96,509,7.75,132.35,78.3,46.4,9.6,42.0
+16193, Halo ,  Bungie,xbox,SHOOTER,2001, Muy Satisfecho ,Fácil,semanal,Casual, Nintendo ,12,11,11,42,89,498,9.63,90.45,83.0,96.4,59.4,41.0
+16194, Street Fighter ,Capcom,Multiplataforma ,  Lucha,1987,Satisfecho,MUY DIFÍCIL,OCASIONAL,intermedio,multiplataforma,30,11,13,40,103,487,0.52,78.47,80.5,100.3,89.0,41.0
+16195, Final Fantasy ,square enix, Multiplataforma ,RPG,1987,muy satisfecho,Difícil,diaria, profesional ,nintendo,13,10,9,47,96,504,0.57,30.45,62.3,63.4,33.7,52.0
+16196,stardew valley,CONCERNEDAPE, Multiplataforma ,Indie ,2016,muy satisfecho,MUY FÁCIL,ocasional,Profesional,playstation,37,-10,10,47,110,538,70.74,135.6,100.8,58.5,11.3,32.0
+16197, FIFA ,EA Sports, Multiplataforma ,Deportes ,1993,neutral,Fácil, mensual , Casual ,PC,43,500,19,50,112,494,52.69,55.69,63.6,68.2,36.7,46.0
+16198,god of war,Santa Monica Studio ,PLAYSTATION,  Accion/Aventura,2018, insatisfecho ,Muy Fácil, semanal ,Hardcore,Multiplataforma,17,10,11,-50,107,531,17.54,5.88,84.7,197.4,67.6,81.0
+16199,Super Smash Bros,Nintendo,Switch , Lucha ,1999, Muy Satisfecho ,MUY FÁCIL,OCASIONAL,Hardcore,PC,43,5,19,56,100000,515,47.93,30.02,,61.8,41.4,76.0
+16200,HOLLOW KNIGHT,TEAM CHERRY, Multiplataforma ,indie,2017, Muy Satisfecho ,Muy Difícil,mensual,PROFESIONAL,multiplataforma,15,3,11,51,87,1000000,20.11,,45.6,281.2,33.6,39.0
