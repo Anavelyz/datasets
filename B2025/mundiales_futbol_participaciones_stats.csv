@@ -1,0 +1,182 @@
+﻿ID_Participacion,Pais,Continente,Confederacion,Titulos_Mundiales_Previos,Edicion_Mundial,Pais_Sede,Continente_Sede,Fase_Alcanzada,Rendimiento_Equipo,Nivel_Competitividad,Partidos_Jugados,Goles_Favor,Goles_Contra,Tarjetas_Amarillas,Tarjetas_Rojas,Penales_Cobrados,Penales_Anotados,Asistencia_Promedio,Posesion_Balon_Porcentaje,Precision_Pases_Porcentaje,Distancia_Recorrida_KM,Velocidad_Promedio_KMH,Presupuesto_Equipo_Millones
+20001.0,COSTA RICA, America del Norte , CONCACAF ,0.0,2014-Brasil, Brasil ,AMERICA DEL SUR,SUBCAMPEON,BUENO,medio,4.0,2.0,3.0,10.0,1.0,1.0,1.0,53095.0,42.9,80.6,117.8,8.6,144.54
+20002.0, Brasil ,  America del Sur, CONMEBOL ,5.0,2014-Brasil,  Brasil,  America del Sur,Campeón,Bueno,Medio,5.0,6.0,5.0,12.0,0.0,5.0,2.0,39727.0,49.0,74.8,95.3,6.7,11.93
+20003.0,Francia,EUROPA,UEFA,2.0,2022-Qatar, Qatar , Asia , Octavos de Final , bajo ,Alto,3.0,4.0,1.0,3.0,0.0,2.0,2.0,48837.0,59.8,75.3,118.2,10.3,36.71
+20004.0, Alemania ,EUROPA,uefa,4.0,1990-Italia,Italia,  Europa,Cuartos de Final, bueno ,MEDIO,5.0,4.0,6.0,6.0,1.0,6.0,5.0,37687.0,60.4,63.6,98.1,6.1,32.19
+20005.0,nigeria,africa,CAF,0.0,2002-Corea-Japon,Corea/Japon,ASIA,subcampeon, Excelente ,MUY ALTO,5.0,5.0,4.0,12.0,1.0,0.0,0.0,,58.3,,140.3,8.7,14.95
+20006.0,MARRUECOS,Africa ,CAF,0.0,2002-Corea-Japon,  Corea/Japon, Asia ,CAMPEON, regular ,Alto,2.0,7.0,3.0,2.0,0.0,2.0,0.0,33011.0,30.8,70.8,110.9,9.6,85.35
+20007.0,Corea del Sur,Asia , AFC ,0.0,2018-Rusia,Rusia ,EUROPA,Fase de Grupos, regular , medio ,3.0,8.0,5.0,4.0,0.0,1.0,1.0,,49.7,77.2,119.7,7.2,114.93
+20008.0, Colombia ,  America del Sur,CONMEBOL,0.0,1998-Francia,francia,europa,OCTAVOS DE FINAL, Excelente ,medio,3.0,8.0,7.0,10.0,0.0,2.0,0.0,45434.0,40.5,56.9,98.2,5.8,76.15
+20009.0,Croacia,  Europa,UEFA,0.0,1994-USA,  Estados Unidos, America del Norte , Cuarto Lugar ,Regular,Bajo,3.0,9.0,7.0,5.0,2.0,0.0,0.0,23497.0,60.0,79.8,122.2,9.2,10.87
+20010.0,argentina,America del Sur, CONMEBOL ,3.0,2006-Alemania,alemania, Europa ,subcampeon, bueno ,Alto,5.0,8.0,5.0,7.0,0.0,2.0,2.0,13423.0,38.5,87.2,109.8,7.8,4.54
+20011.0,ALEMANIA,europa, UEFA ,4.0,2002-Corea-Japon,COREA/JAPON,Asia,Cuartos de Final,bajo,MUY ALTO,4.0,14.0,9.0,8.0,0.0,2.0,0.0,61256.0,56.8,72.6,88.8,8.7,46.5
+20012.0, Suecia ,EUROPA,UEFA,0.0,1998-Francia,Francia ,europa,subcampeon,Excelente,medio,3.0,5.0,7.0,6.0,2.0,1.0,1.0,30237.0,45.8,82.8,106.4,7.3,2.94
+20013.0,Argentina,America del Sur,CONMEBOL ,3.0,1998-Francia,Francia, Europa ,Fase de Grupos,Regular,Bajo,6.0,7.0,2.0,11.0,0.0,3.0,1.0,24995.0,21.8,78.7,139.0,10.1,55.86
+20014.0,PERU,America del Sur ,  CONMEBOL,0.0,2022-Qatar,Qatar ,Asia ,fase de grupos,Excelente,MEDIO,5.0,10.0,10.0,10.0,0.0,1.0,1.0,32824.0,64.0,67.7,122.9,4.3,37.8
+20015.0,COSTA RICA,America del Norte,  CONCACAF,0.0,2002-Corea-Japon, Corea/Japon ,ASIA,SUBCAMPEON,bueno,Alto,2.0,4.0,4.0,9.0,1.0,0.0,0.0,32150.0,49.6,62.3,104.3,8.1,54.35
+20016.0,Suiza,EUROPA,UEFA,0.0,2018-Rusia,Rusia,Europa ,Tercer Lugar,Regular,MUY ALTO,4.0,10.0,7.0,11.0,0.0,1.0,1.0,500000.0,69.1,64.0,82.0,9.5,44.6
+20017.0,ALEMANIA,Europa ,uefa,4.0,2006-Alemania,alemania,EUROPA,OCTAVOS DE FINAL,regular,bajo,6.0,5.0,5.0,8.0,0.0,1.0,0.0,28598.0,25.0,78.5,97.5,7.7,27.47
+20018.0,México,  America del Norte,concacaf,0.0,1990-Italia,Italia,  Europa,Campeón,REGULAR, medio ,6.0,6.0,7.0,7.0,1.0,2.0,0.0,,45.6,74.3,88.9,8.0,11.21
+20019.0,EGIPTO, Africa ,CAF ,0.0,2022-Qatar, Qatar ,ASIA, Octavos de Final , regular ,Muy Alto,2.0,6.0,8.0,8.0,0.0,3.0,1.0,54694.0,46.8,90.3,82.3,6.8,18.24
+20020.0, Brasil , America del Sur ,CONMEBOL,5.0,2018-Rusia,Rusia,Europa,FASE DE GRUPOS,Excelente, medio ,4.0,4.0,5.0,4.0,0.0,5.0,1.0,25875.0,54.1,84.5,121.8,7.5,37.17
+20021.0,  Brasil  ,  Africa,CAF,0.0,2022-Qatar,  Qatar,  Asia,cuartos de final,bueno,medio,5.0,4.0,4.0,10.0,0.0,1.0,1.0,35729.0,30.1,84.5,110.9,5.0,52.76
+20022.0, Senegal ,africa,caf,0.0,2022-Qatar,qatar, Asia ,Campeon,Bueno,alto,1.0,5.0,6.0,8.0,0.0,2.0,2.0,37154.0,58.2,78.2,136.9,6.4,75.59
+20023.0,INGLATERRA,Europa,UEFA,1.0,2018-Rusia, Rusia ,EUROPA, Subcampeon ,Bajo,ALTO,4.0,5.0,10.0,7.0,2.0,3.0,1.0,42525.0,78.7,63.5,95.0,6.3,72.87
+20024.0,paraguay,America del Sur ,CONMEBOL ,0.0,1994-USA,  Estados Unidos,America del Norte,fase de grupos,EXCELENTE,MEDIO,2.0,8.0,4.0,11.0,1.0,3.0,3.0,61240.0,57.1,78.9,110.0,8.5,180.02
+20025.0,australia,  Oceania, AFC ,0.0,2006-Alemania,ALEMANIA,Europa ,Campeón,Bueno, bajo ,6.0,6.0,4.0,8.0,1.0,3.0,2.0,62105.0,51.4,75.8,89.1,6.6,16.83
+20026.0,ARGENTINA,  Europa,UEFA ,1.0,1994-USA,Estados Unidos ,  America del Norte,Campeón,Excelente,ALTO,5.0,5.0,3.0,7.0,2.0,0.0,0.0,82483.0,29.3,61.3,101.1,6.7,3.69
+20027.0, Colombia ,america del sur,CONMEBOL ,0.0,2002-Corea-Japon,  Corea/Japon,  Asia, Cuarto Lugar ,EXCELENTE, alto ,4.0,5.0,5.0,12.0,0.0,3.0,2.0,,38.4,89.5,106.7,6.9,21.21
+20028.0,colombia,America del Sur,CONMEBOL ,0.0,1990-Italia,ITALIA,Europa, Subcampeon ,BUENO,Alto,1.0,6.0,2.0,11.0,0.0,3.0,3.0,31136.0,49.2,88.2,104.4,6.4,67.99
+20029.0,Japón,  Asia,afc,0.0,2002-Corea-Japon, Corea/Japon ,Asia , Octavos de Final ,Bajo,Alto,1.0,4.0,8.0,13.0,0.0,2.0,1.0,72210.0,42.1,61.3,110.8,7.9,
+20030.0,México,AMERICA DEL NORTE,CONCACAF ,0.0,2022-Qatar, Qatar ,  Asia,Subcampeon,bajo,MUY ALTO,3.0,3.0,6.0,11.0,0.0,4.0,4.0,17989.0,65.4,67.3,124.6,8.1,85.13
+20031.0,EGIPTO,  Africa, CAF ,0.0,1998-Francia, Francia , Europa , Campeon ,BAJO,medio,3.0,3.0,6.0,10.0,2.0,2.0,2.0,-5000.0,58.0,68.4,123.0,8.7,39.85
+20032.0, Nigeria ,Africa , CAF ,0.0,2018-Rusia,rusia,EUROPA, Cuartos de Final ,REGULAR, Muy Alto ,2.0,7.0,4.0,10.0,0.0,1.0,0.0,47210.0,,82.3,98.5,8.5,132.81
+20033.0,Suiza,Europa, UEFA ,0.0,2006-Alemania, Alemania ,europa,fase de grupos,bueno,muy alto,4.0,5.0,6.0,10.0,0.0,0.0,0.0,47762.0,35.3,80.9,109.5,8.3,147.69
+20034.0,AUSTRALIA,Oceania ,AFC,0.0,2002-Corea-Japon,Corea/Japon ,Asia ,Campeon, regular ,MEDIO,4.0,13.0,3.0,2.0,1.0,2.0,2.0,25803.0,50.5,75.5,121.9,7.0,3.59
+20035.0,PORTUGAL,Europa,UEFA ,0.0,2022-Qatar,qatar,ASIA,Campeón,regular,Alto,6.0,3.0,4.0,15.0,0.0,0.0,0.0,38233.0,29.2,,125.5,6.9,30.48
+20036.0,suiza,EUROPA, UEFA ,0.0,2022-Qatar, Qatar ,asia,Campeon,REGULAR,Bajo,6.0,7.0,4.0,10.0,0.0,3.0,3.0,71211.0,16.7,,100.1,6.2,47.04
+20037.0, Tunez ,Africa ,CAF,0.0,2010-Sudafrica,sudáfrica,  Africa,tercer lugar,EXCELENTE,Alto,6.0,6.0,5.0,5.0,0.0,1.0,0.0,44285.0,,79.6,120.6,6.2,14.78
+20038.0,ESTADOS UNIDOS, America del Norte ,CONCACAF ,0.0,2014-Brasil,Brasil ,america del sur, Octavos de Final ,excelente,alto,3.0,6.0,2.0,9.0,0.0,0.0,0.0,38333.0,57.4,73.8,115.0,7.8,26.13
+20039.0, Japon ,  Asia,AFC ,0.0,1994-USA,Estados Unidos ,America del Norte , Octavos de Final ,Bueno,alto,4.0,8.0,3.0,9.0,1.0,2.0,2.0,,37.2,66.9,94.0,6.4,56.61
+20040.0, Serbia ,EUROPA,UEFA,0.0,1998-Francia,  Francia,EUROPA,SUBCAMPEON,bueno,alto,4.0,3.0,7.0,8.0,1.0,0.0,0.0,42117.0,51.4,56.6,122.0,9.7,12.86
+20041.0, Senegal ,America del Sur   ,CAF ,0.0,2022-Qatar,qatar,  Asia,Cuartos de Final,excelente,BAJO,1.0,8.0,8.0,8.0,1.0,1.0,1.0,50177.0,40.6,75.3,112.3,7.4,
+20042.0,argentina,America del Sur ,  CONMEBOL,3.0,2010-Sudafrica,Sudáfrica,  Africa,Tercer Lugar,EXCELENTE,muy alto,3.0,9.0,5.0,11.0,0.0,1.0,1.0,32254.0,,,83.9,9.8,59.78
+20043.0, Alemania ,  Europa,UEFA,4.0,2006-Alemania,ALEMANIA,  Europa,Campeon,Regular,bajo,5.0,12.0,1.0,7.0,0.0,2.0,2.0,43843.0,45.2,54.6,105.6,8.4,4.74
+20044.0,francia,EUROPA,uefa,2.0,2014-Brasil, Brasil ,  America del Sur,Subcampeon,BAJO, medio ,3.0,8.0,7.0,9.0,0.0,1.0,1.0,35384.0,36.6,75.2,110.6,6.3,34.41
+20045.0,Colombia,America del Sur,  CONMEBOL,0.0,1990-Italia,ITALIA,europa, Subcampeon ,bajo, alto ,5.0,7.0,7.0,7.0,1.0,0.0,0.0,17941.0,39.3,76.5,100.9,7.4,15.26
+20046.0,ALEMANIA, Europa ,uefa,4.0,2010-Sudafrica,Sudáfrica ,  Africa,campeon, bajo ,BAJO,1.0,10.0,3.0,3.0,1.0,1.0,1.0,52229.0,150.0,68.3,128.4,5.0,64.44
+20047.0,COLOMBIA, America del Sur ,CONMEBOL,0.0,2006-Alemania,ALEMANIA,Europa,Campeón,BAJO,medio,2.0,6.0,7.0,10.0,1.0,0.0,0.0,26493.0,56.3,79.6,129.0,7.8,10.51
+20048.0,Francia,Europa,  UEFA,2.0,2018-Rusia,Rusia,  Europa,octavos de final,bajo,BAJO,4.0,5.0,2.0,7.0,1.0,2.0,0.0,42529.0,8.4,,104.3,6.5,111.39
+20049.0,costa rica, America del Norte ,CONCACAF,0.0,1994-USA,ESTADOS UNIDOS,  America del Norte, Tercer Lugar ,Regular, alto ,1.0,8.0,4.0,6.0,0.0,2.0,1.0,58891.0,46.6,78.4,102.6,5.8,28.19
+20050.0,PAISES BAJOS,EUROPA,uefa,0.0,2022-Qatar,  Qatar,Asia,CUARTO LUGAR,BUENO, alto ,4.0,3.0,5.0,11.0,1.0,1.0,1.0,22533.0,33.7,81.4,108.0,9.8,11.03
+20051.0,portugal,europa,uefa,0.0,1990-Italia,ITALIA,EUROPA, Campeon , Excelente ,medio,6.0,5.0,6.0,4.0,0.0,2.0,1.0,54070.0,34.2,81.4,107.0,9.0,28.81
+20052.0,peru, America del Sur ,conmebol,0.0,1994-USA,Estados Unidos , America del Norte ,octavos de final, regular , bajo ,2.0,3.0,3.0,4.0,0.0,3.0,3.0,40503.0,42.1,87.2,101.1,9.0,26.28
+20053.0,francia,  Europa,UEFA ,2.0,2010-Sudafrica,Sudáfrica ,Africa,CAMPEON,bajo,ALTO,2.0,3.0,8.0,5.0,0.0,1.0,1.0,30502.0,49.8,79.1,54.4,8.7,28.01
+20054.0,Iran,asia,AFC,0.0,2014-Brasil,  Brasil,America del Sur ,cuarto lugar, Excelente , medio ,1.0,7.0,4.0,8.0,0.0,2.0,2.0,75344.0,46.8,69.3,136.3,5.6,44.04
+20055.0,Costa Rica, America del Norte ,concacaf,0.0,1998-Francia, Francia ,EUROPA,Cuarto Lugar,regular,BAJO,2.0,9.0,7.0,10.0,0.0,3.0,3.0,44992.0,34.0,67.2,110.0,6.9,36.82
+20056.0,estados unidos,america del norte,CONCACAF,0.0,1994-USA,estados unidos,  America del Norte,OCTAVOS DE FINAL, bajo ,BAJO,5.0,2.0,2.0,12.0,0.0,2.0,2.0,36479.0,60.8,62.2,107.3,7.0,8.11
+20057.0, Ecuador ,  America del Sur, CONMEBOL ,0.0,2022-Qatar, Qatar ,asia,tercer lugar,regular,medio,2.0,8.0,5.0,9.0,1.0,3.0,0.0,33297.0,36.5,76.8,114.9,4.9,3.39
+20058.0,Nigeria,Africa , CAF ,0.0,1998-Francia,Francia ,Europa,CUARTO LUGAR,excelente,Bajo,4.0,4.0,7.0,3.0,2.0,2.0,2.0,58217.0,39.0,90.9,108.8,6.7,65.36
+20059.0, Ecuador ,  America del Sur,  CONMEBOL,0.0,2010-Sudafrica, Sudáfrica ,AFRICA,Cuartos de Final, bueno ,bajo,4.0,4.0,5.0,8.0,0.0,2.0,2.0,35819.0,54.3,70.7,103.5,6.7,41.02
+20060.0, Portugal ,EUROPA,UEFA ,0.0,2010-Sudafrica,SUDÁFRICA,AFRICA, Campeon ,Bajo,alto,4.0,8.0,3.0,7.0,0.0,1.0,1.0,56348.0,54.8,80.4,94.9,7.7,22.24
+20061.0,nueva zelanda,Oceania , OFC ,0.0,2002-Corea-Japon,COREA/JAPON,  Asia,Cuarto Lugar,excelente,ALTO,4.0,11.0,7.0,10.0,0.0,6.0,4.0,44963.0,-20.0,66.0,82.4,11.3,82.61
+20062.0, Costa Rica ,America del Norte ,CONCACAF,0.0,2010-Sudafrica,Sudáfrica , Africa ,CUARTO LUGAR,Excelente,Alto,5.0,11.0,4.0,7.0,1.0,2.0,2.0,,6.0,77.3,89.7,7.5,24.56
+20063.0, Serbia , Europa ,UEFA,0.0,2006-Alemania,Alemania ,europa,SUBCAMPEON,BUENO,Medio,3.0,3.0,4.0,10.0,0.0,2.0,1.0,29362.0,36.7,90.1,93.2,7.7,79.47
+20064.0, Senegal , Africa ,caf,0.0,2022-Qatar, Qatar ,asia,cuartos de final,regular,muy alto,6.0,7.0,3.0,9.0,0.0,1.0,1.0,31454.0,52.4,83.2,119.8,7.1,18.25
+20065.0,japon, Asia ,AFC,0.0,1994-USA, Estados Unidos ,america del norte,campeon,BUENO, bajo ,1.0,9.0,8.0,4.0,0.0,1.0,1.0,40785.0,60.3,56.2,120.9,8.6,3.78
+20066.0,camerun,  Africa,  CONMEBOL,0.0,2014-Brasil,BRASIL,America del Sur ,octavos de final,Bueno, medio ,4.0,5.0,5.0,6.0,1.0,1.0,1.0,42029.0,48.8,81.8,,5.9,134.88
+20067.0,Alemania,Europa ,UEFA,4.0,1998-Francia,francia,EUROPA, Octavos de Final ,Regular, Muy Alto ,2.0,5.0,3.0,9.0,1.0,2.0,1.0,39682.0,42.8,82.4,70.0,10.3,25.09
+20068.0,Argentina,AMERICA DEL SUR,  CONMEBOL,3.0,2002-Corea-Japon,  Corea/Japon,Asia , Fase de Grupos ,regular, Muy Alto ,4.0,2.0,5.0,11.0,0.0,5.0,1.0,84472.0,84.4,77.1,110.1,7.3,78.68
+20069.0, España ,EUROPA, UEFA ,1.0,2014-Brasil,brasil,America del Sur ,fase de grupos,REGULAR,medio,2.0,8.0,3.0,11.0,1.0,2.0,1.0,75949.0,44.4,83.0,103.7,6.9,16.37
+20070.0,francia,europa,UEFA,2.0,1998-Francia,Francia ,EUROPA, Cuartos de Final , Excelente ,MUY ALTO,6.0,3.0,4.0,3.0,3.0,1.0,1.0,49486.0,59.2,65.0,103.3,9.0,51.97
+20071.0,alemania,Europa,UEFA,4.0,1998-Francia, Francia ,europa,CUARTO LUGAR,Excelente,alto,6.0,6.0,2.0,7.0,0.0,1.0,1.0,51255.0,30.0,75.8,124.3,6.2,
+20072.0,Irán,ASIA,afc,0.0,2014-Brasil,brasil,AMERICA DEL SUR,Subcampeón, bajo ,Medio,6.0,5.0,4.0,10.0,1.0,2.0,0.0,41454.0,33.6,88.3,112.1,8.6,2.13
+20073.0, Corea del Sur , Asia ,AFC,0.0,1990-Italia, Italia , Europa ,Cuarto Lugar,bajo,BAJO,2.0,6.0,3.0,10.0,3.0,3.0,2.0,29253.0,59.7,87.2,95.4,9.6,88.79
+20074.0,España,europa,  UEFA,1.0,2006-Alemania,Alemania,EUROPA,CUARTOS DE FINAL,bueno,Alto,4.0,9.0,7.0,11.0,0.0,1.0,1.0,42269.0,65.7,81.6,91.9,7.1,42.35
+20075.0,costa rica, America del Norte ,CONCACAF ,0.0,2022-Qatar,QATAR,  Asia,Campeon,Bueno,bajo,6.0,3.0,4.0,5.0,2.0,2.0,2.0,56567.0,44.2,,106.1,10.6,46.76
+20076.0,Belgica,Europa ,  UEFA,0.0,2022-Qatar,  Qatar,ASIA,campeon,Bajo,MUY ALTO,5.0,5.0,5.0,5.0,1.0,5.0,3.0,64584.0,22.3,120.0,96.4,8.5,37.03
+20077.0, Arabia Saudita ,Asia ,afc,0.0,1990-Italia, Italia ,Europa,cuarto lugar, bueno , alto ,2.0,2.0,4.0,10.0,0.0,1.0,1.0,59936.0,47.5,76.4,108.9,8.5,103.76
+20078.0,polonia,  Europa, UEFA ,0.0,1994-USA,  Estados Unidos, America del Norte ,fase de grupos, regular ,BAJO,2.0,6.0,5.0,10.0,0.0,2.0,1.0,22353.0,52.8,77.2,125.4,9.5,2.22
+20079.0, Francia , Europa ,UEFA,2.0,1998-Francia, Francia ,Europa,TERCER LUGAR,EXCELENTE, medio ,4.0,11.0,4.0,9.0,1.0,4.0,4.0,40662.0,51.5,73.8,89.3,9.9,15.12
+20080.0,ITALIA,EUROPA,UEFA ,4.0,2022-Qatar, Qatar ,asia, Tercer Lugar ,Bajo,Muy Alto,2.0,8.0,6.0,5.0,0.0,4.0,2.0,22967.0,41.5,65.3,111.3,7.9,104.28
+20081.0, Serbia ,Europa,uefa,0.0,2018-Rusia,  Rusia,europa, Cuartos de Final ,excelente,bajo,2.0,6.0,9.0,12.0,0.0,3.0,3.0,62533.0,47.7,80.2,,8.7,69.79
+20082.0, Italia , Europa ,  UEFA,4.0,2018-Rusia,  Rusia,  Europa, Campeon ,bajo,muy alto,6.0,1.0,3.0,6.0,1.0,2.0,0.0,38814.0,38.8,76.3,108.7,9.6,0.89
+20083.0,México,AMERICA DEL NORTE,concacaf,0.0,2002-Corea-Japon,corea/japon,  Asia,cuarto lugar,Excelente,Bajo,4.0,5.0,8.0,10.0,0.0,2.0,1.0,44293.0,33.3,78.5,120.8,5.8,36.39
+20084.0, Arabia Saudita ,asia,AFC,0.0,1994-USA, Estados Unidos ,  America del Norte,Octavos de Final,BAJO, medio ,6.0,8.0,5.0,6.0,0.0,1.0,0.0,52201.0,61.3,82.1,105.7,4.9,37.71
+20085.0,belgica, Europa ,uefa,0.0,2018-Rusia,Rusia, Europa , Fase de Grupos ,EXCELENTE, alto ,6.0,10.0,1.0,16.0,0.0,1.0,1.0,86492.0,51.5,71.7,,7.4,25.61
+20086.0, Alemania ,europa,UEFA,4.0,2014-Brasil  ,brasil,America del Sur ,Cuarto Lugar,REGULAR,Bajo,4.0,9.0,3.0,11.0,0.0,1.0,1.0,49024.0,47.7,69.1,116.6,4.9,17.65
+20087.0, Nueva Zelanda ,OCEANIA,OFC,0.0,2010-Sudafrica,Sudáfrica ,AFRICA,CAMPEON,bajo,MUY ALTO,1.0,4.0,5.0,6.0,0.0,3.0,2.0,41426.0,42.4,88.3,101.4,7.0,57.24
+20088.0,SUECIA,EUROPA,uefa,0.0,2022-Qatar,Qatar ,Asia,FASE DE GRUPOS,Bajo, medio ,6.0,11.0,4.0,4.0,0.0,4.0,2.0,26384.0,47.3,65.9,139.9,8.0,11.65
+20089.0,colombia,AMERICA DEL SUR,CONMEBOL,0.0,2010-Sudafrica,SUDÁFRICA, Africa ,CAMPEON,bajo, alto ,5.0,5.0,6.0,11.0,2.0,0.0,0.0,66880.0,52.4,69.4,118.7,7.1,80.21
+20090.0,ARGENTINA,AMERICA DEL SUR,CONMEBOL ,3.0,1990-Italia,Italia,Europa,Tercer Lugar,regular,Muy Alto,5.0,8.0,5.0,7.0,1.0,3.0,3.0,42275.0,,89.8,129.5,7.3,81.24
+20091.0, Chile ,America del Sur ,  CONMEBOL,0.0,2018-Rusia, Rusia ,EUROPA,cuartos de final, Excelente ,MEDIO,2.0,4.0,5.0,8.0,1.0,3.0,1.0,69857.0,59.8,-15.0,126.1,6.0,26.83
+20092.0,estados unidos,  America del Norte,CONCACAF ,0.0,1998-Francia,Francia,Europa ,Campeón,Bajo, Muy Alto ,5.0,8.0,4.0,8.0,0.0,2.0,1.0,61584.0,40.0,73.8,114.9,8.7,16.67
+20093.0,EGIPTO,AFRICA,CAF,0.0,2010-Sudafrica,Sudáfrica ,Africa,CAMPEON,Excelente,MEDIO,2.0,4.0,9.0,7.0,0.0,3.0,3.0,38056.0,40.2,70.1,130.8,5.9,
+20094.0, Croacia ,Europa , UEFA ,0.0,2022-Qatar, Qatar , Asia ,Campeón,REGULAR,Alto,1.0,6.0,6.0,11.0,0.0,5.0,2.0,24116.0,37.8,53.6,112.8,4.3,32.92
+20095.0,Uruguay,America del Sur,CONMEBOL,2.0,1994-USA,Estados Unidos,AMERICA DEL NORTE, Subcampeon ,bueno,Alto,4.0,4.0,7.0,13.0,0.0,3.0,3.0,49089.0,47.0,73.5,99.1,7.2,
+20096.0,PORTUGAL,Europa , UEFA ,0.0,1998-francia,  Estados Unidos,  America del Norte,cuartos de final,BAJO,muy alto,4.0,4.0,3.0,9.0,1.0,1.0,1.0,35776.0,37.8,62.9,110.2,8.9,22.23
+20097.0,nueva zelanda,oceania,  OFC,0.0,1990-Italia,italia,  Europa,CUARTOS DE FINAL, regular ,medio,4.0,6.0,2.0,11.0,0.0,2.0,0.0,45590.0,57.1,78.1,94.9,7.6,
+20098.0,SUIZA,Europa,UEFA,0.0,2006-Alemania, Alemania ,  Europa,Cuartos de Final,EXCELENTE, bajo ,5.0,9.0,3.0,11.0,0.0,0.0,0.0,60736.0,10.3,88.3,78.5,5.8,24.1
+20099.0,AUSTRALIA,oceania,  AFC,0.0,1998-Francia,  Francia,EUROPA, Cuarto Lugar ,bajo,Alto,1.0,4.0,2.0,11.0,0.0,2.0,2.0,20196.0,58.0,48.4,97.2,7.7,18.16
+20100.0,JAPON,  Asia, AFC ,0.0,2010-Sudafrica,sudáfrica,Africa ,Octavos de Final, Excelente , bajo ,5.0,5.0,7.0,7.0,0.0,3.0,2.0,48969.0,54.1,70.1,111.1,8.2,1.26
+20101.0,brasil , America del Sur ,CONMEBOL,5.0,2014-Brasil,Brasil, America del Sur ,Tercer Lugar, bueno ,BAJO,5.0,7.0,2.0,2.0,0.0,4.0,4.0,56394.0,68.9,80.4,125.9,7.6,
+20102.0,Nigeria, Africa ,CAF ,0.0,1994-USA, Estados Unidos ,  America del Norte,TERCER LUGAR,bajo,Muy Alto,1.0,9.0,5.0,5.0,1.0,0.0,0.0,57122.0,63.2,48.8,97.2,7.1,12.89
+20103.0,marruecos,Africa ,CAF ,0.0,2010-Sudafrica,SUDÁFRICA,AFRICA,cuartos de final,Bajo,MUY ALTO,1.0,7.0,5.0,8.0,0.0,1.0,1.0,24547.0,,91.0,125.2,8.2,26.08
+20104.0,suiza,europa, UEFA ,0.0,1998-Francia,FRANCIA,Europa,CUARTO LUGAR,EXCELENTE,Muy Alto,1.0,9.0,7.0,13.0,1.0,1.0,1.0,51290.0,,79.6,91.8,4.9,95.28
+20105.0,francia,  Europa, UEFA ,2.0,2006-Alemania,Alemania ,  Europa,Subcampeón,Bajo,Medio,1.0,6.0,5.0,10.0,1.0,1.0,1.0,63053.0,47.5,88.0,96.2,6.2,80.09
+20106.0, Costa Rica , America del Norte ,CONCACAF,0.0,2022-Qatar,  Qatar,asia,Cuarto Lugar,regular,ALTO,4.0,11.0,6.0,7.0,0.0,0.0,0.0,50149.0,21.0,68.2,500.0,5.5,15.54
+20107.0,chile,  America del Sur,CONMEBOL ,0.0,2018-Rusia, Rusia , Europa ,CUARTO LUGAR,REGULAR,Alto,3.0,6.0,7.0,4.0,0.0,1.0,1.0,43265.0,52.4,69.7,110.7,9.5,14.02
+20108.0,croacia,  Europa,UEFA,0.0,1990-Italia,  Italia,Europa,cuartos de final, bueno ,bajo,3.0,6.0,3.0,12.0,0.0,2.0,2.0,62094.0,40.6,73.1,107.4,8.6,12.89
+20109.0,Polonia, Europa , UEFA ,0.0,2002-Corea-Japon,Corea/Japon,Asia , Tercer Lugar ,REGULAR, Muy Alto ,1.0,8.0,6.0,9.0,0.0,3.0,0.0,34585.0,50.0,100.7,113.5,7.8,20.72
+20110.0, Australia , Oceania ,  AFC,0.0,1998-Francia,FRANCIA,Europa , Campeon ,bueno,medio,3.0,9.0,8.0,10.0,0.0,4.0,0.0,22053.0,74.8,90.8,91.9,5.3,34.48
+20111.0, Corea del Sur ,Asia,AFC,0.0,1990-Italia,  Italia,EUROPA,  Campeon  ,EXCELENTE, alto ,3.0,10.0,3.0,11.0,0.0,1.0,1.0,41991.0,53.4,76.6,105.0,8.6,28.87
+20112.0,FRANCIA,Europa,UEFA ,2.0,2014-Brasil,Brasil ,America del Sur ,Octavos de Final, Excelente ,medio,1.0,4.0,6.0,4.0,0.0,4.0,0.0,53026.0,34.7,78.1,110.0,9.6,12.31
+20113.0, Suecia ,EUROPA,UEFA,0.0,2010-Sudafrica, Sudáfrica ,africa, Campeon ,BUENO, Muy Alto ,3.0,6.0,5.0,5.0,0.0,1.0,1.0,60584.0,64.5,82.6,,8.4,6.99
+20114.0, Ecuador ,america del sur,CONMEBOL,0.0,1998-Francia,FRANCIA,  Europa,fase de grupos, regular ,muy alto,5.0,7.0,3.0,4.0,1.0,2.0,2.0,52958.0,55.4,103.7,84.9,7.4,0.63
+20115.0,Arabia Saudita, Asia ,AFC,0.0,2014-Brasil,  Brasil,America del Sur,CUARTOS DE FINAL, regular , alto ,2.0,10.0,4.0,8.0,0.0,1.0,1.0,57537.0,33.0,79.6,136.4,8.4,8.36
+20116.0,corea del sur,  Asia,afc,0.0,2006-Alemania,  Alemania,  Europa,subcampeon,Bueno,bajo,2.0,7.0,6.0,9.0,0.0,2.0,0.0,60680.0,25.9,75.6,108.1,7.9,61.1
+20117.0, España ,europa,  UEFA,1.0,2002-Corea-Japon, Corea/Japon , Asia ,FASE DE GRUPOS, bueno ,BAJO,1.0,8.0,6.0,2.0,1.0,5.0,0.0,39909.0,35.3,70.9,93.3,8.9,13.96
+20118.0, Costa Rica ,AMERICA DEL NORTE,CONCACAF ,0.0,1990-Italia,Italia ,  Europa,OCTAVOS DE FINAL, Excelente ,MUY ALTO,4.0,1.0,7.0,11.0,1.0,2.0,2.0,42781.0,62.5,77.8,,8.9,31.61
+20119.0,Estados Unidos,  America del Norte,CONCACAF ,0.0,1990-Italia,Italia,EUROPA, Cuarto Lugar ,Bueno, Muy Alto ,1.0,2.0,6.0,6.0,1.0,0.0,0.0,64308.0,45.5,68.0,114.1,7.2,44.74
+20120.0, Paraguay ,America del Sur ,CONMEBOL,0.0,2018-Rusia,Rusia ,  Europa,octavos de final,Regular, bajo ,4.0,10.0,5.0,9.0,0.0,2.0,1.0,26848.0,51.2,81.0,89.8,6.5,108.95
+20121.0, Ghana ,AFRICA,  CAF,0.0,2022-Qatar,Qatar, Asia ,fase de grupos,BUENO,Muy Alto,2.0,8.0,2.0,14.0,0.0,2.0,2.0,51437.0,29.9,57.8,-50.0,6.9,109.85
+20122.0,Suiza, Europa ,UEFA,0.0,2006-Alemania,alemania,Europa,subcampeon,bueno, alto ,1.0,7.0,5.0,11.0,0.0,2.0,0.0,34249.0,62.9,71.9,106.3,8.3,68.47
+20123.0,CAMERUN,Africa ,CAF ,0.0,2018-Rusia,  Rusia,europa, Tercer Lugar ,Bueno,Alto,6.0,4.0,9.0,8.0,0.0,1.0,1.0,61504.0,19.8,83.8,127.2,7.0,1.79
+20124.0,SUIZA,Europa ,UEFA,0.0,2010-Sudafrica,  Sudáfrica,Africa,Cuarto Lugar,EXCELENTE,medio,5.0,9.0,3.0,8.0,0.0,5.0,0.0,44731.0,40.2,,125.3,6.4,42.79
+20125.0, Brasil ,AMERICA DEL SUR,conmebol,5.0,1994-USA,ESTADOS UNIDOS,America del Norte,FASE DE GRUPOS,bueno,bajo,3.0,10.0,9.0,11.0,2.0,1.0,0.0,45114.0,56.3,69.4,100.4,7.5,77.23
+20126.0, Inglaterra , Europa , UEFA ,1.0,1994-USA,estados unidos,AMERICA DEL NORTE,SUBCAMPEON, bajo ,Muy Alto,4.0,1.0,2.0,12.0,0.0,1.0,1.0,70933.0,33.2,72.2,106.8,9.2,0.87
+20127.0,brasil ,  America del Sur,CONMEBOL ,5.0,1998-Francia,  Francia, Europa , Tercer Lugar ,BAJO, medio ,6.0,4.0,1.0,13.0,0.0,3.0,2.0,28859.0,59.2,87.4,86.1,7.7,39.89
+20128.0,Irán,Asia ,  AFC,0.0,2022-Qatar,Qatar,Asia,Tercer Lugar,BAJO, alto ,3.0,2.0,4.0,9.0,1.0,4.0,1.0,48237.0,37.0,60.5,79.4,7.1,97.51
+20129.0,corea del sur,ASIA, AFC ,0.0,2018-Rusia, Rusia ,Europa,Fase de Grupos,REGULAR,bajo,3.0,5.0,3.0,11.0,1.0,4.0,4.0,42298.0,31.6,60.5,,8.0,32.13
+20130.0, Tunez ,AFRICA,CAF,0.0,2018-Rusia,Rusia,europa,Cuarto Lugar,REGULAR,alto,1.0,2.0,4.0,5.0,0.0,0.0,0.0,52986.0,69.3,63.8,126.8,7.6,0.21
+20131.0,españa,  Europa,uefa,1.0,2022-Qatar,  Qatar,Asia ,TERCER LUGAR,Excelente  ,MUY ALTO,3.0,7.0,5.0,10.0,0.0,1.0,1.0,73940.0,52.3,74.9,121.7,4.6,0.55
+20132.0,URUGUAY, America del Sur ,CONMEBOL ,2.0,1994-USA,  Estados Unidos,america del norte, Tercer Lugar ,BAJO, medio ,5.0,5.0,1.0,8.0,1.0,2.0,2.0,35921.0,57.8,58.7,115.8,8.5,26.95
+20133.0, Corea del Sur ,ASIA, AFC ,0.0,1998-Francia,Francia, Europa ,octavos de final,EXCELENTE,MUY ALTO,6.0,10.0,3.0,9.0,0.0,1.0,1.0,27039.0,65.3,86.4,88.1,8.1,8.42
+20134.0, Iran ,ASIA,  AFC,0.0,1990-Italia, Italia , Europa , Campeon , bajo ,Muy Alto,3.0,3.0,5.0,6.0,1.0,1.0,1.0,32860.0,,63.9,99.3,7.5,54.6
+20135.0,Colombia,AMERICA DEL SUR, CONMEBOL ,0.0,2018-Rusia,rusia,EUROPA,Tercer Lugar,BAJO,Bajo,1.0,6.0,3.0,6.0,1.0,1.0,1.0,41508.0,59.5,77.7,97.1,9.1,61.69
+20136.0, Dinamarca ,europa,UEFA,0.0,2018-Rusia,  Rusia,  Europa, Tercer Lugar ,regular, bajo ,5.0,10.0,12.0,11.0,1.0,5.0,0.0,45963.0,38.6,68.1,107.5,50.0,9.79
+20137.0,URUGUAY,America del Sur, CONMEBOL ,2.0,2002-Corea-Japon,COREA/JAPON,  Asia,Tercer Lugar,Regular,muy alto,2.0,6.0,2.0,11.0,0.0,3.0,0.0,46718.0,40.6,,106.6,8.7,109.7
+20138.0, Ghana ,  Africa,CAF,0.0,2010-Sudafrica,Sudáfrica,  Africa, Cuartos de Final ,excelente,Bajo,6.0,5.0,3.0,7.0,1.0,4.0,0.0,72040.0,56.6,55.8,95.0,6.2,29.16
+20139.0,camerun,africa, CAF ,0.0,1994-USA,Estados Unidos,America del Norte , Subcampeon , regular , medio ,3.0,1.0,4.0,9.0,0.0,1.0,1.0,69373.0,44.6,87.0,115.2,6.3,7.71
+20140.0, Chile ,AMERICA DEL SUR,CONMEBOL,0.0,2022-Qatar,QATAR, Asia ,tercer lugar,EXCELENTE,Medio,1.0,4.0,9.0,4.0,0.0,1.0,1.0,64544.0,58.9,63.5,113.4,9.2,72.25
+20141.0,dinamarca,Europa,UEFA,0.0,2018-Rusia,Rusia,Europa ,Campeón,BUENO,Muy Alto,2.0,11.0,5.0,13.0,0.0,1.0,1.0,82717.0,49.4,62.2,99.1,4.7,
+20142.0,Suiza,  Europa,  UEFA,0.0,2022-Qatar,QATAR,  Asia, Cuartos de Final ,BAJO, medio ,2.0,4.0,3.0,5.0,1.0,1.0,1.0,57361.0,52.5,103.5,114.6,7.3,50.98
+20143.0, Francia ,Europa ,UEFA,2.0,2018-Rusia,RUSIA,  Europa, Fase de Grupos ,BAJO,MUY ALTO,4.0,7.0,3.0,5.0,0.0,1.0,1.0,61625.0,42.6,81.7,126.9,8.2,
+20144.0,Corea del Sur,  Asia,afc,0.0,2018-Rusia,RUSIA,europa,cuarto lugar,excelente, medio ,5.0,3.0,4.0,7.0,0.0,2.0,2.0,57072.0,34.0,86.5,131.4,4.9,66.85
+20145.0,Croacia,europa,UEFA,0.0,1990-Italia, Italia , Europa ,CAMPEON,excelente, alto ,3.0,1.0,4.0,8.0,0.0,0.0,0.0,54614.0,38.9,80.5,117.4,7.9,106.94
+20146.0, Alemania ,europa, UEFA ,4.0,2014-Brasil,brasil,  America del Sur,CAMPEON, regular , Muy Alto ,1.0,4.0,7.0,6.0,0.0,2.0,0.0,50916.0,48.5,69.6,116.9,8.9,28.45
+20147.0,suiza,europa,  UEFA,0.0,1998-Francia,francia,Europa,Fase de Grupos,regular,MEDIO,4.0,4.0,6.0,11.0,2.0,7.0,0.0,39047.0,77.6,59.3,106.4,5.3,68.84
+20148.0, Nigeria ,  Africa, CAF ,0.0,2022-Qatar,Qatar , Asia ,CAMPEON,EXCELENTE,Alto,5.0,3.0,3.0,8.0,0.0,2.0,1.0,26298.0,72.1,71.4,125.4,10.0,415.02
+20149.0,peru, America del Sur ,CONMEBOL,0.0,2018-Rusia, Rusia ,Europa ,CAMPEON,EXCELENTE,muy alto,4.0,7.0,6.0,10.0,0.0,3.0,1.0,,40.2,63.3,93.9,6.0,64.54
+20150.0,España,EUROPA,  UEFA,1.0,2018-Rusia,Rusia , Europa , Tercer Lugar ,Bajo, medio ,6.0,5.0,6.0,5.0,0.0,1.0,1.0,53487.0,50.9,64.0,123.7,8.4,6.06
+20151.0,NUEVA ZELANDA,  Oceania, OFC ,0.0,2018-Rusia,  Rusia,EUROPA, Campeon ,BAJO,MEDIO,5.0,8.0,4.0,7.0,0.0,2.0,1.0,46084.0,45.7,56.0,105.7,-5.0,36.52
+20152.0, Costa Rica ,America del Norte ,CONCACAF ,0.0,1998-Francia,francia,Europa,octavos de final,excelente,alto,5.0,4.0,7.0,6.0,0.0,2.0,2.0,29020.0,52.0,76.4,132.4,7.6,44.26
+20153.0,CROACIA,Europa ,UEFA,0.0,2018-Rusia,rusia,  Europa,octavos de final,BAJO,BAJO,3.0,7.0,4.0,7.0,0.0,3.0,1.0,42512.0,53.9,93.9,,5.6,9.57
+20154.0,suecia,Europa , UEFA ,0.0,1990-Italia,italia,EUROPA,tercer lugar,BUENO, bajo ,5.0,6.0,7.0,8.0,0.0,1.0,1.0,41730.0,57.9,81.7,109.0,9.4,164.7
+20155.0, Chile ,AMERICA DEL SUR,CONMEBOL,0.0,2018-Rusia,Rusia,europa, Octavos de Final ,REGULAR,alto,4.0,10.0,3.0,11.0,1.0,4.0,3.0,44065.0,6.5,73.7,106.5,8.0,9.65
+20156.0,ALEMANIA,Europa,UEFA,4.0,2018-Rusia,Rusia , Europa ,Campeón, bajo ,  Muy Alto  ,5.0,7.0,4.0,9.0,0.0,3.0,1.0,52364.0,55.5,74.5,117.9,9.9,9.77
+20157.0,INGLATERRA,europa,UEFA,1.0,1998-Francia, Francia , Europa , Cuarto Lugar ,Bueno,MUY ALTO,3.0,3.0,7.0,8.0,0.0,3.0,2.0,55594.0,,38.4,117.2,5.6,123.35
+20158.0, Mexico ,AMERICA DEL NORTE,CONCACAF,0.0,2018-Rusia,Rusia ,europa,campeon,excelente,BAJO,3.0,6.0,8.0,7.0,0.0,7.0,1.0,37499.0,39.4,69.9,104.0,7.2,31.29
+20159.0,ALEMANIA,europa,UEFA,4.0,2006-Alemania,  Alemania,EUROPA,Cuartos de Final,BAJO,muy alto,6.0,5.0,2.0,6.0,1.0,3.0,2.0,59717.0,61.9,57.9,111.4,7.8,3.26
+20160.0, Alemania ,EUROPA, UEFA ,4.0,1998-Francia,francia,Europa, Cuarto Lugar , Excelente ,medio,4.0,8.0,9.0,5.0,0.0,5.0,3.0,,72.0,76.6,123.4,7.6,45.59
+20161.0,URUGUAY,america del sur,CONMEBOL ,2.0,2018-Rusia, Rusia ,  Europa, Cuarto Lugar ,REGULAR,alto,2.0,9.0,6.0,50.0,0.0,3.0,3.0,49805.0,60.3,71.9,89.5,8.5,46.04
+20162.0,Estados Unidos,AMERICA DEL NORTE,CONCACAF,0.0,1998-Francia,Francia ,EUROPA,Tercer Lugar,EXCELENTE,muy alto,2.0,3.0,4.0,6.0,0.0,2.0,0.0,54971.0,42.2,64.6,120.9,7.2,3.33
+20163.0, Alemania ,Europa,  UEFA,4.0,1990-Italia,italia,Europa , Cuartos de Final ,bueno,ALTO,5.0,6.0,7.0,5.0,10.0,2.0,2.0,,33.9,76.3,,10.7,179.72
+20164.0,Arabia Saudita,  Asia,AFC ,0.0,1994-USA,estados unidos,  America del Norte, Campeon ,excelente,muy alto,6.0,7.0,2.0,3.0,2.0,1.0,0.0,28535.0,4.9,76.2,127.8,7.6,39.27
+20165.0,Japón,Asia , AFC ,0.0,1998-Francia, Francia ,EUROPA, Tercer Lugar , bueno ,MEDIO,1.0,11.0,2.0,11.0,0.0,3.0,3.0,60821.0,52.7,93.2,99.3,3.2,41.03
+20166.0,Uruguay,america del sur, CONMEBOL ,2.0,2018-Rusia,  Rusia,Europa,tercer lugar,BAJO,medio,5.0,7.0,3.0,8.0,1.0,0.0,0.0,33149.0,58.7,83.2,110.1,7.6,5000.0
+20167.0,ITALIA,EUROPA,UEFA,4.0,2022-Qatar,QATAR, Asia ,fase de grupos,BAJO,Bajo,6.0,7.0,5.0,9.0,0.0,1.0,1.0,34609.0,48.5,77.6,113.1,9.4,47.17
+20168.0,marruecos,Africa,caf,0.0,1998-Francia, Francia ,EUROPA, Cuartos de Final ,bueno, bajo ,4.0,5.0,7.0,7.0,1.0,1.0,0.0,47944.0,,63.6,121.1,6.1,15.35
+20169.0,Alemania,Europa,UEFA ,4.0,2010-Sudafrica,SUDÁFRICA,africa,OCTAVOS DE FINAL, regular ,Medio,4.0,3.0,4.0,5.0,0.0,2.0,1.0,12839.0,30.2,62.1,116.4,6.0,16.93
+20170.0,Paraguay,America del Sur ,CONMEBOL,0.0,2002-Corea-Japon,  Corea/Japon,Asia, Tercer Lugar , regular ,muy alto,4.0,4.0,4.0,9.0,1.0,2.0,1.0,47634.0,47.4,82.2,91.4,6.2,35.8
+20171.0,Iran,ASIA,AFC ,0.0,2022-Qatar,Qatar, Asia ,fase de grupos,regular,ALTO,4.0,9.0,5.0,7.0,0.0,0.0,0.0,59727.0,46.2,72.6,,5.9,-100.0
+20172.0,serbia,  Europa, UEFA ,0.0,2006-Alemania, Alemania ,Europa, Fase de Grupos ,Bajo,medio,4.0,4.0,5.0,5.0,0.0,3.0,2.0,20311.0,48.3,,140.1,6.8,2.56
+20173.0,polonia,europa,  UEFA,0.0,2022-Qatar,QATAR,  Asia,octavos de final,bajo, medio ,6.0,50.0,4.0,9.0,3.0,1.0,1.0,61335.0,67.5,86.7,119.2,8.9,46.24
+20174.0,Camerun,  Africa, CAF ,0.0,1994-USA,  Estados Unidos,america del norte,campeon,REGULAR,muy alto,6.0,7.0,5.0,7.0,0.0,0.0,0.0,34518.0,48.4,56.8,134.6,9.8,82.2
+20175.0,egipto, Africa ,CAF,0.0,2022-Qatar,Qatar ,  Asia,Subcampeón,excelente,MEDIO,3.0,-10.0,6.0,2.0,0.0,3.0,3.0,48103.0,45.6,91.8,125.6,3.9,8.53
+20176.0,peru,America del Sur,conmebol,0.0,1994-USA,Qatar  ,  America del Norte,cuartos de final,REGULAR,Medio,2.0,4.0,5.0,6.0,0.0,2.0,2.0,36696.0,35.9,86.6,130.4,6.9,0.76
+20177.0,colombia,America del Sur,CONMEBOL,0.0,2022-Qatar,Qatar,Asia ,Subcampeón,EXCELENTE, Muy Alto ,4.0,7.0,40.0,6.0,0.0,0.0,0.0,53594.0,69.9,50.3,114.6,8.0,18.75
+20178.0, Croacia ,Europa ,UEFA ,0.0,1998-Francia, Francia ,Europa,tercer lugar,REGULAR, medio ,1.0,7.0,8.0,7.0,0.0,3.0,3.0,60374.0,28.5,103.2,117.8,7.8,44.35
+20179.0,Croacia,EUROPA,uefa,0.0,1990-Italia,ITALIA,Europa, Campeon , Excelente ,bajo,20.0,10.0,4.0,10.0,0.0,2.0,0.0,54705.0,41.7,78.9,113.8,10.3,7.44
+20180.0,polonia, Europa ,UEFA,0.0,2002-Corea-Japon,Corea/Japon ,ASIA,Cuartos de Final,Bajo,Bajo,-2.0,3.0,5.0,13.0,1.0,1.0,1.0,44940.0,75.4,69.3,110.1,4.5,27.77
+,,,,,,alemania,,,,,,,,,,,,,,,,,

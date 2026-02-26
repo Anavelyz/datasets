@@ -1,0 +1,181 @@
+﻿ID_Producto,Marca,Categoria,Sistema_Operativo,Nivel_Rendimiento,Estado_Equipo,Garantia,Tipo_Uso,RAM_GB,Almacenamiento_GB,Numero_Puertos,Anos_Garantia,Precio_USD,Peso_KG,Pantalla_Pulgadas,Benchmark_Score
+21001,ASUS Chromebook,  Gama Baja,Chrome OS , regular ,REACONDICIONADO,6 MESES, Diseño ,8.0,128,10,1,262.36,1.95,13.2,100.0
+21002,Apple,PREMIUM, macOS ,Bueno, Nuevo , 3 Años ,ESTUDIO,32.0,2048,12,3,1221.19,1.06,,100.0
+21003,HP Pavilion, Gama Media , Windows , bajo ,USADO,Sin Garantía, Oficina ,16.0,512,2,0,840.72,2.12,13.1,100.0
+21004, Dell Inspiron ,Gama Media ,Windows,EXCELENTE,NUEVO,1 Año,Estudio,12.0,256,8,3,546.72,1.6,14.6,100.0
+21005,ASUS ROG,Gaming ,WINDOWS,EXCELENTE,Dañado,1 Año,OFICINA,16.0,1024,12,2,2079.86,2.58,16.2,
+21006,Alienware,Gaming,WINDOWS,EXCELENTE,como nuevo,Sin Garantia,DISEÑO,16.0,1024,10,2,,2.91,16.6,100.0
+21007,dell precision, Workstation , Windows ,EXCELENTE,nuevo,3 Años,estudio,16.0,4096,10,1,2198.86,3.79,16.2,100.0
+21008,dell xps,Premium , Windows ,bajo, Como Nuevo ,1 AÑO,DISEÑO,12.0,2048,6,1,1258.1,1.07,15.8,100.0
+21009,asus vivobook,gama media,Windows , Excelente ,REACONDICIONADO,6 MESES,OFICINA,12.0,256,3,3,979.38,2.25,13.9,100.0
+21010,apple ,PREMIUM,  macOS, regular ,REACONDICIONADO,2 Años,GAMING,8.0,1024,3,3,1988.41,1.12,14.5,100.0
+21011, Dell Inspiron ,Gama Media,  Windows,Bueno,Dañado,1 Año, Gaming ,16.0,1024,4,1,427.51,2.38,13.8,100.0
+21012,lenovo chromebook,  Gama Baja,Chrome OS ,excelente,Dañado,6 Meses,OFICINA,8.0,256,9,1,306.02,1.55,,100.0
+21013, Apple , Premium ,macOS ,REGULAR, Dañado ,3 AÑOS,programacion,32.0,1024,3,1,3417.88,1.78,15.8,100.0
+21014,lenovo thinkpad,Premium,windows, Excelente ,como nuevo,3 AÑOS,programacion,12.0,512,7,1,2375.0,1.09,13.6,100.0
+21015,ASUS CHROMEBOOK,Gama Baja , Chrome OS ,bajo, usado ,SIN GARANTIA,gaming,8.0,64,10,1,163.57,1.33,12.2,100.0
+21016, Lenovo Chromebook ,Gama Baja ,chrome os, regular , usado ,2 AÑOS,gaming,8.0,64,2,2,50000.0,1.28,12.6,100.0
+21017,dell inspiron,  Gama Media,WINDOWS,bajo,usado,1 AÑO,estudio,12.0,1024,4,3,512.74,2.24,13.2,100.0
+21018,Acer Chromebook,  Gama Baja, Chrome OS ,excelente,Reacondicionado,SIN GARANTIA,Programación,8.0,128,3,0,332.25,1.77,11.2,100.0
+21019, Razer ,  Gaming, Windows ,regular,reacondicionado,2 AÑOS,estudio,24.0,1024,9,2,2396.16,2.23,16.7,100.0
+21020,apple ,  Premium,macOS,regular,USADO, 2 Años , Gaming ,16.0,1024,4,0,971.61,1.31,14.0,100.0
+21021,  Apple  ,  Gaming, Windows , regular , Dañado ,2 AÑOS,Programacion,16.0,1024,3,0,3324.02,3.28,16.8,100.0
+21022,Alienware,gaming,WINDOWS, Excelente ,nuevo,2 AÑOS, Estudio ,16.0,1024,3,2,3553.71,3.52,16.1,100.0
+21023,Lenovo IdeaPad,GAMA MEDIA,  Windows,BUENO,USADO, 2 Años , Oficina ,16.0,1024,2,1,862.58,1.84,14.6,100.0
+21024,Lenovo ThinkPad, Premium ,  Windows,Bueno,NUEVO,Sin Garantia,ESTUDIO,8.0,1024,3,1,1072.63,1.03,14.9,100.0
+21025,lenovo thinkstation,Workstation, Windows , bajo ,USADO, 1 Año ,Estudio,16.0,4096,11,2,2148.76,3.77,16.8,100.0
+21026,DELL XPS,  Gama Media,  Windows, bueno , Nuevo ,2 años, Estudio ,16.0,1024,5,2,853.33,1.5,13.2,100.0
+21027, Dell XPS ,PREMIUM,windows, Excelente ,dañado,sin garantia, Diseño ,16.0,2048,9,1,1508.48,1.16,15.8,100.0
+21028, Dell XPS ,Premium , Windows , regular ,Reacondicionado,3 años,Oficina,32.0,2048,6,2,2730.07,,13.6,
+21029, Razer ,GAMING,windows, regular ,usado, 1 Año , Gaming ,24.0,512,11,3,3731.4,3.08,16.6,100.0
+21030,asus chromebook,  Gama Baja,Chrome OS , Excelente ,Usado,1 AÑO,programacion,4.0,64,12,1,183.02,1.23,,100.0
+21031, Razer ,Gaming,Windows ,Regular, Dañado , 6 Meses ,PROGRAMACION,16.0,2048,3,1,-500.0,3.72,,100.0
+21032,ASUS ROG,  Gaming,Windows, bueno ,Como Nuevo,Sin Garantia, Gaming ,16.0,512,10,0,1555.27,2.24,15.7,100.0
+21033,lenovo chromebook,GAMA BAJA, Chrome OS ,bajo,USADO,1 AÑO,DISEÑO,,64,8,2,432.87,1.32,12.6,100.0
+21034, Lenovo ThinkStation ,Workstation ,Windows ,Excelente,NUEVO,SIN GARANTIA,programacion,32.0,4096,6,0,3923.81,4.91,15.5,148.7
+21035,Acer Aspire,GAMA MEDIA,Windows ,Regular,DAÑADO,1 AÑO,Estudio,8.0,512,6,3,623.49,1.59,13.9,100.0
+21036, Acer Chromebook ,  Gama Baja,  Chrome OS,Excelente,Como Nuevo,6 MESES, Programacion ,8.0,128,3,3,275.67,1.05,11.8,100.0
+21037,RAZER, Gaming ,Windows,bueno, usado ,3 AÑOS,OFICINA,16.0,1024,12,2,3770.66,2.48,15.3,100.0
+21038, ASUS Chromebook ,GAMA BAJA,Chrome OS,Regular,usado,3 años,OFICINA,8.0,64,8,0,222.62,1.67,13.3,100.0
+21039,DELL PRECISION, Workstation ,  Windows,regular,Reacondicionado, Sin Garantia ,gaming,24.0,1024,12,1,2331.73,4.32,15.7,116.9
+21040, Acer Chromebook ,  Gama Baja, Chrome OS ,REGULAR,Como Nuevo,2 Años,Diseño,8.0,64,3,0,283.94,1.09,13.5,100.0
+21041, ASUS ROG ,Premium   ,windows, regular , Dañado ,1 año, Diseño ,16.0,1024,11,3,1801.95,2.37,15.1,
+21042,apple,Premium , macOS ,Excelente,NUEVO,Sin Garantía,Programacion,64.0,1024,9,0,844.79,1.51,13.7,
+21043,dell inspiron,gama media,windows,bueno,usado,sin garantia,diseño,16.0,1024,6,3,916.14,1.43,15.1,100.0
+21044,HP PAVILION,gama media,Windows,Bueno,dañado,1 AÑO,diseño,16.0,512,10,2,539.39,1.64,,100.0
+21045,dell xps, Premium ,WINDOWS,Bajo,Reacondicionado, 2 Años ,PROGRAMACION,16.0,2048,3,2,2841.86,1.88,13.8,109.0
+21046,Dell Inspiron,  Gama Media, Windows ,EXCELENTE,USADO,1 año,OFICINA,,512,7,2,844.16,50.0,13.7,100.0
+21047,HP Spectre, Premium ,WINDOWS,Bueno,Como Nuevo,3 años,Estudio,12.0,256,3,1,1167.58,1.9,15.7,100.0
+21048,HP PAVILION,  Gama Media,windows,Excelente,Dañado,6 Meses,GAMING,16.0,1024,11,0,676.99,2.14,15.7,100.0
+21049,ASUS Chromebook,  Gama Baja, Chrome OS ,EXCELENTE,NUEVO,3 AÑOS,Programación,8.0,256,6,2,416.13,1.78,12.9,100.0
+21050,Acer Aspire,gama media,WINDOWS,BUENO,reacondicionado,2 Años,OFICINA,4.0,256,9,2,355.06,1.33,15.0,100.0
+21051, Acer Aspire ,gama media,WINDOWS,Bajo,Dañado, 3 Años ,DISEÑO,16.0,512,6,1,352.78,1.41,14.6,100.0
+21052,dell inspiron,Gama Media , Windows ,bajo, usado ,2 años,DISEÑO,16.0,512,12,2,579.42,2.13,13.7,100.0
+21053,HP Pavilion,GAMA MEDIA,WINDOWS,BAJO,Nuevo,3 años,Programacion,4.0,512,7,2,661.51,2.17,14.9,100.0
+21054,HP ZBook, Workstation , Windows ,REGULAR, usado ,6 Meses, Gaming ,16.0,2048,12,0,3161.76,2.73,15.7,
+21055,asus chromebook,Gama Baja ,CHROME OS,bueno,usado,Sin Garantía,Estudio,8.0,64,7,2,229.56,1.24,13.9,100.0
+21056,ASUS Chromebook,Gama Baja,Chrome OS, regular ,como nuevo,SIN GARANTIA,programacion,8.0,128,6,3,339.34,1.79,12.5,100.0
+21057,Lenovo ThinkPad,PREMIUM, Windows ,regular,COMO NUEVO, 3 Años ,Programación,16.0,256,9,0,1823.05,1.49,13.6,100.0
+21058,asus rog,GAMING,Windows,REGULAR,USADO,2 Años,PROGRAMACION,16.0,1024,7,0,1060.79,,15.4,100.0
+21059, Lenovo ThinkPad ,premium,  Windows,EXCELENTE, Reacondicionado ,sin garantia,estudio,32.0,2048,10,0,2404.73,1.95,15.7,100.0
+21060,Acer Aspire, Gama Media ,Windows ,excelente,COMO NUEVO,1 Año,Estudio,16.0,1024,9,2,881.66,2.45,15.6,100.0
+21061,lenovo thinkstation,Workstation ,Windows,Bueno, Como Nuevo ,6 meses,diseño,16.0,1024,10,1,2095.01,-2.0,16.7,100.0
+21062,ASUS Chromebook,Gama Baja ,CHROME OS,bueno,Como Nuevo,sin garantia,Programacion,8.0,128,12,2,,1.94,13.1,100.0
+21063,Acer Chromebook,  Gama Baja,chrome os,excelente,Como Nuevo,6 meses,oficina,8.0,64,5,1,292.52,1.1,12.8,100.0
+21064, Alienware ,GAMING,  Windows,EXCELENTE,NUEVO,sin garantia, Oficina ,,512,6,2,3644.54,3.39,16.4,100.0
+21065,RAZER, Gaming ,Windows,Regular,usado,1 año,Programacion,32.0,1024,3,0,,2.59,16.6,100.0
+21066,MSI GAMING, Gaming ,  Windows,BAJO, Nuevo ,1 Año,Estudio,32.0,2048,5,3,2817.81,3.02,16.0,100.0
+21067,dell inspiron, Gama Media ,Windows,bajo,Dañado,2 AÑOS,gaming,8.0,512,10,0,1038.64,2.04,15.1,100.0
+21068,APPLE,  Premium,macOS, bajo ,dañado, 1 Año ,estudio,24.0,2048,3,1,1712.59,1.38,13.3,100.0
+21069,lenovo ideapad,gama media,windows,BAJO,Dañado, 2 Años ,estudio,16.0,256,9,0,746.97,1.25,14.4,100.0
+21070,HP PAVILION,Gama Media ,windows,bajo,nuevo,2 años,GAMING,,256,9,3,834.04,1.24,13.1,100.0
+21071, Dell Inspiron , Gama Media ,MACOS,Regular,USADO, 6 Meses , Estudio ,12.0,1024,6,2,1058.08,1.67,13.4,100.0
+21072,hp zbook,  Workstation,Windows ,BUENO, Dañado ,sin garantia, Gaming ,64.0,4096,9,1,2069.05,,15.2,100.0
+21073,DELL PRECISION,workstation,windows, Excelente ,Como Nuevo,3 años,Programacion,16.0,1024,8,1,1680.89,3.83,16.1,101.8
+21074, Lenovo IdeaPad ,  Gama Media,windows, regular , Dañado ,6 meses,gaming,16.0,1024,4,0,985.51,1.87,14.0,100.0
+21075,ALIENWARE,Gaming,windows,bajo,Reacondicionado,1 Año,OFICINA,16.0,1024,7,2,3824.11,2.54,15.9,100.0
+21076,Acer Aspire,GAMA MEDIA, Windows , Excelente ,Como Nuevo,1 AÑO,Gaming,12.0,256,6,3,445.31,1.4,50.0,100.0
+21077,HP ZBook,Workstation ,  Windows,regular,como nuevo,sin garantia,ESTUDIO,16.0,4096,4,2,3102.6,4.29,16.3,100.0
+21078, HP Stream ,  Gama Baja,Windows, bajo ,como nuevo,3 años,Programación,8.0,128,7,1,383.52,1.42,13.7,100.0
+21079,HP Pavilion,  Gama Media,Windows ,regular, Dañado ,1 año,programacion,16.0,1024,8,2,681.38,2.19,13.0,100.0
+21080,Dell Inspiron,Gama Media ,windows,excelente,como nuevo, 6 Meses ,Gaming,12.0,256,5,2,,1.84,14.4,103.2
+21081,acer chromebook,GAMA BAJA, Chrome OS , bueno ,REACONDICIONADO, Sin Garantia ,Estudio,8.0,64,8,0,193.3,1.43,12.2,100.0
+21082,HP PAVILION,Gama Media,  Windows,Bajo,nuevo,1 AÑO,Programación,12.0,1024,9,3,479.45,1.69,14.9,100.0
+21083,acer chromebook,gama baja,CHROME OS,excelente,reacondicionado,1 Año,gaming,8.0,128,8,3,275.78,,13.0,100.0
+21084,DELL PRECISION,  Workstation,WINDOWS,Excelente, usado , 1 Año , Programacion ,64.0,1024,9,0,,4.85,16.2,100.0
+21085,Acer Aspire,GAMA MEDIA,windows,BUENO, Como Nuevo ,2 Años,programacion,8.0,1024,11,1,563.49,2.04,14.4,100.0
+21086,dell inspiron,gama media,Windows ,Excelente  ,REACONDICIONADO, 1 Año ,OFICINA,16.0,256,9,0,708.88,2.45,15.7,100.0
+21087,LENOVO THINKSTATION,workstation,Windows ,BUENO, Dañado ,1 año,Programacion,24.0,4096,2,3,1828.64,2.67,15.2,100.0
+21088,LENOVO CHROMEBOOK,gama baja,  Chrome OS,Bueno,usado,6 Meses,Programación,,128,12,1,245.69,1.84,11.1,100.0
+21089,dell xps,Premium,  Windows,Regular,REACONDICIONADO,2 años,estudio,8.0,2048,6,1,2610.38,1.28,,100.0
+21090, Apple ,Premium,macOS,regular, Como Nuevo , 3 Años ,PROGRAMACION,24.0,2048,12,0,3169.17,1.74,15.4,136.0
+21091,HP SPECTRE,premium,windows,REGULAR,dañado,2 años,PROGRAMACION,32.0,1024,12,2,1507.66,1.18,-10.0,100.0
+21092,ASUS Chromebook, Gama Baja ,CHROME OS, Excelente , Como Nuevo ,1 AÑO,Estudio,8.0,128,12,3,382.92,1.34,13.8,100.0
+21093,MSI GAMING,Gaming ,Windows,Excelente,usado,2 AÑOS,estudio,32.0,1024,10,0,2702.67,2.86,16.5,100.0
+21094,ASUS VivoBook,Gama Media,Windows , bajo , Reacondicionado , 6 Meses , Programacion ,16.0,256,5,3,941.53,,15.5,100.0
+21095,dell xps, Premium ,Windows,bajo,COMO NUEVO,SIN GARANTIA, Programacion ,32.0,1024,5,3,1572.1,1.9,14.2,
+21096,ACER ASPIRE, Gama Media ,WINDOWS,bueno, usado ,1 Año,GAMING,4.0,512,3,3,872.53,2.44,14.7,100.0
+21097,Lenovo ThinkStation,  Workstation,Windows ,Bueno,DAÑADO,SIN GARANTIA,PROGRAMACION,32.0,512,9,1,3005.96,3.62,15.6,120.4
+21098,Lenovo Chromebook,Gama Baja ,  Chrome OS,Bajo,REACONDICIONADO,1 Año,oficina,8.0,128,2,0,,1.79,13.4,100.0
+21099,lenovo thinkstation,workstation, Windows , bueno ,REACONDICIONADO,3 Años,Oficina,16.0,512,6,1,1546.26,3.74,15.1,100.0
+21100,DELL PRECISION,  Workstation, Windows , regular ,usado,6 Meses,OFICINA,16.0,4096,4,1,4606.96,3.38,,180.7
+21101,APPLE,  Premium,  macOS,EXCELENTE,Reacondicionado, 2 Años ,oficina,24.0,2048,11,3,1186.08,1.76,14.9,100.0
+21102,asus rog, Gaming ,windows,Bajo,Dañado,1 Año,Programación,32.0,512,4,1,,3.41,15.2,100.0
+21103,ALIENWARE, Gaming ,Windows,excelente,Dañado,1 año,PROGRAMACION,16.0,2048,8,2,1479.96,3.97,15.7,100.0
+21104,lenovo chromebook, Gama Baja ,Chrome OS ,bajo,reacondicionado, Sin Garantia ,Gaming,8.0,64,9,2,434.17,1.99,13.3,100.0
+21105,HP PAVILION,gama media,  Windows,Excelente,como nuevo,SIN GARANTIA,Programación,8.0,256,9,3,694.57,1.31,15.3,
+21106, ASUS Chromebook ,gama baja,  Chrome OS,BAJO,COMO NUEVO,1 año,ESTUDIO,8.0,128,6,3,421.91,1.11,12.5,10000.0
+21107,HP SPECTRE,  Premium,windows,EXCELENTE, Dañado ,3 AÑOS,PROGRAMACION,8.0,2048,6,3,1020.44,1.47,13.2,100.0
+21108,ASUS VivoBook,  Gama Media,Windows,REGULAR,Como Nuevo,1 Año,diseño,16.0,256,3,2,750.02,2.45,14.1,100.0
+21109,HP Stream,Gama Baja,  Windows,bajo,Usado,1 Año, Programacion ,8.0,256,6,3,285.71,1.87,13.7,100.0
+21110, Lenovo ThinkStation ,Workstation,WINDOWS,Bajo,nuevo,2 Años,Programación,16.0,2048,9,1,3981.0,2.68,16.1,128.8
+21111,DELL PRECISION, Workstation ,  Windows,bajo,  Nuevo  ,3 Años,Oficina,16.0,4096,9,0,4892.56,3.81,16.3,100.0
+21112,HP Pavilion,gama media,Windows ,regular, usado , 3 Años , Diseño ,,512,11,1,857.91,1.96,15.7,110.2
+21113,Lenovo Chromebook,gama baja,Chrome OS, Excelente ,dañado,1 Año,Programación,,128,6,0,163.63,1.28,13.9,100.0
+21114,LENOVO THINKPAD,  Premium,Windows ,Bajo, Nuevo ,6 Meses,programacion,32.0,2048,6,0,1892.21,1.28,13.6,100.0
+21115,hp zbook,Workstation ,Windows,Excelente,Dañado, 3 Años ,gaming,24.0,512,11,3,2837.47,3.38,16.2,100.0
+21116,DELL PRECISION, Workstation ,WINDOWS,REGULAR,USADO,2 Años,Programación,16.0,2048,5,2,4348.28,4.21,15.3,105.1
+21117,hp pavilion,Gama Media,Windows ,bueno,usado,1 AÑO,gaming,16.0,512,5,3,1042.1,2.27,15.8,100.0
+21118, ASUS Chromebook ,Gama Baja , Chrome OS ,BAJO,NUEVO,2 Años, Diseño ,8.0,256,6,3,275.47,1.93,13.6,100.0
+21119, ASUS Chromebook ,gama baja,  Chrome OS, regular ,como nuevo,sin garantia, Estudio ,8.0,256,12,3,163.57,1.03,12.1,100.0
+21120,Lenovo ThinkPad,Premium,WINDOWS,EXCELENTE,Usado,1 AÑO,Diseño,32.0,512,12,0,1509.43,1.97,15.5,100.0
+21121,MSI Gaming, Gaming ,Windows,bajo,REACONDICIONADO,3 Años,gaming,32.0,2048,2,1,2660.49,2.94,15.8,-500.0
+21122,Lenovo Chromebook,gama baja,Chrome OS , Excelente ,Dañado,1 Año,DISEÑO,8.0,128,2,2,409.42,1.81,14.0,100.0
+21123,msi gaming, Gaming ,  Windows, bueno ,Como Nuevo, 6 Meses ,OFICINA,16.0,2048,4,0,2992.94,3.11,16.5,100.0
+21124,Lenovo Chromebook,  Gama Baja,CHROME OS,bajo,reacondicionado,3 años,oficina,8.0,128,8,1,188.75,1.95,12.8,100.0
+21125,APPLE,Premium ,macOS,Bajo,NUEVO,sin garantia,estudio,8.0,512,10,1,1417.34,1.67,14.9,100.0
+21126,lenovo ideapad,Gama Media , Windows ,EXCELENTE, Como Nuevo ,SIN GARANTIA,DISEÑO,16.0,1024,6,1,802.94,1.88,15.3,100.0
+21127, Apple ,Premium , macOS ,Bajo,REACONDICIONADO,3 AÑOS,diseño,12.0,2048,6,3,2204.44,1.85,,100.0
+21128,hp zbook,WORKSTATION,Windows,regular, usado ,3 años, Diseño ,,2048,3,2,2650.8,2.84,15.1,100.0
+21129,Dell Precision, Workstation , Windows ,REGULAR,Nuevo, 1 Año ,DISEÑO,16.0,1024,5,3,4142.98,4.05,16.4,100.0
+21130,RAZER,Gaming ,WINDOWS, bueno ,reacondicionado,1 AÑO,ESTUDIO,32.0,2048,8,2,1536.36,2.7,16.2,100.0
+21131,LENOVO IDEAPAD,  Gama Media,  Windows,REGULAR,nuevo,1 Año  ,GAMING,12.0,256,8,0,635.35,1.77,15.7,100.0
+21132,Dell XPS,Premium , Windows ,bueno,Reacondicionado,3 AÑOS, Programacion ,12.0,256,9,1,2545.67,,14.9,100.0
+21133,DELL PRECISION, Workstation ,  Windows,EXCELENTE,Dañado,6 Meses,Estudio,32.0,2048,11,2,4518.27,4.87,15.3,100.0
+21134,hp zbook,Workstation ,windows, Excelente , usado ,Sin Garantia,GAMING,64.0,2048,3,3,2200.56,3.65,17.0,100.0
+21135,dell xps, Premium , Windows ,BUENO, Como Nuevo ,Sin Garantía,GAMING,8.0,2048,2,2,1934.5,1.33,14.9,100.0
+21136,HP Stream,gama baja,windows, regular ,Reacondicionado,3 Años, Gaming ,512.0,128,11,1,238.66,1.13,,100.0
+21137,DELL XPS,  Premium,  Windows, regular ,NUEVO,3 AÑOS,Diseño,32.0,256,12,2,1191.54,1.64,13.5,100.0
+21138, MSI Gaming , Gaming ,Windows ,Bueno, usado ,2 Años,Estudio,32.0,1024,12,2,1895.32,3.34,15.3,100.0
+21139,msi gaming, Gaming ,  Windows, bueno , Como Nuevo ,sin garantia, Gaming ,16.0,512,2,0,1303.81,2.08,15.3,100.0
+21140,hp spectre,PREMIUM,WINDOWS, Excelente ,Nuevo,Sin Garantía,Programacion,12.0,2048,3,0,1159.66,1.12,14.4,100.0
+21141,hp stream,gama baja,Windows ,Bueno,USADO,sin garantia,programacion,8.0,256,4,2,261.9,1.36,14.5,100.0
+21142,lenovo chromebook,  Gama Baja,Chrome OS ,Regular, Nuevo ,6 MESES, Oficina ,8.0,128,12,3,389.82,1.63,11.2,100.0
+21143, HP Pavilion ,GAMA MEDIA, Windows ,BUENO,USADO,3 años,GAMING,16.0,1024,8,2,1017.83,2.4,13.2,100.0
+21144,Dell Precision,Workstation , Windows ,bueno,Como Nuevo,1 AÑO, Estudio ,32.0,1024,8,3,4118.91,2.96,15.4,100.0
+21145,asus vivobook, Gama Media , Windows ,Bueno,Como Nuevo,1 AÑO,DISEÑO,4.0,512,11,2,622.28,1.83,14.9,100.0
+21146,DELL INSPIRON,  Gama Media,  Windows,EXCELENTE,nuevo, 1 Año , Oficina ,12.0,256,7,1,997.98,1.25,13.8,100.0
+21147, Lenovo Chromebook ,gama baja,Chrome OS ,bueno,usado,2 Años,Gaming,8.0,128,5,1,364.0,1.9,12.5,100.0
+21148,asus rog,GAMING,WINDOWS, bajo , Reacondicionado ,sin garantia,DISEÑO,16.0,2048,7,2,2118.53,3.07,15.5,100.0
+21149,DELL INSPIRON, Gama Media ,WINDOWS,BAJO,Como Nuevo,3 Años, Estudio ,16.0,512,2,2,615.39,1.69,13.1,100.0
+21150,lenovo ideapad,Gama Media,windows,BAJO, Reacondicionado ,Sin Garantía,Estudio,12.0,256,3,2,596.5,1.36,15.7,100.0
+21151,Lenovo ThinkStation,  Workstation,Windows,REGULAR,REACONDICIONADO,3 AÑOS, Oficina ,-8.0,1024,12,3,,4.2,16.6,100.0
+21152, ASUS Chromebook ,GAMA BAJA,CHROME OS,REGULAR, Dañado ,2 Años,oficina,8.0,64,2,1,311.13,1.59,13.2,100.0
+21153,ASUS VivoBook,gama media, Windows ,Bueno,Nuevo,1 AÑO,gaming,8.0,256,11,1,659.0,1.37,13.9,100.0
+21154, Lenovo Chromebook ,GAMA BAJA,chrome os,BAJO,NUEVO,1 AÑO,Diseño,4.0,256,5,2,321.23,1.36,14.0,100.0
+21155,hp spectre,PREMIUM, Windows ,EXCELENTE,Nuevo,2 Años, Programacion ,8.0,512,7,1,2090.39,,13.3,100.0
+21156,dell inspiron,GAMA MEDIA,Windows , bajo ,Usado,SIN GARANTIA,  Oficina  ,16.0,1024,2,1,528.55,1.44,13.9,100.0
+21157, Lenovo IdeaPad ,Gama Media ,Windows ,BAJO,COMO NUEVO,2 Años, Estudio ,16.0,256,4,2,504.02,2.37,13.2,
+21158,ACER CHROMEBOOK,Gama Baja,  Chrome OS,regular,Como Nuevo,Sin Garantía,estudio,8.0,64,3,3,395.59,1.11,12.2,100.0
+21159,DELL INSPIRON,gama media, Windows ,Regular,dañado,2 AÑOS,GAMING,16.0,256,4,0,1175.58,2.33,15.5,100.0
+21160,dell inspiron,gama media,WINDOWS,excelente, Dañado ,1 AÑO,PROGRAMACION,12.0,256,11,1,934.91,2.41,14.7,100.0
+21161,dell xps,premium,Windows, regular ,Dañado, 1 Año ,gaming,8.0,512,6,0,2100.39,1.28,15.3,100.0
+21162,ASUS Chromebook, Gama Baja , Chrome OS ,EXCELENTE,reacondicionado,1 año,ESTUDIO,8.0,256,8,2,277.63,1.51,11.7,100.0
+21163,dell inspiron,  Gama Media,WINDOWS,regular, Nuevo ,3 años,estudio,4.0,1024,3,2,491.87,1.99,13.9,100.0
+21164, HP ZBook ,workstation,windows,BAJO,usado, 6 Meses , Diseño ,16.0,2048,10,2,2891.53,3.83,15.1,100.0
+21165,DELL PRECISION,  Workstation, Windows ,BAJO, Como Nuevo ,6 MESES,Programacion,16.0,4096,10,1,2678.11,2.84,15.1,100.0
+21166,DELL XPS,premium,windows,excelente,usado, Sin Garantia ,DISEÑO,24.0,100000,12,2,2331.16,1.76,14.8,100.0
+21167,Dell Inspiron,Gama Media,WINDOWS,excelente, Nuevo ,Sin Garantia, Diseño ,12.0,512,12,0,777.26,1.74,14.0,
+21168,ALIENWARE, Gaming ,WINDOWS, regular ,nuevo,6 Meses,gaming,16.0,1024,8,2,1798.07,2.13,16.5,100.0
+21169,DELL INSPIRON, Gama Media ,WINDOWS,regular, Como Nuevo ,2 años, Diseño ,16.0,256,9,3,859.58,2.29,13.4,100.0
+21170, HP Spectre ,PREMIUM,WINDOWS,EXCELENTE,reacondicionado,2 AÑOS,Oficina,16.0,256,3,1,1294.58,1.16,15.4,100.0
+21171,HP ZBOOK,Workstation ,Windows ,EXCELENTE, Dañado , 1 Año ,OFICINA,,-256,3,1,3462.11,3.81,15.7,100.0
+21172,Acer Chromebook, Gama Baja ,  Chrome OS,Bajo,REACONDICIONADO, 2 Años ,Diseño,8.0,256,12,2,354.15,,12.1,100.0
+21173,HP Stream, Gama Baja ,WINDOWS,BAJO,NUEVO, Sin Garantia ,Programacion,8.0,256,7,2,338.8,1.3,15.2,100.0
+21174,MSI GAMING,Gaming,Windows ,excelente, Nuevo , 6 Meses ,DISEÑO,24.0,2048,6,2,2789.11,2.77,16.1,100.0
+21175,razer,gaming,Windows,BAJO, Reacondicionado , 6 Meses , Estudio ,24.0,2048,8,0,3766.18,3.25,15.2,100.0
+21176,LENOVO THINKPAD, Premium ,Windows ,BUENO, Dañado , 3 Años ,ESTUDIO,32.0,256,100,3,1435.85,1.14,15.4,100.0
+21177,Dell XPS, Premium ,windows,REGULAR,dañado,2 Años,PROGRAMACION,32.0,512,8,-2,,1.53,15.7,100.0
+21178,ASUS VivoBook,Gama Media ,Windows, bajo ,Nuevo,6 meses, Gaming ,8.0,512,7,2,587.03,,15.2,100.0
+21179, ASUS VivoBook ,  Gama Media,windows,Bueno,Dañado,3 Años,oficina,16.0,512,-5,1,420.12,1.94,15.3,100.0
+21180,HP STREAM,Gama Baja,  Windows,excelente,DAÑADO,1 Año,oficina,8.0,128,12,50,446.38,1.11,15.5,100.0
