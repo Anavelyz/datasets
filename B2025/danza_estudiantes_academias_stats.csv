@@ -1,0 +1,182 @@
+﻿ID_Estudiante,Estilo_Danza,Origen_Estilo,Categoria,Dificultad,Edad_Inicio_Danza,Nivel_Habilidad,Nivel_Tecnico,Frecuencia_Practica,Tipo_Academia,Edad_Estudiante,Anos_Experiencia,Horas_Practica_Semanal,Presentaciones_Anio,Competiciones_Participadas,Premios_Ganados,Costo_Mensual_USD,Puntaje_Tecnico,Puntaje_Artistico,Flexibilidad_Grados,IMC_Estudiante,Altura_CM
+22001.0,Flamenco,ESPAÑA,LATINA,Alta,11.0,Profesional,Avanzado, Diaria ,PROFESIONAL,46.0,14.0,11.0,6.0,2.0,1.0,32.67,76.5,76.4,152.0,21.1,164.0
+22002.0,Ballet Clásico,FRANCIA,  Clasica,Muy Alta,8.0,maestro,intermedio,ocasional, Profesional ,36.0,13.0,12.0,5.0,4.0,1.0,5.55,94.4,85.0,167.0,17.5,170.0
+22003.0,HIP HOP, Estados Unidos ,Urbana ,Media,11.0,principiante, avanzado ,5-6 VECES/SEMANA,RECREATIVA,22.0,6.0,7.0,6.0,2.0,0.0,296.22,64.2,69.5,124.0,26.1,160.0
+22004.0,danza moderna,ESTADOS UNIDOS,Contemporanea ,Alta,11.0,PROFESIONAL,EXPERTO,1-2 veces/semana, Universitaria ,50.0,16.0,13.0,5.0,6.0,1.0,135.85,86.2,88.3,151.0,26.7,163.0
+22005.0,folclor mexicano, Mexico ,Folklorica ,Media,19.0,PRINCIPIANTE, Básico ,1-2 VECES/SEMANA, Universitaria ,15.0,-4.0,11.0,4.0,2.0,2.0,,,97.8,85.0,21.5,155.0
+22006.0,flamenco,ESPAÑA,LATINA,Alta,21.0,AVANZADO,INTERMEDIO, 5-6 veces/semana ,Recreativa,28.0,2.0,5.0,7.0,0.0,1.0,222.4,74.0,90.8,176.0,24.1,165.0
+22007.0,vals,Austria,Salon,Media,32.0,Avanzado, avanzado ,1-2 veces/semana, Recreativa ,46.0,7.0,14.0,1.0,5.0,1.0,7.12,76.4,69.2,103.0,21.5,157.0
+22008.0, Ballet Ruso , Rusia ,clasica,Muy Alta,6.0,AVANZADO,AVANZADO,3-4 VECES/SEMANA, Profesional ,26.0,13.0,12.0,8.0,3.0,0.0,38.97,78.8,82.3,195.0,17.0,154.0
+22009.0,Locking,Estados Unidos,URBANA,Media,17.0, Principiante ,Avanzado,1-2 VECES/SEMANA,Recreativa,30.0,7.0,8.0,4.0,2.0,0.0,5.89,73.3,62.5,140.0,19.8,168.0
+22010.0,ballet  clasico,  Francia,clasica,Muy Alta,5.0,Profesional,Avanzado,1-2 veces/semana,Universitaria,18.0,4.0,7.0,5.0,5.0,0.0,18.94,78.2,84.9,144.0,21.4,167.0
+22011.0,Danza Moderna,Estados Unidos ,CONTEMPORANEA,Alta,8.0,Maestro,Básico,1-2 veces/semana,RECREATIVA,18.0,5.0,7.0,3.0,4.0,0.0,20.84,98.7,83.4,,19.6,173.0
+22012.0,Bachata,Republica Dominicana,latina,Media,19.0,Principiante, avanzado , Diaria ,recreativa,31.0,6.0,9.0,7.0,4.0,3.0,50.66,89.8,55.6,141.0,20.3,161.0
+22013.0,ballet clasico,FRANCIA,CLASICA,Muy Alta,8.0,maestro, intermedio ,3-4 VECES/SEMANA,Recreativa,43.0,19.0,13.0,2.0,7.0,0.0,25.02,88.0,64.1,193.0,20.7,169.0
+22014.0, Danza Moderna ,estados unidos,Contemporanea,Alta,15.0,PROFESIONAL,Básico,1-2 veces/semana,PROFESIONAL,47.0,17.0,7.0,5.0,2.0,0.0,8.52,68.2,74.6,,20.8,171.0
+22015.0,flamenco,  España,  Latina,Alta,20.0,profesional,basico,3-4 VECES/SEMANA,recreativa,31.0,5.0,11.0,10.0,2.0,0.0,14.66,61.7,74.4,,21.2,169.0
+22016.0,Bachata,Republica Dominicana,Latina ,Media,17.0,principiante,EXPERTO,3-4 veces/semana, Independiente ,10.0,-7.0,11.0,7.0,5.0,0.0,5000.0,89.3,63.5,160.0,17.8,157.0
+22017.0, Danza Moderna ,  Estados Unidos,contemporanea,Alta,8.0,INTERMEDIO,Avanzado, 3-4 veces/semana ,INDEPENDIENTE,29.0,7.0,10.0,7.0,4.0,1.0,289.18,88.1,82.7,114.0,18.8,166.0
+22018.0, Merengue ,Republica Dominicana,LATINA,Baja,20.0,Maestro,INTERMEDIO,5-6 veces/semana,INDEPENDIENTE,9.0,-11.0,13.0,10.0,3.0,0.0,113.93,97.1,81.0,118.0,17.1,169.0
+22019.0, Folclor Venezolano ,Venezuela,Folklorica,Media,14.0, avanzado ,AVANZADO, 1-2 veces/semana ,UNIVERSITARIA,31.0,3.0,14.0,1.0,2.0,0.0,274.77,65.9,75.7,200.0,23.9,165.0
+22020.0, Ballet Clásico ,francia,Clasica,Muy Alta,10.0, maestro ,INTERMEDIO,DIARIA,UNIVERSITARIA,51.0,21.0,9.0,5.0,4.0,2.0,46.35,71.6,68.9,122.0,14.7,144.0
+22021.0,  Ballet Clásico  ,venezuela,Folklorica ,Media,9.0, profesional ,intermedio,DIARIA,Recreativa,37.0,16.0,8.0,3.0,4.0,2.0,26.1,50.4,,115.0,24.5,167.0
+22022.0,folclor colombiano,Colombia,FOLKLORICA,Media,14.0,PROFESIONAL, intermedio ,DIARIA,INDEPENDIENTE,45.0,18.0,11.0,8.0,5.0,0.0,128.08,69.1,,184.0,25.2,187.0
+22023.0,breaking,Estados Unidos ,  Urbana,Alta,10.0,principiante,Básico,DIARIA,PROFESIONAL,9.0,-1.0,6.0,7.0,1.0,3.0,31.59,89.9,72.2,160.0,20.1,161.0
+22024.0,Danza Contemporánea,estados unidos,contemporanea,Alta,13.0,INTERMEDIO, Básico ,1-2 veces/semana, Independiente ,28.0,11.0,5.0,3.0,2.0,1.0,28.46,68.0,70.7,122.0,13.2,158.0
+22025.0,Rumba,cuba,  Salon,Media,18.0,Avanzado,basico, Diaria ,INDEPENDIENTE,40.0,13.0,8.0,1.0,1.0,1.0,21.17,84.6,83.9,156.0,19.9,169.0
+22026.0,HIP HOP,estados unidos, Urbana ,Alta,18.0,maestro,Avanzado, 3-4 veces/semana ,universitaria,19.0,0.0,11.0,5.0,4.0,4.0,11.11,72.1,73.7,119.0,20.8,168.0
+22027.0,Ballet Ingles, Reino Unido ,Clasica,Muy Alta,6.0,Intermedio,experto,5-6 veces/semana,Universitaria,29.0,13.0,7.0,3.0,1.0,1.0,23.71,79.9,76.3,183.0,18.0,177.0
+22028.0,Ballet Inglés,  Reino Unido,Clasica,Muy Alta,9.0,avanzado,basico,ocasional,profesional,51.0,29.0,14.0,6.0,3.0,0.0,35.12,57.8,86.9,182.0,19.5,152.0
+22029.0,Danza Árabe,Egipto,Folklorica ,Alta,15.0,PROFESIONAL,AVANZADO,diaria, Universitaria ,32.0,9.0,11.0,3.0,1.0,1.0,89.67,76.3,55.1,166.0,,172.0
+22030.0,Tango,Argentina ,LATINA,Alta,34.0, profesional ,Básico,OCASIONAL,PROFESIONAL,34.0,0.0,9.0,4.0,2.0,1.0,5.17,30.1,93.8,161.0,23.0,171.0
+22031.0,Folclor Venezolano,venezuela, Folklorica ,Media,12.0, Principiante ,BASICO,ocasional,universitaria,49.0,12.0,10.0,5.0,5.0,0.0,-100.0,,78.9,,,164.0
+22032.0, Folclor Mexicano , Mexico , Folklorica ,Media,8.0,Principiante,Avanzado,ocasional,INDEPENDIENTE,35.0,14.0,5.0,8.0,4.0,0.0,132.45,50.5,73.1,150.0,16.2,168.0
+22033.0,bachata,  Republica Dominicana, Latina ,Media,30.0, maestro ,avanzado,3-4 VECES/SEMANA,INDEPENDIENTE,23.0,-7.0,7.0,7.0,3.0,0.0,12.71,93.1,76.9,115.0,,175.0
+22034.0,Rumba,CUBA,SALON,Media,20.0, intermedio ,Experto, Diaria ,profesional,22.0,2.0,8.0,5.0,3.0,2.0,33.56,86.7,77.5,163.0,20.4,174.0
+22035.0, Popping ,ESTADOS UNIDOS,urbana,Media,20.0,intermedio,Intermedio,1-2 veces/semana,profesional,54.0,15.0,12.0,4.0,5.0,0.0,160.0,82.0,57.2,213.0,22.5,154.0
+22036.0,MERENGUE,republica dominicana,Latina,Baja,20.0,avanzado,intermedio, 3-4 veces/semana , Universitaria ,51.0,9.0,11.0,6.0,3.0,0.0,13.47,97.8,95.9,120.0,19.4,173.0
+22037.0,danza arabe,Egipto ,FOLKLORICA,Alta,20.0,maestro,Básico,1-2 veces/semana,universitaria,10.0,-10.0,12.0,8.0,2.0,0.0,6.91,60.8,78.5,139.0,22.5,164.0
+22038.0,tango,Argentina , Latina ,Alta,23.0,Principiante,AVANZADO,diaria,PROFESIONAL,44.0,10.0,11.0,4.0,1.0,0.0,53.02,101.2,83.3,162.0,26.8,166.0
+22039.0, Danza Árabe ,  Egipto,Folklorica,Alta,14.0,maestro, experto ,3-4 veces/semana,PROFESIONAL,14.0,0.0,10.0,3.0,2.0,1.0,28.81,89.0,89.4,148.0,23.4,166.0
+22040.0,MERENGUE,  Republica Dominicana,Latina,Baja,26.0,profesional, experto , ocasional ,Independiente,28.0,0.0,8.0,2.0,1.0,0.0,66.3,71.5,65.7,121.0,20.9,163.0
+22041.0,FOLCLOR COLOMBIANO,Colombia,Clasica   ,Media,7.0,PRINCIPIANTE, intermedio ,3-4 veces/semana,INDEPENDIENTE,16.0,5.0,5.0,3.0,2.0,0.0,130.29,92.0,83.7,184.0,20.5,177.0
+22042.0,Ballet Ruso,rusia, Clasica ,Muy Alta,8.0, intermedio ,Intermedio, 3-4 veces/semana ,profesional,46.0,21.0,12.0,9.0,1.0,0.0,11.8,58.4,74.8,220.0,19.9,164.0
+22043.0,Danza Contemporánea Europea,ALEMANIA,Contemporanea,Alta,9.0, Principiante , intermedio , Diaria ,INDEPENDIENTE,25.0,9.0,12.0,5.0,3.0,1.0,69.53,,88.2,156.0,24.5,154.0
+22044.0,hiphop,Estados Unidos,Urbana ,Media,13.0,PROFESIONAL,EXPERTO,OCASIONAL,RECREATIVA,11.0,-2.0,13.0,4.0,3.0,0.0,56.34,65.9,52.5,123.0,19.1,161.0
+22045.0,BALLET RUSO,Rusia ,  Clasica,Muy Alta,6.0, Principiante ,Avanzado,Ocasional,UNIVERSITARIA,32.0,17.0,8.0,7.0,6.0,0.0,12.45,67.1,76.8,104.0,21.1,167.0
+22046.0,DANZA CONTEMPORANEA EUROPEA,Alemania,  Contemporanea,Alta,9.0,Intermedio,avanzado,5-6 VECES/SEMANA, Independiente ,21.0,4.0,9.0,8.0,5.0,1.0,78.25,150.0,70.8,158.0,21.2,177.0
+22047.0,ballet ingles,REINO UNIDO,Clasica,Muy Alta,7.0, profesional , Básico ,5-6 veces/semana,Recreativa,16.0,8.0,15.0,4.0,6.0,0.0,25.58,93.3,,183.0,19.5,171.0
+22048.0,HIP HOP,Estados Unidos ,urbana,Media,12.0,avanzado,experto, 1-2 veces/semana ,profesional,33.0,9.0,17.0,4.0,1.0,2.0,53.53,71.1,83.6,164.0,16.9,156.0
+22049.0, Tango ,  Argentina,latina,Alta,32.0,Maestro,BASICO, 5-6 veces/semana ,INDEPENDIENTE,9.0,-23.0,7.0,8.0,2.0,1.0,6.87,80.3,69.5,150.0,22.0,190.0
+22050.0,POPPING, Estados Unidos ,Urbana ,Media,19.0,Avanzado,Básico, Diaria , Profesional ,27.0,1.0,14.0,5.0,4.0,2.0,49.23,66.4,69.5,132.0,20.8,168.0
+22051.0,Popping, Estados Unidos ,urbana,Media,20.0,profesional,INTERMEDIO, 3-4 veces/semana ,UNIVERSITARIA,35.0,6.0,13.0,5.0,2.0,0.0,29.28,47.7,76.7,117.0,22.5,178.0
+22052.0,DANZA MODERNA,  Estados Unidos,Contemporanea,Alta,9.0, profesional , avanzado ,ocasional,PROFESIONAL,54.0,17.0,7.0,6.0,1.0,1.0,138.25,79.1,67.2,175.0,19.4,163.0
+22053.0,danza contemporanea europea,alemania,contemporanea,Alta,12.0, profesional ,AVANZADO, 3-4 veces/semana ,recreativa,14.0,2.0,16.0,7.0,4.0,2.0,4.69,46.3,88.1,177.0,24.7,170.0
+22054.0,Cha Cha Cha,Cuba,Salon,Media,21.0, intermedio ,BASICO, Diaria ,profesional,51.0,13.0,7.0,2.0,4.0,0.0,43.39,74.0,73.6,104.0,18.4,173.0
+22055.0,flamenco,España ,Latina ,Alta,16.0,PROFESIONAL, avanzado ,3-4 veces/semana, Recreativa ,15.0,-1.0,15.0,1.0,1.0,1.0,49.06,54.5,43.1,198.0,26.1,177.0
+22056.0,TANGO,  Argentina, Latina ,Alta,34.0,maestro,Básico,OCASIONAL,INDEPENDIENTE,54.0,16.0,12.0,7.0,4.0,0.0,103.28,104.8,73.5,167.0,15.8,176.0
+22057.0,danza contemporanea,  Estados Unidos,Contemporanea ,Alta,13.0,Intermedio, intermedio , 5-6 veces/semana ,INDEPENDIENTE,42.0,13.0,16.0,5.0,3.0,0.0,68.32,88.7,65.5,192.0,22.3,174.0
+22058.0,folclor mexicano,mexico,Folklorica ,Media,13.0,Profesional, Básico ,1-2 veces/semana,recreativa,21.0,6.0,8.0,4.0,1.0,1.0,88.02,76.6,58.4,110.0,22.4,162.0
+22059.0, Danza Contemporánea ,Estados Unidos,Contemporanea ,Alta,12.0,INTERMEDIO,experto,ocasional, Universitaria ,24.0,2.0,7.0,4.0,2.0,1.0,120.06,94.0,,109.0,18.6,159.0
+22060.0,Popping,  Estados Unidos,urbana,Media,11.0, maestro ,AVANZADO, ocasional , Universitaria ,43.0,10.0,8.0,3.0,1.0,0.0,158.56,62.3,79.3,146.0,22.3,168.0
+22061.0, Rumba ,CUBA,Salon ,Media,32.0,Maestro, intermedio , ocasional ,universitaria,47.0,3.0,4.0,8.0,2.0,1.0,30.14,-20.0,93.9,165.0,24.8,174.0
+22062.0,Flamenco,  España, Latina ,Alta,8.0,Intermedio, avanzado ,ocasional,Independiente,11.0,2.0,10.0,7.0,2.0,0.0,61.78,78.0,81.8,204.0,14.3,163.0
+22063.0,MERENGUE,Republica Dominicana , Latina ,Baja,16.0,PRINCIPIANTE,AVANZADO,Diaria,independiente,9.0,-7.0,8.0,1.0,3.0,1.0,146.66,79.0,70.7,171.0,22.5,176.0
+22064.0,FOLCLOR COLOMBIANO,Colombia, Folklorica ,Media,10.0,Avanzado, Básico , ocasional ,UNIVERSITARIA,13.0,3.0,14.0,2.0,4.0,1.0,364.14,94.1,83.5,143.0,,180.0
+22065.0, Danza Árabe ,Egipto ,FOLKLORICA,Alta,27.0,profesional,INTERMEDIO,3-4 veces/semana,profesional,49.0,10.0,7.0,4.0,4.0,2.0,,86.0,72.5,119.0,18.1,156.0
+22066.0, Folclor Venezolano ,  Francia,Folklorica ,Media,5.0,AVANZADO,EXPERTO,Diaria,UNIVERSITARIA,11.0,3.0,14.0,6.0,0.0,0.0,37.15,79.3,69.7,187.0,25.9,157.0
+22067.0,Danza Contemporánea Europea,ALEMANIA, Contemporanea ,Alta,9.0,Maestro,Básico,5-6 veces/semana,PROFESIONAL,36.0,18.0,14.0,4.0,3.0,2.0,17.37,50.2,64.1,121.0,19.3,164.0
+22068.0,ballet clasico,Francia ,CLASICA,Muy Alta,9.0,Avanzado,avanzado,3-4 veces/semana,UNIVERSITARIA,25.0,4.0,16.0,6.0,0.0,2.0,53.77,60.6,57.0,199.0,17.5,168.0
+22069.0,Hip Hop, Estados Unidos ,Urbana ,Media,15.0,Principiante,INTERMEDIO,3-4 veces/semana, Profesional ,33.0,13.0,13.0,8.0,3.0,0.0,108.27,73.2,73.3,141.0,20.4,160.0
+22070.0,danza contemporanea europea,  Alemania,Contemporanea ,Alta,14.0,avanzado,BASICO,3-4 VECES/SEMANA,Independiente,51.0,10.0,10.0,7.0,1.0,1.0,54.27,76.4,79.9,198.0,27.2,179.0
+22071.0,danza moderna,ESTADOS UNIDOS,Contemporanea,Alta,8.0,avanzado,experto, 3-4 veces/semana ,universitaria,41.0,16.0,13.0,5.0,4.0,0.0,52.8,58.0,76.8,170.0,15.5,169.0
+22072.0,CHA CHA CHA,Cuba,Salon ,Media,38.0,MAESTRO,Avanzado,Diaria,Universitaria,17.0,-21.0,9.0,2.0,5.0,2.0,145.73,111.2,73.0,146.0,17.8,165.0
+22073.0,Vals,Austria ,  Salon,Media,37.0,MAESTRO,Experto,5-6 veces/semana,Recreativa,43.0,3.0,7.0,1.0,1.0,0.0,35.88,,66.7,134.0,25.5,151.0
+22074.0,hip hop,  Estados Unidos,Urbana,Media,20.0, profesional , Básico ,5-6 veces/semana,UNIVERSITARIA,21.0,1.0,8.0,7.0,3.0,1.0,157.17,84.0,85.3,140.0,26.6,152.0
+22075.0,flamenco,ESPAÑA,latina,Alta,11.0,Intermedio,Básico,OCASIONAL,PROFESIONAL,38.0,17.0,8.0,4.0,3.0,1.0,41.78,76.1,62.2,163.0,20.7,168.0
+22076.0,POPPING,Estados Unidos,  Urbana,Media,18.0,PROFESIONAL,basico,1-2 veces/semana,Recreativa,22.0,1.0,2.0,1.0,3.0,0.0,31.83,71.8,120.0,152.0,17.3,144.0
+22077.0, Cha Cha Cha , Cuba ,salon,Media,24.0,maestro,basico,DIARIA, Universitaria ,15.0,-9.0,9.0,6.0,2.0,1.0,48.41,60.7,66.0,132.0,27.3,175.0
+22078.0,salsa, Cuba ,LATINA,Media,17.0, profesional ,Avanzado,5-6 veces/semana,universitaria,21.0,2.0,13.0,5.0,3.0,2.0,114.99,76.2,69.0,145.0,25.8,163.0
+22079.0,danza contemporanea europea,Alemania,  Contemporanea,Alta,14.0, avanzado ,EXPERTO,Diaria,Independiente,30.0,4.0,9.0,8.0,3.0,1.0,10.77,78.9,60.4,152.0,23.0,197.0
+22080.0,Danza Contemporánea Europea, Alemania ,Contemporanea,Alta,10.0,AVANZADO, Básico ,DIARIA,Recreativa,47.0,18.0,17.0,5.0,4.0,1.0,17.49,56.4,72.0,86.0,18.6,188.0
+22081.0,MERENGUE,REPUBLICA DOMINICANA,latina,Baja,25.0,maestro, Básico ,Ocasional,PROFESIONAL,28.0,1.0,11.0,4.0,3.0,2.0,242.0,80.0,89.7,164.0,20.9,163.0
+22082.0,danza contemporanea europea,  Alemania,contemporanea,Alta,12.0,maestro,INTERMEDIO,5-6 VECES/SEMANA,universitaria,23.0,9.0,16.0,10.0,1.0,0.0,15.44,72.7,84.2,121.0,20.5,164.0
+22083.0,merengue, Republica Dominicana ,latina,Baja,15.0,Profesional,Básico,1-2 veces/semana,Independiente,52.0,31.0,11.0,7.0,2.0,0.0,67.1,46.4,89.7,115.0,22.0,175.0
+22084.0, Vals ,  Austria,Salon ,Media,17.0,PROFESIONAL, avanzado ,1-2 veces/semana,UNIVERSITARIA,25.0,6.0,7.0,4.0,4.0,0.0,69.27,62.1,84.3,99.0,25.4,182.0
+22085.0, Popping ,estados unidos,Urbana,Media,13.0,AVANZADO,experto,1-2 VECES/SEMANA,Recreativa,54.0,22.0,7.0,8.0,1.0,1.0,53.81,,64.8,96.0,23.6,149.0
+22086.0,danza moderna, Estados Unidos ,contemporanea,Alta,15.0,Avanzado  ,AVANZADO,3-4 VECES/SEMANA,PROFESIONAL,31.0,10.0,13.0,5.0,4.0,1.0,82.79,103.3,74.0,109.0,17.8,147.0
+22087.0,RUMBA,cuba,Salon,Media,34.0, intermedio ,Experto,5-6 veces/semana,independiente,33.0,-1.0,9.0,5.0,2.0,2.0,20.89,83.3,68.6,129.0,25.1,159.0
+22088.0,bachata,  Republica Dominicana, Latina ,Media,19.0,MAESTRO,Básico, 3-4 veces/semana , Universitaria ,32.0,9.0,12.0,5.0,1.0,0.0,64.36,55.0,94.0,209.0,21.9,171.0
+22089.0,Ballet Inglés,Reino Unido , Clasica ,Muy Alta,10.0,Profesional,Experto,3-4 veces/semana,Profesional,52.0,28.0,13.0,2.0,5.0,0.0,37.24,82.3,63.6,,23.1,170.0
+22090.0,ballet ruso,  Rusia,  Clasica,Muy Alta,8.0, intermedio , Básico ,3-4 VECES/SEMANA, Universitaria ,48.0,30.0,7.0,3.0,6.0,1.0,86.7,51.8,88.7,155.0,25.4,176.0
+22091.0,BALLET INGLES,REINO UNIDO,Clasica ,Muy Alta,7.0,profesional,EXPERTO,OCASIONAL,universitaria,36.0,16.0,11.0,4.0,1.0,0.0,12.18,91.2,-15.0,162.0,,153.0
+22092.0,Tango,Argentina , Latina ,Alta,39.0,principiante,Experto, ocasional ,recreativa,22.0,-17.0,8.0,9.0,7.0,2.0,,67.9,100.0,154.0,20.9,142.0
+22093.0,FOLCLOR VENEZOLANO,Venezuela ,FOLKLORICA,Media,16.0,AVANZADO, intermedio ,DIARIA,RECREATIVA,52.0,13.0,11.0,0.0,4.0,0.0,16.39,73.6,73.1,148.0,,174.0
+22094.0, Locking , Estados Unidos ,Urbana,Media,20.0, profesional ,basico,diaria,UNIVERSITARIA,8.0,-12.0,5.0,5.0,3.0,2.0,,94.9,86.5,114.0,16.3,157.0
+22095.0,BALLET RUSO, Rusia ,clasica,Muy Alta,5.0,Profesional,AVANZADO,5-6 veces/semana, Independiente ,32.0,18.0,9.0,5.0,3.0,2.0,19.74,55.7,105.4,194.0,22.0,145.0
+22096.0,Popping, Estados Unidos ,URBANA,Media,14.0,principiante,intermedio,5-6 veces/semana,RECREATIVA,14.0,0.0,12.0,5.0,0.0,0.0,16.15,,70.6,204.0,28.5,166.0
+22097.0,rumba,  Cuba,  Salon,Media,31.0,Intermedio,experto, ocasional , Recreativa ,16.0,-15.0,5.0,5.0,3.0,2.0,139.76,66.2,,100.0,15.5,173.0
+22098.0,Bachata,Republica Dominicana ,LATINA,Media,15.0, profesional ,experto,diaria,Recreativa,31.0,10.0,12.0,4.0,3.0,0.0,26.92,90.6,55.4,119.0,20.9,164.0
+22099.0, Rumba ,CUBA,  Salon,Media,37.0,principiante,INTERMEDIO,DIARIA,Recreativa,8.0,-29.0,14.0,9.0,1.0,0.0,209.52,52.2,86.6,,22.9,160.0
+22100.0,DANZA ARABE,EGIPTO, Folklorica ,Alta,23.0,Intermedio,AVANZADO,3-4 veces/semana,PROFESIONAL,51.0,17.0,10.0,6.0,0.0,4.0,280.33,32.5,55.4,121.0,21.4,163.0
+22101.0,ballet  clasico,francia,Clasica,Muy Alta,9.0,Maestro, Básico ,1-2 VECES/SEMANA,universitaria,15.0,2.0,13.0,2.0,2.0,2.0,67.75,68.2,73.5,165.0,20.7,161.0
+22102.0,Folclor Colombiano,Colombia,  Folklorica,Media,17.0,MAESTRO,AVANZADO,1-2 veces/semana, Profesional ,31.0,4.0,12.0,6.0,4.0,1.0,12.35,83.3,83.2,128.0,17.1,152.0
+22103.0,flamenco,ESPAÑA,latina,Alta,16.0,AVANZADO,AVANZADO, 1-2 veces/semana ,profesional,18.0,2.0,8.0,6.0,6.0,1.0,37.54,93.0,,215.0,21.7,158.0
+22104.0,Bachata, Republica Dominicana ,LATINA,Media,25.0, Principiante ,basico, ocasional ,UNIVERSITARIA,24.0,-1.0,13.0,6.0,3.0,0.0,,68.1,83.1,186.0,18.7,170.0
+22105.0,Danza Contemporánea Europea,alemania,  Contemporanea,Alta,11.0,PROFESIONAL, avanzado ,1-2 VECES/SEMANA,Recreativa,15.0,4.0,12.0,5.0,3.0,0.0,36.63,68.8,80.7,156.0,14.4,168.0
+22106.0,FLAMENCO, España ,Latina ,Alta,21.0, Principiante , intermedio ,1-2 veces/semana,Independiente,42.0,8.0,11.0,2.0,2.0,0.0,7.28,92.3,93.3,400.0,24.6,167.0
+22107.0,Ballet Inglés,Reino Unido ,  Clasica,Muy Alta,10.0,Maestro,intermedio,3-4 veces/semana,Recreativa,42.0,11.0,14.0,5.0,1.0,0.0,65.1,47.0,66.6,183.0,,155.0
+22108.0,LOCKING,Estados Unidos ,urbana,Media,19.0,PROFESIONAL, Básico ,5-6 VECES/SEMANA,recreativa,40.0,6.0,13.0,3.0,0.0,0.0,149.21,69.2,69.9,133.0,21.2,163.0
+22109.0,LOCKING,  Estados Unidos, Urbana ,Media,20.0,Principiante,experto,Ocasional,recreativa,12.0,-8.0,8.0,3.0,2.0,2.0,127.14,77.9,68.7,126.0,21.7,143.0
+22110.0,Cha Cha Cha, Cuba ,Salon,Media,34.0,Intermedio,BASICO, Diaria ,recreativa,49.0,5.0,14.0,3.0,6.0,0.0,15.4,81.7,88.0,152.0,24.2,167.0
+22111.0,VALS,AUSTRIA,Salon ,Media,41.0,profesional,  Intermedio  , 3-4 veces/semana ,INDEPENDIENTE,46.0,1.0,11.0,6.0,6.0,0.0,89.37,67.4,88.8,176.0,21.7,179.0
+22112.0,DANZA CONTEMPORANEA EUROPEA,Alemania,contemporanea,Alta,14.0,Intermedio,Básico,1-2 veces/semana,profesional,48.0,12.0,11.0,6.0,3.0,1.0,19.93,75.5,83.4,154.0,23.7,150.0
+22113.0,BACHATA, Republica Dominicana ,  Latina,Media,29.0,PRINCIPIANTE,basico, Diaria ,independiente,35.0,2.0,13.0,4.0,3.0,3.0,19.69,37.7,92.2,103.0,20.1,159.0
+22114.0,danza contemporanea,ESTADOS UNIDOS,contemporanea,Alta,11.0, profesional ,avanzado,3-4 veces/semana, Universitaria ,14.0,3.0,13.0,5.0,2.0,1.0,165.76,,63.9,126.0,24.9,168.0
+22115.0, Cha Cha Cha ,cuba,SALON,Media,39.0,Avanzado,INTERMEDIO,OCASIONAL, Recreativa ,16.0,-23.0,18.0,5.0,5.0,2.0,22.98,81.8,98.0,148.0,22.0,178.0
+22116.0,vals, Austria ,salon,Media,34.0,AVANZADO,AVANZADO, 1-2 veces/semana ,INDEPENDIENTE,15.0,-19.0,12.0,7.0,3.0,0.0,24.44,60.3,96.3,148.0,21.6,161.0
+22117.0, Hip Hop ,estados unidos,Urbana,Media,18.0, maestro ,intermedio,Ocasional,universitaria,19.0,1.0,8.0,5.0,2.0,0.0,0.05,75.9,86.8,209.0,17.2,158.0
+22118.0,Flamenco,ESPAÑA,Latina,Alta,17.0,Profesional,BASICO,3-4 veces/semana,INDEPENDIENTE,41.0,9.0,4.0,3.0,2.0,1.0,,81.7,99.4,108.0,21.9,145.0
+22119.0,TANGO,ARGENTINA,latina,Alta,21.0,PRINCIPIANTE,intermedio,diaria, Recreativa ,40.0,10.0,8.0,4.0,2.0,1.0,125.85,69.9,58.1,165.0,18.5,166.0
+22120.0, Danza Contemporánea ,ESTADOS UNIDOS,CONTEMPORANEA,Alta,13.0,AVANZADO,intermedio, 5-6 veces/semana , Recreativa ,30.0,6.0,12.0,7.0,3.0,3.0,78.96,77.6,71.7,195.0,19.1,185.0
+22121.0, Folclor Mexicano ,MEXICO,Folklorica ,Media,19.0,maestro,INTERMEDIO,1-2 veces/semana,universitaria,31.0,4.0,13.0,5.0,1.0,0.0,110.99,60.6,69.2,-50.0,18.6,168.0
+22122.0, Bachata ,Republica Dominicana ,  Latina,Media,18.0,Profesional,avanzado, ocasional , Independiente ,44.0,14.0,10.0,7.0,6.0,0.0,13.19,71.9,86.7,138.0,17.8,165.0
+22123.0, Folclor Venezolano ,  Venezuela,Folklorica ,Media,10.0,AVANZADO,Básico,diaria,RECREATIVA,42.0,20.0,12.0,8.0,4.0,1.0,49.05,84.2,65.4,165.0,27.4,168.0
+22124.0,Bachata,REPUBLICA DOMINICANA,LATINA,Media,21.0, profesional ,Básico,Diaria, Universitaria ,51.0,9.0,9.0,7.0,6.0,1.0,34.61,77.4,87.1,167.0,25.0,165.0
+22125.0,ballet  clasico,Francia , Clasica ,Muy Alta,10.0,maestro, intermedio ,5-6 VECES/SEMANA,INDEPENDIENTE,47.0,20.0,12.0,5.0,2.0,0.0,7.88,66.2,94.4,156.0,26.8,157.0
+22126.0,BREAKING,Estados Unidos,Urbana,Alta,11.0,principiante,Básico,3-4 veces/semana,INDEPENDIENTE,29.0,9.0,5.0,8.0,5.0,0.0,53.26,78.4,86.3,147.0,17.3,173.0
+22127.0,ballet clasico,Francia , Clasica ,Muy Alta,10.0, maestro ,Básico,5-6 VECES/SEMANA,universitaria,34.0,7.0,11.0,4.0,2.0,1.0,202.8,85.7,81.4,163.0,21.2,167.0
+22128.0,CHA CHA CHA,cuba,  Salon,Media,29.0,PRINCIPIANTE, intermedio ,5-6 veces/semana,Independiente,42.0,4.0,17.0,6.0,3.0,1.0,3.27,44.3,66.1,74.0,17.1,165.0
+22129.0,vals,Austria,SALON,Media,24.0, intermedio ,Intermedio,3-4 veces/semana,independiente,8.0,-16.0,9.0,8.0,6.0,1.0,,92.4,67.8,170.0,18.9,155.0
+22130.0,Danza Árabe,egipto,  Folklorica,Alta,11.0,avanzado, Básico ,3-4 veces/semana,recreativa,42.0,10.0,9.0,6.0,6.0,2.0,18.61,70.0,93.0,154.0,18.2,178.0
+22131.0,hip hop,  Estados Unidos, Urbana ,Media,17.0, intermedio ,Básico,Diaria  ,RECREATIVA,44.0,17.0,15.0,3.0,5.0,4.0,21.76,81.4,87.4,143.0,24.7,172.0
+22132.0,Ballet Ruso, Rusia ,CLASICA,Muy Alta,8.0,PRINCIPIANTE,Básico, Diaria ,Recreativa,54.0,18.0,7.0,8.0,4.0,1.0,191.26,,77.5,211.0,19.8,159.0
+22133.0, Vals , Austria ,Salon ,Media,27.0,profesional,Básico,Diaria,Universitaria,21.0,-6.0,11.0,4.0,3.0,0.0,50.5,54.4,73.0,130.0,24.2,175.0
+22134.0, Cha Cha Cha ,Cuba ,Salon ,Media,46.0, Principiante ,AVANZADO, 1-2 veces/semana ,profesional,10.0,-36.0,14.0,7.0,1.0,1.0,50.23,64.4,53.7,138.0,22.8,160.0
+22135.0, Ballet Ruso ,rusia, Clasica ,Muy Alta,6.0, Principiante ,INTERMEDIO,1-2 veces/semana, Independiente ,8.0,2.0,19.0,2.0,4.0,4.0,114.36,70.7,65.1,210.0,27.9,157.0
+22136.0,salsa,  Cuba, Latina ,Media,12.0,PROFESIONAL,avanzado,5-6 veces/semana, Universitaria ,12.0,0.0,13.0,10.0,3.0,0.0,13.43,63.2,100.9,125.0,60.0,157.0
+22137.0,Ballet Ruso, Rusia ,Clasica,Muy Alta,8.0,intermedio,Básico,5-6 veces/semana, Profesional ,33.0,13.0,6.0,6.0,4.0,1.0,53.44,101.0,62.6,133.0,24.8,147.0
+22138.0,folclor mexicano,  Mexico,Folklorica ,Media,10.0,avanzado,Intermedio,1-2 veces/semana, Profesional ,21.0,2.0,15.0,4.0,2.0,0.0,44.97,62.1,80.3,146.0,24.4,170.0
+22139.0, Folclor Mexicano ,  Mexico,Folklorica,Media,6.0,Principiante, intermedio ,ocasional,universitaria,46.0,25.0,13.0,5.0,2.0,0.0,72.69,66.7,90.1,175.0,18.1,147.0
+22140.0,Ballet Ingles, Reino Unido , Clasica ,Muy Alta,6.0,principiante,basico, 5-6 veces/semana ,PROFESIONAL,34.0,16.0,5.0,6.0,4.0,2.0,617.88,78.1,62.9,156.0,24.0,153.0
+22141.0,Salsa, Cuba ,  Latina,Media,26.0,AVANZADO,Básico,diaria,recreativa,16.0,-10.0,12.0,4.0,4.0,1.0,117.38,57.0,80.2,111.0,22.0,144.0
+22142.0,merengue,Republica Dominicana,LATINA,Baja,26.0,principiante,Experto,ocasional,Universitaria,22.0,-4.0,7.0,5.0,1.0,0.0,40.58,69.1,89.3,134.0,20.3,164.0
+22143.0,DANZA CONTEMPORANEA EUROPEA,Alemania,Contemporanea ,Alta,15.0,avanzado, experto , 3-4 veces/semana ,INDEPENDIENTE,22.0,2.0,4.0,6.0,2.0,2.0,140.61,79.8,78.1,132.0,18.5,163.0
+22144.0, Vals ,AUSTRIA,SALON,Media,50.0, avanzado , Básico ,DIARIA,Recreativa,33.0,-17.0,8.0,3.0,4.0,0.0,14.97,70.0,112.4,148.0,18.8,162.0
+22145.0, Locking ,estados unidos,Urbana,Media,12.0, avanzado ,BASICO,1-2 veces/semana,independiente,49.0,13.0,8.0,7.0,2.0,2.0,2.47,73.6,58.0,163.0,27.1,155.0
+22146.0, Danza Moderna , Estados Unidos ,Contemporanea,Alta,15.0,profesional,EXPERTO,diaria,PROFESIONAL,20.0,5.0,9.0,7.0,3.0,2.0,18.3,67.1,90.7,163.0,21.0,153.0
+22147.0,BACHATA,  Republica Dominicana,latina,Media,19.0,Intermedio,experto,1-2 veces/semana, Recreativa ,39.0,13.0,11.0,8.0,5.0,3.0,33.29,52.3,75.9,,23.3,170.0
+22148.0,FOLCLOR MEXICANO,mexico,  Folklorica,Media,20.0, intermedio ,AVANZADO,Diaria,INDEPENDIENTE,46.0,12.0,13.0,4.0,2.0,1.0,57.16,79.8,87.3,182.0,18.6,159.0
+22149.0,danza moderna,ESTADOS UNIDOS,Contemporanea ,Alta,12.0,Maestro, experto ,1-2 VECES/SEMANA, Universitaria ,39.0,11.0,10.0,7.0,2.0,0.0,76.39,101.3,83.3,158.0,18.7,168.0
+22150.0, Hip Hop ,  Estados Unidos,Urbana ,Media,11.0,profesional, Básico ,DIARIA,Profesional,11.0,0.0,6.0,3.0,2.0,3.0,193.18,75.3,69.2,192.0,24.2,156.0
+22151.0,RUMBA,Cuba ,Salon,Media,30.0,MAESTRO,experto,3-4 VECES/SEMANA,independiente,37.0,5.0,11.0,4.0,2.0,1.0,57.04,,,163.0,10.0,167.0
+22152.0,FLAMENCO,ESPAÑA,  Latina,Alta,18.0,intermedio, experto ,OCASIONAL,profesional,44.0,11.0,11.0,4.0,4.0,4.0,55.66,85.4,55.7,183.0,19.8,178.0
+22153.0,LOCKING, Estados Unidos ,URBANA,Media,18.0,intermedio,INTERMEDIO,1-2 veces/semana,Independiente,30.0,7.0,8.0,0.0,2.0,1.0,4.12,56.0,85.2,164.0,21.1,171.0
+22154.0,Bachata,Republica Dominicana ,Latina ,Media,16.0,intermedio,basico,OCASIONAL, Universitaria ,46.0,18.0,5.0,1.0,2.0,1.0,2.84,100.5,81.6,190.0,21.3,161.0
+22155.0,ballet ingles,Reino Unido ,Clasica,Muy Alta,6.0,PRINCIPIANTE, experto ,1-2 veces/semana, Recreativa ,52.0,24.0,9.0,1.0,3.0,1.0,64.09,78.0,85.7,166.0,20.5,168.0
+22156.0, Danza Moderna ,ESTADOS UNIDOS,contemporanea,Alta,10.0, maestro ,Avanzado,1-2 veces/semana,  Profesional  ,22.0,6.0,11.0,7.0,2.0,1.0,46.13,99.5,90.7,147.0,22.2,163.0
+22157.0,breaking, Estados Unidos , Urbana ,Alta,11.0,Profesional,experto,3-4 veces/semana,PROFESIONAL,50.0,24.0,13.0,5.0,2.0,1.0,146.2,64.0,82.4,218.0,23.1,165.0
+22158.0, Merengue ,  Republica Dominicana,Latina ,Baja,25.0, maestro ,Básico, Diaria , Universitaria ,36.0,7.0,6.0,5.0,2.0,2.0,14.01,102.3,79.8,177.0,23.2,162.0
+22159.0,DANZA CONTEMPORANEA EUROPEA,Alemania ,  Contemporanea,Alta,15.0, intermedio ,basico,1-2 veces/semana, Recreativa ,43.0,15.0,11.0,8.0,5.0,0.0,2.02,86.6,67.4,167.0,18.0,163.0
+22160.0, Danza Moderna ,ESTADOS UNIDOS, Contemporanea ,Alta,8.0, profesional ,EXPERTO,Diaria,Profesional,20.0,6.0,8.0,3.0,4.0,2.0,47.69,83.3,69.5,112.0,20.1,167.0
+22161.0,ballet ruso,RUSIA,CLASICA,Muy Alta,8.0,MAESTRO, avanzado ,3-4 VECES/SEMANA,recreativa,39.0,16.0,10.0,5.0,4.0,1.0,21.69,78.5,92.2,111.0,24.6,50.0
+22162.0, Tango ,  Argentina,latina,Alta,39.0,Intermedio,Experto,5-6 veces/semana, Profesional ,14.0,-25.0,9.0,3.0,4.0,2.0,4.07,71.3,95.2,,23.7,155.0
+22163.0,Danza Contemporánea Europea, Alemania ,Contemporanea ,Alta,14.0, intermedio , Básico , ocasional ,UNIVERSITARIA,29.0,12.0,10.0,5.0,4.0,0.0,,93.0,75.1,154.0,16.9,250.0
+22164.0, Vals ,AUSTRIA, Salon ,Media,15.0,PROFESIONAL,EXPERTO,1-2 VECES/SEMANA,Recreativa,35.0,9.0,5.0,1.0,4.0,2.0,9.47,77.1,78.6,132.0,,149.0
+22165.0,DANZA ARABE,EGIPTO,  Folklorica,Alta,19.0,Avanzado,experto, 3-4 veces/semana ,Recreativa,9.0,-10.0,7.0,7.0,0.0,3.0,74.98,45.5,67.1,154.0,15.1,153.0
+22166.0, Ballet Ruso ,RUSIA, Clasica ,Muy Alta,8.0,PROFESIONAL,BASICO,DIARIA,profesional,-5.0,18.0,14.0,2.0,1.0,1.0,26.4,58.2,92.1,198.0,21.1,167.0
+22167.0,danza contemporanea europea,alemania,Contemporanea,Alta,15.0,Avanzado,BASICO,1-2 veces/semana,universitaria,52.0,19.0,7.0,4.0,4.0,0.0,15.24,72.2,86.0,171.0,26.7,156.0
+22168.0,flamenco,España, Latina ,Alta,16.0,Principiante,avanzado, Diaria , Independiente ,13.0,-3.0,11.0,6.0,1.0,1.0,38.21,79.6,101.3,116.0,18.2,170.0
+22169.0, Danza Moderna ,  Estados Unidos,CONTEMPORANEA,Alta,15.0,PROFESIONAL,Básico, 5-6 veces/semana ,Recreativa,35.0,7.0,10.0,7.0,4.0,2.0,129.34,74.2,67.5,147.0,18.5,165.0
+22170.0,Ballet Inglés,reino unido, Clasica ,Muy Alta,8.0,avanzado,BASICO,1-2 veces/semana, Independiente ,35.0,9.0,7.0,9.0,1.0,0.0,39.82,93.3,,126.0,23.3,145.0
+22171.0,CHA CHA CHA,CUBA,SALON,Media,40.0,maestro,Básico,OCASIONAL,INDEPENDIENTE,80.0,6.0,4.0,4.0,2.0,0.0,111.15,45.7,80.8,138.0,16.4,172.0
+22172.0,merengue,Republica Dominicana,LATINA,Baja,26.0,intermedio, intermedio ,1-2 veces/semana,Profesional,51.0,14.0,7.0,1.0,2.0,0.0,10.73,77.2,,138.0,19.1,173.0
+22173.0,salsa,  Cuba,  Latina,Media,29.0,PRINCIPIANTE,avanzado,Ocasional,PROFESIONAL,27.0,-2.0,12.0,4.0,1.0,1.0,118.54,47.7,75.4,136.0,22.8,155.0
+22174.0,Folclor Venezolano,Venezuela ,Folklorica,Media,17.0,PROFESIONAL, avanzado ,DIARIA,Profesional,37.0,11.0,8.0,6.0,4.0,3.0,21.63,86.4,67.5,112.0,19.1,169.0
+22175.0,Folclor Venezolano,  Venezuela,folklorica,Media,7.0, avanzado , experto ,1-2 veces/semana,Universitaria,18.0,5.0,14.0,3.0,7.0,0.0,90.51,73.6,88.6,146.0,20.3,156.0
+22176.0, Danza Moderna ,estados unidos,CONTEMPORANEA,Muy Alta  ,10.0,MAESTRO,Avanzado,3-4 veces/semana,RECREATIVA,35.0,12.0,-20.0,4.0,3.0,2.0,66.74,81.3,86.7,133.0,23.2,166.0
+22177.0, Ballet Inglés ,reino unido, Clasica ,Muy Alta,6.0,avanzado,experto,3-4 VECES/SEMANA,Recreativa,32.0,12.0,200.0,2.0,4.0,1.0,211.77,62.0,67.0,62.0,22.3,152.0
+22178.0,Locking,estados unidos,  Urbana,Media,14.0,profesional, experto , 5-6 veces/semana ,independiente,46.0,-5.0,15.0,6.0,5.0,2.0,,94.2,94.3,212.0,21.8,147.0
+22179.0, Locking ,  Estados Unidos, Urbana ,Media,15.0,Avanzado,Experto,3-4 VECES/SEMANA, Profesional ,40.0,60.0,8.0,8.0,3.0,3.0,5.48,90.6,92.0,,20.0,161.0
+22180.0,salsa, Cuba ,LATINA,Media,26.0,PROFESIONAL, Básico ,5-6 veces/semana,universitaria,8.0,-18.0,15.0,100.0,2.0,1.0,1.55,83.8,79.6,139.0,22.1,164.0
+,,,,media,,,,,,,,,,,,,,,,,
