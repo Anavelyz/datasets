@@ -1,0 +1,181 @@
+﻿ID_Usuario,Anime_Favorito,Estudio,Genero,Anio_Lanzamiento,Temporadas,Nivel_Satisfaccion,Frecuencia_Visualizacion,Calidad_Video,Tipo_Suscripcion,Edad_Usuario,Episodios_Vistos,Animes_Vistos_Anio,Horas_Semanal_Anime,Peliculas_Anime_Vistas,Merchandising_Comprado,Gasto_Mensual_USD,Puntuacion_Anime,Tiempo_Total_Horas,Velocidad_Reproduccion
+23001,Konosuba,  Studio Deen,Isekai ,2016,2,insatisfecho,DIARIA,720p,gratis,41,51.0,22,11.0,8,6,16.06,7.0,103.0,1.0
+23002,Naruto,PIERROT, Shonen ,2002,9, insatisfecho , ocasional , 1080p ,ESTUDIANTE,27,58.0,12,8.0,7,1,31.5,,431.8,1.25
+23003,Fullmetal Alchemist, Bones , Shonen ,2003,2,muy insatisfecho, mensual ,1080p,GRATIS,20,43.0,18,9.0,5,2,7.9,7.4,451.8,1.0
+23004, Death Note ,Madhouse ,Shonen,2006,1, satisfecho ,ocasional,480p, estudiante ,33,52.0,11,9.0,4,4,5.65,8.5,479.8,1.5
+23005,COWBOY BEBOP,Sunrise ,CIENCIA FICCIÓN,1998,1, insatisfecho ,MENSUAL,4K,Premium,31,,15,12.0,6,2,9.42,9.2,75.3,1.0
+23006,That Time I Got Reincarnated as a Slime,8bit,ISEKAI,2018,2, insatisfecho ,MENSUAL,1080p,Gratis,35,42.0,13,5.0,8,1,6.91,6.2,234.9,1.0
+23007,slam dunk, Toei Animation , Deportes ,1993,5,INSATISFECHO, Diaria , 480p ,estudiante,23,48.0,18,8.0,4,4,6.05,5.1,63.4,1.5
+23008,one piece,Toei Animation , Shonen ,1999,20,Muy Satisfecho,semanal,720p,Gratis,23,,12,7.0,3,4,13.83,5.4,42.3,1.25
+23009,monster,madhouse,Seinen ,2004,1,MUY SATISFECHO,MENSUAL,1080P,gratis,36,60.0,21,9.0,2,1,59.61,6.5,40.8,1.5
+23010,naruto ,PIERROT,  Shonen,2002,9,neutral,ocasional,480p,premium,48,,15,12.0,3,4,17.68,,83.7,1.0
+23011, Demon Slayer ,ufotable,  Shonen,2019,3, satisfecho , ocasional ,480P,estudiante,36,51.0,14,5.0,9,3,5.2,6.0,112.4,1.5
+23012,ouran high school host club,  Bones,Shojo ,2006,1,Insatisfecho,mensual,4k,Estudiante,15,44.0,12,10.0,5,1,2.0,4.9,355.5,1.0
+23013, Naruto , Pierrot ,Shonen ,2002,9, satisfecho ,Ocasional,720p, Premium ,34,53.0,13,11.0,4,2,29.78,6.6,25.5,1.5
+23014,demon slayer,ufotable,shonen,2019,3,neutral,diaria,720P,PREMIUM,14,47.0,13,10.0,7,1,12.06,7.9,265.5,2.0
+23015,KONOSUBA,Studio Deen , Isekai ,2016,2,MUY INSATISFECHO,OCASIONAL,720p,ESTUDIANTE,36,,13,6.0,8,2,43.13,8.7,151.6,2.0
+23016, Cardcaptor Sakura ,Madhouse ,shojo,1998,3, Neutral,DIARIA, 480p , gratis ,42,38.0,21,7.0,4,2,5000.0,6.4,67.9,1.5
+23017,death note,  Madhouse,SHONEN,2006,1, insatisfecho ,MENSUAL,480p, Premium ,14,61.0,17,8.0,4,3,39.77,6.7,135.8,1.25
+23018,Sword Art Online,  A-1 Pictures, Isekai ,2012,4,muy insatisfecho,Mensual,720p,premium,33,53.0,15,6.0,8,4,7.93,5.6,71.3,1.0
+23019, Ghost in the Shell ,  Production I.G, Ciencia Ficción ,2002,2,Muy Insatisfecho,MENSUAL,480p,gratis,45,42.0,15,7.0,5,4,29.47,7.4,181.3,2.0
+23020,naruto ,  Pierrot,Shonen,2002,9, Neutral, Diaria , 4K ,Estudiante,24,54.0,18,10.0,5,0,7.67,5.8,113.8,1.25
+23021,  Naruto  ,  Production I.G, Ciencia Ficción ,2002,2,insatisfecho,Ocasional,480p,gratis,34,44.0,10,11.0,6,3,69.95,8.6,35.9,1.0
+23022,Steins Gate,white fox,CIENCIA FICCIÓN,2011,1,muy insatisfecho,Diaria,480P,premium,37,44.0,13,14.0,7,0,25.29,3.9,24.8,2.0
+23023,Tokyo Ghoul,PIERROT,  Seinen,2014,4,NEUTRAL,OCASIONAL, 1080p ,Gratis,39,55.0,16,17.0,2,3,9.81,6.8,158.2,2.0
+23024,Attack on Titan, Wit Studio ,  Shonen,2013,4, Neutral,ocasional,4K,estudiante,40,58.0,12,13.0,1,1,7.85,8.1,465.4,1.5
+23025,gintama,Sunrise, Comedia ,2006,8,INSATISFECHO,diaria,1080P, Premium ,28,51.0,10,10.0,7,4,5.3,7.9,84.3,1.0
+23026,ONE PIECE,  Pierrot,  Seinen,2014,4,Neutral,SEMANAL,720p,GRATIS,27,47.0,10,9.0,5,5,29.66,12.9,264.1,1.25
+23027, One Piece ,TOEI ANIMATION,shonen,1999,20,neutral, mensual , 720p ,Estudiante,15,48.0,12,7.0,4,1,6.17,8.2,215.0,1.25
+23028, Dragon Ball Z ,Toei Animation , Shonen ,1989,9,Neutral, ocasional ,4K,estudiante,49,53.0,21,10.0,4,3,22.62,5.5,536.3,1.25
+23029, Kuroko no Basket ,PRODUCTION I.G,deportes,2012,3, satisfecho ,OCASIONAL, 480p ,estudiante,19,50.0,15,7.0,3,3,7.68,7.3,344.1,1.0
+23030,re zero,  White Fox,Isekai ,2016,2, Muy Satisfecho ,diaria,1080P,ESTUDIANTE,33,50.0,12,10.0,8,3,27.12,,167.2,1.25
+23031, Ghost in the Shell ,Production I.G,Ciencia Ficción ,2002,2,SATISFECHO,SEMANAL,4K,ESTUDIANTE,21,55.0,16,11.0,7,2,-100.0,7.3,214.0,1.25
+23032,Cowboy Bebop,  Sunrise,Ciencia Ficción,1998,1,NEUTRAL,Mensual,1080p,Estudiante,30,47.0,12,,1,3,37.63,5.8,457.3,1.25
+23033,cardcaptor sakura,MADHOUSE, Shojo ,1998,3, Muy Satisfecho ,Semanal,480p,Premium,16,63.0,11,11.0,2,3,,9.3,102.0,1.5
+23034, The Disastrous Life of Saiki K ,J.C.Staff ,Comedia ,2016,2,muy insatisfecho,mensual, 1080p ,estudiante,37,59.0,14,11.0,4,4,5.2,6.4,79.1,1.5
+23035,Vinland Saga,WIT STUDIO,Seinen ,2019,2,satisfecho,OCASIONAL,4K,ESTUDIANTE,26,48.0,12,14.0,6,3,2.31,7.3,2.2,1.0
+23036, Cardcaptor Sakura ,  Madhouse,  Shojo,1998,3,SATISFECHO, ocasional , 480p , estudiante ,21,46.0,16,12.0,4,1,30.01,6.2,350.4,1.0
+23037,HAIKYUU, Production I.G ,Deportes,2014,4,SATISFECHO, Diaria ,480p,Gratis,38,51.0,16,13.0,6,2,11.49,11.0,322.9,1.25
+23038, Re Zero ,WHITE FOX,Isekai,2016,2, insatisfecho ,Diaria,4K,Premium,14,54.0,15,6.0,8,4,14.16,6.9,22.1,1.5
+23039,KUROKO NO BASKET, Production I.G ,  Deportes,2012,3,Neutral, semanal , 480p ,PREMIUM,32,39.0,7,12.0,7,1,0.79,11.2,172.0,2.0
+23040, Sword Art Online ,  A-1 Pictures, Isekai ,2012,4,MUY INSATISFECHO,semanal, 1080p ,Gratis,40,50.0,10,10.0,5,4,7.51,9.1,,2.0
+23041, Steins Gate ,Pierrot   ,ciencia ficción,2011,1,Muy Insatisfecho,mensual, 720p , estudiante ,19,55.0,19,8.0,2,2,0.86,8.5,,1.25
+23042,naruto shippuden,Pierrot , Shonen ,2007,21, Muy Insatisfecho ,Diaria, 4K ,Gratis,20,54.0,17,7.0,1,1,52.84,8.2,788.2,1.25
+23043,death note,madhouse,shonen,2006,1,neutral,ocasional,1080p,gratis,47,45.0,16,10.0,7,5,6.97,8.3,48.3,1.5
+23044,HUNTER X HUNTER,madhouse,Shonen,2011,1, Muy Satisfecho ,DIARIA,480P,gratis,26,62.0,14,8.0,4,6,20.37,3.6,13.9,1.5
+23045,one piece, Toei Animation ,SHONEN,1999,20,SATISFECHO, semanal , 720p ,Premium,29,50.0,22,16.0,1,1,0.99,6.9,180.7,1.5
+23046,Death Note,  Madhouse, Shonen ,2006,1,neutral, Diaria ,1080P,PREMIUM,48,53.0,25,16.0,6,7,27.48,15.0,268.5,1.0
+23047,Dragon Ball Z, Toei Animation ,SHONEN,1989,9, satisfecho ,OCASIONAL,4K,PREMIUM,16,46.0,11,,5,4,9.75,7.4,6.6,1.0
+23048,FULLMETAL ALCHEMIST,  Bones,shonen,2003,2, Neutral, Diaria ,480p,estudiante,14,39.0,18,12.0,8,3,57.05,4.7,215.0,1.25
+23049,Konosuba,  Studio Deen, Isekai ,2016,2,satisfecho,Semanal,4k,ESTUDIANTE,18,51.0,19,11.0,5,3,54.76,7.4,152.0,1.0
+23050,Berserk,gemba,SEINEN,2016,2,neutral, ocasional , 1080p ,GRATIS,16,52.0,19,11.0,4,0,9.84,10.9,21.8,1.5
+23051, Berserk ,toei animation,SEINEN,2016,2,Muy Satisfecho,mensual,720p,premium,41,47.0,10,6.0,10,3,57.81,10.0,37.9,1.5
+23052,demon slayer,ufotable , Shonen ,2019,3,muy insatisfecho,Mensual,1080p,PREMIUM,30,50.0,19,8.0,7,3,139.04,7.4,167.9,1.0
+23053,Fullmetal Alchemist,BONES,SHONEN,2003,2,Satisfecho,ocasional,1080p, estudiante ,38,44.0,15,9.0,4,1,43.63,9.4,70.3,2.0
+23054,One Punch Man, Madhouse , Comedia ,2015,2,Neutral, ocasional ,480p,ESTUDIANTE,46,38.0,20,9.0,8,0,46.59,6.8,557.1,1.25
+23055,konosuba,Studio Deen ,ISEKAI,2016,2,muy satisfecho, ocasional , 4K ,Premium,22,51.0,19,13.0,5,2,7.16,4.1,341.6,2.0
+23056,Re Zero,White Fox,Isekai,2016,2,muy satisfecho, semanal , 1080p ,premium,48,53.0,13,7.0,5,4,21.49,5.7,821.7,1.25
+23057,My Hero Academia,BONES, Shonen ,2016,6,muy insatisfecho,OCASIONAL, 1080p , estudiante ,26,46.0,13,12.0,5,6,1.74,10.6,60.1,2.0
+23058,cowboy bebop,SUNRISE,Ciencia Ficción,1998,1,neutral,Semanal, 720p ,Estudiante,43,45.0,15,6.0,2,3,2.49,7.0,699.5,1.0
+23059, My Hero Academia ,bones,  Shonen,2016,6,Satisfecho,Ocasional,720p, Premium ,27,38.0,21,16.0,3,3,170.14,7.0,112.9,1.25
+23060,Vinland Saga, Wit Studio ,Seinen ,2019,2, insatisfecho ,SEMANAL,4K,GRATIS,20,54.0,15,11.0,4,2,9.89,6.9,85.4,1.25
+23061,the disastrous life of saiki k,J.C.Staff ,Comedia,2016,2, Muy Satisfecho ,Semanal,4K,GRATIS,26,42.0,16,9.0,9,1,,-5.0,10.3,1.25
+23062,Konosuba,Studio Deen ,ISEKAI,2016,2,Muy Satisfecho,DIARIA, 480p , gratis ,35,44.0,23,7.0,0,0,41.08,10.8,10.8,1.5
+23063,Cardcaptor Sakura,  Madhouse,shojo,1998,3,MUY INSATISFECHO,Mensual,4k,gratis,33,55.0,13,9.0,5,2,48.8,11.9,,1.5
+23064, That Time I Got Reincarnated as a Slime ,8BIT,  Isekai,2018,2,neutral,ocasional,720p,PREMIUM,28,55.0,19,7.0,5,6,151.1,7.2,122.5,2.0
+23065,HAIKYUU, Production I.G ,Deportes,2014,4, insatisfecho ,MENSUAL,4k,gratis,30,52.0,15,11.0,5,6,6.91,8.1,51.4,1.0
+23066,NEON GENESIS EVANGELION, Gainax ,  Shonen,1995,1, insatisfecho ,Mensual, 1080p ,Gratis,36,44.0,19,11.0,5,3,1.03,,190.4,1.5
+23067,death note, Madhouse ,Shonen,2006,1,INSATISFECHO,Diaria, 4K , estudiante ,38,56.0,13,10.0,4,3,13.24,10.5,58.3,1.25
+23068,NARUTO SHIPPUDEN,  Pierrot,Shonen,2007,21,NEUTRAL,mensual,4k,gratis,37,40.0,18,6.0,9,2,3.48,,172.4,1.5
+23069,tokyo ghoul,pierrot,seinen,2014,4,satisfecho,mensual,480p,estudiante,41,54.0,16,9.0,6,5,0.57,7.9,89.0,1.0
+23070,FULLMETAL ALCHEMIST,Bones ,shonen,2003,2,muy satisfecho, ocasional ,1080p,estudiante,27,39.0,20,10.0,2,3,11.17,5.3,346.9,1.5
+23071, Demon Slayer , ufotable ,SHONEN,2019,3,Neutral,Semanal, 480p ,premium,13,49.0,19,11.0,6,2,38.28,6.3,343.7,1.25
+23072,gintama,  Sunrise,Comedia ,2006,8, insatisfecho ,OCASIONAL,720P,Premium,37,49.0,20,13.0,6,2,20.88,5.8,129.8,2.0
+23073,SLAM DUNK,toei animation,deportes,1993,5, Muy Satisfecho , ocasional ,4K,PREMIUM,19,,14,9.0,6,2,9.38,6.3,86.4,1.25
+23074, Tokyo Ghoul ,  Pierrot,seinen,2014,4,MUY SATISFECHO, mensual ,4K,PREMIUM,21,33.0,10,4.0,5,3,26.56,6.4,90.1,1.0
+23075,KONOSUBA,Studio Deen,isekai,2016,2,Insatisfecho,MENSUAL, 720p ,estudiante,36,53.0,18,10.0,2,1,6.6,6.4,327.7,2.0
+23076,Vinland Saga,WIT STUDIO, Seinen ,2019,2, insatisfecho ,Ocasional, 480p ,Premium,13,59.0,17,8.0,5,6,0.36,9.2,50000.0,1.5
+23077,One Punch Man,Madhouse ,  Comedia,2015,2,MUY SATISFECHO,OCASIONAL, 1080p ,ESTUDIANTE,20,42.0,15,5.0,3,4,36.14,5.3,46.9,1.5
+23078, Sailor Moon ,  Toei Animation,Shojo,1992,5,MUY INSATISFECHO,MENSUAL, 480p ,premium,36,53.0,13,10.0,3,6,24.44,7.9,17.7,1.5
+23079,Fullmetal Alchemist,  Bones,Shonen ,2003,2,muy satisfecho,SEMANAL, 480p ,Gratis,23,51.0,21,12.0,3,2,35.92,9.9,125.7,2.0
+23080,Death Note,Madhouse ,shonen,2006,1,Satisfecho, semanal ,1080p, gratis ,29,53.0,14,10.0,6,5,0.99,6.5,131.6,1.25
+23081,cardcaptor sakura,MADHOUSE, Shojo ,1998,3,Satisfecho,Ocasional,4K,ESTUDIANTE,20,51.0,23,8.0,6,2,45.37,6.1,367.7,2.0
+23082,FULLMETAL ALCHEMIST,Bones,  Shonen,2003,2,MUY INSATISFECHO, semanal ,480p,GRATIS,47,48.0,16,4.0,4,3,24.16,7.0,50.0,2.0
+23083,sword art online,a-1 pictures,ISEKAI,2012,4,neutral,ocasional,720P, gratis ,47,61.0,16,6.0,5,6,20.72,9.9,95.9,1.0
+23084,SLAM DUNK,  Toei Animation,DEPORTES,1993,5,MUY SATISFECHO,diaria, 1080p ,estudiante,45,37.0,16,7.0,5,6,24.5,7.9,,2.0
+23085,Vinland Saga,WIT STUDIO,seinen,2019,2, satisfecho ,MENSUAL,4K, gratis ,17,,22,5.0,7,5,49.96,6.4,,1.5
+23086,death note,madhouse,Shonen ,2006,1,Muy Satisfecho  , ocasional ,1080P,GRATIS,40,46.0,10,,5,4,22.1,8.5,97.1,1.25
+23087,THE DISASTROUS LIFE OF SAIKI K,j.c.staff,Comedia ,2016,2,muy insatisfecho,Ocasional,720P,Gratis,19,45.0,16,16.0,3,3,21.74,5.3,122.9,1.25
+23088,OURAN HIGH SCHOOL HOST CLUB,bones,  Shojo,2006,1,insatisfecho,Ocasional,1080p, Premium ,21,54.0,22,10.0,4,1,116.89,8.9,72.3,1.25
+23089,one piece,Toei Animation,  Shonen,1999,20, Muy Insatisfecho ,Semanal,1080p,Estudiante,20,60.0,19,14.0,7,4,35.34,8.3,539.3,1.5
+23090, Naruto Shippuden ,Pierrot,Shonen,2007,21, Muy Insatisfecho , ocasional ,480P,premium,24,,15,13.0,5,3,14.6,6.9,25.3,1.5
+23091,DRAGON BALL Z,toei animation,shonen,1989,9, Muy Insatisfecho ,diaria, 720p ,gratis,46,42.0,14,,7,4,30.72,5.8,-100.0,1.5
+23092,Konosuba, Studio Deen ,ISEKAI,2016,2, satisfecho ,Semanal,720p,GRATIS,45,48.0,13,15.0,8,2,12.33,5.7,230.3,1.5
+23093,GHOST IN THE SHELL,Production I.G ,Ciencia Ficción,2002,2,Muy Insatisfecho,MENSUAL,720P,premium,35,56.0,14,13.0,7,2,6.5,8.6,151.7,1.5
+23094,Monster,Madhouse,Seinen ,2004,1,Insatisfecho, Diaria ,1080P,Gratis,36,63.0,22,11.0,5,4,22.71,10.0,6.6,2.0
+23095,one piece, Toei Animation ,Shonen,1999,20,INSATISFECHO,OCASIONAL,720P,ESTUDIANTE,49,,13,12.0,8,4,65.84,6.2,129.1,1.5
+23096,VINLAND SAGA, Wit Studio ,SEINEN,2019,2,satisfecho, Diaria ,720P,ESTUDIANTE,47,56.0,14,4.0,4,1,66.18,8.4,104.8,1.5
+23097,The Disastrous Life of Saiki K,  J.C.Staff,Comedia ,2016,2,neutral,OCASIONAL, 720p ,estudiante,34,61.0,14,8.0,6,2,10.46,3.3,35.2,1.5
+23098,Ouran High School Host Club,Bones ,  Shojo,2006,1,MUY INSATISFECHO,Diaria,480P, gratis ,39,58.0,11,13.0,8,4,18.75,6.3,213.7,1.5
+23099,the disastrous life of saiki k,j.c.staff, Comedia ,2016,2,insatisfecho,Semanal,720p,Estudiante,47,60.0,14,10.0,6,2,5.94,7.4,709.1,1.25
+23100,KUROKO NO BASKET,  Production I.G, Deportes ,2012,3,neutral,ocasional,1080p,ESTUDIANTE,13,39.0,13,12.0,3,3,135.83,5.7,165.2,1.5
+23101,NARUTO,  Pierrot,  Shonen,2002,9,MUY INSATISFECHO,Semanal,480p,Gratis,47,51.0,16,11.0,8,5,99.24,5.6,250.9,2.0
+23102,cowboy bebop, Sunrise ,ciencia ficción,1998,1, Muy Insatisfecho ,DIARIA,720p,Premium,49,49.0,17,12.0,4,2,26.21,6.2,14.2,2.0
+23103,THAT TIME I GOT REINCARNATED AS A SLIME, 8bit ,Isekai,2018,2,muy satisfecho, ocasional ,720p, Premium ,26,46.0,25,10.0,7,2,40.79,8.1,108.1,2.0
+23104,cardcaptor sakura, Madhouse ,Shojo ,1998,3, Muy Insatisfecho ,Mensual,480p,GRATIS,15,56.0,14,12.0,2,2,,7.1,24.7,1.0
+23105,FULLMETAL ALCHEMIST,bones,  Shonen,2003,2, Muy Satisfecho ,MENSUAL,720p,estudiante,13,57.0,16,9.0,10,2,22.48,3.0,189.8,1.25
+23106, Konosuba ,studio deen,  Isekai,2016,2,SATISFECHO,Ocasional, 1080p ,Premium,17,5000.0,18,11.0,6,4,1.37,3.3,557.7,1.5
+23107,DRAGON BALL Z,  Toei Animation,shonen,1989,9,SATISFECHO,DIARIA,1080p,Premium,38,51.0,21,12.0,4,2,15.16,6.3,216.8,1.0
+23108,Monster,  Madhouse,Seinen,2004,1,Neutral,MENSUAL,720p, Premium ,26,60.0,11,9.0,5,2,28.08,8.4,16.0,1.5
+23109,Sailor Moon,Toei Animation,  Shojo,1992,5,MUY SATISFECHO,Ocasional,1080p,Gratis,39,40.0,15,7.0,6,3,28.29,2.0,87.6,1.0
+23110, Gintama ,Sunrise,COMEDIA,2006,8,satisfecho,MENSUAL, 480p , Premium ,21,56.0,8,11.0,4,2,,6.5,160.0,1.0
+23111,SLAM DUNK, Toei Animation ,  Deportes,1993,5, satisfecho ,  Diaria  , 720p ,PREMIUM,27,39.0,14,6.0,5,2,71.05,6.4,103.2,2.0
+23112,Fullmetal Alchemist,bones,Shonen ,2003,2,satisfecho,diaria,480P,Gratis,27,54.0,14,,6,2,4.58,10.3,358.7,2.0
+23113,Ouran High School Host Club,bones,Shojo,2006,1,muy insatisfecho,DIARIA,1080p,Gratis,38,57.0,16,7.0,3,5,17.35,6.7,337.1,1.0
+23114,MY HERO ACADEMIA,  Bones,Shonen ,2016,6,MUY SATISFECHO, semanal ,720p,gratis,25,38.0,11,10.0,7,4,29.35,8.3,189.3,2.0
+23115,one punch man,Madhouse ,Comedia,2015,2,satisfecho,mensual,480p,premium,44,47.0,23,14.0,7,4,29.86,7.8,93.5,1.0
+23116,KUROKO NO BASKET, Production I.G ,DEPORTES,2012,3,Muy Satisfecho,semanal,1080p,Premium,44,56.0,12,10.0,8,4,26.15,3.2,59.0,1.25
+23117,hunter x hunter,Madhouse,Shonen ,2011,1,insatisfecho,DIARIA,720p, gratis ,16,38.0,14,11.0,4,4,,9.0,22.4,2.0
+23118, Konosuba ,Studio Deen , Isekai ,2016,2,INSATISFECHO,ocasional,4k, estudiante ,42,51.0,10,,7,4,4.25,7.9,87.7,2.0
+23119, Re Zero ,white fox,  Isekai,2016,2, Muy Insatisfecho , Diaria , 1080p ,GRATIS,49,61.0,17,,3,0,25.26,,106.6,2.0
+23120,Attack on Titan,Wit Studio,SHONEN,2013,4, insatisfecho , Diaria ,1080P,PREMIUM,35,50.0,11,9.0,4,1,22.86,15.4,225.3,1.25
+23121,Neon Genesis Evangelion, Gainax ,Ciencia Ficción,1995,1,neutral,OCASIONAL, 4K ,PREMIUM,27,-50.0,17,4.0,4,4,4.94,3.3,214.7,1.0
+23122,Cardcaptor Sakura,madhouse,Shojo ,1998,3,muy satisfecho,semanal,4K,GRATIS,41,40.0,11,10.0,0,1,30.53,10.9,14.5,1.5
+23123,neon genesis evangelion, Gainax ,  Ciencia Ficción,1995,1, satisfecho ,mensual, 480p ,Estudiante,48,53.0,12,13.0,1,4,15.18,6.9,100.6,2.0
+23124,Ouran High School Host Club,  Bones,SHOJO,2006,1,neutral,Diaria, 1080p , estudiante ,25,47.0,12,7.0,1,1,27.55,8.1,40.1,1.0
+23125,NARUTO,Pierrot ,Shonen,2002,9,neutral,diaria,4K, Premium ,44,59.0,14,12.0,7,2,45.41,,34.1,1.25
+23126,tokyo ghoul,Pierrot , Seinen ,2014,4,INSATISFECHO,MENSUAL, 720p ,Estudiante,19,69.0,11,6.0,5,2,4.65,6.7,351.2,1.5
+23127, Naruto ,Pierrot , Shonen ,2002,9,MUY SATISFECHO,diaria,1080p,Estudiante,34,72.0,21,12.0,5,1,0.48,6.4,8.6,2.0
+23128,one punch man,MADHOUSE,Comedia,2015,2, satisfecho ,mensual,480p,ESTUDIANTE,40,60.0,8,10.0,8,4,37.75,8.2,108.7,1.25
+23129,Slam Dunk, Toei Animation , Deportes ,1993,5,Neutral, mensual ,4K,gratis,14,50.0,16,,3,7,23.52,4.5,36.8,1.25
+23130,HAIKYUU,Production I.G ,DEPORTES,2014,4,MUY INSATISFECHO, mensual ,1080p,premium,18,54.0,13,14.0,5,3,30.07,9.0,422.9,1.5
+23131,HUNTER X HUNTER,  Madhouse,  Shonen,2011,1,SATISFECHO,ocasional,1080p  ,GRATIS,40,53.0,14,5.0,3,4,45.53,6.7,,1.0
+23132,Naruto Shippuden,Pierrot , Shonen ,2007,21,insatisfecho,Semanal, 4K , estudiante ,40,61.0,12,16.0,5,5,40.59,5.2,52.6,2.0
+23133,SLAM DUNK, Toei Animation ,  Deportes,1993,5, Muy Satisfecho , semanal ,4K,Premium,32,60.0,14,6.0,1,3,81.05,6.6,139.6,2.0
+23134,gintama,Sunrise ,comedia,2006,8,muy insatisfecho,ocasional,4k,GRATIS,42,52.0,14,16.0,7,2,19.19,10.0,263.0,1.0
+23135,one piece, Toei Animation , Shonen ,1999,20, satisfecho ,semanal, 1080p ,Premium,23,43.0,23,10.0,2,3,16.76,,634.6,1.0
+23136,Fruits Basket,tms entertainment,shojo,2019,3,Satisfecho,semanal, 4K , gratis ,40,47.0,15,200.0,4,2,12.85,8.2,,1.0
+23137,ONE PIECE,  Toei Animation,  Shonen,1999,20,Neutral,semanal,4K,premium,37,51.0,19,17.0,6,2,4.17,6.0,434.6,1.5
+23138, Neon Genesis Evangelion , Gainax ,Ciencia Ficción ,1995,1,Satisfecho,DIARIA,1080P,gratis,45,57.0,15,14.0,7,4,21.25,9.0,544.5,1.5
+23139,neon genesis evangelion, Gainax ,  Ciencia Ficción,1995,1,MUY SATISFECHO,Ocasional,1080P,estudiante,13,55.0,12,10.0,9,1,8.11,8.9,496.4,2.0
+23140,attack on titan,WIT STUDIO,SHONEN,2013,4,muy satisfecho, semanal ,480P,GRATIS,39,48.0,15,12.0,4,5,,11.2,201.8,1.5
+23141,fruits basket,tms entertainment,Shojo ,2019,3,satisfecho, ocasional ,4k,estudiante,25,59.0,12,12.0,1,2,21.88,7.1,198.8,1.25
+23142,cardcaptor sakura,  Madhouse,Shojo ,1998,3,neutral,Semanal,1080P,GRATIS,15,41.0,21,5.0,4,3,22.46,8.8,103.2,2.0
+23143, Fullmetal Alchemist ,BONES, Shonen ,2003,2, Muy Insatisfecho , semanal ,720p, estudiante ,18,49.0,16,9.0,6,6,10.96,7.7,279.2,1.5
+23144,Kuroko no Basket,Production I.G , Deportes ,2012,3,MUY INSATISFECHO,OCASIONAL,480p,ESTUDIANTE,20,45.0,16,12.0,3,3,1.33,10.1,151.6,1.0
+23145,monster, Madhouse , Seinen ,2004,1,neutral,Mensual,480P,GRATIS,39,59.0,19,,4,3,0.81,6.1,226.3,1.25
+23146,DEMON SLAYER,  ufotable,  Shonen,2019,3,INSATISFECHO,OCASIONAL,4K,Gratis,21,51.0,16,16.0,2,7,13.76,9.0,111.9,1.0
+23147, Cardcaptor Sakura ,madhouse,Shojo ,1998,3, Muy Satisfecho ,Mensual,480p,premium,49,44.0,17,12.0,6,3,2.21,7.1,263.0,2.0
+23148,cowboy bebop,SUNRISE,CIENCIA FICCIÓN,1998,1,INSATISFECHO,Diaria,4K,GRATIS,45,52.0,21,12.0,8,1,23.34,7.4,348.0,1.0
+23149,DEMON SLAYER, ufotable ,SHONEN,2019,3,neutral,OCASIONAL,4k,Premium,36,54.0,14,11.0,7,0,53.21,7.7,31.7,1.5
+23150,hunter x hunter,Madhouse,shonen,2011,1,Insatisfecho,mensual, 1080p ,gratis,27,47.0,6,9.0,2,3,53.62,8.0,,1.5
+23151,The Disastrous Life of Saiki K,  J.C.Staff,Comedia,2016,2,Neutral,semanal, 1080p ,PREMIUM,44,54.0,18,-20.0,6,1,26.9,7.3,155.4,2.0
+23152, Konosuba ,STUDIO DEEN,ISEKAI,2016,2,Muy Insatisfecho,DIARIA,720P,estudiante,44,56.0,16,9.0,9,2,5.93,7.9,372.4,1.0
+23153,Sailor Moon,toei animation, Shojo ,1992,5,muy insatisfecho,OCASIONAL,4k, gratis ,36,59.0,14,9.0,3,1,49.69,10.7,112.9,2.0
+23154, Ouran High School Host Club ,BONES,shojo,2006,1, insatisfecho , mensual ,4K, estudiante ,24,51.0,13,6.0,8,3,54.31,9.5,95.3,1.0
+23155,dragon ball z,TOEI ANIMATION, Shonen ,1989,9,INSATISFECHO,mensual, 720p ,gratis,14,48.0,12,9.0,7,1,5.47,9.2,493.2,1.25
+23156,death note,MADHOUSE,Shonen ,2006,1,MUY SATISFECHO,ocasional,4k,  Premium  ,15,52.0,15,12.0,6,2,33.43,6.6,57.8,1.5
+23157, Tokyo Ghoul ,Pierrot ,Seinen ,2014,4, Muy Insatisfecho ,Mensual,480P,GRATIS,49,43.0,22,9.0,10,4,8.44,5.7,371.9,2.0
+23158,SWORD ART ONLINE,A-1 Pictures,  Isekai,2012,4,muy satisfecho,OCASIONAL,4K,premium,29,52.0,11,9.0,5,3,40.57,9.4,132.3,1.25
+23159,DEATH NOTE,madhouse, Shonen ,2006,1,insatisfecho,mensual,4K, Premium ,14,49.0,12,12.0,5,4,147.29,9.3,144.3,1.25
+23160,death note,madhouse,SHONEN,2006,1,NEUTRAL,SEMANAL,4k,GRATIS,14,47.0,16,10.0,5,2,,10.4,73.8,2.0
+23161,one piece,toei animation,Shonen,1999,20, Muy Insatisfecho ,Ocasional, 1080p ,gratis,40,56.0,18,14.0,5,2,56.91,6.3,170.2,2.0
+23162,Konosuba, Studio Deen , Isekai ,2016,2,Neutral, ocasional ,480P,GRATIS,35,52.0,15,10.0,4,3,24.36,7.0,78.7,1.25
+23163,death note,  Madhouse,SHONEN,2006,1,Muy Satisfecho, Diaria ,4k,Estudiante,49,66.0,14,8.0,10,1,90.65,4.2,8.0,1.0
+23164, Slam Dunk ,toei animation,deportes,1993,5,MUY SATISFECHO, semanal ,480P,premium,44,63.0,17,9.0,3,2,15.64,6.7,63.5,1.25
+23165,KUROKO NO BASKET,  Production I.G, Deportes ,2012,3, satisfecho ,Ocasional,480p,GRATIS,45,45.0,16,10.0,2,4,47.0,9.5,1.3,2.0
+23166,ONE PIECE,toei animation,shonen,1999,20,MUY INSATISFECHO, mensual , 480p ,Gratis,-5,46.0,14,15.0,6,6,1.61,6.6,766.6,1.25
+23167,Death Note,Madhouse,SHONEN,2006,1,MUY INSATISFECHO,mensual,720p, estudiante ,31,44.0,15,16.0,4,4,10.21,8.8,674.8,1.0
+23168,THAT TIME I GOT REINCARNATED AS A SLIME, 8bit ,ISEKAI,2018,2,Muy Satisfecho,mensual, 4K ,gratis,14,41.0,17,16.0,4,1,1.73,7.1,100.6,1.5
+23169,DEMON SLAYER, ufotable ,SHONEN,2019,3,Neutral,Diaria,1080P, Premium ,38,42.0,20,5.0,8,4,92.57,8.1,260.7,1.5
+23170, Attack on Titan ,WIT STUDIO,SHONEN,2013,4,MUY INSATISFECHO,Ocasional,1080P,gratis,44,53.0,15,7.0,5,4,42.45,5.2,84.9,1.25
+23171,ONE PUNCH MAN,Madhouse ,Comedia ,2015,2,muy satisfecho,Mensual,1080P,PREMIUM,80,47.0,22,8.0,4,1,47.86,7.7,,1.0
+23172,Sword Art Online, A-1 Pictures ,  Isekai,2012,4,satisfecho,Diaria,1080P,premium,44,,15,10.0,7,5,,1.5,327.4,1.5
+23173,Fruits Basket, TMS Entertainment ,SHOJO,2019,3, insatisfecho ,diaria,4k,Estudiante,16,42.0,20,11.0,4,2,2.22,,586.6,1.25
+23174,GHOST IN THE SHELL,Production I.G,Ciencia Ficción ,2002,2,Muy Insatisfecho, ocasional , 1080p ,ESTUDIANTE,23,32.0,19,8.0,2,1,12.18,4.2,102.2,1.25
+23175,ghost in the shell,production i.g,Ciencia Ficción,2002,2,INSATISFECHO,mensual, 480p ,premium,29,45.0,16,6.0,2,4,1.84,9.9,305.8,1.0
+23176,DEMON SLAYER, ufotable ,Shonen ,2019,3,Neutral, semanal ,720p,Estudiante,36,38.0,10,12.0,3,3,5.92,9.1,61.8,2.0
+23177,Dragon Ball Z, Toei Animation ,shonen,1989,9,satisfecho, mensual ,1080p,Estudiante,17,49.0,17,10.0,3,3,6.51,8.4,927.8,1.25
+23178,Monster,Madhouse ,Seinen,2004,1,MUY INSATISFECHO, semanal ,480P, Premium ,46,47.0,18,5.0,8,6,15.83,10.5,5.2,2.0
+23179, Monster ,  Madhouse,seinen,2004,1,insatisfecho,SEMANAL, 1080p ,gratis,18,54.0,13,10.0,6,4,,5.6,185.0,2.0
+23180,SAILOR MOON,Toei Animation,  Shojo,1992,5, insatisfecho ,Mensual,4k,gratis,34,57.0,19,10.0,0,9,2.66,11.0,215.5,1.5
