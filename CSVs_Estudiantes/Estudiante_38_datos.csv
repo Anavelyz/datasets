@@ -1,0 +1,12 @@
+﻿Observación;Contexto;Accidentes previos;Costo del seguro ($);Edad del asegurado (años)
+1;Seguros;0.0;800.0;30
+2;Seguros;0.0;800.0;72
+3;Seguros;1.0;1100.0;41
+4;Seguros;1.0;1100.0;72
+5;Seguros;2.0;1400.0;48
+6;Seguros;2.0;1400.0;39
+7;Seguros;3.0;1700.0;57
+8;Seguros;3.0;1700.0;35
+9;Seguros;4.0;2000.0;51
+10;Seguros;5.0;2300.0;40
+11;Seguros;10.0;1800.0;56
